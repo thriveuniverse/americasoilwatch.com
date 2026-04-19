@@ -12,7 +12,7 @@ export default function AboutPage() {
         <p>We track WTI crude prices, US petroleum stocks, producer snapshots across 12 Americas countries, and maritime supply route risk. Data comes from the EIA, MARAD, CREA, and editorial research.</p>
         <p>This site is part of the OilWatch family alongside <a href="https://eurooilwatch.com" className="text-oil-400 hover:underline">EuroOilWatch</a> and <a href="https://ukoilwatch.com" className="text-oil-400 hover:underline">UKOilWatch</a>.</p>
         <p>Nothing on this site constitutes financial advice. We are not affiliated with any government, oil company, or financial institution.</p>
-        <p>Contact: <a href="mailto:hello@americasoilwatch.com" className="text-oil-400 hover:underline">hello@americasoilwatch.com</a></p>
+        <p>Contact: <a href="mailto:jon@americasoilwatch.com" className="text-oil-400 hover:underline">jon@americasoilwatch.com</a></p>
       </div>
     </div>
   );

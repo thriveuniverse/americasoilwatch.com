@@ -100,13 +100,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <div className="flex gap-4">
                   <a href="https://eurooilwatch.com" className="hover:text-gray-300">EU Data →</a>
                   <a href="https://ukoilwatch.com" className="hover:text-gray-300">UK Data →</a>
-                  <a href="mailto:hello@americasoilwatch.com" className="hover:text-gray-300">Contact</a>
+                  <a href="mailto:jon@americasoilwatch.com" className="hover:text-gray-300">Contact</a>
                 </div>
               </div>
             </div>
             <p className="mt-4 text-center text-xs text-gray-600">
               © {new Date().getFullYear()} AmericasOilWatch ·{' '}
-              <a href="mailto:hello@americasoilwatch.com" className="hover:text-gray-400">hello@americasoilwatch.com</a>
+              <a href="mailto:jon@americasoilwatch.com" className="hover:text-gray-400">jon@americasoilwatch.com</a>
             </p>
           </div>
         </footer>
