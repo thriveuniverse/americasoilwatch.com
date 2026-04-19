@@ -1,15 +1,16 @@
 {
-  "generatedAt": "2026-04-19T00:00:00.000Z",
-  "statusLine": "Americas energy markets under pressure — dual Hormuz/Red Sea closures compounding Atlantic Basin demand for US, Brazil, and Guyana crude",
-  "overallStatus": "watch",
-  "fullAnalysis": "The simultaneous closure of the Strait of Hormuz (18 April 2026) and ongoing Houthi disruption of Bab-el-Mandeb creates an unprecedented compound supply shock for global oil markets. With both primary Gulf export corridors disrupted, international buyers are increasingly pivoting to Atlantic Basin producers — a shift that directly benefits US shale exporters, Brazil's Petrobras pre-salt operations, and Guyana's fast-growing Stabroek block.\n\nUS commercial crude stocks and production data from EIA will be critical indicators over the coming weeks. The US strategic petroleum reserve (SPR) stands at approximately 370 million barrels following partial restoration from the 2022 emergency drawdown, providing meaningful buffer capacity. The Biden administration-era sales reduced SPR to multi-decade lows, but subsequent repurchases have restored partial cover.\n\nWTI crude has rallied on the Hormuz closure news, narrowing its traditional discount to Brent as Gulf sour crude becomes harder to source. US Gulf Coast refineries optimised for light sweet crude may benefit from this dislocation — they can run domestic WTI feedstock while competitors face sour crude shortages. However, refinery complexity varies significantly, and some Gulf Coast facilities are specifically configured for heavy Venezuelan or Mexican Maya crude.\n\nLooking across the hemisphere, Canada's oil sands output remains robust but Western Canadian Select continues to trade at a discount reflecting pipeline export constraints. The Trans Mountain Expansion (TMX) pipeline, which opened in 2024, has improved Pacific access for Canadian crude but volumes remain below design capacity.",
+  "generatedAt": "2026-04-19T15:03:38.929Z",
+  "statusLine": "WTI crude trades at elevated $104.54/bbl amid supply chain disruptions, with US inventories declining sharply across all petroleum products.",
+  "overallStatus": "warning",
+  "fullAnalysis": "US crude markets remain under pressure with WTI at $104.54/bbl, down just 1.07% despite multiple global supply disruptions. The unusual $14.16 premium of WTI over Brent reflects severe constraints in international shipping routes, making landlocked US crude relatively more valuable than seaborne supplies. US production continues strong at 13.596 million bpd, providing crucial domestic supply security as global trade routes face unprecedented challenges.\n\nInventory draws across all US petroleum products signal tightening supply conditions domestically. Commercial crude stocks fell 4.144 million barrels while gasoline inventories dropped 6.328 million barrels and distillates declined 3.122 million barrels. These simultaneous draws indicate robust demand meeting constrained supply, with retail gasoline holding steady at $4.254/gal despite the inventory pressure.\n\nCritical maritime chokepoints face severe disruption with Houthi attacks targeting vessels in the Red Sea and Bab el Mandeb Strait, while Iranian forces threaten traffic through the Strait of Hormuz. These twin crises force longer shipping routes and higher insurance costs for international crude flows, benefiting Americas producers who can supply regional markets without transiting these dangerous waters. The disruptions particularly impact refined product imports that typically flow from Middle Eastern and Asian refineries to Americas markets.\n\nThe Strait of Hormuz closure mentioned in recent analysis represents a dramatic escalation in supply chain risks, though renewable energy growth has partially offset demand destruction from higher prices. For Americas markets, these disruptions reinforce the strategic value of domestic production and regional supply chains, with Canadian oil sands, US shale, and growing Guyanese output providing alternatives to volatile Middle Eastern supplies.",
   "keyPoints": [
-    "Dual Hormuz + Red Sea closures creating unprecedented global supply shock — benefits Americas Atlantic Basin producers",
-    "US shale exporters, Brazil Petrobras, and Guyana Stabroek positioned as swing suppliers to Asian and European buyers",
-    "WTI-Brent spread narrowing as Gulf sour crude scarcity drives international buyers toward light sweet alternatives",
-    "US SPR at ~370MB following post-2022 partial restoration — meaningful buffer but below pre-2022 levels",
-    "Panama Canal water levels returning to normal after 2023-24 drought restrictions — Americas Pacific routes reopening"
+    "WTI trades at $14.16 premium to Brent, reflecting severe international shipping constraints",
+    "US petroleum inventories decline across all products: crude down 4.1MB, gasoline down 6.3MB, distillates down 3.1MB",
+    "Critical maritime advisories active for Red Sea/Bab el Mandeb and Persian Gulf/Strait of Hormuz chokepoints",
+    "US crude production remains robust at 13.596 million bpd, providing domestic supply security",
+    "Retail gasoline stable at $4.254/gal despite inventory draws and global disruptions",
+    "Strait of Hormuz closure forces global supply chain reconfiguration, benefiting Americas regional producers"
   ],
-  "dataPeriod": "week ending 2026-04-18",
-  "model": "editorial-placeholder"
+  "dataPeriod": "week ending 2026-04-10",
+  "model": "claude-sonnet-4-20250514"
 }
