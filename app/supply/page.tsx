@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import fs from 'fs';
 import path from 'path';
+import JsonLd from '@/components/JsonLd';
 
 export const revalidate = 3600;
 
@@ -239,6 +240,7 @@ export default async function SupplyPage() {
 
   return (
     <div className="max-w-4xl mx-auto space-y-8">
+      <JsonLd type="supply" />
 
       {/* Header */}
       <div>

@@ -1,8 +1,10 @@
 import type { Metadata } from 'next';
+import JsonLd from '@/components/JsonLd';
 export const metadata: Metadata = { title: 'Methodology | AmericasOilWatch' };
 export default function MethodologyPage() {
   return (
     <div className="max-w-3xl mx-auto space-y-8">
+      <JsonLd type="methodology" />
       <div>
         <a href="/" className="text-xs text-oil-400 hover:underline">← Back to dashboard</a>
         <h1 className="mt-2 text-2xl font-bold text-white">Methodology</h1>

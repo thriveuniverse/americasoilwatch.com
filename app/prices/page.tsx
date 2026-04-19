@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import fs from 'fs';
 import path from 'path';
+import JsonLd from '@/components/JsonLd';
 
 export const revalidate = 3600;
 export const metadata: Metadata = {
@@ -16,6 +17,7 @@ export default function PricesPage() {
 
   return (
     <div className="max-w-4xl mx-auto space-y-8">
+      <JsonLd type="prices" />
       <div>
         <a href="/" className="text-xs text-oil-400 hover:underline">← Back to dashboard</a>
         <h1 className="mt-2 text-2xl font-bold text-white">Americas Fuel Prices</h1>

@@ -1,0 +1,73 @@
+# AmericasOilWatch
+
+> Western Hemisphere oil and fuel security intelligence — WTI crude price, US petroleum stocks, producer snapshots, and supply route risk from Canada to Patagonia.
+
+AmericasOilWatch is an independent dashboard tracking oil production, prices, and supply route risk across the Western Hemisphere. It covers 12 producer countries and presents EIA data in a clear, accessible format for energy professionals, journalists, policymakers, and the public.
+
+## Key Data
+
+- WTI crude spot price (weekly, EIA/Yahoo Finance) — Cushing, Oklahoma benchmark
+- US commercial crude oil stocks (weekly, EIA) — million barrels
+- US gasoline and distillate stocks (weekly, EIA) — million barrels
+- US Strategic Petroleum Reserve (SPR) level
+- US crude oil production — thousand barrels per day
+- US retail gasoline and diesel prices (weekly, EIA) — USD per gallon
+- Brent crude benchmark for international spread context
+- Maritime advisory status from MARAD (US Maritime Administration)
+- Energy research from CREA (Centre for Research on Energy and Clean Air)
+- AI-generated market analysis updated daily
+
+## Countries Covered
+
+**North America:** United States, Canada, Mexico
+**Central America/Caribbean:** Trinidad & Tobago
+**South America:** Brazil, Venezuela, Colombia, Ecuador, Argentina, Guyana, Peru, Bolivia
+
+## Key Chokepoints Tracked
+
+- Panama Canal — drought risk, vessel restrictions
+- Strait of Hormuz — currently CRITICAL (reclosed April 2026)
+- Bab-el-Mandeb — currently CRITICAL (Houthi attacks ongoing)
+- Straits of Florida — normal
+- Gulf of Mexico — hurricane season monitoring
+- Strait of Magellan / Drake Passage — alternative Cape route
+
+## Current Situation (April 2026)
+
+- WTI crude: ~$82/bbl
+- Brent crude: ~$90/bbl (WTI-Brent spread ~-$8)
+- US crude production: ~13,300 kb/d (world's largest producer)
+- US commercial crude stocks: ~430 MB
+- US gasoline: ~$4.25/gal national average
+- Strait of Hormuz reclosed 18 April 2026 — unprecedented dual closure with Bab-el-Mandeb
+- Dual closure driving Atlantic Basin producers (US shale, Brazil, Guyana) as swing suppliers
+- Guyana Stabroek block fastest-growing new producer globally (~650 kb/d, targeting 1.2m by 2027)
+- Argentina Vaca Muerta shale development accelerating
+
+## Pages
+
+- [Dashboard](https://americasoilwatch.com): WTI price, US stocks, AI analysis, producer grid
+- [Supply Routes](https://americasoilwatch.com/supply): Chokepoint status, MARAD advisories, CREA research
+- [Prices](https://americasoilwatch.com/prices): WTI benchmark, US retail prices, Americas price context
+- [Analysis](https://americasoilwatch.com/analysis): Full AI-generated market analysis
+- [Methodology](https://americasoilwatch.com/methodology): Data sources and methods
+- [About](https://americasoilwatch.com/about): About the project
+
+## Data Sources
+
+- US Energy Information Administration (EIA): Weekly petroleum stocks, WTI price, retail prices
+- Yahoo Finance (CL=F): WTI crude futures price (fallback)
+- Yahoo Finance (BZ=F): Brent crude futures price
+- US Maritime Administration (MARAD): Maritime security advisories
+- Centre for Research on Energy and Clean Air (CREA): Energy research RSS
+- Ship & Bunker: Bunker fuel prices at Rotterdam, Fujairah, Singapore
+
+## Related Sites
+
+- [EuroOilWatch](https://eurooilwatch.com): EU fuel reserves and prices across 27 countries
+- [UKOilWatch](https://ukoilwatch.com): UK fuel reserves and prices
+
+## Contact
+
+- Email: jon@americasoilwatch.com
+- Website: https://americasoilwatch.com
