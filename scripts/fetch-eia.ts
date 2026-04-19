@@ -174,7 +174,7 @@ async function fetchUSPrices() {
   const dslRows = await eiaFetch('/petroleum/pri/gnd/data/', {
     'frequency': 'weekly',
     'data[0]': 'value',
-    'facets[series][]': 'EMM_EPD2D_PTE_NUS_DPG',
+    'facets[series][]': 'EMD_EPD2D_PTE_NUS_DPG',
     'sort[0][column]': 'period',
     'sort[0][direction]': 'desc',
     'length': '5',
