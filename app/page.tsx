@@ -187,6 +187,27 @@ export default async function HomePage() {
         </div>
       )}
 
+      {/* Subscribe CTA */}
+      <div id="briefing" className="rounded-lg border border-oil-700 bg-oil-900/40 px-6 py-5">
+        <h2 className="text-sm font-semibold text-white mb-1">Weekly Americas Energy Briefing</h2>
+        <p className="text-xs text-gray-400 mb-3">
+          WTI price moves, US stock changes, producer developments, and supply route alerts — every week.
+        </p>
+        <form action="/api/subscribe" method="POST" className="flex gap-2 max-w-sm">
+          <input
+            type="email"
+            name="email"
+            placeholder="you@example.com"
+            required
+            className="flex-1 bg-oil-900 border border-oil-700 rounded px-3 py-1.5 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-oil-500"
+          />
+          <button type="submit"
+            className="bg-oil-600 hover:bg-oil-500 text-white text-sm px-4 py-1.5 rounded transition font-medium">
+            Subscribe
+          </button>
+        </form>
+      </div>
+
       {/* Producer grid by region */}
       <div>
         <h2 className="text-xs font-mono font-semibold tracking-widest text-gray-500 uppercase mb-4">
@@ -285,26 +306,6 @@ export default async function HomePage() {
         </div>
       )}
 
-      {/* Subscribe CTA */}
-      <div id="briefing" className="rounded-lg border border-oil-700 bg-oil-900/40 px-6 py-5">
-        <h2 className="text-sm font-semibold text-white mb-1">Weekly Americas Energy Briefing</h2>
-        <p className="text-xs text-gray-400 mb-3">
-          WTI price moves, US stock changes, producer developments, and supply route alerts — every week.
-        </p>
-        <form action="/api/subscribe" method="POST" className="flex gap-2 max-w-sm">
-          <input
-            type="email"
-            name="email"
-            placeholder="you@example.com"
-            required
-            className="flex-1 bg-oil-900 border border-oil-700 rounded px-3 py-1.5 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-oil-500"
-          />
-          <button type="submit"
-            className="bg-oil-600 hover:bg-oil-500 text-white text-sm px-4 py-1.5 rounded transition font-medium">
-            Subscribe
-          </button>
-        </form>
-      </div>
 
     </div>
   );
