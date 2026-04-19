@@ -1,0 +1,48 @@
+{
+  "name": "americasoilwatch",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "fetch:wti": "npx tsx scripts/fetch-eia.ts",
+    "fetch:brent": "npx tsx scripts/fetch-brent.ts",
+    "fetch:bunker": "npx tsx scripts/fetch-bunker.ts",
+    "fetch:marad": "npx tsx scripts/fetch-marad.ts",
+    "fetch:crea": "npx tsx scripts/fetch-crea.ts",
+    "fetch:all": "npm run fetch:wti && npm run fetch:brent && npm run fetch:bunker && npm run fetch:marad && npm run fetch:crea",
+    "analyze": "npx tsx scripts/generate-analysis.ts",
+    "update": "npm run fetch:all && npm run analyze",
+    "draft:newsletter": "npx tsx scripts/generate-newsletter.ts",
+    "send:newsletter": "npx tsx scripts/send-newsletter.ts",
+    "setup:resend": "npx tsx scripts/setup-resend.ts"
+  },
+  "dependencies": {
+    "@types/leaflet": "^1.9.21",
+    "clsx": "^2.1.1",
+    "date-fns": "^3.6.0",
+    "gray-matter": "^4.0.3",
+    "leaflet": "^1.9.4",
+    "marked": "^18.0.0",
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1",
+    "recharts": "^2.12.7",
+    "resend": "^4.0.0",
+    "rss-parser": "^3.13.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  }
+}

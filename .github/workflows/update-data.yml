@@ -1,0 +1,67 @@
+name: Update Data Pipeline
+
+on:
+  schedule:
+    # Run at 06:00 UTC daily (after EIA Wednesday/Monday releases)
+    - cron: '0 6 * * *'
+    # Also run Wednesday at 17:00 UTC (after EIA weekly stocks release ~10:30 ET)
+    - cron: '0 17 * * 3'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch EIA data (WTI, US stocks, US prices)
+        run: npm run fetch:wti
+        env:
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+        continue-on-error: true
+
+      - name: Fetch Brent crude price
+        run: npm run fetch:brent
+        continue-on-error: true
+
+      - name: Fetch bunker fuel prices
+        run: npm run fetch:bunker
+        continue-on-error: true
+
+      - name: Fetch MARAD maritime advisories
+        run: npm run fetch:marad
+        continue-on-error: true
+
+      - name: Fetch CREA energy research feed
+        run: npm run fetch:crea
+        continue-on-error: true
+
+      - name: Generate AI analysis
+        run: npm run analyze
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        continue-on-error: true
+
+      - name: Commit updated data
+        run: |
+          git config user.name "AmericasOilWatch Bot"
+          git config user.email "bot@americasoilwatch.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: update data $(date +%Y-%m-%d)"
+          git push
+
+      - name: Trigger Netlify rebuild
+        run: curl -s -X POST ${{ secrets.NETLIFY_BUILD_HOOK }}
