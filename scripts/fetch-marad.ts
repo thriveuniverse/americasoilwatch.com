@@ -3,7 +3,7 @@
  * AmericasOilWatch — MARAD Maritime Security Advisory Fetcher
  * ========================================================
  * Fetches the US Maritime Administration (MARAD) advisory and alert
- * listings, filters for regions relevant to EU fuel supply routes,
+ * listings, filters for regions relevant to Americas fuel supply routes,
  * and saves to data/marad-advisories.json.
  *
  * Individual advisory pages require JavaScript so we extract all
@@ -29,7 +29,7 @@ const SOURCES = [
   { url: 'https://www.maritime.dot.gov/msci-alerts',     type: 'alert' as const },
 ];
 
-// Regions relevant to EU fuel supply routes
+// Regions relevant to Americas fuel supply routes (Gulf crude imports, LNG, refined products)
 const RELEVANT_REGIONS = [
   'red sea', 'bab el mandeb', 'gulf of aden', 'arabian sea',
   'gulf of oman', 'arabian gulf', 'persian gulf', 'hormuz',

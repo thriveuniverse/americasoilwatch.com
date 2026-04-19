@@ -58,7 +58,7 @@ async function createTopic(name: string): Promise<string> {
       name,
       default_subscription: 'opt_in',
       visibility: 'public',
-      description: 'Weekly EU fuel reserve status, price movements, and supply-risk signals.',
+      description: 'Weekly Americas energy briefing — WTI price, US petroleum stocks, producer snapshots, and supply route alerts.',
     }),
   });
   if (!res.ok) {

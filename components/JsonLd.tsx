@@ -6,7 +6,7 @@
  */
 
 interface JsonLdProps {
-  type: 'home' | 'supply' | 'prices' | 'analysis' | 'about' | 'methodology';
+  type: 'home' | 'supply' | 'prices' | 'about' | 'methodology';
 }
 
 export default function JsonLd({ type }: JsonLdProps) {

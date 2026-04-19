@@ -1,7 +1,7 @@
 #!/usr/bin/env npx tsx
 /**
- * EuroOilWatch — Newsletter Sender
- * ==================================
+ * AmericasOilWatch — Newsletter Sender
+ * ======================================
  * Sends any .html or .md files found in newsletters/outbox/ as a Resend
  * Broadcast to the full subscriber audience, then moves them to newsletters/sent/.
  *
@@ -12,7 +12,7 @@
  *   RESEND_API_KEY        — Resend API key
  *   RESEND_SEGMENT_ID     — Resend Segment ID (subscribers)
  *   RESEND_TOPIC_ID       — Resend Topic ID (optional, for unsubscribe preferences)
- *   RESEND_FROM_ADDRESS   — Verified sending address, e.g. "EuroOilWatch <briefing@eurooilwatch.com>"
+ *   RESEND_FROM_ADDRESS   — Verified sending address, e.g. "AmericasOilWatch <briefing@americasoilwatch.com>"
  *
  * HTML files — subject via comment near the top:
  *   <!-- subject: EU Fuel Reserves Drop — Weekly Briefing #12 -->
@@ -47,7 +47,7 @@ loadEnvFile();
 const RESEND_API_KEY    = process.env.RESEND_API_KEY;
 const RESEND_SEGMENT_ID = process.env.RESEND_SEGMENT_ID;
 const RESEND_TOPIC_ID   = process.env.RESEND_TOPIC_ID;
-const FROM_ADDRESS      = process.env.RESEND_FROM_ADDRESS || 'EuroOilWatch <briefing@eurooilwatch.com>';
+const FROM_ADDRESS      = process.env.RESEND_FROM_ADDRESS || 'AmericasOilWatch <briefing@americasoilwatch.com>';
 
 const OUTBOX_DIR = path.join(process.cwd(), 'newsletters', 'outbox');
 const SENT_DIR   = path.join(process.cwd(), 'newsletters', 'sent');
@@ -101,8 +101,8 @@ function wrapInEmailTemplate(subject: string, bodyHtml: string): string {
           <!-- Header -->
           <tr>
             <td style="padding:24px 32px;border-bottom:1px solid #334155;">
-              <span style="font-size:13px;font-weight:bold;color:#94a3b8;letter-spacing:0.1em;text-transform:uppercase;">EuroOilWatch</span>
-              <span style="font-size:13px;color:#475569;margin-left:8px;">Weekly Fuel Security Briefing</span>
+              <span style="font-size:13px;font-weight:bold;color:#94a3b8;letter-spacing:0.1em;text-transform:uppercase;">AmericasOilWatch</span>
+              <span style="font-size:13px;color:#475569;margin-left:8px;">Weekly Energy Briefing</span>
             </td>
           </tr>
           <!-- Body -->
@@ -129,7 +129,7 @@ function wrapInEmailTemplate(subject: string, bodyHtml: string): string {
           <tr>
             <td style="padding:20px 32px;border-top:1px solid #334155;text-align:center;">
               <p style="margin:0 0 8px 0;font-size:12px;color:#475569;">
-                You're receiving this because you subscribed at <a href="https://eurooilwatch.com" style="color:#38bdf8;">eurooilwatch.com</a>
+                You're receiving this because you subscribed at <a href="https://americasoilwatch.com" style="color:#38bdf8;">americasoilwatch.com</a>
               </p>
               <p style="margin:0;font-size:12px;color:#334155;">
                 <a href="{{{RESEND_UNSUBSCRIBE_URL}}}" style="color:#475569;">Unsubscribe</a>
