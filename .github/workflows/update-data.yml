@@ -27,8 +27,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fetch EIA data (WTI, US stocks, US prices)
+      - name: Fetch WTI price (Yahoo Finance fallback)
         run: npm run fetch:wti
+        continue-on-error: true
+
+      - name: Fetch EIA detailed data (US stocks, retail prices)
+        run: npm run fetch:eia
         env:
           EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
         continue-on-error: true
