@@ -1,14 +1,21 @@
-name: Send Weekly Newsletter
+name: Send Newsletter
 
-# Manual-only sender. Reads whatever is in newsletters/outbox/, broadcasts
-# via Resend, moves the file to newsletters/sent/, commits, and rebuilds
-# the site so /briefings picks up the new archive entry.
+# Matches the EuroOilWatch / UKOilWatch pattern:
+# push a file into newsletters/outbox/ and this workflow sends it.
 #
-# This workflow does NOT draft. Use the "Draft Weekly Newsletter" workflow
-# (scheduled Wednesday 18:00 UTC) to generate a draft first, review the
-# committed file in newsletters/outbox/, then trigger this workflow.
+# Local flow:
+#   1. npm run draft:newsletter        # writes draft to newsletters/outbox/
+#   2. review/edit the file
+#   3. git add newsletters/outbox && git commit -m "newsletter: ..." && git push
+#   4. push triggers this workflow → broadcasts via Resend →
+#      moves file to newsletters/sent/ → triggers Netlify rebuild so
+#      /briefings archive picks it up
 
 on:
+  push:
+    paths:
+      - 'newsletters/outbox/*.html'
+      - 'newsletters/outbox/*.md'
   workflow_dispatch:
 
 permissions:
@@ -17,6 +24,7 @@ permissions:
 jobs:
   send:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -30,18 +38,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Confirm outbox has a draft
-        run: |
-          shopt -s nullglob
-          files=(newsletters/outbox/*.md newsletters/outbox/*.html)
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "::error::No files in newsletters/outbox/. Run the Draft workflow first."
-            exit 1
-          fi
-          echo "Found ${#files[@]} file(s) in outbox:"
-          printf '  %s\n' "${files[@]}"
-
-      - name: Send via Resend
+      - name: Send newsletter via Resend
         run: npm run send:newsletter
         env:
           RESEND_API_KEY:      ${{ secrets.RESEND_API_KEY }}
@@ -54,7 +51,8 @@ jobs:
           git config user.name "AmericasOilWatch Bot"
           git config user.email "bot@americasoilwatch.com"
           git add newsletters/
-          git diff --staged --quiet || git commit -m "chore: weekly briefing sent $(date +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "chore: newsletter sent $(date +%Y-%m-%d)"
+          git pull --rebase origin ${{ github.ref_name }}
           git push
 
       - name: Trigger Netlify rebuild
