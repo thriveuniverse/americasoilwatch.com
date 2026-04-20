@@ -49,6 +49,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="icon" href="/icon.svg" type="image/svg+xml" />
         <link rel="apple-touch-icon" href="/icon.svg" />
+        <link rel="alternate" type="application/rss+xml" title="AmericasOilWatch Insights" href="/feed.xml" />
         <meta name="theme-color" content="#06111f" />
       </head>
       <body className="min-h-screen bg-oil-950 text-gray-200 antialiased">
@@ -95,9 +96,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <div className="flex flex-col sm:items-end gap-1 text-xs text-gray-500">
                 <div className="flex gap-4">
                   <a href="/" className="hover:text-gray-300">Dashboard</a>
-                  <a href="/supply" className="hover:text-gray-300">Supply Routes</a>
+                  <a href="/insights" className="hover:text-gray-300">Insights</a>
+                  <a href="/briefings" className="hover:text-gray-300">Briefings</a>
                   <a href="/methodology" className="hover:text-gray-300">Methodology</a>
                   <a href="/about" className="hover:text-gray-300">About</a>
+                </div>
+                <div className="flex gap-4">
+                  <a href="/feed.xml" className="hover:text-gray-300">RSS</a>
                 </div>
                 <div className="flex gap-4">
                   <a href="https://eurooilwatch.com" className="hover:text-gray-300">EU Data →</a>

@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { getAllInsights } from '@/lib/insights';
+import { getAllBriefings } from '@/lib/briefings';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://americasoilwatch.com';
@@ -9,6 +10,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: 'monthly',
     priority: 0.7,
   }));
+  const briefingUrls: MetadataRoute.Sitemap = getAllBriefings().map(b => ({
+    url: `${baseUrl}/briefings/${b.slug}`,
+    lastModified: new Date(b.date),
+    changeFrequency: 'monthly',
+    priority: 0.6,
+  }));
 
   return [
     {
@@ -17,7 +24,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly',
       priority: 0.8,
     },
+    {
+      url: `${baseUrl}/briefings`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.7,
+    },
     ...insightUrls,
+    ...briefingUrls,
     {
       url: baseUrl,
       lastModified: new Date(),

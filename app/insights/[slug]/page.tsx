@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getInsight, getAllInsights } from '@/lib/insights';
+import SubscribeCta from '@/components/SubscribeCta';
 
 export const revalidate = 3600;
 
@@ -56,6 +57,12 @@ export default function InsightPage({ params }: { params: { slug: string } }) {
       <div
         className="prose-article text-sm text-gray-300 leading-relaxed"
         dangerouslySetInnerHTML={{ __html: insight.html }}
+      />
+
+      <SubscribeCta
+        variant="compact"
+        headline="Get analysis like this in your inbox"
+        subtitle="Weekly Americas Energy Briefing — supply, prices, geopolitics. Free, no spam."
       />
 
       <div className="rounded-lg border border-oil-800 bg-oil-900/20 px-5 py-4 text-xs text-gray-500">
