@@ -1,17 +1,21 @@
 name: Send Weekly Newsletter
 
+# Manual-only sender. Reads whatever is in newsletters/outbox/, broadcasts
+# via Resend, moves the file to newsletters/sent/, commits, and rebuilds
+# the site so /briefings picks up the new archive entry.
+#
+# This workflow does NOT draft. Use the "Draft Weekly Newsletter" workflow
+# (scheduled Wednesday 18:00 UTC) to generate a draft first, review the
+# committed file in newsletters/outbox/, then trigger this workflow.
+
 on:
-  schedule:
-    # Wednesday 18:00 UTC — 1 hour after the data-update workflow runs post-EIA release
-    # = 14:00 EDT / 11:00 PDT / 19:00 BST / 20:00 CEST / 15:00 BRT
-    - cron: '0 18 * * 3'
-  workflow_dispatch:  # manual trigger for testing
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  send-newsletter:
+  send:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -26,10 +30,16 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Generate newsletter draft
-        run: npm run draft:newsletter
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Confirm outbox has a draft
+        run: |
+          shopt -s nullglob
+          files=(newsletters/outbox/*.md newsletters/outbox/*.html)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "::error::No files in newsletters/outbox/. Run the Draft workflow first."
+            exit 1
+          fi
+          echo "Found ${#files[@]} file(s) in outbox:"
+          printf '  %s\n' "${files[@]}"
 
       - name: Send via Resend
         run: npm run send:newsletter
