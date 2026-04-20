@@ -1,0 +1,51 @@
+name: Send Weekly Newsletter
+
+on:
+  schedule:
+    # Wednesday 18:00 UTC — 1 hour after the data-update workflow runs post-EIA release
+    # = 14:00 EDT / 11:00 PDT / 19:00 BST / 20:00 CEST / 15:00 BRT
+    - cron: '0 18 * * 3'
+  workflow_dispatch:  # manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate newsletter draft
+        run: npm run draft:newsletter
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Send via Resend
+        run: npm run send:newsletter
+        env:
+          RESEND_API_KEY:      ${{ secrets.RESEND_API_KEY }}
+          RESEND_SEGMENT_ID:   ${{ secrets.RESEND_SEGMENT_ID }}
+          RESEND_TOPIC_ID:     ${{ secrets.RESEND_TOPIC_ID }}
+          RESEND_FROM_ADDRESS: ${{ secrets.RESEND_FROM_ADDRESS }}
+
+      - name: Commit sent newsletter to archive
+        run: |
+          git config user.name "AmericasOilWatch Bot"
+          git config user.email "bot@americasoilwatch.com"
+          git add newsletters/
+          git diff --staged --quiet || git commit -m "chore: weekly briefing sent $(date +%Y-%m-%d)"
+          git push
+
+      - name: Trigger Netlify rebuild
+        run: curl -s -X POST ${{ secrets.NETLIFY_BUILD_HOOK }}
