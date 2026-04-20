@@ -1,9 +1,23 @@
 import { MetadataRoute } from 'next';
+import { getAllInsights } from '@/lib/insights';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://americasoilwatch.com';
+  const insightUrls: MetadataRoute.Sitemap = getAllInsights().map(i => ({
+    url: `${baseUrl}/insights/${i.slug}`,
+    lastModified: new Date(i.date),
+    changeFrequency: 'monthly',
+    priority: 0.7,
+  }));
 
   return [
+    {
+      url: `${baseUrl}/insights`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    ...insightUrls,
     {
       url: baseUrl,
       lastModified: new Date(),

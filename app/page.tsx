@@ -2,7 +2,9 @@ import type { Metadata } from 'next';
 import fs from 'fs';
 import path from 'path';
 import { PRODUCERS } from '@/lib/countries';
+import { getAllInsights } from '@/lib/insights';
 import JsonLd from '@/components/JsonLd';
+import WtiTrendChart from '@/components/WtiTrendChart';
 
 export const revalidate = 3600;
 
@@ -50,13 +52,15 @@ const REGION_LABELS: Record<string, string> = {
 };
 
 export default async function HomePage() {
-  const wti      = loadJSON<any>('wti.json');
-  const brent    = loadJSON<any>('brent.json');
-  const usStocks = loadJSON<any>('us-stocks.json');
-  const usPrices = loadJSON<any>('us-prices.json');
-  const analysis = loadJSON<any>('analysis.json');
-  const marad    = loadJSON<any>('marad-advisories.json');
-  const crea     = loadJSON<any>('crea-feed.json');
+  const wti          = loadJSON<any>('wti.json');
+  const brent        = loadJSON<any>('brent.json');
+  const usStocks     = loadJSON<any>('us-stocks.json');
+  const usPrices     = loadJSON<any>('us-prices.json');
+  const analysis     = loadJSON<any>('analysis.json');
+  const marad        = loadJSON<any>('marad-advisories.json');
+  const crea         = loadJSON<any>('crea-feed.json');
+  const wtiHistory   = loadJSON<{ entries: { date: string; priceUsd: number }[] }>('wti-history.json');
+  const insights     = getAllInsights().slice(0, 3);
 
   const wtiSpread = (wti && brent) ? +(wti.priceUsd - brent.priceUsd).toFixed(2) : null;
 
@@ -72,10 +76,28 @@ export default async function HomePage() {
 
       {/* Header */}
       <div>
-        <h1 className="text-2xl font-bold text-white">Americas Oil & Fuel Intelligence</h1>
-        <p className="mt-1 text-sm text-gray-400 max-w-2xl">
-          WTI crude, US petroleum stocks, producer snapshots, and supply route risk — Canada to Patagonia.
-          Data from EIA, Petrobras, and open government sources. Updated daily.
+        {analysis?.statusLine && (
+          <div className="inline-flex items-center gap-2 rounded border border-oil-700 bg-oil-900/60 px-3 py-1 mb-3">
+            <span className={`w-1.5 h-1.5 rounded-full ${
+              analysis.overallStatus === 'critical' ? 'bg-red-500' :
+              analysis.overallStatus === 'warning'  ? 'bg-orange-500' :
+              analysis.overallStatus === 'watch'    ? 'bg-amber-500' : 'bg-emerald-500'
+            }`} />
+            <span className="text-[10px] font-mono font-semibold tracking-widest text-gray-400 uppercase">
+              Status: {analysis.overallStatus ?? 'watch'}
+            </span>
+            <span className="text-xs text-gray-300">· {analysis.statusLine}</span>
+          </div>
+        )}
+        <h1 className="text-2xl sm:text-3xl font-bold text-white">
+          Americas Oil &amp; Fuel Intelligence
+        </h1>
+        <p className="mt-2 text-sm text-gray-400 max-w-2xl">
+          Independent daily intelligence on Western Hemisphere oil markets —
+          WTI crude, US petroleum stocks, producer data, and supply-route risk from Canada to Patagonia.
+        </p>
+        <p className="mt-1 text-xs text-gray-500 max-w-2xl">
+          Built for fleet operators, energy traders, procurement teams, and journalists tracking Americas fuel supply.
         </p>
       </div>
 
@@ -112,38 +134,96 @@ export default async function HomePage() {
         />
       </div>
 
-      {/* US Petroleum Stocks */}
-      {usStocks && (
+      {/* US Petroleum Stocks — with days-of-supply */}
+      {usStocks && (() => {
+        // Approximate US demand (thousand barrels / day) — stable enough for days-of-supply gauge
+        const DEMAND_KBD = { crude: 16000, gasoline: 9000, distillate: 4000, sprImports: 6000 };
+        const toMb    = (kb: number) => (kb / 1000).toFixed(1);
+        const toMbChg = (kb: number) => (kb / 1000).toFixed(2);
+        const days    = (kb: number, dKbd: number) => Math.round(kb / dKbd);
+        const statusColor = (d: number, min: number) =>
+          d < min * 0.6 ? 'text-red-400' : d < min ? 'text-amber-400' : 'text-emerald-400';
+
+        const stocks = [
+          { label: 'Commercial Crude', val: usStocks.crudeMb,      change: usStocks.crudeMbChange,      days: days(usStocks.crudeMb, DEMAND_KBD.crude),       min: 25, daysLabel: 'days of refinery input' },
+          { label: 'Gasoline',         val: usStocks.gasolineMb,   change: usStocks.gasolineMbChange,   days: days(usStocks.gasolineMb, DEMAND_KBD.gasoline), min: 25, daysLabel: 'days of demand' },
+          { label: 'Distillates',      val: usStocks.distillateMb, change: usStocks.distillateMbChange, days: days(usStocks.distillateMb, DEMAND_KBD.distillate), min: 30, daysLabel: 'days of demand' },
+          { label: 'SPR',              val: usStocks.sprMb,        change: null,                        days: days(usStocks.sprMb, DEMAND_KBD.sprImports), min: 30, daysLabel: 'days of import cover' },
+        ];
+
+        return (
+          <div className="rounded-lg border border-oil-800 bg-oil-900/20 overflow-hidden">
+            <div className="px-5 py-3 border-b border-oil-800/60 flex items-center justify-between">
+              <h2 className="text-xs font-mono font-semibold tracking-widest text-gray-500 uppercase">
+                US Petroleum Stocks — EIA Weekly
+              </h2>
+              <span className="text-[10px] text-gray-600">Week ending {usStocks.weekEnding}</span>
+            </div>
+            <div className="grid grid-cols-2 sm:grid-cols-4 divide-x divide-oil-800/40">
+              {stocks.map(s => (
+                <div key={s.label} className="px-4 py-3">
+                  <div className="text-[10px] text-gray-500 mb-1">{s.label}</div>
+                  <div className="text-lg font-mono font-semibold text-white">
+                    {toMb(s.val)} <span className="text-xs text-gray-500">MB</span>
+                  </div>
+                  {s.change !== null && s.change !== undefined && (
+                    <div className={`text-[10px] font-mono mt-0.5 ${s.change > 0 ? 'text-emerald-400' : s.change < 0 ? 'text-red-400' : 'text-gray-500'}`}>
+                      {s.change > 0 ? '▲' : '▼'} {Math.abs(+toMbChg(s.change))} MB
+                    </div>
+                  )}
+                  <div className="mt-2 pt-2 border-t border-oil-800/40">
+                    <div className={`text-sm font-mono font-semibold ${statusColor(s.days, s.min)}`}>
+                      ~{s.days} days
+                    </div>
+                    <div className="text-[9px] text-gray-600 leading-tight">{s.daysLabel}</div>
+                  </div>
+                </div>
+              ))}
+            </div>
+            <div className="px-5 py-2 border-t border-oil-800/40 bg-oil-900/20 flex items-center justify-between flex-wrap gap-2">
+              <p className="text-[10px] text-gray-600">
+                MB = million barrels. Days-of-supply estimated from EIA demand benchmarks. Source: EIA Weekly Petroleum Status Report.
+              </p>
+              {usStocks.productionKbpd && (
+                <p className="text-[10px] text-gray-500 font-mono">
+                  US production: <span className="text-white">{usStocks.productionKbpd.toLocaleString()}</span> kb/d
+                </p>
+              )}
+            </div>
+          </div>
+        );
+      })()}
+
+      {/* WTI 18-month trend */}
+      {wtiHistory?.entries && wtiHistory.entries.length > 0 && (
+        <WtiTrendChart entries={wtiHistory.entries} />
+      )}
+
+      {/* Latest insights */}
+      {insights.length > 0 && (
         <div className="rounded-lg border border-oil-800 bg-oil-900/20 overflow-hidden">
           <div className="px-5 py-3 border-b border-oil-800/60 flex items-center justify-between">
             <h2 className="text-xs font-mono font-semibold tracking-widest text-gray-500 uppercase">
-              US Petroleum Stocks — EIA Weekly
+              Latest Insights
             </h2>
-            <span className="text-[10px] text-gray-600">Week ending {usStocks.weekEnding}</span>
+            <a href="/insights" className="text-xs text-oil-400 hover:text-white transition">All insights →</a>
           </div>
-          <div className="grid grid-cols-2 sm:grid-cols-4 divide-x divide-oil-800/40">
-            {[
-              { label: 'Commercial Crude', val: usStocks.crudeMb, change: usStocks.crudeMbChange, unit: 'MB' },
-              { label: 'Gasoline',         val: usStocks.gasolineMb, change: usStocks.gasolineMbChange, unit: 'MB' },
-              { label: 'Distillates',      val: usStocks.distillateMb, change: usStocks.distillateMbChange, unit: 'MB' },
-              { label: 'SPR',              val: usStocks.sprMb, change: null, unit: 'MB' },
-            ].map(s => (
-              <div key={s.label} className="px-4 py-3">
-                <div className="text-[10px] text-gray-500 mb-1">{s.label}</div>
-                <div className="text-lg font-mono font-semibold text-white">{s.val ?? '—'} <span className="text-xs text-gray-500">{s.unit}</span></div>
-                {s.change !== null && s.change !== undefined && (
-                  <div className={`text-[10px] font-mono mt-0.5 ${s.change > 0 ? 'text-emerald-400' : s.change < 0 ? 'text-red-400' : 'text-gray-500'}`}>
-                    {s.change > 0 ? '▲' : '▼'} {Math.abs(s.change)} MB
-                  </div>
-                )}
-              </div>
+          <div className="divide-y divide-oil-800/30">
+            {insights.map(i => (
+              <a key={i.slug} href={`/insights/${i.slug}`}
+                className="block px-5 py-3 hover:bg-oil-800/30 transition group">
+                <div className="flex items-center gap-2 text-[10px] font-mono text-gray-600 mb-1">
+                  <span>{new Date(i.date).toLocaleDateString('en-US', { day: 'numeric', month: 'short' })}</span>
+                  <span>·</span>
+                  <span>{i.readingMinutes} min</span>
+                  {i.tags[0] && <span className="ml-1 text-oil-400">{i.tags[0]}</span>}
+                </div>
+                <p className="text-sm font-medium text-white group-hover:text-oil-300 transition leading-snug">
+                  {i.title}
+                </p>
+                <p className="text-xs text-gray-500 mt-0.5 line-clamp-1">{i.excerpt}</p>
+              </a>
             ))}
-          </div>
-          <div className="px-5 py-2 border-t border-oil-800/40 bg-oil-900/20 flex items-center justify-between">
-            <p className="text-[10px] text-gray-600">MB = million barrels. Source: EIA Weekly Petroleum Status Report.</p>
-            {usStocks.productionKbpd && (
-              <p className="text-[10px] text-gray-500 font-mono">US production: <span className="text-white">{usStocks.productionKbpd.toLocaleString()}</span> kb/d</p>
-            )}
           </div>
         </div>
       )}
@@ -308,6 +388,65 @@ export default async function HomePage() {
         </div>
       )}
 
+      {/* Coming Soon — PRO tier */}
+      <div className="rounded-lg border border-oil-800 bg-oil-900/20 px-5 py-4">
+        <div className="flex items-center gap-2 mb-2">
+          <span className="text-[10px] font-mono font-semibold tracking-widest text-oil-300 uppercase px-2 py-0.5 rounded border border-oil-700 bg-oil-900/60">
+            Coming Soon
+          </span>
+          <h2 className="text-sm font-semibold text-white">AmericasOilWatch PRO</h2>
+        </div>
+        <p className="text-xs text-gray-400 mb-3 max-w-2xl">
+          Professional-tier tools for traders, fleet operators, and procurement teams.
+          Launching mid-2026.
+        </p>
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs">
+          {[
+            { t: 'Price alerts',      d: 'WTI, Brent, WCS thresholds by email or webhook' },
+            { t: 'Historical exports',d: 'CSV downloads of all pricing and stock series' },
+            { t: 'Custom watchlists', d: 'Track chokepoints and producers relevant to your flows' },
+            { t: 'Monthly intel brief', d: 'In-depth quarterly Americas supply outlook' },
+          ].map(f => (
+            <div key={f.t} className="rounded border border-oil-800/60 bg-oil-900/40 px-3 py-2">
+              <p className="text-oil-300 font-semibold mb-0.5">{f.t}</p>
+              <p className="text-[10px] text-gray-500 leading-snug">{f.d}</p>
+            </div>
+          ))}
+        </div>
+        <p className="mt-3 text-[10px] text-gray-600">
+          Interested in early access or founding-partner sponsorship?{' '}
+          <a href="mailto:jon@americasoilwatch.com" className="text-oil-400 hover:underline">
+            Get in touch
+          </a>
+        </p>
+      </div>
+
+      {/* Editorial byline */}
+      <div className="rounded-lg border border-oil-800/60 bg-oil-900/10 px-5 py-4 flex flex-col sm:flex-row sm:items-center gap-3">
+        <div className="flex items-center gap-3">
+          <div className="w-10 h-10 rounded-full bg-oil-800 flex items-center justify-center text-lg flex-shrink-0">
+            ✍️
+          </div>
+          <div>
+            <p className="text-[10px] font-mono font-semibold tracking-widest text-gray-500 uppercase mb-0.5">
+              Editorial
+            </p>
+            <p className="text-sm text-gray-300">
+              Written and edited by Jon, founder of the OilWatch network.
+            </p>
+            <p className="text-xs text-gray-500">
+              Also publishing at{' '}
+              <a href="https://eurooilwatch.com" className="text-oil-400 hover:underline">EuroOilWatch</a> and{' '}
+              <a href="https://ukoilwatch.com" className="text-oil-400 hover:underline">UKOilWatch</a>.
+            </p>
+          </div>
+        </div>
+        <div className="sm:ml-auto text-xs">
+          <a href="mailto:jon@americasoilwatch.com" className="text-oil-400 hover:underline">
+            jon@americasoilwatch.com
+          </a>
+        </div>
+      </div>
 
     </div>
   );
