@@ -64,7 +64,7 @@ export default function PricesPage() {
               <div key={f.label} className="px-5 py-4 flex items-center justify-between">
                 <div>
                   <p className="text-sm font-medium text-gray-200">{f.label}</p>
-                  <p className="text-[10px] text-gray-500 mt-0.5">US national average · per gallon</p>
+                  <p className="text-[10px] text-gray-500 mt-0.5">US national average · per US gallon</p>
                 </div>
                 <div className="text-right">
                   <p className="text-xl font-mono font-bold text-white">${f.value?.toFixed(3)}</p>

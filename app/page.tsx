@@ -121,14 +121,14 @@ export default async function HomePage() {
         <StatCard
           label="US Gasoline"
           value={usPrices ? `$${usPrices.gasolineUsdGal}` : '—'}
-          sub="National avg, per gallon"
+          sub="National avg, per US gallon"
           change={usPrices?.gasolineChangeUsdGal}
           changeUnit="/gal"
         />
         <StatCard
           label="US Diesel"
           value={usPrices ? `$${usPrices.dieselUsdGal}` : '—'}
-          sub="National avg, per gallon"
+          sub="National avg, per US gallon"
           change={usPrices?.dieselChangeUsdGal}
           changeUnit="/gal"
         />

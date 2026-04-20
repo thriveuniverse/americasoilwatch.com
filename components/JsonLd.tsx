@@ -80,7 +80,7 @@ export default function JsonLd({ type }: JsonLdProps) {
       {
         '@type': 'PropertyValue',
         name: 'US retail fuel prices',
-        unitText: 'USD per gallon',
+        unitText: 'USD per US gallon',
         description: 'Weekly US national average gasoline and diesel prices',
       },
     ],
