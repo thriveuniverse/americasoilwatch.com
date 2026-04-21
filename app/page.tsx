@@ -415,7 +415,7 @@ export default async function HomePage() {
               Editorial
             </p>
             <p className="text-sm text-gray-300">
-              Written and edited by Jon, founder of the OilWatch network.
+              Written and edited by Jon Kelly, founder of the OilWatch network.
             </p>
             <p className="text-xs text-gray-500">
               Also publishing at{' '}
