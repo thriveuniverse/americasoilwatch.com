@@ -221,7 +221,8 @@ async function main() {
     const { id: broadcastId } = await resendPost('/broadcasts', payload);
     console.log(`   ✓ Broadcast created and sent: ${broadcastId}`);
 
-    // Step 3 — Move to sent/
+    // Step 3 — Move to sent/ (ensure the dir exists first; git doesn't track empty dirs)
+    fs.mkdirSync(SENT_DIR, { recursive: true });
     const datestamp = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
     const sentName  = `${datestamp}_${file}`;
     const sentPath  = path.join(SENT_DIR, sentName);
