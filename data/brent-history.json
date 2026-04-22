@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T07:47:25.711Z",
+  "lastUpdated": "2026-04-22T08:05:36.244Z",
   "entries": [
     {
       "date": "2025-04-21",
@@ -278,13 +278,13 @@
     },
     {
       "date": "2026-04-21",
-      "priceUsd": 90.21,
-      "priceEur": 82.99
+      "priceUsd": 99.06,
+      "priceEur": 91.14
     },
     {
       "date": "2026-04-22",
-      "priceUsd": 92.77,
-      "priceEur": 85.35
+      "priceUsd": 98.32,
+      "priceEur": 90.45
     }
   ]
 }

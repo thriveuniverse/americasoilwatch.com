@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-22T07:47:25.702Z",
-  "priceUsd": 92.77,
-  "priceEur": 85.35,
-  "changeUsd": -5.71,
-  "changePct": -5.8,
-  "dataSource": "Yahoo Finance (BZ=F)"
+  "lastUpdated": "2026-04-22T08:05:36.244Z",
+  "priceUsd": 98.32,
+  "priceEur": 90.45,
+  "changeUsd": -0.74,
+  "changePct": -0.75,
+  "dataSource": "Stooq (cb.f front-month)"
 }
