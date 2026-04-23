@@ -200,6 +200,33 @@ export default async function HomePage() {
         <WtiTrendChart entries={wtiHistory.entries} />
       )}
 
+      {/* Upcoming supply event */}
+      <div className="rounded-lg border border-amber-700/40 bg-amber-950/20 overflow-hidden">
+        <div className="px-5 py-3 border-b border-amber-700/30 flex items-center justify-between">
+          <h2 className="text-xs font-mono font-semibold tracking-widest text-amber-300 uppercase">
+            Upcoming Supply Event
+          </h2>
+          <span className="text-[10px] font-mono text-amber-400/70">1 May 2026</span>
+        </div>
+        <div className="px-5 py-4 space-y-2">
+          <p className="text-sm font-semibold text-white">
+            Russia halts Kazakh crude supply via Druzhba pipeline to Germany
+          </p>
+          <p className="text-xs text-gray-400 leading-relaxed">
+            PCK Schwedt refinery (supplies most of Berlin&apos;s fuel) loses ~17% of its crude from 1 May.
+            Germany says alternative routes cover it, but its regulator warns of regional pricing risk.
+          </p>
+          <p className="text-xs text-gray-500 leading-relaxed">
+            <span className="text-oil-300 font-medium">Americas angle:</span>{' '}
+            North Atlantic Basin arbitrage could tighten as European refiners seek substitute barrels —
+            more pull on US Gulf Coast crude exports.
+          </p>
+        </div>
+        <div className="px-5 py-2 border-t border-amber-700/20 bg-amber-950/10">
+          <p className="text-[10px] text-gray-600">Source: Reuters.</p>
+        </div>
+      </div>
+
       {/* Latest insights */}
       {insights.length > 0 && (
         <div className="rounded-lg border border-oil-800 bg-oil-900/20 overflow-hidden">
