@@ -70,8 +70,9 @@ async function main() {
 
   if (wti) {
     dataContext += `### WTI Crude (primary Americas benchmark)\n`;
-    dataContext += `Price: $${wti.priceUsd}/bbl (week ending ${wti.weekEnding})\n`;
-    dataContext += `Change: ${wti.changePct >= 0 ? '+' : ''}${wti.changePct}%\n\n`;
+    dataContext += `Price: $${wti.priceUsd}/bbl (EIA weekly release, week ending ${wti.weekEnding})\n`;
+    dataContext += `Week-on-week change vs prior weekly release: ${wti.changePct >= 0 ? '+' : ''}${wti.changePct}%\n`;
+    dataContext += `(This is a weekly figure from EIA's release schedule, not a real-time daily move.)\n\n`;
   }
   if (brent) {
     dataContext += `### Brent Crude (international benchmark)\n`;
@@ -121,6 +122,11 @@ Key context for the Americas:
 - Guyana (ExxonMobil Stabroek) is the fastest-growing new producer globally
 - Brazil (Petrobras pre-salt) is South America's largest producer with rising output
 - Venezuela has massive reserves but production collapsed under sanctions/mismanagement
+
+Important framing rules:
+- The WTI and Brent change figures are WEEK-ON-WEEK from EIA's weekly release (released Wednesdays). Do NOT headline these as if they were a current daily move ("WTI crashes today", "WTI drops 10% amid…"). Treat them as historical context up to the week-ending date.
+- If the weekly change is large, describe it as "fell X% in the week to <weekEnding date>" or "X% week-on-week" — never as breaking news.
+- Use the actual week-ending date provided in the data when discussing the move.
 
 Output valid JSON only — no markdown, no preamble:
 {
