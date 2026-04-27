@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import fs from 'fs';
 import path from 'path';
 import JsonLd from '@/components/JsonLd';
+import { maradOverrideFor } from '@/lib/marad-risk';
 
 export const revalidate = 3600;
 
@@ -230,13 +231,18 @@ function readCrea(): { lastUpdated: string; articles: CreaArticle[] } | null {
 }
 
 export default async function SupplyPage() {
-  const critical = CHOKEPOINTS.filter(c => c.risk === 'critical');
-  const high     = CHOKEPOINTS.filter(c => c.risk === 'high');
-  const elevated = CHOKEPOINTS.filter(c => c.risk === 'elevated');
-  const normal   = CHOKEPOINTS.filter(c => c.risk === 'normal');
-
   const marad = readMarad();
   const crea  = readCrea();
+
+  const chokepoints: Chokepoint[] = CHOKEPOINTS.map(c => {
+    const ovr = marad ? maradOverrideFor(c.id, marad.advisories, marad.lastUpdated) : null;
+    return ovr ? { ...c, risk: ovr.risk, riskLabel: ovr.riskLabel, lastReviewed: ovr.lastReviewed } : c;
+  });
+
+  const critical = chokepoints.filter(c => c.risk === 'critical');
+  const high     = chokepoints.filter(c => c.risk === 'high');
+  const elevated = chokepoints.filter(c => c.risk === 'elevated');
+  const normal   = chokepoints.filter(c => c.risk === 'normal');
 
   return (
     <div className="max-w-4xl mx-auto space-y-8">
@@ -258,7 +264,7 @@ export default async function SupplyPage() {
           Current Route Status
         </h2>
         <div className="flex flex-wrap gap-3">
-          {CHOKEPOINTS.map(c => {
+          {chokepoints.map(c => {
             const s = RISK_STYLES[c.risk];
             return (
               <a key={c.id} href={`#${c.id}`}
