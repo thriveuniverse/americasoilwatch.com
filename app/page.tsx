@@ -59,6 +59,7 @@ export default async function HomePage() {
   const usPrices     = loadJSON<any>('us-prices.json');
   const analysis     = loadJSON<any>('analysis.json');
   const marad        = loadJSON<any>('marad-advisories.json');
+  const centcom      = loadJSON<any>('centcom-advisories.json');
   const crea         = loadJSON<any>('crea-feed.json');
   const wtiHistory   = loadJSON<{ entries: { date: string; priceUsd: number }[] }>('wti-history.json');
   const insights     = getAllInsights().slice(0, 3);
@@ -371,6 +372,41 @@ export default async function HomePage() {
                 </a>
               );
             })}
+          </div>
+          <div className="px-5 py-2 border-t border-oil-800/40 bg-oil-900/20">
+            <p className="text-[10px] text-gray-600">Source: US Maritime Administration (MARAD).</p>
+          </div>
+        </div>
+      )}
+
+      {/* CENTCOM snapshot */}
+      {centcom?.advisories?.length > 0 && (
+        <div className="rounded-lg border border-oil-800 bg-oil-900/20 overflow-hidden">
+          <div className="px-5 py-3 border-b border-oil-800/60 flex items-center justify-between">
+            <h2 className="text-xs font-mono font-semibold tracking-widest text-gray-500 uppercase">
+              CENTCOM Advisory Snapshot
+            </h2>
+            <span className="text-[10px] text-gray-600">Middle East maritime</span>
+          </div>
+          <div className="divide-y divide-oil-800/30">
+            {centcom.advisories.slice(0, 4).map((a: any) => {
+              const dot = { critical: 'bg-red-500', high: 'bg-orange-500', elevated: 'bg-amber-500', normal: 'bg-gray-500' }[a.severity as string] ?? 'bg-gray-500';
+              return (
+                <a key={a.id} href={a.url} target="_blank" rel="noopener noreferrer"
+                  className="flex items-center gap-3 px-5 py-2.5 hover:bg-oil-800/30 transition group">
+                  <div className={`w-1.5 h-1.5 rounded-full flex-shrink-0 ${dot}`} />
+                  <span className="text-xs text-gray-300 group-hover:text-white transition flex-1 truncate">
+                    {a.region}: {a.incident}
+                  </span>
+                  <span className="text-[10px] text-gray-600 flex-shrink-0">
+                    {new Date(a.publishedAt).toLocaleDateString('en-US', { day: 'numeric', month: 'short' })}
+                  </span>
+                </a>
+              );
+            })}
+          </div>
+          <div className="px-5 py-2 border-t border-oil-800/40 bg-oil-900/20">
+            <p className="text-[10px] text-gray-600">Source: U.S. Central Command via DVIDS.</p>
           </div>
         </div>
       )}
