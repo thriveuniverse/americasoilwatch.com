@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-28T08:25:21.287Z",
-  "weekEnding": "2026-04-20",
-  "gasolineUsdGal": 4.178,
-  "gasolineChangeUsdGal": -0.076,
-  "dieselUsdGal": 5.403,
-  "dieselChangeUsdGal": -0.205,
+  "lastUpdated": "2026-04-29T08:17:49.786Z",
+  "weekEnding": "2026-04-27",
+  "gasolineUsdGal": 4.257,
+  "gasolineChangeUsdGal": 0.079,
+  "dieselUsdGal": 5.351,
+  "dieselChangeUsdGal": -0.052,
   "dataSource": "US Energy Information Administration (EIA)"
 }
