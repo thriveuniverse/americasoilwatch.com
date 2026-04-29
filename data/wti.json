@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-29T08:17:45.091Z",
-  "priceUsd": 93.84,
-  "changeUsd": -10.7,
-  "changePct": -10.24,
-  "weekEnding": "2026-04-17",
-  "dataSource": "US Energy Information Administration (EIA)"
+  "lastUpdated": "2026-04-29T09:26:36.317Z",
+  "priceUsd": 103.51,
+  "changeUsd": 0,
+  "changePct": 0,
+  "weekEnding": "2026-04-29",
+  "dataSource": "Stooq (cl.f front-month)"
 }

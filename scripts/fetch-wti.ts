@@ -2,9 +2,14 @@
 /**
  * AmericasOilWatch — WTI Crude Price Fetcher
  * ===========================================
- * Primary source: Stooq (cl.f front-month futures, ~15 min delayed, CSV).
- * Fallback: Yahoo Finance (CL=F).
- * Fallback: EIA API (weekly RWTC Cushing spot) if EIA_API_KEY is set.
+ * Source chain (first non-null wins):
+ *   1. Stooq cl.f    — front-month WTI futures, intraday (~15 min delayed)
+ *   2. Stooq cl.c    — continuous contract; daily close. Catches the case where
+ *                      cl.f returns "N/D" from some IPs even when cb.f works.
+ *   3. Yahoo CL=F    — daily close
+ *   4. FRED DCOILWTICO — daily Cushing spot; reliably reachable from cloud IPs.
+ *                       ~3–5 business day lag. CSV, no API key required.
+ *   5. EIA RWTC weekly — last-resort weekly average if EIA_API_KEY is set.
  *
  * Day-over-day change is computed from wti-history.json. If the most recent
  * prior entry is more than 5 days old, change is set to 0 to avoid showing
@@ -22,12 +27,12 @@ const HISTORY_FILE = path.join(DATA_DIR, 'wti-history.json');
 interface HistoryEntry { date: string; priceUsd: number; }
 interface WtiHistory { lastUpdated: string; entries: HistoryEntry[]; }
 
-// ─── Primary: Stooq ──────────────────────────────────────────────────────────
+// ─── Stooq (cl.f front-month, then cl.c continuous as backup) ────────────────
 
-async function fetchFromStooq(): Promise<number | null> {
-  console.log('📈 Trying Stooq (cl.f)...');
+async function fetchFromStooqSymbol(symbol: string): Promise<number | null> {
+  console.log(`📈 Trying Stooq (${symbol})...`);
   try {
-    const res = await fetch('https://stooq.com/q/l/?s=cl.f&f=sd2t2ohlcv&h&e=csv', {
+    const res = await fetch(`https://stooq.com/q/l/?s=${symbol}&f=sd2t2ohlcv&h&e=csv`, {
       headers: { 'User-Agent': 'AmericasOilWatch/0.1' },
     });
     if (!res.ok) { console.log(`  ⚠️ Stooq returned ${res.status}`); return null; }
@@ -41,13 +46,16 @@ async function fetchFromStooq(): Promise<number | null> {
       console.log(`  ⚠️ Stooq returned invalid close: ${lines[1]}`);
       return null;
     }
-    console.log(`  ✅ Stooq WTI close: $${close.toFixed(2)}`);
+    console.log(`  ✅ Stooq WTI (${symbol}) close: $${close.toFixed(2)}`);
     return close;
   } catch (err: any) {
-    console.log(`  ⚠️ Stooq failed: ${err.message}`);
+    console.log(`  ⚠️ Stooq (${symbol}) failed: ${err.message}`);
     return null;
   }
 }
+
+const fetchFromStooq    = () => fetchFromStooqSymbol('cl.f');
+const fetchFromStooqAlt = () => fetchFromStooqSymbol('cl.c');
 
 // ─── Fallback 1: Yahoo Finance ───────────────────────────────────────────────
 
@@ -70,7 +78,36 @@ async function fetchFromYahoo(): Promise<number | null> {
   } catch { return null; }
 }
 
-// ─── Fallback 2: EIA API (weekly) ────────────────────────────────────────────
+// ─── Fallback 2: FRED (St. Louis Fed) — daily Cushing spot, no key needed ────
+
+async function fetchFromFRED(): Promise<number | null> {
+  console.log('📊 Falling back to FRED (DCOILWTICO daily Cushing spot)...');
+  try {
+    const res = await fetch('https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILWTICO', {
+      headers: { 'User-Agent': 'AmericasOilWatch/0.1' },
+    });
+    if (!res.ok) { console.log(`  ⚠️ FRED returned ${res.status}`); return null; }
+    const csv = await res.text();
+    const lines = csv.trim().split('\n');
+    // CSV is DATE,DCOILWTICO. Walk back from the last row to find a real value
+    // (FRED uses "." for unreleased days).
+    for (let i = lines.length - 1; i >= 1; i--) {
+      const cols = lines[i].split(',');
+      const v = parseFloat(cols[1]);
+      if (isFinite(v) && v > 0) {
+        console.log(`  ⚠️ FRED WTI (${cols[0]}): $${v.toFixed(2)} (used as fallback)`);
+        return v;
+      }
+    }
+    console.log('  ⚠️ FRED returned no usable rows');
+    return null;
+  } catch (err: any) {
+    console.log(`  ⚠️ FRED failed: ${err.message}`);
+    return null;
+  }
+}
+
+// ─── Fallback 3: EIA API (weekly) ────────────────────────────────────────────
 
 async function fetchFromEIA(): Promise<number | null> {
   const key = process.env.EIA_API_KEY;
@@ -151,7 +188,20 @@ async function main() {
     }
   }
 
-  const priceUsd = (await fetchFromStooq()) ?? (await fetchFromYahoo()) ?? (await fetchFromEIA());
+  const sources: Array<[string, () => Promise<number | null>]> = [
+    ['Stooq (cl.f front-month)',                   fetchFromStooq],
+    ['Stooq (cl.c continuous)',                    fetchFromStooqAlt],
+    ['Yahoo Finance (CL=F)',                       fetchFromYahoo],
+    ['FRED (DCOILWTICO daily Cushing)',            fetchFromFRED],
+    ['US Energy Information Administration (EIA)', fetchFromEIA],
+  ];
+
+  let priceUsd: number | null = null;
+  let dataSource = '';
+  for (const [label, fn] of sources) {
+    const v = await fn();
+    if (v !== null) { priceUsd = v; dataSource = label; break; }
+  }
   if (priceUsd === null) {
     console.error('❌ All WTI sources failed — not overwriting wti.json');
     process.exit(1);
@@ -178,7 +228,7 @@ async function main() {
     changeUsd,
     changePct,
     weekEnding:  today,
-    dataSource:  'Stooq (cl.f front-month)',
+    dataSource,
   };
 
   fs.writeFileSync(path.join(DATA_DIR, 'wti.json'), JSON.stringify(wti, null, 2));
