@@ -1,8 +1,256 @@
 {
-  "lastUpdated": "2026-04-30T08:22:14.877Z",
-  "summary": "• The Strait of Hormuz blockade is creating acute supply disruption risks with Brent crude rallying toward $120/barrel and fertilizer prices doubling, while alternative routes like the Panama Canal are absorbing redirected tanker traffic.\n\n• Middle East geopolitical escalation—including the Iran conflict destroying 1.6 million bpd of oil demand and Trump's conditioning of sanctions relief on nuclear negotiations—is driving sustained price volatility and months of expected market disruption.\n\n• Russian oil supply resilience remains intact despite ongoing drone strikes on production facilities, with OPEC+ cohesion holding as Moscow commits to the alliance, limiting upside relief from alternative producers like Venezuela and US LNG exports.",
-  "count": 83,
+  "lastUpdated": "2026-05-01T08:11:30.659Z",
+  "summary": "• Russian refinery and pumping station strikes by Ukraine are creating significant supply disruptions that contribute to widening global oil price premiums and Western Hemisphere cost pressures.\n\n• A net crude supply loss of 9 million barrels per day persists despite increased Atlantic exports, indicating severe geopolitical constraints on global supply availability are supporting higher prices across Americas markets.\n\n• Middle East escalation and Iran tensions are accelerating supply concerns that could further tighten Western Hemisphere crude availability, with California already experiencing $6+ gasoline as a harbinger of broader regional price volatility.",
+  "count": 82,
   "articles": [
+    {
+      "title": "Ukraine Hits Major Russian Refinery, Pumping Station",
+      "link": "https://www.rigzone.com/news/ukraine_hits_major_russian_refinery_pumping_station-01-may-2026-183583-article/?rss=true",
+      "date": "2026-05-01T07:48:48.000Z",
+      "source": "Rigzone",
+      "description": "<p>Ukrainian drones struck a major refinery deep inside Russia and again attacked an oil-pumping station nearby, further crippling Moscow's crude-processing cap...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil Prices Set for Another Weekly Gain as Supply Shock Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Another-Weekly-Gain-as-Supply-Shock-Deepens.html",
+      "date": "2026-05-01T07:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Crude oil prices may have retreated from the highs reached on Thursday, but they are still set for a strong weekly gain. At the time of writing, Brent crude was trading at 112.10 per barrel, and West Texas Intermediate was trading at 106.30, with the gap between the two benchmark",
+      "category": "Prices"
+    },
+    {
+      "title": "JDR wins umbilicals contract for East Coast Supply Project",
+      "link": "https://www.offshore-technology.com/news/jdr-umbilicals-contract-east-coast-supply-project/",
+      "date": "2026-05-01T07:02:21.000Z",
+      "source": "Offshore Technology",
+      "description": "JDR Cable Systems has secured a contract from Amplitude Energy (formerly Cooper Energy) to supply subsea control umbilicals for the East Coast Supply Project (ECSP) located offshore Victoria, Australia.",
+      "category": "General"
+    },
+    {
+      "title": "Woodside Struggles to Secure Buyers for U.S. LNG as Pricing Backfires",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Woodside-Struggles-to-Secure-Buyers-for-US-LNG-as-Pricing-Backfires.html",
+      "date": "2026-05-01T06:31:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Australia’s Woodside Energy is having trouble finding buyers for the liquefied natural gas it produces at its Louisiana LNG plant, Reuters has reported, citing unnamed sources. The reason is that Woodside is asking for higher liquefaction fees than other LNG exporters in the Unit",
+      "category": "Refinery"
+    },
+    {
+      "title": "Indian Oil Raises LPG and Jet Fuel Prices",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Oil-Raises-LPG-and-Jet-Fuel-Prices.html",
+      "date": "2026-05-01T05:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Indian Oil Co. has hiked the price of liquefied petroleum gas for local industrial users and the price of jet fuel, but only for foreign airlines, Reuters has reported, citing a company statement. LPG prices for household consumers were kept unchanged. For industrial consumers, h",
+      "category": "Prices"
+    },
+    {
+      "title": "UAE Break With OPEC Puts African Crude Exports At Risk",
+      "link": "https://oilprice.com/Energy/Energy-General/UAE-Break-With-OPEC-Puts-African-Crude-Exports-At-Risk.html",
+      "date": "2026-05-01T00:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "A couple of days ago, the United Arab Emirates announced that it will formally leave OPEC on May 1, with the Middle East oil giant becoming the latest country to cut ties with the organization in recent years. The UAE is among the world’s leading oil producers and OPEC’s third-la",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Chinese Researchers Test New Low-Cost Battery",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinese-Researchers-Test-New-Low-Cost-Battery.html",
+      "date": "2026-04-30T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "With oil and gas supply in a crunch, demand for alternatives has surged over the past two months. Analysts expect wind and solar to explode as countries seek to reduce their dependence on hydrocarbons that are now in short supply. For that to stand a chance of working, however, i",
+      "category": "General"
+    },
+    {
+      "title": "Middle East Crisis Accelerates Asia’s Electrification Drive",
+      "link": "https://oilprice.com/Energy/Energy-General/Middle-East-Crisis-Accelerates-Asias-Electrification-Drive.html",
+      "date": "2026-04-30T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Asia’s first knee-jerk reaction to the shock loss of crude supply from the Middle East was to fire up coal power plants, save fuel, and scour the global markets for alternative oil deliveries. While the Iran war and the Strait of Hormuz crisis prompted immediate measures to reduc",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "New Chinese Iron Battery Lasts 16 Years",
+      "link": "https://oilprice.com/Energy/Energy-General/New-Chinese-Iron-Battery-Lasts-16-Years.html",
+      "date": "2026-04-30T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Major innovation is needed to diversify the global battery sector. Lithium-ion batteries are taking over the world – you probably have a few within reach at this very moment in your rechargeable devices. And since China controls the world's lithium supply chains and dominates glo",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "California Gasoline Price Surges Above $6",
+      "link": "https://www.rigzone.com/news/california_gasoline_price_surges_above_6-30-apr-2026-183579-article/?rss=true",
+      "date": "2026-04-30T20:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Gasoline in California has topped $6 a gallon as the global energy crunch from the Iran war reverberates.</p> <p>The average statewide price for regular g...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil Settles Lower After Surge",
+      "link": "https://www.rigzone.com/news/oil_settles_lower_after_surge-30-apr-2026-183582-article/?rss=true",
+      "date": "2026-04-30T19:40:29.000Z",
+      "source": "Rigzone",
+      "description": "<p>Brent crude cooled off after ripping to a four-year high as the market braced for a protracted US war with Iran, in a session marked by machine-led trading a...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Repsol Holds Off on U.S. Listing for Upstream Unit Despite 2026 Plans",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Repsol-Holds-Off-on-US-Listing-for-Upstream-Unit-Despite-2026-Plans.html",
+      "date": "2026-04-30T19:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Repsol is holding off on its plans to list its upstream business in the United States, even as the unit is structurally ready to go public. Chief Executive Josu Jon Imaz said the company sees no urgency to move forward with an IPO or reverse merger in the near term, despite earli",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "$6 Gas in California Signals New Phase of the Global Energy Crunch",
+      "link": "https://oilprice.com/Energy/Energy-General/6-Gas-in-California-Signals-New-Phase-of-the-Global-Energy-Crunch.html",
+      "date": "2026-04-30T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The statewide average for 87-octane gasoline in California has topped $6 a gallon as the Iran-war-driven global energy crunch ripples across the West Coast, the hardest-hit U.S. region. Meanwhile, the national average remains above the politically sensitive $4-a-gallon threshold,",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "The $12 Billion Pipeline That Could Help Ease Europe’s Gas Crisis",
+      "link": "https://oilprice.com/Energy/Energy-General/The-12-Billion-Pipeline-That-Could-Help-Ease-Europes-Gas-Crisis.html",
+      "date": "2026-04-30T18:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Turkey has lost its imports of Iranian natural gas and is again looking to Turkmenistan to cover the gap. But Ashgabat appears to be prioritizing exports to China. The ongoing turmoil in the Persian Gulf has sent global gas prices soaring, a development that has inevitably led to",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Net Crude Supply Loss is 9 Million Bpd Despite Surge in Atlantic Exports: Vortex",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Net-Crude-Supply-Loss-is-9-Million-Bpd-Despite-Surge-in-Atlantic-Exports-Vortex.html",
+      "date": "2026-04-30T17:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Strait of Hormuz blockade has removed roughly 9 million barrels per day of crude supply from the global market, and replacement barrels are not keeping pace, according to a new report by Vortexa. U.S. Gulf Coast crude oil exports have reached record highs, although this has b",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "War Puts LNG Future in the Spotlight",
+      "link": "https://oilprice.com/Energy/Natural-Gas/War-Puts-LNG-Future-in-the-Spotlight.html",
+      "date": "2026-04-30T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Imports of liquefied natural gas into Asia last month slumped to the lowest in seven years. The reason, of course, was the war in the Middle East that has choked off about a quarter of global LNG supply, pushing prices higher and spurring a race for limited volumes. Most of those",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Trump Eyes More U.S. Oil Output as Iran War Squeezes Supply",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Eyes-More-US-Oil-Output-as-Iran-War-Squeezes-Supply.html",
+      "date": "2026-04-30T16:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The White House is weighing measures to increase U.S. oil output as supply disruptions tied to the Iran war continue to tighten the market. “We’ve been in constant communication with the oil companies, and have been considering measures that we could take here in the U.S. to incr",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "OPEC+ Delegates Expect Another Symbolic Supply Hike",
+      "link": "https://www.rigzone.com/news/opec_delegates_expect_another_symbolic_supply_hike-30-apr-2026-183577-article/?rss=true",
+      "date": "2026-04-30T16:00:01.000Z",
+      "source": "Rigzone",
+      "description": "<p>OPEC+ is likely to agree another symbolic production increase for June, in the group’s first move since the surprise departure of the United Arab Emirates, t...",
+      "category": "Policy"
+    },
+    {
+      "title": "UK Airlines Race to Secure Jet Fuel as Summer Travel Crisis Looms",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Airlines-Race-to-Secure-Jet-Fuel-as-Summer-Travel-Crisis-Looms.html",
+      "date": "2026-04-30T16:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The government is scrambling to secure UK airlines’ emergency access to jet fuel as global shipments fall to their lowest level on record. Global shipments of jet fuel have fallen to their lowest level on record, as the blockage to the Strait of Hormuz threatens to suffocate supp",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "ENEOS Takes 10% Stake in Malaysia LNG Tiga in New Deal With Petronas",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ENEOS-Takes-10-Stake-in-Malaysia-LNG-Tiga-in-New-Deal-With-Petronas.html",
+      "date": "2026-04-30T15:29:00.000Z",
+      "source": "OilPrice.com",
+      "description": "One of Japan’s biggest energy firms, ENEOS, is re-entering the joint venture operating the Malaysia LNG Tiga project with a 10% stake under a deal it has signed with Malaysia’s state oil and gas firm Petronas. ENEOS Xplora and Petronas on Thursday signed the definitive agreements",
+      "category": "General"
+    },
+    {
+      "title": "Brent reverses from 2022 high as Strait of Hormuz remains shut",
+      "link": "https://www.offshore-technology.com/news/brent-reverses-high-strait-of-hormuz/",
+      "date": "2026-04-30T14:04:48.000Z",
+      "source": "Offshore Technology",
+      "description": "Global oil prices reversed course on 30 April after Brent crude briefly touched $126.41 a barrel, its highest level since March 2022, driven by fears of a prolonged Strait of Hormuz oil supply disruption.",
+      "category": "Prices"
+    },
+    {
+      "title": "USA Crude Oil Inventories Drop More Than 6MM Barrels WoW",
+      "link": "https://www.rigzone.com/news/usa_crude_oil_inventories_drop_more_than_6mm_barrels_wow-30-apr-2026-183581-article/?rss=true",
+      "date": "2026-04-30T14:00:12.000Z",
+      "source": "Rigzone",
+      "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), decreased by 6.2 million barrels from the week ending April ...",
+      "category": "Production"
+    },
+    {
+      "title": "BP signs MoU with Venezuela for Cocuina-Manakin gas project",
+      "link": "https://www.offshore-technology.com/news/bp-venezuela-cocuina-manakin-gas-project/",
+      "date": "2026-04-30T13:53:13.000Z",
+      "source": "Offshore Technology",
+      "description": "BP has agreed to develop the Cocuina-Manakin offshore gas field, which sits on the maritime border between Venezuela and Trinidad and Tobago.",
+      "category": "General"
+    },
+    {
+      "title": "European Commission Completes Inaugural Hydrogen Matchmaking Round",
+      "link": "https://www.rigzone.com/news/european_commission_completes_inaugural_hydrogen_matchmaking_round-30-apr-2026-183580-article/?rss=true",
+      "date": "2026-04-30T13:24:26.000Z",
+      "source": "Rigzone",
+      "description": "<p>The European Commission said Tuesday the maiden roll-out of a matchmaking platform for hydrogen supply had been successful.</p> <p>The Hydrogen Mechanism,...",
+      "category": "General"
+    },
+    {
+      "title": "CNOOC Ltd Logs Higher Q1 Profit",
+      "link": "https://www.rigzone.com/news/cnooc_ltd_logs_higher_q1_profit-30-apr-2026-183578-article/?rss=true",
+      "date": "2026-04-30T12:40:35.000Z",
+      "source": "Rigzone",
+      "description": "<p>CNOOC Ltd, majority-owned by China National Offshore Oil Corp, has reported CNY 39.14 billion ($5.72 billion) in net income for the first quarter, up 7.1 per...",
+      "category": "General"
+    },
+    {
+      "title": "Top 20 themes shaping the oil and gas industry in 2026",
+      "link": "https://www.offshore-technology.com/analyst-comment/top-20-themes-oil-gas-industry-2026/",
+      "date": "2026-04-30T12:39:54.000Z",
+      "source": "Offshore Technology",
+      "description": "In this report, GlobalData identifies the top 20 themes that will impact the oil and gas industry in 2026.",
+      "category": "General"
+    },
+    {
+      "title": "Could This be the Beginning of the End for OPEC?",
+      "link": "https://www.rigzone.com/news/could_this_be_the_beginning_of_the_end_for_opec-30-apr-2026-183576-article/?rss=true",
+      "date": "2026-04-30T11:37:31.000Z",
+      "source": "Rigzone",
+      "description": "<p>How will the United Arab Emirates’s (UAE) decision to withdraw from OPEC affect the global oil market and the OPEC+ group? Could this be the beginning of the...",
+      "category": "Prices"
+    },
+    {
+      "title": "EU Allows Broader State Aids to Protect Industries from Energy Volatility",
+      "link": "https://www.rigzone.com/news/eu_allows_broader_state_aids_to_protect_industries_from_energy_volatility-30-apr-2026-183575-article/?rss=true",
+      "date": "2026-04-30T10:41:02.000Z",
+      "source": "Rigzone",
+      "description": "<p>The European Commission said Thursday it is relaxing limits on state support measures to cushion \"the most exposed\" businesses from energy price spikes broug...",
+      "category": "Prices"
+    },
+    {
+      "title": "Goldman Sachs tops oil and gas M&A rankings by value in Q1 2026",
+      "link": "https://www.offshore-technology.com/news/oil-and-gas-ma-value-q1-2026/",
+      "date": "2026-04-30T09:55:41.000Z",
+      "source": "Offshore Technology",
+      "description": "Goldman Sachs and Evercore led oil and gas mergers and acquisitions (M&A) advisory rankings in the first quarter of Q1 2026 (Q1 2026), according to GlobalData’s latest league tables.",
+      "category": "General"
+    },
+    {
+      "title": "BW Offshore enters FPSO FEED deal with Equinor for Bay du Nord",
+      "link": "https://www.offshore-technology.com/news/bw-offshore-fpso-feed-deal-equinor/",
+      "date": "2026-04-30T09:49:44.000Z",
+      "source": "Offshore Technology",
+      "description": "BW Offshore has entered into a front-end engineering and design (FEEd) agreement with Equinor for the Bay du Nord project, located offshore Newfoundland and Labrador in Canada.",
+      "category": "General"
+    },
+    {
+      "title": "Oil Prices Surge Amid Increasing Geopolitical Concerns",
+      "link": "https://www.rigzone.com/news/oil_prices_surge_amid_increasing_geopolitical_concerns-30-apr-2026-183574-article/?rss=true",
+      "date": "2026-04-30T09:48:38.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil prices surged amid increasing concerns about the geopolitical situation in the Middle East, Daniel Takieddine, Co-Founder and CEO of Sky Links Capital Gr...",
+      "category": "Geopolitics"
+    },
     {
       "title": "Iberdrola Posts Higher Adjusted Profit on UK Power Growth",
       "link": "https://www.rigzone.com/news/iberdrola_posts_higher_adjusted_profit_on_uk_power_growth-30-apr-2026-183573-article/?rss=true",
@@ -10,14 +258,6 @@
       "source": "Rigzone",
       "description": "<p>Iberdrola on Wednesday reported EUR 1.87 billion ($2.18 billion) in net profit adjusted for nonrecurring items for the first quarter (1Q), up 11.4 percent fr...",
       "category": "General"
-    },
-    {
-      "title": "Wall Street Giants Circle Shell’s $15 Billion LNG Canada Stake",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Wall-Street-Giants-Circle-Shells-15-Billion-LNG-Canada-Stake.html",
-      "date": "2026-04-30T08:15:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Three of the largest asset management firms are competing for Shell’s interest in the LNG Canada project, with price tag estimates ranging between $10 billion and $15 billion, Reuters reported, citing unnamed sources familiar with the matter. KKR, Apollo Management, and Blackston",
-      "category": "Prices"
     },
     {
       "title": "Trump Insists on Nuclear Deal before Lifting Hormuz Blockade",
@@ -28,59 +268,19 @@
       "category": "Geopolitics"
     },
     {
-      "title": "The Iran War Has Already Destroyed 1.6 Million Bpd in Oil Demand",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/The-Iran-War-Has-Already-Destroyed-16-Million-Bpd-in-Oil-Demand.html",
-      "date": "2026-04-30T07:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The war in the Middle East and the oil price surge it caused have destroyed 1.6 million barrels daily in demand, ING commodity analysts said in a note today, adding that this is nowhere near the rate of supply destruction. This has been estimated at between 13 million bpd and 14 ",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Japan Weighs $3 Billion Power Subsidies as LNG Crunch Bites",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Weighs-3-Billion-Power-Subsidies-as-LNG-Crunch-Bites.html",
-      "date": "2026-04-30T06:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Japanese government is considering a round of subsidies for electricity for a period of three months, Reuters reported today, citing unnamed sources. The price tag of the subsidies is seen at the equivalent of $3.1 billion. If approved, the subsidies will take effect in July ",
-      "category": "Prices"
-    },
-    {
-      "title": "Brent Breaks $113 as Traders Brace for Months of Disruption",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Continue-to-Climb-as-Traders-Brace-for-Months-of-Disruption.html",
-      "date": "2026-04-30T03:33:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil prices continued to climb in early Asian trade on Thursday, with traders pricing in a prolonged disruption to Middle East supply flows as inventories continue to shrink. Brent crude for July delivery climbed to $113.09, up 2.65%, while West Texas Intermediate rose 2.28% to tr",
-      "category": "Prices"
-    },
-    {
-      "title": "China's Rare Earth Leverage Explained in 3 Shocking Charts",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Rare-Earth-Leverage-Explained-in-3-Shocking-Charts.html",
-      "date": "2026-04-30T01:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Failed peace talks and the ongoing disruption at the Strait of Hormuz reminded the world what a chokepoint looks like. Oil spiked. The Dow dropped. Investors scrambled for safe havens. Then, just as quickly, the tension eased again. This kind of week forces a question: what other",
+      "title": "TotalEnergies Q1 2026 net income jumps 48.7% to $5.8bn",
+      "link": "https://www.offshore-technology.com/news/totalenergies-q1-2026-net-income-5-8bn/",
+      "date": "2026-04-30T07:18:21.000Z",
+      "source": "Offshore Technology",
+      "description": "TotalEnergies reported net income of $5.8bn for the first quarter (Q1) of 2026, up 48.7% from $3.9bn a year earlier.",
       "category": "General"
     },
     {
-      "title": "California Refineries Max Out Jet Fuel While Gasoline Starves",
-      "link": "https://oilprice.com/Energy/Energy-General/California-Refineries-Max-Out-Jet-Fuel-While-Gasoline-Starves.html",
-      "date": "2026-04-29T23:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "California is one of the places where fuel prices have long traded above global averages, but the current crisis is pushing that premium into uncharted territory. A steadily shrinking refining base and declining domestic oil production had already tightened the system. However, t",
-      "category": "Refinery"
-    },
-    {
-      "title": "Oil Rallies Toward $120 As Middle East Supply Risks Spiral",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Rallies-Toward-120-As-Middle-East-Supply-Risks-Spiral.html",
-      "date": "2026-04-29T22:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil prices extended their rally on Wednesday after reports emerged that the U.S. will tighten its blockade on Iranian ports, prolonging fears of reduced oil supply from the region, and as the UAE hit markets with its OPEC-exit announcement. Brent crude for June delivery jumped 6.",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Fertilizer Prices Have Doubled Since the Strait Closed",
-      "link": "https://oilprice.com/Energy/Energy-General/Fertilizer-Prices-Have-Doubled-Since-the-Strait-Closed.html",
-      "date": "2026-04-29T21:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The blockage of the Strait of Hormuz is causing a much larger problem than just a global energy crisis. While oil and gas are critical to energy security for nearly every country on Earth, petroleum is also at the heart of global food systems. A crude oil shortage is also a ferti",
+      "title": "New episode: batteries and beyond, emerging energy storage solutions",
+      "link": "https://www.offshore-technology.com/news/new-episode-emerging-energy-storage-solutions-3/",
+      "date": "2026-04-30T07:10:00.000Z",
+      "source": "Offshore Technology",
+      "description": "This episode of Energy Technology explores the energy storage market's outlook, the risks and a new wave of innovations.",
       "category": "Prices"
     },
     {
@@ -92,67 +292,11 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Hormuz Blockage Boosts Panama Canal Oil Tanker Traffic",
-      "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Blockage-Boosts-Panama-Canal-Oil-Tanker-Traffic.html",
-      "date": "2026-04-29T20:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil tanker traffic through the Panama Canal has jumped in recent weeks as Asia scrambles to buy U.S. crude amid choked supply from the Middle East. The Panama Canal, the fastest route for American energy exports to Asia on smaller vessels, is at its busiest for U.S. crude exports",
-      "category": "Supply Routes"
-    },
-    {
       "title": "Oil Surges as Hormuz Blockade Bites",
       "link": "https://www.rigzone.com/news/oil_surges_as_hormuz_blockade_bites-29-apr-2026-183571-article/?rss=true",
       "date": "2026-04-29T19:50:57.000Z",
       "source": "Rigzone",
       "description": "<p>Oil surged to the highest since June 2022, with no end in sight to the US-Iran conflict or choked-off energy flows through the Strait of Hormuz, heightening ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Venezuelan Crude Will Eventually Lower US Gas Prices: Chevron Exec",
-      "link": "https://oilprice.com/Energy/Energy-General/Venezuelan-Crude-Will-Eventually-Lower-US-Gas-Prices-Chevron-Exec.html",
-      "date": "2026-04-29T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The current average price for gasoline in the US is $4.17 per gallon, according to AAA’s April 28 data. That’s 15 cents higher than a week ago and $1.02 more than the year-ago average, or a 32% increase. President Trump recently said he expects higher gas prices to last until at ",
-      "category": "Prices"
-    },
-    {
-      "title": "Military Spending Soars in Armenia and Azerbaijan Despite Peace Agreement",
-      "link": "https://oilprice.com/Geopolitics/Asia/Military-Spending-Soars-in-Armenia-and-Azerbaijan-Despite-Peace-Agreement.html",
-      "date": "2026-04-29T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "They may have agreed on a provisional peace agreement last August, but Armenia and Azerbaijan nevertheless each had some of the highest military spending as a share of GDP in the world in 2025, according to data compiled by the Stockholm International Peace Research Institute. Az",
-      "category": "General"
-    },
-    {
-      "title": "Another Russian Oil Facility Struck As Zelensky Touts Drone Capabilities",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Another-Russian-Oil-Facility-Struck-As-Zelensky-Touts-Drone-Capabilities.html",
-      "date": "2026-04-29T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "A major fire reportedly broke out on Wednesday at a Russian oil pumping station in the Perm region in the Ural Mountains in a suspected drone attack just a day after Ukrainian President Volodymyr Zelenskyy touted the increasing range and accuracy of Ukrainian drones. Ukraine’s Se",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Pakistan PM: Oil Import Costs Up 167% Since Iran War Began",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-PM-Oil-Import-Costs-Up-167-Since-Iran-War-Began.html",
-      "date": "2026-04-29T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Pakistan’s Prime Minister Shehbaz Sharif announced on Wednesday that the country’s oil import bill has jumped 167% to $800 million per week amid the war in Iran from around $300 million weekly before the conflict began. Brent crude for June delivery was trading at $114.75 per bar",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "UK Faces Recession Risk as Iran War Threatens Growth and Inflation",
-      "link": "https://oilprice.com/Geopolitics/Europe/UK-Faces-Recession-Risk-as-Iran-War-Threatens-Growth-and-Inflation.html",
-      "date": "2026-04-29T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The UK risks finding itself on the brink of recession as a result of the Iran war, a leading economics think tank has warned, as the potential damage to Rachel Reeves’ fiscal headroom and the threat of interest rates hikes has been laid bare in a new report. In what will come as ",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Phillips 66 Beats Q1 Estimates by $0.88 Per Share as Refining Margins Surge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Phillips-66-Beats-Q1-Estimates-by-088-Per-Share-as-Refining-Margins-Surge.html",
-      "date": "2026-04-29T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "In an earnings season highlighted by a Middle East conflict that has sent oil prices soaring, Texas oil refiner Phillips 66 (NYSE:PSX) has reported first quarter adjusted earnings of $0.49 per share, easily beating Wall Street's consensus of a loss of $0.39 while net income came ",
       "category": "Geopolitics"
     },
     {
@@ -228,35 +372,11 @@
       "category": "Prices"
     },
     {
-      "title": "Petro Victory confirms 72m gas pay at SJ-12 well in São João field",
-      "link": "https://www.offshore-technology.com/news/petro-victory-72m-gas-pay-sj-12-well-sao-joao/",
-      "date": "2026-04-29T09:45:09.000Z",
-      "source": "Offshore Technology",
-      "description": "Petro Victory Energy has identified 72m of gas pay within a 280m gross hydrocarbon interval at its 7-SJ-12DA-MA well (SJ-12) at its 100% owned São João field in Barreirinhas Basin, Brazil.",
-      "category": "General"
-    },
-    {
-      "title": "UAE to quit OPEC, opening door to higher output outside quotas",
-      "link": "https://www.offshore-technology.com/news/uae-to-quit-opec-higher-output-outside/",
-      "date": "2026-04-29T09:39:18.000Z",
-      "source": "Offshore Technology",
-      "description": "The United Arab Emirates (UAE) has announced its decision to leave the Organisation of the Petroleum Exporting Countries (OPEC), effective 1st May 2026.",
-      "category": "Supply Routes"
-    },
-    {
       "title": "UAE Withdraws from OPEC, OPEC+",
       "link": "https://www.rigzone.com/news/uae_withdraws_from_opec_opec-29-apr-2026-183562-article/?rss=true",
       "date": "2026-04-29T09:32:49.000Z",
       "source": "Rigzone",
       "description": "<p>In a statement posted on its X page on Tuesday, which was translated from Arabic, the United Arab Emirates (UAE) Ministry of Energy and Infrastructure announ...",
-      "category": "General"
-    },
-    {
-      "title": "BP reports 453% surge in net profit to $3.8bn in Q1 2026",
-      "link": "https://www.offshore-technology.com/news/bp-q1-2026-net-profit-3-8bn/",
-      "date": "2026-04-29T07:42:01.000Z",
-      "source": "Offshore Technology",
-      "description": "BP reported a net profit attributable to its shareholders of $3.8bn for the first quarter (Q1) of 2026, an increase of 453.1% from $687m in the same period of 2025.",
       "category": "General"
     },
     {
@@ -316,36 +436,12 @@
       "category": "General"
     },
     {
-      "title": "Mongolia approves Jade Gas appraisal report for TTCBM project",
-      "link": "https://www.offshore-technology.com/news/mongolia-approves-jade-gas-ttcbm-project/",
-      "date": "2026-04-28T13:10:30.000Z",
-      "source": "Offshore Technology",
-      "description": "Jade Gas has received approval from the MRPAM for the Tavan Tolgoi Coal Bed Methane (TTCBM) project’s appraisal report.",
-      "category": "General"
-    },
-    {
-      "title": "Greenland Energy signs Halliburton for Jameson Land Basin drilling",
-      "link": "https://www.offshore-technology.com/news/greenland-energy-halliburton-jameson-basin-drilling/",
-      "date": "2026-04-28T12:57:58.000Z",
-      "source": "Offshore Technology",
-      "description": "Greenland Energy has formalised an agreement with Halliburton to secure integrated consulting and logistical management services for its onshore drilling campaign in the Jameson Land Basin in Greenland.",
-      "category": "Production"
-    },
-    {
       "title": "BP More Than Doubles Profit on 'Exceptional' Oil Trading",
       "link": "https://www.rigzone.com/news/bp_more_than_doubles_profit_on_exceptional_oil_trading-28-apr-2026-183554-article/?rss=true",
       "date": "2026-04-28T12:13:56.000Z",
       "source": "Rigzone",
       "description": "<p>BP PLC on Tuesday reported $3.2 billion in underlying replacement cost (RC) profit, its version of net income adjusted for nonrecurring items, for the first ...",
       "category": "Prices"
-    },
-    {
-      "title": "Tersis and Vivum pursue first UK modular waste‑to‑energy plant",
-      "link": "https://www.offshore-technology.com/news/tersis-and-vivum-pursue-first-uk-modular-waste-to-energy-plant/",
-      "date": "2026-04-28T11:01:01.000Z",
-      "source": "Offshore Technology",
-      "description": "Tersis Technologies and Vivum Intelligent Media have signed a non-binding MOU to deploy a modular waste‑to‑energy system in the UK.",
-      "category": "Refinery"
     },
     {
       "title": "Shell to Buy ARC in $16B Deal",
@@ -362,22 +458,6 @@
       "source": "Rigzone",
       "description": "<p>In a market analysis sent to Rigzone on Tuesday, Naeem Aslam, CIO Zaye Capital Markets, highlighted that Brent crude was holding strong “as the market correc...",
       "category": "Prices"
-    },
-    {
-      "title": "Finder Energy mobilises resources to fast-track KTJ oil project",
-      "link": "https://www.offshore-technology.com/news/finder-energy-fast-track-ktj-project/",
-      "date": "2026-04-28T10:01:02.000Z",
-      "source": "Offshore Technology",
-      "description": "Finder Energy has announced the mobilisation of “significant resources” to fast-track the timeline of its flagship Kuda Tasi and Jahal (KTJ) project located offshore Timor-Leste.",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Camuzzi and Vitol sign MoU for LNG del Plata project in Argentina",
-      "link": "https://www.offshore-technology.com/news/camuzzi-vitol-mou-lng-del-plata-project/",
-      "date": "2026-04-28T09:49:27.000Z",
-      "source": "Offshore Technology",
-      "description": "Camuzzi Gas Inversora has signed a memorandum of understanding (MoU) with Vitol regarding its LNG del Plata project in Argentina, under which the commodity trading company may purchase the facility’s entire output and consider taking an equity stake.",
-      "category": "Refinery"
     },
     {
       "title": "Meta Agrees Offtakes with Space Solar, Long-Duration Storage Startups",
@@ -578,94 +658,6 @@
       "source": "Rigzone",
       "description": "<p>Hornbeck Offshore Services Inc and Helix Energy Solutions Group Inc have signed an agreement to combine via an all-stock transaction.</p> <p>Hornbeck will...",
       "category": "General"
-    },
-    {
-      "title": "BP's New Leadership Suffers Shareholder Revolt",
-      "link": "https://www.rigzone.com/news/bps_new_leadership_suffers_shareholder_revolt-23-apr-2026-183524-article/?rss=true",
-      "date": "2026-04-23T21:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>BP Plc faced a shareholder backlash at its annual general meeting as investors rejected two resolutions supported by management and Chairman Albert Manifold ...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Crude Jumps as Hormuz Tensions Rise",
-      "link": "https://www.rigzone.com/news/crude_jumps_as_hormuz_tensions_rise-23-apr-2026-183526-article/?rss=true",
-      "date": "2026-04-23T19:58:44.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil jumped amid fresh signs of escalation in the Iran war, dimming prospects for an imminent resumption of flows through the Strait of Hormuz.</p> <p>West...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Martin MLP Walks Back Profit Guidance as Losses Deepen",
-      "link": "https://www.rigzone.com/news/martin_mlp_walks_back_profit_guidance_as_losses_deepen-23-apr-2026-183525-article/?rss=true",
-      "date": "2026-04-23T15:45:58.000Z",
-      "source": "Rigzone",
-      "description": "<p>Martin Midstream Partners LP (MMLP) on Wednesday pulled down its projection for adjusted EBITDA for 2026 to $90 million as net losses piled up from $1 millio...",
-      "category": "General"
-    },
-    {
-      "title": "Top Oil Refinery Ramps Up Jet Fuel",
-      "link": "https://www.rigzone.com/news/top_oil_refinery_ramps_up_jet_fuel-23-apr-2026-183523-article/?rss=true",
-      "date": "2026-04-23T14:35:50.000Z",
-      "source": "Rigzone",
-      "description": "<p>Europe’s biggest oil refinery is working flat out to produce jet fuel as concern mounts that the Middle East conflict will lead to shortages.</p> <p>Shell...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "USA Crude Oil Stocks Rise Almost 2MM Barrels WoW",
-      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_rise_almost_2mm_barrels_wow-23-apr-2026-183522-article/?rss=true",
-      "date": "2026-04-23T14:16:35.000Z",
-      "source": "Rigzone",
-      "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), increased by 1.9 million barrels from the week ending April ...",
-      "category": "Production"
-    },
-    {
-      "title": "Kinder Morgan Raises Dividend",
-      "link": "https://www.rigzone.com/news/kinder_morgan_raises_dividend-23-apr-2026-183521-article/?rss=true",
-      "date": "2026-04-23T13:15:34.000Z",
-      "source": "Rigzone",
-      "description": "<p>Kinder Morgan Inc on Wednesday reported a 39 percent year-on-year increase to $1.06 billion in adjusted net profit for the first quarter (Q1) and declared $0...",
-      "category": "General"
-    },
-    {
-      "title": "QatarEnergy, ExxonMobil Ship 1st Cargo from Texas LNG Project",
-      "link": "https://www.rigzone.com/news/qatarenergy_exxonmobil_ship_1st_cargo_from_texas_lng_project-23-apr-2026-183520-article/?rss=true",
-      "date": "2026-04-23T11:32:34.000Z",
-      "source": "Rigzone",
-      "description": "<p>Golden Pass LNG, designed to export about 18 million metric tons per annum (MMtpa), has dispatched its inaugural cargo.</p> <p>\"Marking an important step ...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Hormuz 'Reopening Optimism' Is 'Sliding Fast', Analyst Warns",
-      "link": "https://www.rigzone.com/news/hormuz_reopening_optimism_is_sliding_fast_analyst_warns-23-apr-2026-183519-article/?rss=true",
-      "date": "2026-04-23T11:03:18.000Z",
-      "source": "Rigzone",
-      "description": "<p>“Reopening optimism” for the Strait of Hormuz is “sliding fast”, according to Skandinaviska Enskilda Banken AB (SEB) Chief Commodities Analyst Bjarne Schield...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Santos Q1 Revenue Up YoY",
-      "link": "https://www.rigzone.com/news/santos_q1_revenue_up_yoy-23-apr-2026-183518-article/?rss=true",
-      "date": "2026-04-23T09:55:19.000Z",
-      "source": "Rigzone",
-      "description": "<p>Santos Ltd on Thursday reported $1.27 billion in sales revenue for the first quarter (Q1), up 3 percent from the prior three-month period thanks to higher li...",
-      "category": "General"
-    },
-    {
-      "title": "UK Energy Sec Says North Sea Is an 'Important Resource'",
-      "link": "https://www.rigzone.com/news/uk_energy_sec_says_north_sea_is_an_important_resource-23-apr-2026-183517-article/?rss=true",
-      "date": "2026-04-23T09:32:21.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a speech made at the Good Growth Foundation’s National Growth Debate this week, UK Energy Secretary Ed Miliband said the North Sea is an “important resour...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Hormuz Stalls after Iran Made First Ship Seizures",
-      "link": "https://www.rigzone.com/news/hormuz_stalls_after_iran_made_first_ship_seizures-23-apr-2026-183516-article/?rss=true",
-      "date": "2026-04-23T07:13:20.000Z",
-      "source": "Rigzone",
-      "description": "<p>Traffic through the Strait of Hormuz ground to a halt on Thursday after Iran fired on commercial ships and said it had seized at least two vessels - a first ...",
-      "category": "Geopolitics"
     }
   ]
 }
