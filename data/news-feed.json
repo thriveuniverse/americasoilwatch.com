@@ -1,8 +1,88 @@
 {
-  "lastUpdated": "2026-05-03T08:01:19.038Z",
-  "summary": "• Mexico's Pemex faces operational vulnerability following a major oil spill, threatening production reliability in a key Western Hemisphere supplier at a time of global supply tightness.\n\n• Ongoing Iran nuclear negotiations and Hormuz Strait tensions create acute geopolitical risk to crude flows, with potential for significant supply disruption if diplomatic deadlock escalates to military confrontation.\n\n• Russia's elevated oil revenues and continued Black Sea port attacks by Ukraine, combined with Syria's energy dependence on Russian supply, signal sustained disruption risks to Eastern Hemisphere production that could redirect global supply competition toward Western Hemisphere crude.",
-  "count": 81,
+  "lastUpdated": "2026-05-04T08:29:36.200Z",
+  "summary": "• Strait of Hormuz disruptions and geopolitical tensions with Iran pose acute supply route risks for global oil flows, with Trump administration engagement efforts and war-powers deadlines creating uncertainty around resolution timelines.\n\n• Mexican production faces structural headwinds from Pemex's operational challenges including a major oil spill, while Canadian supply expansion through new pipeline approvals offers partial Western Hemisphere offset but faces renewable energy policy resistance.\n\n• Russia and China are capturing market share through alternative supply arrangements as Asia experiences fuel shortages, with OPEC+ output increases and global energy system stress potentially creating volatile price swings that affect investment decisions across the Americas.",
+  "count": 83,
   "articles": [
+    {
+      "title": "US to Guide Trapped Ships through Hormuz",
+      "link": "https://www.rigzone.com/news/us_to_guide_trapped_ships_through_hormuz-04-may-2026-183596-article/?rss=true",
+      "date": "2026-05-04T07:47:37.000Z",
+      "source": "Rigzone",
+      "description": "<p>President Donald Trump said the US will begin guiding some neutral ships trapped in the Persian Gulf out through the Strait of Hormuz starting Monday.</p> ...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "EU Issues New $704MM Funding Call for Cross-Border Energy Projects",
+      "link": "https://www.rigzone.com/news/eu_issues_new_704mm_funding_call_for_crossborder_energy_projects-04-may-2026-183595-article/?rss=true",
+      "date": "2026-05-04T07:38:34.000Z",
+      "source": "Rigzone",
+      "description": "<p>The European Commission has launched a funding call for more cross-border energy projects, with an indicative budget of EUR 600 million ($703.59 million).</p...",
+      "category": "General"
+    },
+    {
+      "title": "Russian Oil Cargo Set to Arrive in Japan Amid Supply Strains",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Oil-Cargo-Set-to-Arrive-in-Japan-Amid-Supply-Strains.html",
+      "date": "2026-05-04T07:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "A Russian tanker carrying crude from Sakhalin Island is set to arrive in Japan today in the latest sign energy-strapped importers are intent on securing any supply they can find, even from sanctioned suppliers. In fairness, the Sakhalin-2 project has been exempted from sanctions ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Australia and Japan Deepen Energy Ties With New Supply Chain Pact",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-and-Japan-Deepen-Energy-Ties-With-New-Supply-Chain-Pact.html",
+      "date": "2026-05-04T06:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The prime ministers of Australia and Japan today inked an energy cooperation agreement that also covers critical mineral supply. Australia is a leading supplier of energy commodities to resource-poor Japan and the top supplier of liquefied natural gas, Reuters noted in a report o",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Oil Prices Fall as Trump Launches “Project Freedom” and OPEC+ Increases Output",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Launches-Project-Freedom-and-OPEC-Increases-Output.html",
+      "date": "2026-05-04T01:40:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Oil prices edged lower in early Asian trading on Monday after President Trump announced the U.S. would guide ships through the Strait of Hormuz and OPEC+ confirmed a modest output increase. At the time of writing, WTI crude was down 0.65% at $101.30, while Brent crude had dropped",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Big Oil Begins Return to Canada amid Energy Crunch",
+      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Begins-Return-to-Canada-amid-Energy-Crunch.html",
+      "date": "2026-05-03T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "For about ten years, Big Oil moved away from Canada’s oil sands and into cheaper, more easily developed—and less regulated—locations. Now, the supermajors are returning, looking for a piece of an energy industry that just got a lot more attractive. Last week, Shell said it would ",
+      "category": "General"
+    },
+    {
+      "title": "Trump Approves \"Keystone Light\" Canada-U.S. Oil Pipeline",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Trump-Approves-Keystone-Light-Canada-US-Oil-Pipeline.html",
+      "date": "2026-05-03T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Last month, we reported that Bridger Pipeline LLC has proposed a giant pipeline with a capacity in excess of 1 million barrels per day (bpd) to transport Canadian crude into the United States. Dubbed \"Keystone Light\" due to its similarities to the Keystone XL project that former ",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "USGS Finds 328 Years of Lithium Imports Buried in Appalachia",
+      "link": "https://oilprice.com/Energy/Energy-General/USGS-Finds-328-Years-of-Lithium-Imports-Buried-in-Appalachia.html",
+      "date": "2026-05-03T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "America's worrisome dependency on foreign sources of lithium could become a thing of the past: About 328 years' worth of last year's lithium imports is buried in Appalachia, according to a new analysis published by the US Geological Survey (USGS). That's about 2.3 million metric ",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Trump’s Renewable Energy Crackdown Hits Legal Wall",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Renewable-Energy-Crackdown-Hits-Legal-Wall.html",
+      "date": "2026-05-03T15:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Over the last year, U.S. President Donald Trump has taken aim at the renewable energy industry, in an attempt to scale back efforts to undergo a green transition. Trump has instead favoured the expansion of the oil, gas, and coal industries, as well as the development of nuclear ",
+      "category": "General"
+    },
+    {
+      "title": "Seplat Raises Q1 Dividend on Robust Oil Price Outlook",
+      "link": "https://www.rigzone.com/news/seplat_raises_q1_dividend_on_robust_oil_price_outlook-03-may-2026-183593-article/?rss=true",
+      "date": "2026-05-03T11:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Seplat Energy PLC has increased its dividend per share by 8 percent quarter-on-quarter and 96 percent year-on-year to $0.09 on projected \"strong cash flows\" ...",
+      "category": "Prices"
+    },
     {
       "title": "Hormuz Deadlock Persists as Trump Faces War-Powers Deadline at Home",
       "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Deadlock-Persists-as-Trump-Faces-War-Powers-Deadline-at-Home.html",
@@ -92,52 +172,12 @@
       "category": "Supply Routes"
     },
     {
-      "title": "US Oil Drillers See Modest Uptick in Activity",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-See-Modest-Uptick-in-Activity.html",
-      "date": "2026-05-01T17:15:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 547, down 37 from this same time last year. The number of active oil rigs specifica",
-      "category": "Production"
-    },
-    {
-      "title": "Chevron Earnings Top Estimates While Refining Swings to Loss",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Earnings-Top-Estimates-While-Refining-Swings-to-Loss.html",
-      "date": "2026-05-01T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Chevron beat first-quarter expectations as higher oil prices lifted upstream earnings, offsetting a sharp swing to losses in refining. Adjusted earnings came in at $1.41 per share, well above expectations. Upstream delivered $3.9 billion, up 4% year-on-year, as crude prices surge",
-      "category": "Prices"
-    },
-    {
-      "title": "Oil Rally Stalls as Iran Proposal Triggers Profit-Taking",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Rally-Stalls-as-Iran-Proposal-Triggers-Profit-Taking.html",
-      "date": "2026-05-01T16:11:50.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil prices head for a weekly close below $110 after wild swings, as Iran’s negotiation proposal cools markets while uncertainty over Trump’s war-powers deadline keeps traders on edge. Friday, May 01, 2026 Oil prices are set to close this week below $110 per barrel, marking a week",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Kazakhstan to Stick With OPEC+ After UAE Exit",
-      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-to-Stick-With-OPEC-After-UAE-Exit.html",
-      "date": "2026-05-01T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Defying some analysts’ expectations, Kazakhstan has opted not to follow the United Arab Emirates in abandoning OPEC’s oil production quotas. The Kazakh Energy Ministry announced April 29 that “the issue of changing the format of the country’s participation in the alliance is not ",
-      "category": "Production"
-    },
-    {
-      "title": "Syria Still Leans on Russia for Oil Supply",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Syria-Still-Leans-on-Russia-for-Oil-Supply.html",
-      "date": "2026-05-01T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Russia remains Syria’s top oil supplier and has even boosted its sales so far this year despite the fact that the Middle Eastern country emerged from a 14-year-long civil war leaning West and deposing Russia-backed leader Bashar al-Assad. Syria’s imports of oil from Russia have j",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Ukraine Hits Russian Black Sea Oil Port Four Times in One Week",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Hits-Russian-Black-Sea-Oil-Port-Four-Times-in-One-Week.html",
-      "date": "2026-05-01T14:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Russia's Black Sea port of Tuapse was targeted and hit by a new Ukrainian drone strike early on Friday, in the fourth attack on the port in just one week as Ukraine looks to limit Russia's oil exports and revenues amid soaring crude prices. Since international crude oil prices su",
-      "category": "Geopolitics"
+      "title": "ConocoPhillips Q1 2026 earnings fall 21% to $2.2bn",
+      "link": "https://www.offshore-technology.com/news/conocophillips-q1-2026-earnings-fall/",
+      "date": "2026-05-01T14:25:07.000Z",
+      "source": "Offshore Technology",
+      "description": "ConocoPhillips has reported Q1 2026 earnings of $2.2bn, a 21% decline compared to $2.8bn in the same quarter of the previous year.",
+      "category": "General"
     },
     {
       "title": "Exxon, Chevron Beat Profit Estimates",
@@ -146,14 +186,6 @@
       "source": "Rigzone",
       "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) May 1, 2026, 3:30 PM GMT+1: Article ad...",
       "category": "General"
-    },
-    {
-      "title": "High Gas Prices Are Just the Start of a Much Deeper Energy Crunch",
-      "link": "https://oilprice.com/Energy/Energy-General/High-Gas-Prices-Are-Just-the-Start-of-a-Much-Deeper-Energy-Crunch.html",
-      "date": "2026-05-01T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "When a major oil shock hits, most Americans notice it first at the pump. That’s exactly what’s happening now. Since the February 28 attack on Iran and the subsequent disruption of tanker traffic through the Strait of Hormuz, U.S. gasoline and diesel prices have moved sharply high",
-      "category": "Geopolitics"
     },
     {
       "title": "DOE Continues ‘Swift Execution' of 172MM Barrel SPR Exchange",
@@ -345,14 +377,6 @@
       "date": "2026-04-30T09:55:41.000Z",
       "source": "Offshore Technology",
       "description": "Goldman Sachs and Evercore led oil and gas mergers and acquisitions (M&A) advisory rankings in the first quarter of Q1 2026 (Q1 2026), according to GlobalData’s latest league tables.",
-      "category": "General"
-    },
-    {
-      "title": "BW Offshore enters FPSO FEED deal with Equinor for Bay du Nord",
-      "link": "https://www.offshore-technology.com/news/bw-offshore-fpso-feed-deal-equinor/",
-      "date": "2026-04-30T09:49:44.000Z",
-      "source": "Offshore Technology",
-      "description": "BW Offshore has entered into a front-end engineering and design (FEEd) agreement with Equinor for the Bay du Nord project, located offshore Newfoundland and Labrador in Canada.",
       "category": "General"
     },
     {
@@ -642,14 +666,6 @@
       "source": "Rigzone",
       "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) April 27, 2026, 1:40 PM GMT: Article u...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "CenterPoint Targets 8 GW of Data Center Load in 3 Years",
-      "link": "https://www.rigzone.com/news/centerpoint_targets_8_gw_of_data_center_load_in_3_years-26-apr-2026-183533-article/?rss=true",
-      "date": "2026-04-26T11:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>CenterPoint Energy Inc on Thursday announced plans to energize 8 gigawatts (GW) of generation projects catered to data centers by 2029.</p> <p>The Houston...",
-      "category": "General"
     }
   ]
 }
