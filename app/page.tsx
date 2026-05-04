@@ -228,6 +228,38 @@ export default async function HomePage() {
         </div>
       </div>
 
+      {/* Special Report — The Fall of the UK? */}
+      <a
+        href="/reports/the-fall-of-the-uk"
+        className="block rounded-lg border border-red-900/50 bg-red-950/20 overflow-hidden hover:border-red-700 hover:bg-red-950/30 transition group"
+      >
+        <div className="px-5 py-3 border-b border-red-900/40 flex items-center justify-between">
+          <h2 className="text-xs font-mono font-semibold tracking-widest text-red-300 uppercase">
+            Special Report
+          </h2>
+          <span className="text-[10px] font-mono font-semibold tracking-widest text-amber-400 uppercase">New</span>
+        </div>
+        <div className="px-5 py-4 space-y-2">
+          <p className="text-sm font-semibold text-white group-hover:text-red-100 transition">
+            The Fall of the United Kingdom? — A Compound Cascade Risk Model
+          </p>
+          <p className="text-xs text-gray-400 leading-relaxed">
+            Independent systems risk analysis of UK structural decline. 18 causal chains, 100 documented
+            interactions, 9 self-reinforcing feedback loops. Compound assessment: 40–70% probability of
+            Accelerated Decline or worse by 2035, vs 10–20% under additive assessment.
+          </p>
+          <p className="text-xs text-gray-500 leading-relaxed">
+            <span className="text-oil-300 font-medium">Why it matters here:</span>{' '}
+            The UK is the methodology test case · Compound cascade framework applies to any nation-state ·
+            Free download (key facts + policy brief + technical report + framework).
+          </p>
+        </div>
+        <div className="px-5 py-2 border-t border-red-900/30 bg-red-950/10 flex items-center justify-between">
+          <p className="text-[10px] text-gray-600">By Jonathan Kelly · Independent Systems Risk Analysis · May 2026</p>
+          <span className="text-red-400 text-xs">Read &amp; download →</span>
+        </div>
+      </a>
+
       {/* Special Report — From Hormuz to Hunger */}
       <a
         href="/reports/from-hormuz-to-hunger"
@@ -237,7 +269,6 @@ export default async function HomePage() {
           <h2 className="text-xs font-mono font-semibold tracking-widest text-red-300 uppercase">
             Special Report
           </h2>
-          <span className="text-[10px] font-mono font-semibold tracking-widest text-amber-400 uppercase">New</span>
         </div>
         <div className="px-5 py-4 space-y-2">
           <p className="text-sm font-semibold text-white group-hover:text-red-100 transition">
