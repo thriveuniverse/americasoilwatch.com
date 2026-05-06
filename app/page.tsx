@@ -201,25 +201,25 @@ export default async function HomePage() {
         <WtiTrendChart entries={wtiHistory.entries} />
       )}
 
-      {/* Upcoming supply event */}
+      {/* Active supply disruption — Druzhba halt began 1 May 2026 */}
       <div className="rounded-lg border border-amber-700/40 bg-amber-950/20 overflow-hidden">
         <div className="px-5 py-3 border-b border-amber-700/30 flex items-center justify-between">
           <h2 className="text-xs font-mono font-semibold tracking-widest text-amber-300 uppercase">
-            Upcoming Supply Event
+            Active Supply Disruption
           </h2>
-          <span className="text-[10px] font-mono text-amber-400/70">1 May 2026</span>
+          <span className="text-[10px] font-mono text-amber-400/70">Active since 1 May 2026</span>
         </div>
         <div className="px-5 py-4 space-y-2">
           <p className="text-sm font-semibold text-white">
-            Russia halts Kazakh crude supply via Druzhba pipeline to Germany
+            Russia has halted Kazakh crude supply via Druzhba pipeline to Germany
           </p>
           <p className="text-xs text-gray-400 leading-relaxed">
-            PCK Schwedt refinery (supplies most of Berlin&apos;s fuel) loses ~17% of its crude from 1 May.
-            Germany says alternative routes cover it, but its regulator warns of regional pricing risk.
+            PCK Schwedt refinery (supplies most of Berlin&apos;s fuel) has lost ~17% of its crude since 1 May.
+            Germany says alternative routes cover it, but its regulator has warned of regional pricing risk.
           </p>
           <p className="text-xs text-gray-500 leading-relaxed">
             <span className="text-oil-300 font-medium">Americas angle:</span>{' '}
-            North Atlantic Basin arbitrage could tighten as European refiners seek substitute barrels —
+            North Atlantic Basin arbitrage is tightening as European refiners seek substitute barrels —
             more pull on US Gulf Coast crude exports.
           </p>
         </div>
