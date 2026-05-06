@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import fs from 'fs';
 import path from 'path';
 import JsonLd from '@/components/JsonLd';
+import BrentHistoricalContext from '@/components/BrentHistoricalContext';
 
 export const revalidate = 3600;
 export const metadata: Metadata = {
@@ -14,6 +15,18 @@ export default function PricesPage() {
   const pricePath = path.join(process.cwd(), 'data', 'us-prices.json');
   const wti = fs.existsSync(wtiPath) ? JSON.parse(fs.readFileSync(wtiPath, 'utf-8')) : null;
   const prices = fs.existsSync(pricePath) ? JSON.parse(fs.readFileSync(pricePath, 'utf-8')) : null;
+
+  function loadJson<T>(filename: string): T | null {
+    const p = path.join(process.cwd(), 'data', filename);
+    if (!fs.existsSync(p)) return null;
+    try { return JSON.parse(fs.readFileSync(p, 'utf-8')); } catch { return null; }
+  }
+  const eiaBrent = loadJson<{
+    entries: { date: string; priceUsd: number }[];
+    allTimeHigh: { date: string; priceUsd: number };
+    allTimeLow:  { date: string; priceUsd: number };
+  }>('brent-eia-daily.json');
+  const liveBrent = loadJson<{ priceUsd: number }>('brent.json');
 
   return (
     <div className="max-w-4xl mx-auto space-y-8">
@@ -97,6 +110,15 @@ export default function PricesPage() {
           <p><span className="text-gray-300 font-medium">Argentina:</span> Price controls and FX restrictions complicate pump price data. Significant gap between official and parallel exchange rates.</p>
         </div>
       </div>
+
+      {eiaBrent && eiaBrent.entries?.length > 0 && (
+        <BrentHistoricalContext
+          entries={eiaBrent.entries}
+          allTimeHigh={eiaBrent.allTimeHigh}
+          allTimeLow={eiaBrent.allTimeLow}
+          livePriceUsd={liveBrent?.priceUsd}
+        />
+      )}
     </div>
   );
 }
