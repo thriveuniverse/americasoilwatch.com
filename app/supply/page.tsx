@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import fs from 'fs';
 import path from 'path';
 import JsonLd from '@/components/JsonLd';
+import SeaStatePanel, { type SeaStateData } from '@/components/SeaStatePanel';
 import { maradOverrideFor } from '@/lib/marad-risk';
 
 export const revalidate = 3600;
@@ -244,6 +245,12 @@ export default async function SupplyPage() {
   const elevated = chokepoints.filter(c => c.risk === 'elevated');
   const normal   = chokepoints.filter(c => c.risk === 'normal');
 
+  const seaState = (() => {
+    const p = path.join(process.cwd(), 'data', 'sea-state.json');
+    if (!fs.existsSync(p)) return null;
+    try { return JSON.parse(fs.readFileSync(p, 'utf-8')) as SeaStateData; } catch { return null; }
+  })();
+
   return (
     <div className="max-w-4xl mx-auto space-y-8">
       <JsonLd type="supply" />
@@ -257,6 +264,14 @@ export default async function SupplyPage() {
           Updated editorially — not a live tracker.
         </p>
       </div>
+
+      {/* Live sea-state panel — chokepoint conditions from Open-Meteo */}
+      {seaState && (
+        <SeaStatePanel
+          data={seaState}
+          only={['hormuz','bab-el-mandeb','panama-caribbean','strait-of-florida']}
+        />
+      )}
 
       {/* Status bar */}
       <div className="rounded-lg border border-oil-800 bg-oil-900/30 px-5 py-4">
