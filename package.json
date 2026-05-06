@@ -15,7 +15,9 @@
     "fetch:centcom": "npx tsx scripts/fetch-centcom.ts",
     "fetch:crea": "npx tsx scripts/fetch-crea.ts",
     "fetch:news": "npx tsx scripts/fetch-news.ts",
-    "fetch:all": "npm run fetch:wti && npm run fetch:brent && npm run fetch:bunker && npm run fetch:marad && npm run fetch:centcom && npm run fetch:crea && npm run fetch:news",
+    "fetch:brent-eia": "npx tsx scripts/fetch-brent-eia.ts",
+    "fetch:sea-state": "npx tsx scripts/fetch-sea-state.ts",
+    "fetch:all": "npm run fetch:wti && npm run fetch:brent && npm run fetch:brent-eia && npm run fetch:bunker && npm run fetch:marad && npm run fetch:centcom && npm run fetch:crea && npm run fetch:news && npm run fetch:sea-state",
     "analyze": "npx tsx scripts/generate-analysis.ts",
     "update": "npm run fetch:all && npm run analyze",
     "draft:newsletter": "npx tsx scripts/generate-newsletter.ts",
@@ -34,7 +36,8 @@
     "react-dom": "^18.3.1",
     "react-leaflet": "^4.2.1",
     "recharts": "^2.12.7",
-    "resend": "^4.0.0"
+    "resend": "^4.0.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/node": "^20.14.10",
