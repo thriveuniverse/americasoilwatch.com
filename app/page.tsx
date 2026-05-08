@@ -3,9 +3,11 @@ import fs from 'fs';
 import path from 'path';
 import { PRODUCERS } from '@/lib/countries';
 import { getAllInsights } from '@/lib/insights';
+import { getFIRMSDetections } from '@/lib/firms';
 import JsonLd from '@/components/JsonLd';
 import WtiTrendChart from '@/components/WtiTrendChart';
 import SubscribeCta from '@/components/SubscribeCta';
+import RefineryHealthPanel from '@/components/RefineryHealthPanel';
 
 export const revalidate = 3600;
 
@@ -63,6 +65,7 @@ export default async function HomePage() {
   const crea         = loadJSON<any>('crea-feed.json');
   const wtiHistory   = loadJSON<{ entries: { date: string; priceUsd: number }[] }>('wti-history.json');
   const insights     = getAllInsights().slice(0, 3);
+  const firmsResult  = await getFIRMSDetections();
 
   const wtiSpread = (wti && brent) ? +(wti.priceUsd - brent.priceUsd).toFixed(2) : null;
 
@@ -227,6 +230,13 @@ export default async function HomePage() {
           <p className="text-[10px] text-gray-600">Source: Reuters.</p>
         </div>
       </div>
+
+      {/* Refinery Health Watch — NASA FIRMS thermal anomalies, compact homepage view */}
+      <RefineryHealthPanel
+        data={firmsResult}
+        mode="compact"
+        regionLabel="major US Gulf, US East/West Coast, Caribbean and Latin American refineries"
+      />
 
       {/* Special Report — The Fall of the UK? */}
       <a

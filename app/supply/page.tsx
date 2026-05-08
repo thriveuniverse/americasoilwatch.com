@@ -3,6 +3,8 @@ import fs from 'fs';
 import path from 'path';
 import JsonLd from '@/components/JsonLd';
 import SeaStatePanel, { type SeaStateData } from '@/components/SeaStatePanel';
+import RefineryHealthPanel from '@/components/RefineryHealthPanel';
+import { getFIRMSDetections } from '@/lib/firms';
 import { maradOverrideFor } from '@/lib/marad-risk';
 
 export const revalidate = 3600;
@@ -251,6 +253,8 @@ export default async function SupplyPage() {
     try { return JSON.parse(fs.readFileSync(p, 'utf-8')) as SeaStateData; } catch { return null; }
   })();
 
+  const firmsResult = await getFIRMSDetections();
+
   return (
     <div className="max-w-4xl mx-auto space-y-8">
       <JsonLd type="supply" />
@@ -353,6 +357,14 @@ export default async function SupplyPage() {
           </div>
         );
       })()}
+
+      {/* Refinery Health Watch — full panel */}
+      <RefineryHealthPanel
+        data={firmsResult}
+        mode="full"
+        anchorId="refinery-health"
+        regionLabel="major US Gulf, US East/West Coast, Caribbean and Latin American refineries"
+      />
 
       {/* CREA research */}
       {crea && crea.articles.length > 0 && (
