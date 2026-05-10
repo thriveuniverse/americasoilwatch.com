@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T14:33:25.890Z",
+  "lastUpdated": "2026-05-10T14:41:49.126Z",
   "dataSource": "Open-Meteo Marine + Forecast APIs (sourced from European met agencies)",
   "sourceUrl": "https://open-meteo.com",
   "methodology": "Significant wave height (m), wave period (s), 10m wind speed (m/s). Risk band is the worst of wave/wind classifications (calm / moderate / rough / dangerous), using Douglas-style sea-state and Beaufort wind thresholds.",
@@ -64,7 +64,7 @@
       "waveDirectionDeg": 35,
       "windSpeedMs": 12.3,
       "windGustsMs": 16.8,
-      "windDirectionDeg": 36,
+      "windDirectionDeg": 35,
       "risk": "rough",
       "observedAt": "2026-05-10T14:30"
     },
