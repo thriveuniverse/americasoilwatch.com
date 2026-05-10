@@ -86,27 +86,41 @@ async function fetchFromYahoo(): Promise<number | null> {
 
 async function fetchFromEIADaily(): Promise<number | null> {
   console.log('📊 Falling back to EIA daily Cushing spot (RWTCd.xls)...');
+  console.log('   xlsx loaded:', typeof xlsx, '· xlsx.read:', typeof xlsx?.read);
   try {
-    const res = await fetch('https://www.eia.gov/dnav/pet/hist_xls/RWTCd.xls');
+    const url = 'https://www.eia.gov/dnav/pet/hist_xls/RWTCd.xls';
+    console.log('   fetching', url);
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'AmericasOilWatch/0.1 (data refresh)' },
+    });
+    console.log('   response status:', res.status, 'content-type:', res.headers.get('content-type'));
     if (!res.ok) { console.log(`  ⚠️ EIA daily returned ${res.status}`); return null; }
     const buf = Buffer.from(await res.arrayBuffer());
+    console.log('   buffer size:', buf.length, 'bytes');
+    if (buf.length < 1000) {
+      console.log('  ⚠️ EIA daily returned suspiciously small buffer:', buf.toString('utf-8').slice(0, 200));
+      return null;
+    }
     const wb = xlsx.read(buf, { type: 'buffer' });
+    console.log('   workbook sheets:', wb.SheetNames);
     const ws = wb.Sheets['Data 1'];
-    if (!ws) return null;
+    if (!ws) { console.log('  ⚠️ EIA daily: "Data 1" sheet not found'); return null; }
     const rows = xlsx.utils.sheet_to_json(ws, { header: 1, raw: false }) as string[][];
-    // Walk backward from the end to find the last [date, price] row
+    console.log('   parsed rows:', rows.length, '· last 3:', JSON.stringify(rows.slice(-3)));
     for (let i = rows.length - 1; i >= 3; i--) {
       const r = rows[i];
       if (!r || !r[0] || !r[1]) continue;
       const v = parseFloat(r[1]);
       if (isFinite(v) && v > 0) {
-        console.log(`  ⚠️ EIA daily WTI (${r[0]}): $${v.toFixed(2)} (used as fallback)`);
+        console.log(`  ✅ EIA daily WTI (${r[0]}): $${v.toFixed(2)}`);
         return v;
       }
     }
+    console.log('  ⚠️ EIA daily: no usable rows in workbook');
     return null;
   } catch (err: any) {
-    console.log(`  ⚠️ EIA daily failed: ${err.message}`);
+    console.log(`  ⚠️ EIA daily threw: ${err.message}`);
+    console.log('  stack:', err.stack?.split('\n').slice(0, 3).join(' | '));
     return null;
   }
 }
