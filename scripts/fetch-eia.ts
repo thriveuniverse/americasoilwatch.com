@@ -36,54 +36,6 @@ async function eiaFetch(path_: string, params: Record<string, string>): Promise<
   return json.response?.data ?? [];
 }
 
-async function fetchWTI() {
-  console.log('  Fetching WTI spot price...');
-  const rows = await eiaFetch('/petroleum/pri/spt/data/', {
-    'frequency': 'weekly',
-    'data[0]': 'value',
-    'facets[series][]': 'RWTC',
-    'sort[0][column]': 'period',
-    'sort[0][direction]': 'desc',
-    'length': '5',
-  });
-
-  if (!rows.length) throw new Error('No WTI data returned');
-
-  const latest = rows[0];
-  const prev   = rows[1];
-  const changeUsd = prev ? +(latest.value - prev.value).toFixed(2) : 0;
-  const changePct = prev ? +((changeUsd / prev.value) * 100).toFixed(2) : 0;
-
-  const out = {
-    lastUpdated: new Date().toISOString(),
-    priceUsd: +latest.value,
-    changeUsd,
-    changePct,
-    weekEnding: latest.period,
-    dataSource: 'US Energy Information Administration (EIA)',
-  };
-
-  fs.writeFileSync(path.join(DATA_DIR, 'wti.json'), JSON.stringify(out, null, 2));
-  console.log(`  ✓ WTI: $${out.priceUsd}/bbl (${out.changePct > 0 ? '+' : ''}${out.changePct}%)`);
-
-  // Write history (last 52 weeks)
-  const histRows = await eiaFetch('/petroleum/pri/spt/data/', {
-    'frequency': 'weekly',
-    'data[0]': 'value',
-    'facets[series][]': 'RWTC',
-    'sort[0][column]': 'period',
-    'sort[0][direction]': 'desc',
-    'length': '52',
-  });
-
-  const history = {
-    lastUpdated: new Date().toISOString(),
-    entries: histRows.map((r: any) => ({ date: r.period, priceUsd: +r.value })).reverse(),
-  };
-  fs.writeFileSync(path.join(DATA_DIR, 'wti-history.json'), JSON.stringify(history, null, 2));
-  console.log(`  ✓ WTI history: ${history.entries.length} weeks`);
-}
-
 async function fetchUSStocks() {
   console.log('  Fetching US petroleum stocks...');
 
@@ -203,7 +155,11 @@ async function main() {
   console.log('📡 AmericasOilWatch — EIA Data Fetch');
   console.log('='.repeat(40));
 
-  await fetchWTI();
+  // NOTE: fetchWTI() intentionally not called here. WTI is owned by
+  // scripts/fetch-wti.ts, which has a richer source chain (Stooq → Yahoo →
+  // EIA daily Cushing → FRED → EIA weekly). Calling fetchWTI() from this
+  // script — which runs AFTER fetch:wti in the workflow — would clobber
+  // a fresh daily value with the stale weekly RWTC average.
   await fetchUSStocks();
   await fetchUSPrices();
 
