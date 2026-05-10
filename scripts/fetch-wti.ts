@@ -20,6 +20,7 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
+import xlsx from 'xlsx';
 
 const DATA_DIR     = path.join(__dirname, '..', 'data');
 const HISTORY_FILE = path.join(DATA_DIR, 'wti-history.json');
@@ -89,8 +90,6 @@ async function fetchFromEIADaily(): Promise<number | null> {
     const res = await fetch('https://www.eia.gov/dnav/pet/hist_xls/RWTCd.xls');
     if (!res.ok) { console.log(`  ⚠️ EIA daily returned ${res.status}`); return null; }
     const buf = Buffer.from(await res.arrayBuffer());
-    // xlsx is already a runtime dep (used by fetch-brent-eia.ts)
-    const xlsx = await import('xlsx');
     const wb = xlsx.read(buf, { type: 'buffer' });
     const ws = wb.Sheets['Data 1'];
     if (!ws) return null;
