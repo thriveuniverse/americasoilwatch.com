@@ -78,7 +78,41 @@ async function fetchFromYahoo(): Promise<number | null> {
   } catch { return null; }
 }
 
-// ─── Fallback 2: FRED (St. Louis Fed) — daily Cushing spot, no key needed ────
+// ─── Fallback 2: EIA daily Cushing spot via direct .xls (no API key) ─────────
+// Cloud IPs (GitHub Actions runners) are routinely blocked by Stooq and Yahoo.
+// EIA's own server is reliable from any IP and gives DAILY data (1–2 day lag)
+// instead of falling through to the weekly fallback below.
+
+async function fetchFromEIADaily(): Promise<number | null> {
+  console.log('📊 Falling back to EIA daily Cushing spot (RWTCd.xls)...');
+  try {
+    const res = await fetch('https://www.eia.gov/dnav/pet/hist_xls/RWTCd.xls');
+    if (!res.ok) { console.log(`  ⚠️ EIA daily returned ${res.status}`); return null; }
+    const buf = Buffer.from(await res.arrayBuffer());
+    // xlsx is already a runtime dep (used by fetch-brent-eia.ts)
+    const xlsx = await import('xlsx');
+    const wb = xlsx.read(buf, { type: 'buffer' });
+    const ws = wb.Sheets['Data 1'];
+    if (!ws) return null;
+    const rows = xlsx.utils.sheet_to_json(ws, { header: 1, raw: false }) as string[][];
+    // Walk backward from the end to find the last [date, price] row
+    for (let i = rows.length - 1; i >= 3; i--) {
+      const r = rows[i];
+      if (!r || !r[0] || !r[1]) continue;
+      const v = parseFloat(r[1]);
+      if (isFinite(v) && v > 0) {
+        console.log(`  ⚠️ EIA daily WTI (${r[0]}): $${v.toFixed(2)} (used as fallback)`);
+        return v;
+      }
+    }
+    return null;
+  } catch (err: any) {
+    console.log(`  ⚠️ EIA daily failed: ${err.message}`);
+    return null;
+  }
+}
+
+// ─── Fallback 3: FRED (St. Louis Fed) — daily Cushing spot, no key needed ────
 
 async function fetchFromFRED(): Promise<number | null> {
   console.log('📊 Falling back to FRED (DCOILWTICO daily Cushing spot)...');
@@ -192,6 +226,7 @@ async function main() {
     ['Stooq (cl.f front-month)',                   fetchFromStooq],
     ['Stooq (cl.c continuous)',                    fetchFromStooqAlt],
     ['Yahoo Finance (CL=F)',                       fetchFromYahoo],
+    ['EIA daily Cushing spot (RWTCd.xls)',         fetchFromEIADaily],
     ['FRED (DCOILWTICO daily Cushing)',            fetchFromFRED],
     ['US Energy Information Administration (EIA)', fetchFromEIA],
   ];
