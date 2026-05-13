@@ -22,6 +22,7 @@ const RESOURCES = [
   { name: 'centcom-advisories', desc: 'CENTCOM Middle East maritime advisories',                                   source: 'U.S. Central Command via DVIDS' },
   { name: 'crea-feed',          desc: 'Energy and clean air research feed',                                        source: 'CREA' },
   { name: 'news-feed',          desc: 'Aggregated oil and energy news headlines',                                  source: 'OilPrice.com, Rigzone, Offshore Technology RSS' },
+  { name: 'opec',               desc: 'OPEC+ member production vs Declaration of Cooperation quotas',              source: 'U.S. EIA International + OPEC+ JMMC schedule' },
 ];
 
 export default function ApiPage() {

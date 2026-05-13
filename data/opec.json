@@ -1,0 +1,204 @@
+{
+  "lastUpdated": "2026-05-13T12:35:12.993Z",
+  "latestDataPeriod": null,
+  "dataSource": "U.S. Energy Information Administration — International data, product 53 (Total petroleum and other liquids), activity 1 (Production)",
+  "quotaSource": "OPEC+ Declaration of Cooperation (JMMC schedule as of late 2024 — updated periodically as cartel adjusts)",
+  "publicationLag": "EIA international data is published with a ~3-month lag. Data through unknown does not yet reflect the Hormuz war period.",
+  "totals": {
+    "opecKbpd": 0,
+    "opecNonExemptKbpd": 0,
+    "nonOpecKbpd": 0,
+    "nonOpecNonExemptKbpd": 0,
+    "combinedKbpd": 0,
+    "opecQuotaKbpd": 21058,
+    "nonOpecQuotaKbpd": 12439,
+    "combinedQuotaKbpd": 33497,
+    "opecComplianceKbpd": -21058,
+    "nonOpecComplianceKbpd": -12439
+  },
+  "members": [
+    {
+      "code": "SAU",
+      "name": "Saudi Arabia",
+      "group": "OPEC",
+      "quotaKbpd": 8978,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "IRQ",
+      "name": "Iraq",
+      "group": "OPEC",
+      "quotaKbpd": 4000,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "IRN",
+      "name": "Iran",
+      "group": "OPEC",
+      "quotaKbpd": null,
+      "exemptReason": "Exempt — sanctions",
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "ARE",
+      "name": "UAE",
+      "group": "OPEC",
+      "quotaKbpd": 2912,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "KWT",
+      "name": "Kuwait",
+      "group": "OPEC",
+      "quotaKbpd": 2413,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "VEN",
+      "name": "Venezuela",
+      "group": "OPEC",
+      "quotaKbpd": null,
+      "exemptReason": "Exempt — sanctions / production capacity",
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "NGA",
+      "name": "Nigeria",
+      "group": "OPEC",
+      "quotaKbpd": 1500,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "LBY",
+      "name": "Libya",
+      "group": "OPEC",
+      "quotaKbpd": null,
+      "exemptReason": "Exempt — political instability",
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "DZA",
+      "name": "Algeria",
+      "group": "OPEC",
+      "quotaKbpd": 908,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "COG",
+      "name": "Republic of Congo",
+      "group": "OPEC",
+      "quotaKbpd": 277,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "GNQ",
+      "name": "Equatorial Guinea",
+      "group": "OPEC",
+      "quotaKbpd": 70,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "RUS",
+      "name": "Russia",
+      "group": "Non-OPEC",
+      "quotaKbpd": 8978,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "KAZ",
+      "name": "Kazakhstan",
+      "group": "Non-OPEC",
+      "quotaKbpd": 1468,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "OMN",
+      "name": "Oman",
+      "group": "Non-OPEC",
+      "quotaKbpd": 762,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "AZE",
+      "name": "Azerbaijan",
+      "group": "Non-OPEC",
+      "quotaKbpd": 551,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "BHR",
+      "name": "Bahrain",
+      "group": "Non-OPEC",
+      "quotaKbpd": 196,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "BRN",
+      "name": "Brunei",
+      "group": "Non-OPEC",
+      "quotaKbpd": 83,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    },
+    {
+      "code": "MYS",
+      "name": "Malaysia",
+      "group": "Non-OPEC",
+      "quotaKbpd": 401,
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
+    }
+  ]
+}

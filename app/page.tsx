@@ -238,6 +238,66 @@ export default async function HomePage() {
         regionLabel="major US Gulf, US East/West Coast, Caribbean and Latin American refineries"
       />
 
+      {/* OPEC+ Production Tracker — compact homepage card linking to /opec */}
+      {(() => {
+        const p = path.join(process.cwd(), 'data', 'opec.json');
+        if (!fs.existsSync(p)) return null;
+        let opec: any = null;
+        try { opec = JSON.parse(fs.readFileSync(p, 'utf-8')); } catch { return null; }
+        if (!opec || !opec.totals) return null;
+        const period = opec.latestDataPeriod;
+        const ymd = period ? period.split('-') : null;
+        const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        const periodLabel = ymd ? `${months[parseInt(ymd[1],10)-1]} '${ymd[0].slice(2)}` : '—';
+        const opecMbpd     = opec.totals.opecKbpd / 1000;
+        const russiaMbpd   = (opec.members.find((m: any) => m.code === 'RUS')?.latestKbpd ?? 0) / 1000;
+        const compliance   = opec.totals.opecComplianceKbpd ?? 0;
+        return (
+          <section aria-label="OPEC+ production tracker">
+            <a href="/opec" className="block rounded-lg border border-amber-700/40 bg-oil-900/20 hover:border-amber-600/60 hover:bg-oil-900/40 transition group overflow-hidden">
+              <div className="px-5 py-3 border-b border-oil-800/60 flex items-center justify-between flex-wrap gap-2">
+                <div className="flex items-center gap-2">
+                  <h2 className="text-xs font-mono font-semibold tracking-widest text-gray-400 uppercase group-hover:text-gray-200">
+                    OPEC+ Production vs Quota
+                  </h2>
+                  <span className="text-[9px] font-mono font-bold tracking-wider text-amber-300 uppercase px-1.5 py-0.5 rounded border border-amber-600/40 bg-amber-950/30">New</span>
+                </div>
+                <span className="text-[10px] text-gray-500">EIA International · latest {periodLabel}</span>
+              </div>
+              <div className="grid grid-cols-3 gap-px bg-oil-800/40">
+                <div className="bg-oil-900/30 px-4 py-3">
+                  <p className="text-[10px] font-mono uppercase tracking-wider text-gray-500 mb-1">OPEC core</p>
+                  <p className="text-lg font-mono font-bold text-white">
+                    {opecMbpd.toFixed(2)}<span className="text-xs text-gray-500 ml-0.5">mbpd</span>
+                  </p>
+                  <p className="text-[10px] text-gray-500 mt-0.5">12 members</p>
+                </div>
+                <div className="bg-oil-900/30 px-4 py-3">
+                  <p className="text-[10px] font-mono uppercase tracking-wider text-gray-500 mb-1">Russia</p>
+                  <p className="text-lg font-mono font-bold text-white">
+                    {russiaMbpd > 0 ? russiaMbpd.toFixed(2) : '—'}<span className="text-xs text-gray-500 ml-0.5">mbpd</span>
+                  </p>
+                  <p className="text-[10px] text-gray-500 mt-0.5">non-OPEC anchor</p>
+                </div>
+                <div className="bg-oil-900/30 px-4 py-3">
+                  <p className="text-[10px] font-mono uppercase tracking-wider text-gray-500 mb-1">OPEC vs quota</p>
+                  <p className={`text-lg font-mono font-bold ${compliance > 300 ? 'text-orange-400' : compliance > 100 ? 'text-amber-400' : 'text-emerald-400'}`}>
+                    {compliance >= 0 ? '+' : ''}{Math.round(compliance / 100) / 10}k
+                  </p>
+                  <p className="text-[10px] text-gray-500 mt-0.5">kbpd non-exempt</p>
+                </div>
+              </div>
+              <div className="px-5 py-3 border-t border-amber-700/30 bg-amber-950/20 flex items-center justify-between group-hover:bg-amber-950/30 transition">
+                <p className="text-xs text-amber-200/90 font-medium">
+                  Open the full OPEC+ tracker — 18 members, monthly history, quota compliance
+                </p>
+                <span className="text-amber-300 text-sm font-semibold group-hover:translate-x-0.5 transition-transform">→</span>
+              </div>
+            </a>
+          </section>
+        );
+      })()}
+
       {/* Special Report — The Fall of the UK? */}
       <a
         href="/reports/the-fall-of-the-uk"

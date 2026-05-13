@@ -49,6 +49,12 @@ jobs:
         run: npm run fetch:sea-state
         continue-on-error: true
 
+      - name: Fetch OPEC+ production (EIA international data)
+        run: npm run fetch:opec
+        env:
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+        continue-on-error: true
+
       - name: Fetch bunker fuel prices
         run: npm run fetch:bunker
         continue-on-error: true

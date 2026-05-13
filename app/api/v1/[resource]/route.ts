@@ -28,6 +28,7 @@ const ALLOWED = new Set([
   'crea-feed',
   'news-feed',
   'changelog',
+  'opec',
 ]);
 
 const CORS_HEADERS = {
