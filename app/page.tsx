@@ -560,6 +560,11 @@ curl https://americasoilwatch.com/api/v1            # endpoint index`}</code></p
           <p className="text-[10px] text-gray-600">
             Attribution: cite as &quot;AmericasOilWatch — americasoilwatch.com&quot; alongside the underlying institutional source (EIA, etc.) which is included in every payload.
           </p>
+          <p className="text-[11px] text-gray-500">
+            Also available: <a href="/rss.xml" className="text-amber-300 hover:underline">RSS feed</a> and a{' '}
+            <a href="/changelog" className="text-amber-300 hover:underline">network activity page</a>{' '}
+            tracking newsletters, new insights, reports and dashboard updates across all three OilWatch sites.
+          </p>
         </div>
       </section>
 

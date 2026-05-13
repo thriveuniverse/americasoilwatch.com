@@ -27,6 +27,7 @@ const ALLOWED = new Set([
   'centcom-advisories',
   'crea-feed',
   'news-feed',
+  'changelog',
 ]);
 
 const CORS_HEADERS = {
