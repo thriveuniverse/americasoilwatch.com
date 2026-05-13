@@ -6,6 +6,7 @@ import { getAllInsights } from '@/lib/insights';
 import { getFIRMSDetections } from '@/lib/firms';
 import JsonLd from '@/components/JsonLd';
 import WtiTrendChart from '@/components/WtiTrendChart';
+import ReserveGauge from '@/components/ReserveGauge';
 import SubscribeCta from '@/components/SubscribeCta';
 import RefineryHealthPanel from '@/components/RefineryHealthPanel';
 
@@ -148,6 +149,8 @@ export default async function HomePage() {
         const days    = (kb: number, dKbd: number) => Math.round(kb / dKbd);
         const statusColor = (d: number, min: number) =>
           d < min * 0.6 ? 'text-red-400' : d < min ? 'text-amber-400' : 'text-emerald-400';
+        const gaugeStatus = (d: number, min: number) =>
+          d >= min * 1.2 ? 'safe' as const : d >= min ? 'watch' as const : d >= min * 0.6 ? 'warning' as const : 'critical' as const;
 
         const stocks = [
           { label: 'Commercial Crude', val: usStocks.crudeMb,      change: usStocks.crudeMbChange,      days: days(usStocks.crudeMb, DEMAND_KBD.crude),       min: 25, daysLabel: 'days of refinery input' },
@@ -163,6 +166,19 @@ export default async function HomePage() {
                 US Petroleum Stocks — EIA Weekly
               </h2>
               <span className="text-[10px] text-gray-600">Week ending {usStocks.weekEnding}</span>
+            </div>
+            <div className="px-5 py-5 border-b border-oil-800/40">
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 justify-items-center max-w-2xl mx-auto">
+                {stocks.map(s => (
+                  <ReserveGauge
+                    key={s.label}
+                    label={s.label}
+                    daysOfSupply={s.days}
+                    minimumDays={s.min}
+                    status={gaugeStatus(s.days, s.min)}
+                  />
+                ))}
+              </div>
             </div>
             <div className="grid grid-cols-2 sm:grid-cols-4 divide-x divide-oil-800/40">
               {stocks.map(s => (
