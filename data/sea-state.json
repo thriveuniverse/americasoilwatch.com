@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T18:59:32.597Z",
+  "lastUpdated": "2026-05-14T08:37:25.951Z",
   "dataSource": "Open-Meteo Marine + Forecast APIs (sourced from European met agencies)",
   "sourceUrl": "https://open-meteo.com",
   "methodology": "Significant wave height (m), wave period (s), 10m wind speed (m/s). Risk band is the worst of wave/wind classifications (calm / moderate / rough / dangerous), using Douglas-style sea-state and Beaufort wind thresholds.",
@@ -11,14 +11,14 @@
       "lat": 26.567,
       "lon": 56.25,
       "context": "~20% of world seaborne oil and LNG normally transits here.",
-      "waveHeightM": 0.9,
-      "wavePeriodS": 3.65,
-      "waveDirectionDeg": 217,
-      "windSpeedMs": 9.37,
-      "windGustsMs": 14.2,
-      "windDirectionDeg": 223,
+      "waveHeightM": 1.06,
+      "wavePeriodS": 4.2,
+      "waveDirectionDeg": 227,
+      "windSpeedMs": 10.33,
+      "windGustsMs": 13.3,
+      "windDirectionDeg": 227,
       "risk": "moderate",
-      "observedAt": "2026-05-13T18:45"
+      "observedAt": "2026-05-14T08:30"
     },
     {
       "id": "bab-el-mandeb",
@@ -27,14 +27,14 @@
       "lat": 12.583,
       "lon": 43.333,
       "context": "Red Sea entry; routes for Suez-bound traffic from the Gulf and Asia.",
-      "waveHeightM": 0.12,
-      "wavePeriodS": 3.8,
-      "waveDirectionDeg": 93,
-      "windSpeedMs": 1.73,
-      "windGustsMs": 2.4,
-      "windDirectionDeg": 226,
+      "waveHeightM": 0.28,
+      "wavePeriodS": 2.85,
+      "waveDirectionDeg": 346,
+      "windSpeedMs": 5.17,
+      "windGustsMs": 7.1,
+      "windDirectionDeg": 330,
       "risk": "calm",
-      "observedAt": "2026-05-13T18:45"
+      "observedAt": "2026-05-14T08:30"
     },
     {
       "id": "suez-approaches",
@@ -43,14 +43,14 @@
       "lat": 31.25,
       "lon": 32.3,
       "context": "Northern entry to the Suez Canal; ~10% of seaborne crude.",
-      "waveHeightM": 0.28,
-      "wavePeriodS": 3.2,
-      "waveDirectionDeg": 332,
-      "windSpeedMs": 2.44,
-      "windGustsMs": 4.7,
-      "windDirectionDeg": 341,
+      "waveHeightM": 0.14,
+      "wavePeriodS": 4.25,
+      "waveDirectionDeg": 325,
+      "windSpeedMs": 4.76,
+      "windGustsMs": 7.4,
+      "windDirectionDeg": 219,
       "risk": "calm",
-      "observedAt": "2026-05-13T18:45"
+      "observedAt": "2026-05-14T08:30"
     },
     {
       "id": "english-channel",
@@ -59,14 +59,14 @@
       "lat": 50.95,
       "lon": 1.367,
       "context": "Busiest shipping lane in the world; critical for UK / NW European fuel imports.",
-      "waveHeightM": 1.44,
-      "wavePeriodS": 5.35,
-      "waveDirectionDeg": 246,
-      "windSpeedMs": 10.5,
-      "windGustsMs": 13.9,
-      "windDirectionDeg": 296,
+      "waveHeightM": 0.84,
+      "wavePeriodS": 4.95,
+      "waveDirectionDeg": 265,
+      "windSpeedMs": 7.9,
+      "windGustsMs": 10.6,
+      "windDirectionDeg": 315,
       "risk": "moderate",
-      "observedAt": "2026-05-13T18:45"
+      "observedAt": "2026-05-14T08:30"
     },
     {
       "id": "skagerrak",
@@ -75,14 +75,14 @@
       "lat": 57.75,
       "lon": 9,
       "context": "Connects North Sea to Baltic; route for Norwegian and Russian-origin crude.",
-      "waveHeightM": 0.64,
-      "wavePeriodS": 6.7,
-      "waveDirectionDeg": 262,
-      "windSpeedMs": 4.7,
-      "windGustsMs": 5.9,
-      "windDirectionDeg": 319,
-      "risk": "calm",
-      "observedAt": "2026-05-13T18:45"
+      "waveHeightM": 0.94,
+      "wavePeriodS": 5.35,
+      "waveDirectionDeg": 263,
+      "windSpeedMs": 8.5,
+      "windGustsMs": 10.8,
+      "windDirectionDeg": 257,
+      "risk": "moderate",
+      "observedAt": "2026-05-14T08:30"
     },
     {
       "id": "panama-caribbean",
@@ -91,14 +91,14 @@
       "lat": 9.35,
       "lon": -79.917,
       "context": "Atlantic entry to Panama Canal; Pacific–Atlantic arbitrage route.",
-      "waveHeightM": 1.14,
-      "wavePeriodS": 6.55,
-      "waveDirectionDeg": 28,
-      "windSpeedMs": 4.95,
-      "windGustsMs": 11.4,
-      "windDirectionDeg": 348,
+      "waveHeightM": 1.08,
+      "wavePeriodS": 6.6,
+      "waveDirectionDeg": 31,
+      "windSpeedMs": 3.43,
+      "windGustsMs": 6.7,
+      "windDirectionDeg": 341,
       "risk": "calm",
-      "observedAt": "2026-05-13T18:45"
+      "observedAt": "2026-05-14T08:30"
     },
     {
       "id": "strait-of-florida",
@@ -107,14 +107,14 @@
       "lat": 24.5,
       "lon": -80.5,
       "context": "Gulf of Mexico crude exports route to Atlantic basin.",
-      "waveHeightM": 0.42,
-      "wavePeriodS": 4.5,
-      "waveDirectionDeg": 149,
-      "windSpeedMs": 7.77,
-      "windGustsMs": 8.4,
-      "windDirectionDeg": 235,
+      "waveHeightM": 0.78,
+      "wavePeriodS": 3.85,
+      "waveDirectionDeg": 251,
+      "windSpeedMs": 8.82,
+      "windGustsMs": 9.9,
+      "windDirectionDeg": 231,
       "risk": "moderate",
-      "observedAt": "2026-05-13T18:45"
+      "observedAt": "2026-05-14T08:30"
     }
   ]
 }
