@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import JsonLd from '@/components/JsonLd';
 import SeaStatePanel, { type SeaStateData } from '@/components/SeaStatePanel';
+import ChokepointsMap from '@/components/ChokepointsMap';
 import RefineryHealthPanel from '@/components/RefineryHealthPanel';
 import { getFIRMSDetections } from '@/lib/firms';
 import { maradOverrideFor } from '@/lib/marad-risk';
@@ -238,7 +239,7 @@ export default async function SupplyPage() {
   const crea  = readCrea();
 
   const chokepoints: Chokepoint[] = CHOKEPOINTS.map(c => {
-    const ovr = marad ? maradOverrideFor(c.id, marad.advisories, marad.lastUpdated) : null;
+    const ovr = marad ? maradOverrideFor(c.id, marad.advisories, marad.lastUpdated, c.risk) : null;
     return ovr ? { ...c, risk: ovr.risk, riskLabel: ovr.riskLabel, lastReviewed: ovr.lastReviewed } : c;
   });
 
@@ -268,6 +269,9 @@ export default async function SupplyPage() {
           Updated editorially — not a live tracker.
         </p>
       </div>
+
+      {/* Chokepoints overview map */}
+      <ChokepointsMap />
 
       {/* Live sea-state panel — chokepoint conditions from Open-Meteo */}
       {seaState && (
