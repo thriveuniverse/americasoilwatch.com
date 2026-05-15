@@ -1,15 +1,239 @@
 {
-  "lastUpdated": "2026-05-14T08:37:43.627Z",
-  "summary": "• Cuba's severe diesel and fuel oil shortages causing widespread blackouts represent a critical supply vulnerability in the Caribbean that could disrupt regional energy stability and force increased reliance on costly spot market purchases.\n\n• Iran's case-by-case approach to Strait of Hormuz passage and ongoing crackdowns create unpredictable geopolitical friction in the world's most critical oil chokepoint, threatening consistent crude flows to Asia-Pacific markets.\n\n• Major oil companies are redirecting investment toward previously unattractive exploration destinations (Egypt, Senegal, Mediterranean) due to supply tightness, signaling that traditional low-cost producers are becoming insufficient to meet global demand.",
-  "count": 84,
+  "lastUpdated": "2026-05-15T08:49:13.671Z",
+  "summary": "• Hormuz Strait transit disruptions are creating severe supply route vulnerabilities for Western Hemisphere refiners and traders, with India facing oil crisis impacts and Taiwan's power grid threatened by constrained shipments.\n\n• Mexico's Pemex leadership transition amid ongoing production challenges compounds Western Hemisphere supply concerns, particularly as Canadian pipeline expansion plans face political reconsideration and regulatory uncertainty.\n\n• Iran geopolitical tensions are escalating crude volatility with Trump administration pressure driving Brent toward 6% weekly gains, while coordinated Chinese tanker transits signal potential for further market-moving shifts in regional power dynamics.",
+  "count": 82,
   "articles": [
     {
-      "title": "Cuba Runs Out of Diesel and Fuel Oil as Blackouts Worsen",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Cuba-Runs-Out-of-Diesel-and-Fuel-Oil-as-Blackouts-Worsen.html",
-      "date": "2026-05-14T08:15:00.000Z",
+      "title": "Canada’s LNG Ambitions Grow as British Columbia Warms to Gas Exports",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Canadas-LNG-Ambitions-Grow-as-British-Columbia-Warms-to-Gas-Exports.html",
+      "date": "2026-05-15T08:30:00.000Z",
       "source": "OilPrice.com",
-      "description": "Cuba has run out of fuel oil and diesel, with only a limited supply of gas left, the BBC reported today, citing the country’s energy minister, who said Cuba’s energy system was in critical condition. “The sum of the different types of fuel: crude oil, fuel oil, of which we have a",
+      "description": "The British Columbia government is eager to see the LNG Canada project expand to Phase 2 as soon as possible, in a marked departure from earlier political sentiment towards hydrocarbons that were strongly negative. LNG Canada is due to make the final investment decision on Phase ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Vitol Offers Iraqi Oil in Sign of Hormuz Transits",
+      "link": "https://www.rigzone.com/news/vitol_offers_iraqi_oil_in_sign_of_hormuz_transits-15-may-2026-183696-article/?rss=true",
+      "date": "2026-05-15T07:40:57.000Z",
+      "source": "Rigzone",
+      "description": "<p>Vitol Group is offering Iraqi Basrah crude to customers, people with knowledge of the matter said, in a sign that some shipments may have successfully made i...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "India Raises Fuel Prices for the First Time in Four Years",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Raises-Fuel-Prices-for-the-First-Time-in-Four-Years.html",
+      "date": "2026-05-15T07:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Indian state refiners raised their retail prices for gasoline and diesel by the equivalent of $0.031 per liter in response to tighter crude oil availability. This is the first fuel price hike in India in four years, Bloomberg noted in a report on the news. The hike amounts to ove",
+      "category": "Refinery"
+    },
+    {
+      "title": "Ludoil Energy inks SPA for ISAB’s Priolo Gargallo refinery",
+      "link": "https://www.offshore-technology.com/news/ludoil-energy-spa-priolo-gargallo-refinery/",
+      "date": "2026-05-15T07:00:18.000Z",
+      "source": "Offshore Technology",
+      "description": "Ludoil Energy’s wholly owned subsidiary, Ludoil Capital, has signed a sale and purchase agreement (SPA) with GOI Energy to acquire its stake in ISAB, the owner of the Priolo Gargallo refinery and related facilities.",
+      "category": "Refinery"
+    },
+    {
+      "title": "Brent Heads for 6% Weekly Gain as Trump Loses Patience With Iran",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Heads-for-6-Weekly-Gain-as-Trump-Loses-Patience-With-Iran.html",
+      "date": "2026-05-15T06:19:09.000Z",
+      "source": "OilPrice.com",
+      "description": "Brent crude was set for a 6% weekly gain as President Donald Trump said his patience with Iran was running out, despite Iran saying 30 vessels had recently cleared the Strait of Hormuz. “I am not going to be much more patient,” the U.S. president said in an interview with Fox New",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Mexico's President Announces the Resignation of Pemex CEO Victor Rodríguez",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Mexicos-President-Announces-the-Resignation-of-Pemex-CEO-Victor-Rodrguez.html",
+      "date": "2026-05-15T02:06:27.000Z",
+      "source": "OilPrice.com",
+      "description": "Mexican President Claudia Sheinbaum announced on Thursday that Pemex CEO Víctor Rodríguez is stepping down, naming the state oil company’s chief financial officer, Juan Carlos Carpio, as his replacement. The move comes after months of speculation over Rodríguez’s future at Pemex,",
       "category": "General"
+    },
+    {
+      "title": "Berkshire Hathaway's Power Bet is Starting to Look Riskier",
+      "link": "https://oilprice.com/Energy/Energy-General/Berkshire-Hathaways-Power-Bet-is-Starting-to-Look-Riskier.html",
+      "date": "2026-05-14T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Greg Abel has replaced Warren Buffett as the head of Berkshire Hathaway. The company’s annual meeting last week was the first one helmed by him. Mr Abel formerly headed Mid American Energy, a utility based in Des Moines, and then all of Berkshire Hathaway’s utility operations. Wh",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "India’s Oil Crisis Deepens as Hormuz Remains Shut",
+      "link": "https://oilprice.com/Energy/Energy-General/Indias-Oil-Crisis-Deepens-as-Hormuz-Remains-Shut.html",
+      "date": "2026-05-14T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "India’s economic pains are intensifying every day that the Strait of Hormuz remains closed. Two and a half months after the Middle East conflict began, one of the highest-performing emerging markets in recent years and the world’s third-largest crude oil importer is scrambling to",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "BLM Expands Oil Leasing Drive with July Auction Plans",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BLM-Expands-Oil-Leasing-Drive-with-July-Auction-Plans.html",
+      "date": "2026-05-14T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Bureau of Land Management is teeing up another round of federal oil and gas leasing, with 66 parcels across Montana and North Dakota headed for auction in July as Washington continues pushing a noticeably more drill-friendly agenda. The July 14 lease sale will offer 29,087 ac",
+      "category": "General"
+    },
+    {
+      "title": "Ottawa and Alberta Push New 1 Million Bpd Oil Pipeline",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ottawa-and-Alberta-Push-New-1-Million-Bpd-Oil-Pipeline.html",
+      "date": "2026-05-14T21:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Canada may finally be doing the thing everyone has been yelling about for the last decade: building more oil pipelines. Prime Minister Mark Carney said Thursday that Ottawa and Alberta will meet Friday to advance plans for a major new pipeline capable of moving at least 1 million",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "China Added 34 GW of Nuclear in a Decade",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Added-34-GW-of-Nuclear-in-a-Decade.html",
+      "date": "2026-05-14T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "China and the United States are facing off for nuclear energy dominance on the world stage. The United States has the world’s largest nuclear energy production capacity, but China has the fastest-growing nuclear fleet. China’s 15th Five-Year Plan (15FYP), released back in March, ",
+      "category": "Production"
+    },
+    {
+      "title": "Protests Erupt as Cuba Says It's Entirely Out of Fuel",
+      "link": "https://www.rigzone.com/news/protests_erupt_as_cuba_says_its_entirely_out_of_fuel-14-may-2026-183694-article/?rss=true",
+      "date": "2026-05-14T21:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Cuba said the country has completely run out of the diesel and fuel oil it needs to keep its power plants running, with civil unrest starting to break out am...",
+      "category": "Refinery"
+    },
+    {
+      "title": "Canada Rethinks Selling Its Crown Jewel Pipeline",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Rethinks-Selling-Its-Crown-Jewel-Pipeline.html",
+      "date": "2026-05-14T20:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Canadian federal government may reconsider a plan to privatize the Trans Mountain oil pipeline and keep it state-owned amid a surge in appetite for Canadian crude to replace lost Middle Eastern barrels. “The prior narrative had been that this should be returning to private ha",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Crude Steady Following Trump-Xi Summit",
+      "link": "https://www.rigzone.com/news/crude_steady_following_trumpxi_summit-14-may-2026-183695-article/?rss=true",
+      "date": "2026-05-14T19:44:20.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil steadied following a meeting between US President Donald Trump and Chinese leader Xi Jinping where discussions included the war in Iran and closer oil ti...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Chinese Tankers Resume Hormuz Transit Under Iran Coordination",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinese-Tankers-Resume-Hormuz-Transit-Under-Iran-Coordination.html",
+      "date": "2026-05-14T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "During President Trump's ongoing state visit to China, he and President Xi Jinping agreed that the ‌Strait of ‌Hormuz must be open for ‌the free flow of energy. They along with their senior officials have expressed agreement that no country can be allowed to exact shipping tolls ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Financial Strains and Mining Disputes Cloud Russia-Kazakhstan Nuclear Ties",
+      "link": "https://oilprice.com/Energy/Energy-General/Financial-Strains-and-Mining-Disputes-Cloud-Russia-Kazakhstan-Nuclear-Ties.html",
+      "date": "2026-05-14T18:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Kazakh officials are haggling with a Rosatom subsidiary, asserting that the Russian entity has failed to fulfill contractual obligations under a uranium mining agreement. Kazatomprom, Kazakhstan’s nuclear energy entity, filed a complaint in early 2026, asserting that the Rosatom-",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "How the Hormuz Crisis Is Threatening Taiwan’s Power Grid",
+      "link": "https://oilprice.com/Energy/Natural-Gas/How-the-Hormuz-Crisis-Is-Threatening-Taiwans-Power-Grid.html",
+      "date": "2026-05-14T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Taiwan’s LNG problem has turned from a diversification debate into an energy-security test. The island is 99% dependent on imported natural gas, and in 2025 roughly one-third of its 23.6 Mt of LNG imports came from the Gulf region – mostly from Qatar (almost 8 Mt) and another 200",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Russia’s Oil Windfall Gets Bigger as Hormuz Stays Shut",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Windfall-Gets-Bigger-as-Hormuz-Stays-Shut.html",
+      "date": "2026-05-14T16:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Russia just found itself on the right side of the oil shock. As the Iran war continues to choke flows through the Strait of Hormuz and scramble global crude markets, Moscow’s flagship Urals blend is essentially printing money. For tax purposes, Russia will calculate May oil reven",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Who Really Rules Iran Now?",
+      "link": "https://oilprice.com/Energy/Energy-General/Who-Really-Rules-Iran-Now.html",
+      "date": "2026-05-14T16:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "For decades, power in Iran was centralized in the hands of a single man: Supreme Leader Ayatollah Ali Khamenei. But since his killing at the onset of the US-Israeli war with Iran on February 28, decision-making in Tehran has become increasingly decentralized, experts say. Mojtaba",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Delegates Say OPEC+ Has Plan to Complete Series of Quota Hikes",
+      "link": "https://www.rigzone.com/news/delegates_say_opec_has_plan_to_complete_series_of_quota_hikes-14-may-2026-183693-article/?rss=true",
+      "date": "2026-05-14T14:37:56.000Z",
+      "source": "Rigzone",
+      "description": "<p>Key OPEC+ members aim to continue a series of oil quota increases over the next few months, completing the return of a layer of halted production — if only o...",
+      "category": "Production"
+    },
+    {
+      "title": "USA Crude Oil Stocks Drop More Than 4MM Barrels WoW",
+      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_more_than_4mm_barrels_wow-14-may-2026-183692-article/?rss=true",
+      "date": "2026-05-14T14:06:42.000Z",
+      "source": "Rigzone",
+      "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), decreased by 4.3 million barrels from the week ending May 1 ...",
+      "category": "Production"
+    },
+    {
+      "title": "ENEOS to buy certain Chevron downstream assets in APAC for $2.2bn",
+      "link": "https://www.offshore-technology.com/news/eneos-to-buy-chevron-downstream/",
+      "date": "2026-05-14T13:16:33.000Z",
+      "source": "Offshore Technology",
+      "description": "ENEOS has signed a deal worth $2.17bn to acquire certain Chevron’s downstream fuel and lubricants businesses in Asia Pacific.",
+      "category": "General"
+    },
+    {
+      "title": "Bill Seeks to Tax Windfall Oil Profits in US amid Iran War",
+      "link": "https://www.rigzone.com/news/bill_seeks_to_tax_windfall_oil_profits_in_us_amid_iran_war-14-may-2026-183690-article/?rss=true",
+      "date": "2026-05-14T13:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>A California congressman has proposed legislation to tax oil companies' windfall profits during the war with Iran.</p> <p>Revenue collected under the Iran...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "JP Morgan Warns Oil Could Average $151 in Q4",
+      "link": "https://www.rigzone.com/news/jp_morgan_warns_oil_could_average_151_in_q4-14-may-2026-183691-article/?rss=true",
+      "date": "2026-05-14T11:35:55.000Z",
+      "source": "Rigzone",
+      "description": "<p>In a report sent to Rigzone this week by Natasha Kaneva, J.P. Morgan’s head of global commodities strategy, J.P. Morgan warned that Brent could average as mu...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Meren Books Hedging Losses",
+      "link": "https://www.rigzone.com/news/meren_books_hedging_losses-14-may-2026-183689-article/?rss=true",
+      "date": "2026-05-14T10:00:36.000Z",
+      "source": "Rigzone",
+      "description": "<p>Meren Energy Inc's financial losses deepened for the first quarter as the elevated oil price environment induced by the Middle East war resulted in a non-cas...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "TotalEnergies and EGAS sign offshore exploration deal in Egypt",
+      "link": "https://www.offshore-technology.com/news/totalenergies-egas-offshore-exploration-deal-egypt/",
+      "date": "2026-05-14T09:41:07.000Z",
+      "source": "Offshore Technology",
+      "description": "TotalEnergies and the Egyptian Natural Gas (EGAS) signed a memorandum of understanding (MoU) concerning exploration activities off the north-western coast of Egypt.",
+      "category": "Production"
+    },
+    {
+      "title": "Sinopec wins approval for 235.7bcm Ziyang shale gas reserves",
+      "link": "https://www.offshore-technology.com/news/sinopec-approval-ziyang-shale-gas-reserves/",
+      "date": "2026-05-14T09:28:18.000Z",
+      "source": "Offshore Technology",
+      "description": "China Petroleum & Chemical Corporation (Sinopec) has obtained approval for 235.687 billion cubic metres (bcm) of proven geological reserves at the Ziyang Dongfeng shale gas field located in Sichuan basin, China.",
+      "category": "Production"
+    },
+    {
+      "title": "UK Gov to Introduce Energy Independence Bill",
+      "link": "https://www.rigzone.com/news/uk_gov_to_introduce_energy_independence_bill-14-may-2026-183688-article/?rss=true",
+      "date": "2026-05-14T09:25:20.000Z",
+      "source": "Rigzone",
+      "description": "<p>The UK government will introduce an Energy Independence Bill, the UK’s King Charles revealed in the 2026 King’s Speech.</p> <p>“My Ministers believe that ...",
+      "category": "General"
+    },
+    {
+      "title": "BP acquires 40% stake in Uzbekistan’s Ustyurt blocks",
+      "link": "https://www.offshore-technology.com/news/bp-acquires-stake-ustyurt-blocks/",
+      "date": "2026-05-14T08:06:38.000Z",
+      "source": "Offshore Technology",
+      "description": "BP has secured a 40% participating stake in a production sharing agreement (PSA) for six oil and gas exploration blocks in Uzbekistan's North Ustyurt region.",
+      "category": "Production"
     },
     {
       "title": "Eneos Buys Chevron Oil Assets in APAC for $2.2B",
@@ -17,22 +241,6 @@
       "date": "2026-05-14T07:49:09.000Z",
       "source": "Rigzone",
       "description": "<p>Japanese refiner Eneos Holdings Inc. agreed to purchase some of Chevron Corp.'s refining and retail assets across the Asia-Pacific for $2.17 billion in cash,...",
-      "category": "Refinery"
-    },
-    {
-      "title": "Japan-Bound Oil Tanker Clears Strait of Hormuz Amid Iranian Crackdown",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Bound-Oil-Tanker-Clears-Strait-of-Hormuz-Amid-Iranian-Crackdown.html",
-      "date": "2026-05-14T07:01:08.000Z",
-      "source": "OilPrice.com",
-      "description": "A tanker carrying crude oil to Japan has passed through the Strait of Hormuz, Reuters reported today, citing data from LSEG. This is only the second Japan-bound tanker to make it through the chokepoint since the U.S. and Israel launched strikes on Iran at the end of February. Cit",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Iberdrola Acquires Another Installed RE Plant in Italy",
-      "link": "https://www.rigzone.com/news/iberdrola_acquires_another_installed_re_plant_in_italy-14-may-2026-183686-article/?rss=true",
-      "date": "2026-05-14T06:30:01.000Z",
-      "source": "Rigzone",
-      "description": "<p>Iberdrola SA has acquired 40 megawatts (MW) of wind generation capacity onshore Italy from Italy's Belenergia and France's RGREEN INVEST, which grows the Spa...",
       "category": "Refinery"
     },
     {
@@ -44,52 +252,12 @@
       "category": "Production"
     },
     {
-      "title": "Chevron Sells Singapore Refinery Stake to Eneos",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Sells-Singapore-Refinery-Stake-to-Eneos.html",
-      "date": "2026-05-14T05:15:32.000Z",
-      "source": "OilPrice.com",
-      "description": "Chevron struck a deal with Eneos to sell it its 50% interest in Singapore Refining Company. The Japanese energy major will pay close to $2.2 billion for the stake, media reported. As part of the deal, Eneos will also acquire other Chevron assets across Southeast Asia and Australi",
+      "title": "Iberdrola Acquires Another Installed RE Plant in Italy",
+      "link": "https://www.rigzone.com/news/iberdrola_acquires_another_installed_re_plant_in_italy-14-may-2026-183686-article/?rss=true",
+      "date": "2026-05-14T06:30:01.000Z",
+      "source": "Rigzone",
+      "description": "<p>Iberdrola SA has acquired 40 megawatts (MW) of wind generation capacity onshore Italy from Italy's Belenergia and France's RGREEN INVEST, which grows the Spa...",
       "category": "Refinery"
-    },
-    {
-      "title": "The Pentagon Has Less Than 8 Months to Break China’s Rare Earth Grip",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Pentagon-Has-Less-Than-8-Months-to-Break-Chinas-Rare-Earth-Grip.html",
-      "date": "2026-05-14T00:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "China moved this week to take tighter control of its rare earths producers amid an escalating tit-for-tat battle with Washington over everything from tariffs and semiconductor warfare to pressure over Iran and Hormuz. At the same time, an ominous Pentagon deadline looms large, wi",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "StanChart Warns Physical Oil Premium Collapse May Be Temporary",
-      "link": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Physical-Oil-Premium-Collapse-May-Be-Temporary.html",
-      "date": "2026-05-13T23:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Over the past couple of months, physical oil cargo premiums have surged as markets reacted to the threat of physical supply disruption, forcing buyers to pay significantly higher prices for guaranteed, prompt delivery of crude oil. As the conflict escalated and Iran blocked the S",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Big Oil Reconsiders Previously Unattractive Destinations",
-      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Reconsiders-Previously-Unattractive-Destinations.html",
-      "date": "2026-05-13T22:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Middle Eastern crisis has prompted a reprioritization among international oil companies. Previously unattractive drilling destinations are suddenly looking quite attractive—even Alaska. The oldest oil and gas producing part of the United States has for years been out of the s",
-      "category": "Production"
-    },
-    {
-      "title": "AI Is Being Used to Fix Its Own Energy Problem",
-      "link": "https://oilprice.com/Energy/Energy-General/AI-Is-Being-Used-to-Fix-Its-Own-Energy-Problem.html",
-      "date": "2026-05-13T21:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Researchers are increasingly employing artificial intelligence to help them solve some of the biggest challenges facing the energy sector – including, ironically enough, the massive spike in energy demand caused by large language models themselves. The current and projected rise ",
-      "category": "General"
-    },
-    {
-      "title": "Iran Makes Hormuz Passage a Case-by-Case Deal",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-Makes-Hormuz-Passage-a-Case-by-Case-Deal.html",
-      "date": "2026-05-13T20:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Two and a half months after the U.S.-Israeli strikes on Iran began, the Islamic Republic is moving closer to selectively controlling tanker flows through the Strait of Hormuz in a sign that access to the critical chokepoint may never be as unconditionally free as it was before Fe",
-      "category": "Geopolitics"
     },
     {
       "title": "Senegal Targets $7.5B Gas Project to End Energy Subsidies",
@@ -106,54 +274,6 @@
       "source": "Rigzone",
       "description": "<p>Oil slipped in volatile trading as traders awaited a pivotal meeting between US President Donald Trump and Chinese counterpart Xi Jinping, while fresh US dat...",
       "category": "Prices"
-    },
-    {
-      "title": "China’s Invisible Hand Is Distorting Global Oil Markets",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Chinas-Invisible-Hand-Is-Distorting-Global-Oil-Markets.html",
-      "date": "2026-05-13T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "For two decades, OPEC ministers, Wall Street analysts, and oil traders have been speaking about the global crude market as if traditional rules still apply. OPEC’s kingpin, Saudi Arabia, is still seen as the swing producer, while OPEC+ is viewed as the balancing mechanism. US sha",
-      "category": "Prices"
-    },
-    {
-      "title": "Middle East War Threatens Renewable Energy Rollout",
-      "link": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Threatens-Renewable-Energy-Rollout.html",
-      "date": "2026-05-13T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "War in the Middle East has reshaped near-term energy market expectations, with direct implications for hydrocarbon supply affecting power sectors across liquified natural gas (LNG) imports, oil imports, and spot gas-dependent economies, mainly in Europe and Asia. While Middle Eas",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Electricity Industry Faces Risks from Three New Technologies",
-      "link": "https://oilprice.com/Energy/Energy-General/Electricity-Industry-Faces-Risks-from-Three-New-Technologies.html",
-      "date": "2026-05-13T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Electric company annual reports describe technological risk in the vaguest of terms, asserting that firms face numerous, generalized risks— boiler plate to provide legal cover just in case something happens, such as an ET invasion. What specific risks do the companies face? You’l",
-      "category": "General"
-    },
-    {
-      "title": "Saudi Aramco Looks to Raise $10 Billion from Real Estate Asset Deal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Looks-to-Raise-10-Billion-from-Real-Estate-Asset-Deal.html",
-      "date": "2026-05-13T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Saudi Arabia's oil giant Aramco expects to raise at least $10 billion from a potential sale and leaseback deal for its real estate assets, including its Dhahran Camp residential community in the Eastern Province of the Kingdom, Bloomberg reported on Wednesday, citing sources with",
-      "category": "General"
-    },
-    {
-      "title": "The Fuel Shortage That Could Reshape Global Trade",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Fuel-Shortage-That-Could-Reshape-Global-Trade.html",
-      "date": "2026-05-13T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The war with Iran is not going well. It is difficult to supply US troops with adequate food and other necessities. With summer arriving soon, the region will soon be an even more inhospitable place for ground troops to fight. An underlying problem is that the world economy was re",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Russia's Oil Revenues Surge $6.3 Billion as High Prices Offset Production Losses",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Revenues-Surge-63-Billion-as-High-Prices-Offset-Production-Loss.html",
-      "date": "2026-05-13T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Russia’s oil export revenues have continued to rise despite lower production thanks to high oil prices. According to the International Energy Agency (IEA) monthly market report for May, Russia’s oil export revenues clocked in at $19.18 billion in April, good for a modest $180 mil",
-      "category": "Geopolitics"
     },
     {
       "title": "Aramco Targets Raising Over $10B From Property Portfolio",
@@ -178,14 +298,6 @@
       "source": "Rigzone",
       "description": "<p>The U.S. Department of the Interior’s (DOI) Bureau of Land Management is issuing a final rule to fully rescind the Conservation and Landscape Health Rule, a ...",
       "category": "Policy"
-    },
-    {
-      "title": "US Crude Oil, Gasoline Inventories Continue to Crash as Iran War Takes Its Toll",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Oil-Gasoline-Inventories-Continue-to-Crash-as-Iran-War-Takes-Its-Toll.html",
-      "date": "2026-05-13T14:39:07.000Z",
-      "source": "OilPrice.com",
-      "description": "Crude oil inventories in the United States decreased by 4.3 million barrels during the week ending May 8, according to new data from the U.S. Energy Information Administration (EIA) released on Wednesday. The decrease brings commercial stockpiles to 452.9 million barrels, accordi",
-      "category": "Geopolitics"
     },
     {
       "title": "Equus Energy completes pre-FEED for North West Shelf gas project",
@@ -268,14 +380,6 @@
       "category": "Production"
     },
     {
-      "title": "TotalEnergies and partners sign MoU for Syrian offshore exploration",
-      "link": "https://www.offshore-technology.com/news/totalenergies-partners-mou-syrian-offshore-exploration/",
-      "date": "2026-05-13T08:00:52.000Z",
-      "source": "Offshore Technology",
-      "description": "TotalEnergies, alongside QatarEnergy and ConocoPhillips, has entered into a memorandum of understanding (MoU) with the Syrian Petroleum Company (SPC) for the exploration of Block 3, located offshore Syria in the Mediterranean Sea.",
-      "category": "Production"
-    },
-    {
       "title": "Russia Sees Flat Oil Output This Year amid Ukraine Fightback",
       "link": "https://www.rigzone.com/news/russia_sees_flat_oil_output_this_year_amid_ukraine_fightback-13-may-2026-183674-article/?rss=true",
       "date": "2026-05-13T07:00:01.000Z",
@@ -298,14 +402,6 @@
       "source": "Rigzone",
       "description": "<p>Brazil’s state-controlled oil company Petrobras fell short of earnings estimates as it held domestic gasoline prices stable during the war-driven price surge...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "New episode: OTC 2026 – Insights from the ground",
-      "link": "https://www.offshore-technology.com/news/new-episode-otc-2026/",
-      "date": "2026-05-12T14:42:13.000Z",
-      "source": "Offshore Technology",
-      "description": "In this week's episode, Energy Technology offers a snapshot of key conversations and takeaways from the Offshore Technology Conference 2026.",
-      "category": "General"
     },
     {
       "title": "USA Oil, Gas Workforce Hits Lowest Level Since 2022",
@@ -332,22 +428,6 @@
       "category": "Supply Routes"
     },
     {
-      "title": "Santos makes FID on Agogo tie-in project in PNG",
-      "link": "https://www.offshore-technology.com/news/santos-fid-agogo-tiein-project-png/",
-      "date": "2026-05-12T12:48:30.000Z",
-      "source": "Offshore Technology",
-      "description": "Australian energy company Santos has confirmed it will move forward with the APF tie-in project in Papua New Guinea.",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Asia to dominate global ethylene glycol capacity additions by 2030",
-      "link": "https://www.offshore-technology.com/analyst-comment/asia-global-ethylene-glycol-capacity-additions-2030/",
-      "date": "2026-05-12T12:24:34.000Z",
-      "source": "Offshore Technology",
-      "description": "Asia is poised to dominate the global ethylene glycol capacity additions by 2030 due to sustained investment in petrochemical infrastructure.",
-      "category": "General"
-    },
-    {
       "title": "PNG LNG Partners Approve New Upstream Development",
       "link": "https://www.rigzone.com/news/png_lng_partners_approve_new_upstream_development-12-may-2026-183668-article/?rss=true",
       "date": "2026-05-12T12:09:44.000Z",
@@ -362,14 +442,6 @@
       "source": "Rigzone",
       "description": "<p>Another U.S. gasoline price surge could be coming, GasBuddy warned in a blog posted on its website on Monday.</p> <p>“Average gasoline prices declined in ...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Bavaria backs hydrogen‑ready gas plant at Zolling Energy Park",
-      "link": "https://www.offshore-technology.com/news/bavaria-backs-hydrogen-ready-gas-plant-at-zolling-energy-park/",
-      "date": "2026-05-12T10:36:38.000Z",
-      "source": "Offshore Technology",
-      "description": "Bavaria has signed a Letter of Intent with Onyx Power to advance a hydrogen-capable gas turbine plant at the Zolling Energy Park.",
-      "category": "Refinery"
     },
     {
       "title": "Uniper Flexes Diversified Procurement Portfolio as Profit Rises",
@@ -585,94 +657,6 @@
       "date": "2026-05-08T08:52:18.000Z",
       "source": "Rigzone",
       "description": "<p>Nine cleaner hydrogen production projects have secured a total of EUR 1.09 billion ($1.28 billion) in grants under the third auction of the European Hydrogen...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Adnoc LNG Tankers Go Dark to Get Gas Through Hormuz",
-      "link": "https://www.rigzone.com/news/adnoc_lng_tankers_go_dark_to_get_gas_through_hormuz-07-may-2026-183636-article/?rss=true",
-      "date": "2026-05-07T20:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) May 8, 2026, 3:28 AM GMT+1: Article up...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Oil Swings on Iran Deal Doubts",
-      "link": "https://www.rigzone.com/news/oil_swings_on_iran_deal_doubts-07-may-2026-183639-article/?rss=true",
-      "date": "2026-05-07T19:46:24.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil prices whipsawed on renewed doubts about a deal to end the US war in Iran and reopen the vital Strait of Hormuz.<br /> <br /> Brent, the global benchma...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Murphy Oil Avoids Gambling on Current Volatility",
-      "link": "https://www.rigzone.com/news/murphy_oil_avoids_gambling_on_current_volatility-07-may-2026-183637-article/?rss=true",
-      "date": "2026-05-07T14:28:26.000Z",
-      "source": "Rigzone",
-      "description": "<p>Murphy Oil Corp president and chief executive Eric M. Hambly said Wednesday the company is refraining from making forward-looking actions based on the presen...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "USA Crude Oil Stocks Drop by More Than 2MM Barrels WoW",
-      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_by_more_than_2mm_barrels_wow-07-may-2026-183638-article/?rss=true",
-      "date": "2026-05-07T14:27:59.000Z",
-      "source": "Rigzone",
-      "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), decreased by 2.3 million barrels from the week ending April ...",
-      "category": "Production"
-    },
-    {
-      "title": "USA Considers Tapping Oil Under Military Bases to Refill SPR",
-      "link": "https://www.rigzone.com/news/usa_considers_tapping_oil_under_military_bases_to_refill_spr-07-may-2026-183635-article/?rss=true",
-      "date": "2026-05-07T13:42:13.000Z",
-      "source": "Rigzone",
-      "description": "<p>The Trump administration is studying using oil under land at US military bases and other Department of War sites to help refill the nation’s depleted emergen...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "EOG Profit Exceeds Expectations",
-      "link": "https://www.rigzone.com/news/eog_profit_exceeds_expectations-07-may-2026-183634-article/?rss=true",
-      "date": "2026-05-07T12:58:42.000Z",
-      "source": "Rigzone",
-      "description": "<p>EOG Resources Inc has reported $1.83 billion in net income adjusted for nonrecurring items for the first quarter (Q1), up quarter-on-quarter and year-on-year...",
-      "category": "General"
-    },
-    {
-      "title": "Which USA Oil Major Produced the Most in 1Q 2026?",
-      "link": "https://www.rigzone.com/news/which_usa_oil_major_produced_the_most_in_1q_2026-07-may-2026-183633-article/?rss=true",
-      "date": "2026-05-07T11:16:04.000Z",
-      "source": "Rigzone",
-      "description": "<p>Which U.S. oil major produced the most in the first quarter of 2026 - ExxonMobil, Chevron, or ConocoPhillips?</p> <p>According to their first quarter resu...",
-      "category": "General"
-    },
-    {
-      "title": "Aker BP Posts Higher Profit",
-      "link": "https://www.rigzone.com/news/aker_bp_posts_higher_profit-07-may-2026-183632-article/?rss=true",
-      "date": "2026-05-07T11:00:16.000Z",
-      "source": "Rigzone",
-      "description": "<p>Aker BP ASA on Thursday reported $758 million in net profit for the first quarter (Q1), bouncing back from a net loss of $145 million for the prior three mon...",
-      "category": "General"
-    },
-    {
-      "title": "Eni Confirms Size of 'Giant' Gas Discovery offshore Indonesia",
-      "link": "https://www.rigzone.com/news/eni_confirms_size_of_giant_gas_discovery_offshore_indonesia-07-may-2026-183630-article/?rss=true",
-      "date": "2026-05-07T08:57:25.000Z",
-      "source": "Rigzone",
-      "description": "<p>A drill stem test (DST) confirmed the preliminary assessment of about 5 trillion cubic feet (Tcf) of natural gas and 300 million barrels of condensate in the...",
-      "category": "Production"
-    },
-    {
-      "title": "Physical Oil Market Does Not Run on Political Timelines",
-      "link": "https://www.rigzone.com/news/physical_oil_market_does_not_run_on_political_timelines-07-may-2026-183631-article/?rss=true",
-      "date": "2026-05-07T08:56:58.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a market update sent to Rigzone on Wednesday, Rystad Energy said reports of a U.S.-Iran peace deal are gaining credibility, but warned that, even if a dea...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Shell Profit Soars as Volatility Boosts Trading",
-      "link": "https://www.rigzone.com/news/shell_profit_soars_as_volatility_boosts_trading-07-may-2026-183629-article/?rss=true",
-      "date": "2026-05-07T08:11:13.000Z",
-      "source": "Rigzone",
-      "description": "<p>Shell Plc said its profit surged in the first quarter as the Iran war drove oil and gas prices higher and the conflict caused a increase in volatility that b...",
       "category": "Geopolitics"
     }
   ]
