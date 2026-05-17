@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-16T08:03:45.051Z",
+  "lastUpdated": "2026-05-17T08:20:59.584Z",
   "priceUsd": 105.42,
-  "changeUsd": 0.42,
-  "changePct": 0.4,
-  "weekEnding": "2026-05-16",
+  "changeUsd": 0,
+  "changePct": 0,
+  "weekEnding": "2026-05-17",
   "dataSource": "Stooq (cl.f front-month)"
 }

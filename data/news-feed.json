@@ -1,8 +1,56 @@
 {
-  "lastUpdated": "2026-05-16T08:04:14.041Z",
-  "summary": "• Strait of Hormuz remains a critical chokepoint for global oil supply, with geopolitical tensions and shutdown risks driving crude prices higher despite efforts by alternative routes like UAE's Hormuz-bypass export capacity expansion.\n\n• Argentina's Vaca Muerta shale play is emerging as a strategic supply alternative to Middle East oil, positioning the Western Hemisphere as increasingly important for global energy security amid persistent geopolitical risks.\n\n• Canada's West Coast pipeline approval and rising US rig counts signal domestic production growth opportunities, while the Trump administration's SPR refill commitment further supports Western Hemisphere supply diversification away from conflict-prone regions.",
+  "lastUpdated": "2026-05-17T08:21:27.741Z",
+  "summary": "• Escalating geopolitical tensions in the Strait of Hormuz and lack of diplomatic resolution with Iran are creating critical chokepoint supply risks for global oil markets, with even major powers unable to secure commitments to de-escalate the situation.\n\n• Mexico's oil production faces operational uncertainty following leadership changes at Pemex, while Argentina's Vaca Muerta shale emerges as the primary Western Hemisphere alternative to mitigate Middle East supply vulnerabilities.\n\n• Infrastructure investments in Canada's West Coast pipeline capacity and UAE's Hormuz-bypass export terminal represent critical supply route diversification efforts needed to hedge against potential disruptions in traditional transit chokepoints.",
   "count": 81,
   "articles": [
+    {
+      "title": "Beijing’s Silence Is Fueling the Hormuz Crisis",
+      "link": "https://oilprice.com/Energy/Energy-General/Beijings-Silence-Is-Fueling-the-Hormuz-Crisis.html",
+      "date": "2026-05-16T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Even though the Xi–Trump summit in Beijing was supposed to project stability, the outcome was clearly the opposite. In real terms, the meeting could ultimately be remembered as the moment the world began to understand that there is no viable great-power strategy to contain the Ir",
+      "category": "General"
+    },
+    {
+      "title": "Big Oil Rushes Into Argentina’s Vaca Muerta Shale",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oil-Rushes-Into-Argentinas-Vaca-Muerta-Shale.html",
+      "date": "2026-05-16T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Local and international energy companies are vying for additional exploration blocks in Argentina’s Vaca Muerta shale basin as the Middle East crisis and the blocked Strait of Hormuz are reigniting a global race to tap resources outside conflict zones. What was a predominantly U.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "China’s Battery Breakthrough Could Challenge Lithium-Ion Dominance",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Breakthrough-Could-Challenge-Lithium-Ion-Dominance.html",
+      "date": "2026-05-16T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Researchers have been exploring the use of different technologies to improve battery storage as part of the race to accelerate the deployment of renewable energy and shift away from fossil fuels. While lithium-ion batteries have significant potential to support utility-scale ener",
+      "category": "General"
+    },
+    {
+      "title": "Turkey and Armenia Move Closer to Historic Normalization Deal",
+      "link": "https://oilprice.com/Energy/Energy-General/Turkey-and-Armenia-Move-Closer-to-Historic-Normalization-Deal.html",
+      "date": "2026-05-16T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Turkey and Armenia have taken a major stride in settling their historical differences, agreeing on a bureaucratic framework to promote direct trade between the two states. The Turkish Foreign Ministry announced on May 13 that Ankara had approved streamlined regulations for goods ",
+      "category": "Policy"
+    },
+    {
+      "title": "The Fertilizer Shock That Could Trigger a Global Food Crisis",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Fertilizer-Shock-That-Could-Trigger-a-Global-Food-Crisis.html",
+      "date": "2026-05-16T15:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Following the United States-Israeli attack on Iran and the ongoing war, trade has been severely disrupted between Asia and Europe. According to the International Energy Agency (IEA), the world is currently facing the worst oil disruption in history. The energy shortages felt over",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Sheinbaum Taps Pemex CFO to Run Mexico Oil Giant",
+      "link": "https://www.rigzone.com/news/sheinbaum_taps_pemex_cfo_to_run_mexico_oil_giant-16-may-2026-183705-article/?rss=true",
+      "date": "2026-05-16T12:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Petroleos Mexicanos Chief Executive Officer Víctor Rodríguez Padilla is stepping down, handing the reins to a financial expert with close ties to the preside...",
+      "category": "Policy"
+    },
     {
       "title": "China Spent More on Clean Energy Than the Rest of the World Combined",
       "link": "https://oilprice.com/Energy/Energy-General/China-Spent-More-on-Clean-Energy-Than-the-Rest-of-the-World-Combined.html",
@@ -132,52 +180,12 @@
       "category": "General"
     },
     {
-      "title": "India's Trade Deficit Jumps as Energy Import Prices Soar",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Trade-Deficit-Jumps-as-Energy-Import-Prices-Soar.html",
-      "date": "2026-05-15T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India's trade deficit widened in April by more than analysts had expected as the surge in oil and gas prices hiked the Indian energy import bill. Trade deficit jumped to $28.38 billion last month, according to data from the Ministry of Commerce and Industry published on Friday. T",
-      "category": "Supply Routes"
-    },
-    {
       "title": "Scottish Greens Push for Expanded Tax on Windfall Oil Profits",
       "link": "https://www.rigzone.com/news/scottish_greens_push_for_expanded_tax_on_windfall_oil_profits-15-may-2026-183700-article/?rss=true",
       "date": "2026-05-15T13:08:12.000Z",
       "source": "Rigzone",
       "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) May 15, 2026, 4:00 PM GMT: Article upd...",
       "category": "General"
-    },
-    {
-      "title": "India Signs LPG and Strategic Oil Reserves Deal with UAE",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Signs-LPG-and-Strategic-Oil-Reserves-Deal-with-UAE.html",
-      "date": "2026-05-15T12:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India on Friday signed a strategic agreement with the United Arab Emirates to receive liquefied petroleum gas from the UAE, as well as a Memorandum of Understanding (MoU) on strategic petroleum reserves. India, which uses LPG as its the main cooking fuel and has felt shortages si",
-      "category": "Production"
-    },
-    {
-      "title": "Oil Prices Surge as Hormuz Shutdown Keeps Supply Fears Alive",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Surge-as-Hormuz-Shutdown-Keeps-Supply-Fears-Alive.html",
-      "date": "2026-05-15T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Crude oil prices rallied hard this week as traders focused on the growing supply threat tied to the U.S.-Iran conflict. July WTI crude oil futures settled Thursday at $97.91, gaining $6.79, or 7.45%, for the week. Prices traded in a wide range between $92.84 and $99.09 as the mar",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Netanyahu’s Coalition Fractures as Israel Edges Toward Early Elections",
-      "link": "https://oilprice.com/Energy/Energy-General/Netanyahus-Coalition-Fractures-as-Israel-Edges-Toward-Early-Elections.html",
-      "date": "2026-05-15T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Politics, Geopolitics & Conflict Thursday was the first day of the Trump-Xi summit, which most of the world is awaiting with bated breath as some indication of a Chinese-supported end to the U.S.-Iran conflict and a reopening of Hormuz. It will not be that simple, of course, and ",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "The Tiny Island Caught Between Iran, Iraq, China and the U.S.",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Tiny-Island-Caught-Between-Iran-Iraq-China-and-the-US.html",
-      "date": "2026-05-15T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Gulf shipping, Iraqi trade access, Chinese infrastructure expansion, and US-Iran military escalation are now concentrated around a new, narrow stretch of water near Kuwait’s Bubiyan Island, which is the target of intensifying gaming. This week, Kuwait formally accused IRGC-linked",
-      "category": "Geopolitics"
     },
     {
       "title": "USA EIA Reveals Latest Oil Price Forecasts",
@@ -642,14 +650,6 @@
       "source": "Rigzone",
       "description": "<p>Equinor ASA has put onstream the Eirin field in the North Sea, growing Norway's capacity to export natural gas to Europe.</p> <p>The tieback development h...",
       "category": "Supply Routes"
-    },
-    {
-      "title": "IEA Head Calls on Canada to Move Faster on Energy",
-      "link": "https://www.rigzone.com/news/iea_head_calls_on_canada_to_move_faster_on_energy-09-may-2026-183645-article/?rss=true",
-      "date": "2026-05-09T12:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>The head of the International Energy Agency is urging Canada to move more quickly to develop and export its energy resources, warning that market conditions ...",
-      "category": "Geopolitics"
     }
   ]
 }
