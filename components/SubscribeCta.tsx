@@ -21,7 +21,7 @@ export default function SubscribeCta({
         <input
           type="email"
           name="email"
-          placeholder="you@example.com"
+          placeholder="Your Email"
           required
           className="flex-1 bg-oil-900 border border-oil-700 rounded px-3 py-1.5 text-sm text-white placeholder-gray-600 focus:outline-none focus:border-oil-500"
         />
