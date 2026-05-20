@@ -1,23 +1,199 @@
 {
-  "lastUpdated": "2026-05-20T09:33:35.327Z",
-  "summary": "• Australian LNG supply faces near-term disruption risk as strikes at two major facilities have halted operations following failed wage negotiations.\n\n• Hormuz Strait transit remains critical for Western Hemisphere crude flows to Asia, with geopolitical tensions continuing to pressure alternative routing strategies despite some vessels successfully transiting the chokepoint.\n\n• U.S. crude inventory builds have been reversed by strong drawdowns, but year-to-date levels remain elevated, suggesting demand concerns could pressure prices and upstream investment decisions in the coming quarters.",
-  "count": 83,
+  "lastUpdated": "2026-05-20T19:30:05.568Z",
+  "summary": "• Middle East geopolitical tensions and potential Iran conflict are driving Western Hemisphere producers like Nigeria to increase output, but broader shipping disruptions and potential Strait of Hormuz constraints threaten global supply route reliability.\n\n• U.S. crude inventories are declining rapidly while refinery capacity expansions remain in development, creating a tightening domestic supply-demand balance that could pressure energy security if production disruptions occur.\n\n• LNG supply shocks and conventional fuel shortages are creating downstream energy market volatility with spillover effects to regional markets, while alternative energy transitions (EVs, renewables) are gradually reducing oil demand growth in developed economies.",
+  "count": 90,
   "articles": [
     {
-      "title": "India Eyes Direct Gulf Oil Loading Despite Hormuz Blockade",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Eyes-Direct-Gulf-Oil-Loading-Despite-Hormuz-Blockade.html",
-      "date": "2026-05-20T09:20:00.000Z",
+      "title": "The Global Energy Crisis Is Driving Countries Back To Coal",
+      "link": "https://oilprice.com/Energy/Coal/The-Global-Energy-Crisis-Is-Driving-Countries-Back-To-Coal.html",
+      "date": "2026-05-20T19:00:00.000Z",
       "source": "OilPrice.com",
-      "description": "India plans to send empty tankers into the Strait of Hormuz to load oil supplies from the Gulf producers in a first such Indian move west of the chokepoint for loading crude and LPG since the Iran war began, sources with knowledge of the matter told Bloomberg on Wednesday. Despit",
+      "description": "Five years ago, over 40 countries pledged to scale back and phase down unabated coal power at the COP26 UN Climate Summit by 2030-2040, with hundreds of institutions promising to end international coal financing. Three years later, the Group of Seven (G7) nations, namely the Unit",
+      "category": "General"
+    },
+    {
+      "title": "A New Central Asian Trade Corridor Faces Old Security Risks",
+      "link": "https://oilprice.com/Energy/Energy-General/A-New-Central-Asian-Trade-Corridor-Faces-Old-Security-Risks.html",
+      "date": "2026-05-20T18:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "A top Uzbek government official has revealed that Afghanistan, Pakistan and Uzbekistan are in “conceptual agreement” on creating a transit corridor to connect the Central Asian nation to ports on the Arabian Sea. The semi-official Gazeta.uz news outlet cites Deputy Minister of Tr",
+      "category": "General"
+    },
+    {
+      "title": "Norway’s Offshore Oil Production Beats Forecasts in April",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Norways-Offshore-Oil-Production-Beats-Forecasts-in-April.html",
+      "date": "2026-05-20T17:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Norwegian offshore oil production significantly exceeded expectations in April, with total liquids output climbing to 2.158 million barrels per day — 6.7% above official forecasts — as Europe grows increasingly dependent on a stable North Sea energy supply in an increasingly frag",
+      "category": "Production"
+    },
+    {
+      "title": "This New Solar Battery Stores Energy Without Lithium or the Grid",
+      "link": "https://oilprice.com/Energy/Energy-General/This-New-Solar-Battery-Stores-Energy-Without-Lithium-or-the-Grid.html",
+      "date": "2026-05-20T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The challenge of solar-powered energy has always been the means to store it. And the intermittency of solar and wind energy makes that storage capability essential. Energy from the sun and wind can only be created — and stored — when the sun shines or the wind blows. But that tec",
+      "category": "General"
+    },
+    {
+      "title": "JODI: Saudi Arabia Crude Exports Sink To Record Lows",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/JODI-Saudi-Arabia-Crude-Exports-Sink-To-Record-Lows.html",
+      "date": "2026-05-20T16:55:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Saudi Arabia's crude oil exports plummeted to 4.974 million barrels per day (bpd) in March, marking the lowest level on record since the Joint Organizations Data Initiative (JODI) began tracking the data. According to official figures released on May 20, 2026, and cited by Reuter",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Nigeria Targets 100,000-BPD Oil Output Increase As Global Supply Disrupted",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Nigeria-Targets-100000-BPD-Oil-Output-Increase-As-Global-Supply-Disrupted.html",
+      "date": "2026-05-20T16:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Nigeria is actively increasing its crude oil production in response to major global supply disruptions caused by the ongoing war in Iran, with authorities now aiming to raise output by 100,000 barrels per day (bpd) in the immediate term to capture widening supply gaps. Data from ",
       "category": "Geopolitics"
     },
     {
-      "title": "Strikes Hit Two Australian LNG Facilities After Wage Talks Collapse",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Strikes-Hit-Two-Australian-LNG-Facilities-After-Wage-Talks-Collapse.html",
-      "date": "2026-05-20T08:12:46.000Z",
+      "title": "A Clean Shipping Crunch Is Looming Amid a Conventional Fuel Shortage",
+      "link": "https://oilprice.com/Energy/Energy-General/A-Clean-Shipping-Crunch-Is-Looming-Amid-a-Conventional-Fuel-Shortage.html",
+      "date": "2026-05-20T16:00:00.000Z",
       "source": "OilPrice.com",
-      "description": "Maintenance workers at two offshore LNG facilities in Australia went on strike after failing to reach an agreement on wage terms with their employer, engineering major UGL. “The end result of UGL's inability to negotiate or accept industrial standards is protected industrial acti",
+      "description": "The escalation of conflict across the Middle East and the disruption to energy flows through the Strait of Hormuz have introduced a variable into the maritime energy transition that regulatory frameworks were never designed to handle: the possibility that conventional marine fuel",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Phillips 66 to Proceed with Two New Processing Plants",
+      "link": "https://www.rigzone.com/news/phillips_66_to_proceed_with_two_new_processing_plants-20-may-2026-183739-article/?rss=true",
+      "date": "2026-05-20T15:37:10.000Z",
+      "source": "Rigzone",
+      "description": "<p>Phillips 66 has approved a natural gas processing project and a natural gas liquids (NGL) fractionator project, both expected to start operations 2028.</p> ...",
+      "category": "Refinery"
+    },
+    {
+      "title": "IEA: Oil Shock Sparks Surge in EV Sales",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Oil-Shock-Sparks-Surge-in-EV-Sales.html",
+      "date": "2026-05-20T15:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Electric vehicle sales could hit nearly 30% of all car sales in the world this year as drivers accelerate a shift to EVs and hybrids amid spiking fuel prices in the wake of the Iran war, the International Energy Agency (IEA) said on Wednesday. Following strong growth in 2025, thi",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "US Crude Oil, Gasoline Inventories Sinking Fast",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Oil-Gasoline-Inventories-Sinking-Fast.html",
+      "date": "2026-05-20T14:38:42.000Z",
+      "source": "OilPrice.com",
+      "description": "Crude oil inventories in the United States decreased by 7.9 million barrels during the week ending May 15, according to new data from the U.S. Energy Information Administration (EIA) released on Wednesday. The decrease brings commercial stockpiles to 445.0 million barrels, accord",
+      "category": "Policy"
+    },
+    {
+      "title": "USA EIA Lowers Henry Hub Price Forecast for 2026, 2027",
+      "link": "https://www.rigzone.com/news/usa_eia_lowers_henry_hub_price_forecast_for_2026_2027-20-may-2026-183738-article/?rss=true",
+      "date": "2026-05-20T14:33:14.000Z",
+      "source": "Rigzone",
+      "description": "<p>The U.S. Energy Information Administration (EIA) lowered its Henry Hub spot price forecasts for 2026 and 2027 in its latest short term energy outlook (STEO),...",
+      "category": "Policy"
+    },
+    {
+      "title": "UK Eases Some Russian Oil Sanctions as Fuel Prices Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Eases-Some-Russian-Oil-Sanctions-as-Fuel-Prices-Soar.html",
+      "date": "2026-05-20T14:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "As a result of spiking fuel prices and concerns about jet fuel supply shortages, the UK government has waived sanctions on imports of diesel and jet fuel processed from Russia-origin crude in third countries. The easing of a small part of the UK’s strict sanctions and bans on Rus",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Iran War Prompts Nigeria Producers to Lift Oil Output",
+      "link": "https://www.rigzone.com/news/iran_war_prompts_nigeria_producers_to_lift_oil_output-20-may-2026-183736-article/?rss=true",
+      "date": "2026-05-20T14:14:39.000Z",
+      "source": "Rigzone",
+      "description": "<p>Nigerian oil companies are plowing windfall gains from the Iran-war crude rally into near-term extraction projects, boosting the drive by Africa’s top produc...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "UK Energy Bills Set to Surge as Middle East Crisis Ripples Through Gas Markets",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Energy-Bills-Set-to-Surge-as-Middle-East-Crisis-Ripples-Through-Gas-Markets.html",
+      "date": "2026-05-20T14:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Brits are set to face a sharp hike in energy costs this summer, with household bills forecast to rise by more than £200 a year, as the conflict in the Middle East ripples into the UK market. Energy analyst Cornwall Insight predicts that the annual bill for a typical dual-fuel hou",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "ConocoPhillips Inks Alaska LNG Deal to Supply Domestic Consumers",
+      "link": "https://www.rigzone.com/news/conocophillips_inks_alaska_lng_deal_to_supply_domestic_consumers-20-may-2026-183735-article/?rss=true",
+      "date": "2026-05-20T13:51:39.000Z",
+      "source": "Rigzone",
+      "description": "<p>ConocoPhillips has signed a long-term deal with Glenfarne Group LLC to supply natural gas produced on Alaska's North Slope to the state under phase 1 of the ...",
       "category": "General"
+    },
+    {
+      "title": "Three Supertankers Carrying 6 Million Barrels Exit Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Three-Supertankers-Carrying-6-Million-Barrels-Exit-Strait-of-Hormuz.html",
+      "date": "2026-05-20T13:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Three commercial supertankers carrying a combined 6 million barrels of Middle East crude oil have successfully exited the Strait of Hormuz, Reuters reports. The vessels departed the strategic waterway on Wednesday, after being stranded inside the Persian Gulf for over two months,",
+      "category": "Policy"
+    },
+    {
+      "title": "Empire Petroleum Posts Lower Revenue",
+      "link": "https://www.rigzone.com/news/empire_petroleum_posts_lower_revenue-20-may-2026-183734-article/?rss=true",
+      "date": "2026-05-20T12:34:20.000Z",
+      "source": "Rigzone",
+      "description": "<p>Empire Petroleum Corp has reported $7.68 million in sales revenue for the first quarter (Q1), down from $8.99 million for the same three-month period last ye...",
+      "category": "General"
+    },
+    {
+      "title": "Indonesia Tightens Grip on Key Commodity Exports",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indonesia-Tightens-Grip-on-Key-Commodity-Exports.html",
+      "date": "2026-05-20T12:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Indonesia, the world’s biggest nickel producer and top coal exporter, is moving to tighten control over exports of key commodities, Indonesian President Prabowo Subianto said on Wednesday. The government is introducing a new regulation that require state-owned enterprises approve",
+      "category": "Policy"
+    },
+    {
+      "title": "Woodside CEO: Markets Are Badly Underestimating the LNG Supply Shock",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Woodside-CEO-Markets-Are-Badly-Underestimating-the-LNG-Supply-Shock.html",
+      "date": "2026-05-20T11:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The global gas markets are seriously underestimating how the shock loss of LNG supply from the Middle East will affect the world and economies in the coming months and years, the head of Australia's top LNG exporter, Woodside, said on Wednesday. “I don’t think markets and consume",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Would USA Allow Iran Hormuz Tax In Exchange for Peace Deal?",
+      "link": "https://www.rigzone.com/news/would_usa_allow_iran_hormuz_tax_in_exchange_for_peace_deal-20-may-2026-183733-article/?rss=true",
+      "date": "2026-05-20T10:55:51.000Z",
+      "source": "Rigzone",
+      "description": "<p>How likely is it that the U.S. would allow Iran to tax, or impose a toll on, ships transiting through the Strait of Hormuz in exchange for a peace deal?</p> ...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Energean Slashes Dividend After Israel Gas Shutdown Cuts Output",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Energean-Slashes-Dividend-After-Israel-Gas-Shutdown-Cuts-Output.html",
+      "date": "2026-05-20T10:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "UK-based oil and gas producer Energean plc on Wednesday slashed its first-quarter dividend and full-year production outlook following a 41-day halt to production at a gas field offshore Israel due to the Middle East conflict. Energean suspended production at the Karish platform o",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Aster sanctions $80m ethylene export expansion in Singapore",
+      "link": "https://www.offshore-technology.com/news/aster-80m-ethylene-export-expansion-singapore/",
+      "date": "2026-05-20T09:54:23.000Z",
+      "source": "Offshore Technology",
+      "description": "Aster Chemicals & Energy has announced final investment decision (FID) on an $80m expansion project at its Ethylene Cracker Complex on Bukom Island in Singapore.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Equinor and Eneco agree five-year NCS gas supply for Germany",
+      "link": "https://www.offshore-technology.com/news/equinor-eneco-five-year-ncs-gas-supply/",
+      "date": "2026-05-20T09:47:57.000Z",
+      "source": "Offshore Technology",
+      "description": "Equinor has finalised a five-year agreement with Dutch energy firm Eneco to supply natural gas from the Norwegian Continental Shelf (NCS) to Germany.",
+      "category": "General"
+    },
+    {
+      "title": "Why Is Oil Moving Lower Today?",
+      "link": "https://www.rigzone.com/news/why_is_oil_moving_lower_today-20-may-2026-183732-article/?rss=true",
+      "date": "2026-05-20T09:37:03.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil is moving lower today because markets are reacting to signs that U.S.-Iran talks may still prevent deeper escalation, Naeem Aslam, CIO at Zaye Capital Ma...",
+      "category": "Geopolitics"
     },
     {
       "title": "Aramco, Pasqal Launch Platform Offering Quantum Computing",
@@ -52,46 +228,6 @@
       "category": "General"
     },
     {
-      "title": "Two Supertankers Exit Hormuz With Crude Bound for China",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Two-Supertankers-Exit-Hormuz-With-Crude-Bound-for-China.html",
-      "date": "2026-05-20T07:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Two supertankers loaded with crude oil exited the Strait of Hormuz today and are heading to China, Reuters reported, citing data from LSEG and Kpler. The vessels are carrying Iraqi and some Qatari crude, loaded in late February and early March. The cargoes were ordered by Chinese",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Europe’s EV Sales Surge as Oil Shock Hits Drivers",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-EV-Sales-Surge-as-Oil-Shock-Hits-Drivers.html",
-      "date": "2026-05-20T05:49:50.000Z",
-      "source": "OilPrice.com",
-      "description": "Sales of electric vehicles in Europe are on the rise as the Middle East war disruption in oil exports pushes retail fuel prices higher, Reuters reported today, citing data from the industry that showed demand for EVs had gone up by 34% in April. The data comes from 16 markets, Re",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "The Tech That Could Turn Plastic Waste Into a Trillion Dollar Opportunity",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Tech-That-Could-Turn-Plastic-Waste-Into-a-Trillion-Dollar-Opportunity.html",
-      "date": "2026-05-20T00:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Plastic is cheap, but it’s an ecological, environmental, and human health disaster that actually costs Americans over $1 trillion a year, according to some estimates. By 2040, plastic waste management alone will cost the United States nearly $37 billion a year. Plastic is everywh",
-      "category": "General"
-    },
-    {
-      "title": "China Turns Green Tech Into an Economic Lifeline",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/China-Turns-Green-Tech-Into-an-Economic-Lifeline.html",
-      "date": "2026-05-19T23:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "For years now, China has been the world’s most generous sponsor of alternative energy systems and electric vehicles. This has not only made it the biggest market for such technologies but also the biggest exporter, and that has helped the country offset economic troubles in other",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Scientists Unveil ‘DNA Battery’ That Charges Directly From The Sun",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Scientists-Unveil-DNA-Battery-That-Charges-Directly-From-The-Sun.html",
-      "date": "2026-05-19T22:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The massive energy needs of AI servers and hyperscale data centers are driving a boom in grid storage. Standalone battery systems are scaling at an unprecedented rate to pair with solar and wind power, enhancing grid stability and base-load capability. The global BESS market is e",
-      "category": "Prices"
-    },
-    {
       "title": "USA Lawmakers Plan New $130 Fee for EV Owners",
       "link": "https://www.rigzone.com/news/usa_lawmakers_plan_new_130_fee_for_ev_owners-19-may-2026-183728-article/?rss=true",
       "date": "2026-05-19T21:00:01.000Z",
@@ -100,76 +236,12 @@
       "category": "Geopolitics"
     },
     {
-      "title": "How 3D Printing Could Unlock America’s Untapped Hydropower",
-      "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/How-3D-Printing-Could-Unlock-Americas-Untapped-Hydropower.html",
-      "date": "2026-05-19T21:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Hydropower is the quiet workhorse driving the global clean energy transition. Although it gets just a mere fraction of the media and political attention that solar and wind energy do, hydropower is by far the largest source of clean energy worldwide, and is the third-largest sour",
-      "category": "General"
-    },
-    {
-      "title": "US Crude Inventories Fall Quickly, But Still Up This Year",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Inventories-Fall-Quickly-But-Still-Up-This-Year.html",
-      "date": "2026-05-19T20:48:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell by 9.1 million barrels in the week ending May 15. In the week prior, US crude oil inventories fell by 2.188 million barrels. Analysts had expected a 3.4 million-barrel draw for t",
-      "category": "Production"
-    },
-    {
       "title": "Brent, WTI Slip In Volatile Trade",
       "link": "https://www.rigzone.com/news/brent_wti_slip_in_volatile_trade-19-may-2026-183729-article/?rss=true",
       "date": "2026-05-19T20:32:28.000Z",
       "source": "Rigzone",
       "description": "<p>Oil edged lower in choppy trading as investors weighed President Donald Trump’s newest threat to resume strikes on Iran, a pledge the US leader has made repe...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Europe Is Losing The AI Race as Energy Costs Soar",
-      "link": "https://oilprice.com/Energy/Energy-General/Europe-Is-Losing-The-AI-Race-as-Energy-Costs-Soar.html",
-      "date": "2026-05-19T20:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The second energy crisis in four years is further eroding Europe’s industrial competitiveness as energy costs are spiking again and undermining the European ambition to compete with the United States and China to attract AI and data center developments. Energy costs in Europe are",
-      "category": "General"
-    },
-    {
-      "title": "U.S. LNG Exporters Ask Europe for a Methane Timeout",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-LNG-Exporters-Ask-Europe-for-a-Methane-Timeout.html",
-      "date": "2026-05-19T19:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "U.S. natural gas exporters are asking Europe for something increasingly common in global energy markets these days: a timeout. American LNG suppliers want the European Union to push back enforcement of its methane emissions rules until at least 2028, arguing the regulations are a",
-      "category": "Policy"
-    },
-    {
-      "title": "Utilities Are Betting Billions on a Technology That Could Become Obsolete",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Utilities-Are-Betting-Billions-on-a-Technology-That-Could-Become-Obsolete.html",
-      "date": "2026-05-19T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "If we think of electricity purely as a commodity, then we should apply to it the one financial rule that dominates all commodity markets everywhere: the lowest cost producer always wins. The logic behind this is simple. Why would anyone pay more for an identical product, scarcity",
-      "category": "Prices"
-    },
-    {
-      "title": "Kazakhstan’s Mining Boom Faces a Growing Water Crisis",
-      "link": "https://oilprice.com/Metals/Commodities/Kazakhstans-Mining-Boom-Faces-a-Growing-Water-Crisis.html",
-      "date": "2026-05-19T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Kazakhstan’s mining sector is booming just as the country’s water supply is coming under increasing stress from climate change, antiquated infrastructure, and a growing population. Water supply will be vital to the sector’s long-term success, yet the issue is all too often overlo",
-      "category": "General"
-    },
-    {
-      "title": "Equinor and Eneco Sign New Long-Term Gas Supply Deal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-and-Eneco-Sign-New-Long-Term-Gas-Supply-Deal.html",
-      "date": "2026-05-19T17:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Europe’s post-Russian energy system is increasingly being built around Norwegian gas. As the continent continues adapting to the fallout from Russia’s invasion of Ukraine, Norwegian natural gas has emerged as one of the region’s most strategically valuable energy supplies—offerin",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "The Global Shale Race Is Officially On",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Global-Shale-Race-Is-Officially-On.html",
-      "date": "2026-05-19T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The United States has become the oil and gas supplier of last resort for many importers amid the Middle East crisis. The reason it could become the supplier of last resort was shale, so the question naturally arises whether the U.S. shale revolution could be repeated in other par",
-      "category": "Supply Routes"
     },
     {
       "title": "NATO Is Starting to Consider Hormuz Mission",
@@ -346,22 +418,6 @@
       "source": "Rigzone",
       "description": "<p>Santos Ltd and Repsol SA have put onstream the Pikka oil development on Alaska's North Slope.</p> <p>\"At plateau, production from the asset will be equiva...",
       "category": "Production"
-    },
-    {
-      "title": "Oil prices jump as Iran tensions persist, UAE nuclear plant hit",
-      "link": "https://www.offshore-technology.com/news/oil-jumps-as-iran-tensions-persist/",
-      "date": "2026-05-18T10:08:59.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil prices continued to rise on 18 May as momentum towards ending the Iran conflict seemed to falter, after an attack on a UAE nuclear facility.",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Technip Energies gets go-ahead for Commonwealth LNG EPC",
-      "link": "https://www.offshore-technology.com/news/technip-energies-commonwealth-lng-epc/",
-      "date": "2026-05-18T09:25:47.000Z",
-      "source": "Offshore Technology",
-      "description": "Technip Energies has obtained the full notice to proceed (FNTP) for an engineering, procurement, and construction (EPC) contract with Caturus’ Commonwealth LNG project in the US.",
-      "category": "General"
     },
     {
       "title": "EIA Sees Oil Deficit Widening in 2026",
