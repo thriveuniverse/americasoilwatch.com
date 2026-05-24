@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-05-23T08:19:40.040Z",
-  "summary": "• Colombia faces a critical natural gas shortage exacerbated by Strait of Hormuz supply disruptions, creating acute Western Hemisphere energy vulnerability as import dependence increases.\n\n• Iran's geopolitical posture around the Strait of Hormuz and stalled U.S. peace negotiations are driving oil price volatility and creating structural uncertainty for global supply flows affecting Americas markets.\n\n• Ukraine's ongoing drone strikes on Russian refinery infrastructure in Yaroslavl and Gazprom facilities are constraining Eastern Hemisphere refining capacity, potentially redirecting crude flows and competition toward Western Hemisphere markets.",
+  "lastUpdated": "2026-05-24T08:29:18.307Z",
+  "summary": "• Ukraine's sustained drone attacks on Russian refining infrastructure create ongoing disruption risk to regional supply chains, with recent strikes on major Gazprom facilities threatening European energy security.\n\n• Iran's geopolitical posturing around the Strait of Hormuz combined with uncertain U.S. negotiations introduces volatility to global crude flows, particularly affecting Western Hemisphere refiners dependent on Middle Eastern supply.\n\n• Colombia's natural gas crisis is being compounded by external supply disruptions from the Strait of Hormuz closure, signaling how interconnected global energy markets amplify production shortfalls in vulnerable downstream economies.",
   "count": 81,
   "articles": [
+    {
+      "title": "Norway Doubles Down on Oil and Gas as Europe Scrambles for Supply",
+      "link": "https://oilprice.com/Energy/Energy-General/Norway-Doubles-Down-on-Oil-and-Gas-as-Europe-Scrambles-for-Supply.html",
+      "date": "2026-05-23T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Norway, well known for its oil and gas production, has ramped up its fossil fuel output in recent weeks to fill the gap following the closure of the Strait of Hormuz and the ongoing energy trade disruptions. While some countries are grateful to Norway for helping alleviate oil an",
+      "category": "Production"
+    },
+    {
+      "title": "EU's 20th Sanctions Package Forces Kyrgyzstan's Hand on Russia Trade",
+      "link": "https://oilprice.com/Energy/Energy-General/EUs-20th-Sanctions-Package-Forces-Kyrgyzstans-Hand-on-Russia-Trade.html",
+      "date": "2026-05-23T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Kyrgyzstan has taken sweeping action to clamp down on companies suspected of circumventing Western sanctions imposed on Russia following its full-scale invasion of Ukraine in 2022. The Kyrgyz Justice Ministry has announced that 50 companies will be forced to suspend their activit",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Soaring Energy Prices Are Driving a Home Solar Boom",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Soaring-Energy-Prices-Are-Driving-a-Home-Solar-Boom.html",
+      "date": "2026-05-23T15:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Home solar power installations have risen significantly in recent decades, as consumers look to drive down their electricity bills and make their energy use more sustainable. Now, with oil and gas prices soaring due to geopolitical challenges, more households are being attracted ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "NYSE Owner, OKX to Launch Perpetual Futures Tied to Oil",
+      "link": "https://www.rigzone.com/news/nyse_owner_okx_to_launch_perpetual_futures_tied_to_oil-23-may-2026-183761-article/?rss=true",
+      "date": "2026-05-23T12:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Intercontinental Exchange Inc., owner of the New York Stock Exchange, is working with crypto exchange operator OKX to launch oil futures contracts that never...",
+      "category": "Prices"
+    },
     {
       "title": "Colombia's Natural Gas Crisis Deepens as Strait of Hormuz Closure Cuts Supply",
       "link": "https://oilprice.com/Energy/Energy-General/Colombias-Natural-Gas-Crisis-Deepens-as-Strait-of-Hormuz-Closure-Cuts-Supply.html",
@@ -140,35 +172,11 @@
       "category": "General"
     },
     {
-      "title": "TotalEnergies Eyes $100M+ Stake Sales in European Solar and Wind Portfolio",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Eyes-100M-Stake-Sales-in-European-Solar-and-Wind-Portfolio.html",
-      "date": "2026-05-22T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "TotalEnergies is considering selling 50% of some of its solar and wind assets in Europe as part of its strategy to partner with other companies in operating and monetizing its clean energy portfolio, Bloomberg reported on Friday, quoting anonymous sources with knowledge of the pl",
-      "category": "General"
-    },
-    {
       "title": "Oil prices jump as investors await US-Iran peace talks progress",
       "link": "https://www.offshore-technology.com/news/oil-prices-jump-investors-us-iran-peace/",
       "date": "2026-05-22T13:24:10.000Z",
       "source": "Offshore Technology",
       "description": "Oil prices rose on 22 May amid investor uncertainty surrounding progress in peace negotiations between the US and Iran, although both Brent and US WTI crude were set to conclude the week with declines.",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "China's Fuel Exports to Remain Low as Curbs Persist",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Fuel-Exports-to-Remain-Low-as-Curbs-Persist.html",
-      "date": "2026-05-22T12:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "China's fuel exports will rise only slightly in June from May as government restrictions on shipments largely remain in place to preserve supply for the domestic market amid the biggest oil disruption in history. China is expected to export about 550,000 metric tons of fuels next",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Volatility Spikes as Iran Diplomacy Collides With Hormuz Fears",
-      "link": "https://oilprice.com/Energy/Energy-General/Volatility-Spikes-as-Iran-Diplomacy-Collides-With-Hormuz-Fears.html",
-      "date": "2026-05-22T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "July WTI crude oil delivered a volatile week as traders aggressively repriced geopolitical risk and then rapidly removed part of that premium on hopes of a diplomatic breakthrough between the United States and Iran. Through Thursday, May 21, July WTI posted a high of $105.21, a l",
       "category": "Geopolitics"
     },
     {
@@ -642,14 +650,6 @@
       "source": "Rigzone",
       "description": "<p>Shell PLC remitted a total of $23.84 billion to governments in 24 countries where the British energy giant has upstream activities last year, with Brazil dis...",
       "category": "General"
-    },
-    {
-      "title": "Sheinbaum Taps Pemex CFO to Run Mexico Oil Giant",
-      "link": "https://www.rigzone.com/news/sheinbaum_taps_pemex_cfo_to_run_mexico_oil_giant-16-may-2026-183705-article/?rss=true",
-      "date": "2026-05-16T12:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Petroleos Mexicanos Chief Executive Officer Víctor Rodríguez Padilla is stepping down, handing the reins to a financial expert with close ties to the preside...",
-      "category": "Policy"
     }
   ]
 }
