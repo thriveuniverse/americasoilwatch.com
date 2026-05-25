@@ -1,8 +1,144 @@
 {
-  "lastUpdated": "2026-05-24T08:29:18.307Z",
-  "summary": "• Ukraine's sustained drone attacks on Russian refining infrastructure create ongoing disruption risk to regional supply chains, with recent strikes on major Gazprom facilities threatening European energy security.\n\n• Iran's geopolitical posturing around the Strait of Hormuz combined with uncertain U.S. negotiations introduces volatility to global crude flows, particularly affecting Western Hemisphere refiners dependent on Middle Eastern supply.\n\n• Colombia's natural gas crisis is being compounded by external supply disruptions from the Strait of Hormuz closure, signaling how interconnected global energy markets amplify production shortfalls in vulnerable downstream economies.",
-  "count": 81,
+  "lastUpdated": "2026-05-25T10:05:19.202Z",
+  "summary": "• Iran nuclear deal negotiations remain uncertain with conflicting signals on timing, creating geopolitical risk to global oil markets that could swing prices significantly depending on sanctions relief outcomes.\n\n• Strait of Hormuz remains a critical chokepoint for LNG and oil supplies to Asia and Europe, with current tanker flows adequate but vulnerable to disruption given regional tensions and limited alternative routes.\n\n• Western Hemisphere energy security is increasingly reliant on non-traditional suppliers and technologies (Australia LNG, Norway production ramp, renewable alternatives) as traditional supply sources face investment uncertainty and geopolitical constraints.",
+  "count": 85,
   "articles": [
+    {
+      "title": "Rubio Plays Down Imminent U.S.-Iran Deal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Rubio-Plays-Down-Imminent-US-Iran-Deal.html",
+      "date": "2026-05-25T09:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The U.S. will deal with Iran “another way” if it does not reach a good deal with the Islamic Republic, U.S. Secretary of State Marco Rubio said on Monday, playing down hopes that an agreement is imminent. Following signals from Washington during the weekend that the U.S. and Iran",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Subsea7 lands contract for Vår Energi’s Goliat Gas Export project",
+      "link": "https://www.offshore-technology.com/news/subsea7-contract-goliat-gas-export-project/",
+      "date": "2026-05-25T09:22:06.000Z",
+      "source": "Offshore Technology",
+      "description": "Subsea7 has secured a contract from Vår Energi for the Goliat Gas Export Project in the Barents Sea off the coast of Norway.",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "India Raises Fuel Prices for Fourth Time as Oil Crisis Hits Consumers",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Raises-Fuel-Prices-for-Fourth-Time-as-Oil-Crisis-Hits-Consumers.html",
+      "date": "2026-05-25T08:20:00.000Z",
+      "source": "OilPrice.com",
+      "description": "India’s state-owned energy majors that trade in fuels raised prices at the pump for the fourth time in the space of a month, reflecting the continued effect of the Strait of Hormuz closure on oil and fuel flows. The cumulative price hike since the start of the month comes in at 8",
+      "category": "Prices"
+    },
+    {
+      "title": "China Coking Coal Prices Surge After Deadly Shanxi Mine Blast",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Coking-Coal-Prices-Surge-After-Deadly-Shanxi-Mine-Blast.html",
+      "date": "2026-05-25T07:15:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The price of coking coal in China jumped by 8% after a deadly mine accident in Shanxi province that prompted safety checks that will affect production over the near term. The most actively traded coking coal contract on the Dalian Commodity Exchange hit the equivalent of $186.76 ",
+      "category": "Prices"
+    },
+    {
+      "title": "Gazprom Starts Production at Chona Fields in Eastern Siberia",
+      "link": "https://www.rigzone.com/news/gazprom_starts_production_at_chona_fields_in_eastern_siberia-25-may-2026-183764-article/?rss=true",
+      "date": "2026-05-25T06:30:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>PJSC Gazprom said it has put onstream a cluster of geologically complex fields in the Chona River basin in Eastern Siberia.</p> <p>The Russian state-contr...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Uniper to Resume Dividend Payments",
+      "link": "https://www.rigzone.com/news/uniper_to_resume_dividend_payments-25-may-2026-183765-article/?rss=true",
+      "date": "2026-05-25T06:30:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Uniper SE shareholders have approved a dividend of EUR 0.72 ($0.84) per share for 2025, the power and gas utility's first dividend payment since its bailout ...",
+      "category": "General"
+    },
+    {
+      "title": "Eni Secures LNG Offtake Deals for Indonesia Projects",
+      "link": "https://www.rigzone.com/news/eni_secures_lng_offtake_deals_for_indonesia_projects-25-may-2026-183766-article/?rss=true",
+      "date": "2026-05-25T06:30:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Eni SpA said it has signed long-term agreements for the sale of natural gas produced from its operated projects in Indonesia's Kutei Basin and liquefied at t...",
+      "category": "General"
+    },
+    {
+      "title": "More Tankers Make It Through the Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/More-Tankers-Make-It-Through-the-Strait-of-Hormuz.html",
+      "date": "2026-05-25T06:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Two liquefied natural gas carriers and a supertanker have traversed the Strait of Hormuz over the past couple of days, with the LNG vessels heading for Pakistan and China, and the tanker, loaded with Iraqi crude, is en route to China. According to a Reuters report, the vessels us",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Qatar Quietly Ships LNG via Hormuz to Key Buyers",
+      "link": "https://www.rigzone.com/news/qatar_quietly_ships_lng_via_hormuz_to_key_buyers-25-may-2026-183767-article/?rss=true",
+      "date": "2026-05-25T03:29:21.000Z",
+      "source": "Rigzone",
+      "description": "<p>Three tankers loaded with liquefied natural gas appear to have crossed the Strait of Hormuz in recent days, as suppliers in Qatar and the United Arab Emirate...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Oil Prices Plunge Below $100 on Iran Deal Optimism",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-100-on-Iran-Deal-Optimism.html",
+      "date": "2026-05-25T00:24:31.000Z",
+      "source": "OilPrice.com",
+      "description": "Oil prices plunged in early Asian trade on Monday following reports over the weekend that a deal to reopen the Strait of Hormuz was in its final stages. At the time of writing, both oil benchmarks had fallen by more than 5%, with Brent breaking back below $100 to trade at $98.27,",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "European Gas Storage Can’t Survive 3 More Months of Hormuz",
+      "link": "https://oilprice.com/Energy/Natural-Gas/European-Gas-Storage-Cant-Survive-3-More-Months-of-Hormuz.html",
+      "date": "2026-05-24T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Europe could face a critical shortfall in natural gas stocks if shipping disruptions through the Strait of Hormuz persist for another 1-3 months, senior executives at Norwegian energy giant, Equinor ASA (NYSE:EQNR), have warned. Europe entered the current summer refill season wit",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Coal Is Fueling China’s Next Energy Power Play",
+      "link": "https://oilprice.com/Energy/Coal/Coal-Is-Fueling-Chinas-Next-Energy-Power-Play.html",
+      "date": "2026-05-24T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Coal is inarguably one of the big winners from the energy flow disruption in the Middle East. Consumption is up strongly as gas becomes hard to come by and expensive to buy. Power supply security has overtaken any emission concerns. Yet it is not only in power generation that coa",
+      "category": "General"
+    },
+    {
+      "title": "1 In 4 Cars Sold Globally Is An Electric Vehicle",
+      "link": "https://oilprice.com/Energy/Energy-General/1-In-4-Cars-Sold-Globally-Is-An-Electric-Vehicle.html",
+      "date": "2026-05-24T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "As Statista's Tristan Gaudiaut details below, according to the IEA Global EV Outlook 2026, published on May 20, global sales of electric cars, including plug-in hybrids, surpassed 21 million units last year, more than doubling since 2022, when annual sales first exceeded 10 milli",
+      "category": "General"
+    },
+    {
+      "title": "Australia’s LNG Industry Warns Policy Uncertainty Is Hurting Investment",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Australias-LNG-Industry-Warns-Policy-Uncertainty-Is-Hurting-Investment.html",
+      "date": "2026-05-24T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Australia’s energy producers are calling for state and federal support in faster approvals of new projects and fiscal stability. These could help the world’s third-biggest LNG exporter grow its overseas markets amid the expected years-long turmoil in the global gas market in the ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "U.S.-Iran Deal Delayed as Trump Refuses to “Rush” Agreement",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Iran-Deal-Delayed-as-Trump-Refuses-to-Rush-Agreement.html",
+      "date": "2026-05-24T15:25:37.000Z",
+      "source": "OilPrice.com",
+      "description": "President Donald Trump said Sunday that the United States will not “rush” into a nuclear agreement with Iran, stressing that negotiations remain ongoing and that both sides must take the time to “get it right” as talks continue over the future of the Strait of Hormuz and Tehran’s",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Heat Pump Sales Surge Across Europe Amid Energy Shortages",
+      "link": "https://oilprice.com/Energy/Energy-General/Heat-Pump-Sales-Surge-Across-Europe-Amid-Energy-Shortages.html",
+      "date": "2026-05-24T15:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Heat pump uptake is on the rise in Europe, as consumers take their energy bills into their own hands. Europe, which already experienced high gas prices and energy shortages after Russia invaded Ukraine in 2022, is now experiencing widespread energy shortages and soaring prices du",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Worley Bags 3-Year Engineering Contract from APA",
+      "link": "https://www.rigzone.com/news/worley_bags_3year_engineering_contract_from_apa-24-may-2026-183755-article/?rss=true",
+      "date": "2026-05-24T11:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>APA Group has selected Worley Ltd to provide engineering services for its natural gas transmission and storage projects across Australia.</p> <p>\"Under an...",
+      "category": "General"
+    },
     {
       "title": "Norway Doubles Down on Oil and Gas as Europe Scrambles for Supply",
       "link": "https://oilprice.com/Energy/Energy-General/Norway-Doubles-Down-on-Oil-and-Gas-as-Europe-Scrambles-for-Supply.html",
@@ -44,14 +180,6 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Asia’s Next Energy Hub May Rise in Malaysia",
-      "link": "https://oilprice.com/Energy/Energy-General/Asias-Next-Energy-Hub-May-Rise-in-Malaysia.html",
-      "date": "2026-05-22T21:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Global energy market assumptions are breaking down. Until the Iran War, global oil and gas markets were built on a dangerous illusion: that the Strait of Hormuz would always remain open, predictable, and commercially dependable. Asia’s entire energy security architecture, from LN",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Ukraine Says It Targeted Yaroslavl Oil Refinery Again",
       "link": "https://www.rigzone.com/news/ukraine_says_it_targeted_yaroslavl_oil_refinery_again-22-may-2026-183760-article/?rss=true",
       "date": "2026-05-22T21:00:00.000Z",
@@ -68,62 +196,6 @@
       "category": "Geopolitics"
     },
     {
-      "title": "3D-Printed Copper Plates Could Cut Data Center Cooling Energy Use by 97%",
-      "link": "https://oilprice.com/Energy/Energy-General/3D-Printed-Copper-Plates-Could-Cut-Data-Center-Cooling-Energy-Use-by-97.html",
-      "date": "2026-05-22T20:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The artificial intelligence boom is creating an energy monster that the world is unprepared and unequipped to deal with. Providing enough energy to fuel the AI ambitions of the future as well as to support human demand and development will require advances in energy technologies ",
-      "category": "Policy"
-    },
-    {
-      "title": "Oil Prices Rise as Iran Tempers U.S. Deal Hopes",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-as-Iran-Tempers-US-Deal-Hopes.html",
-      "date": "2026-05-22T18:31:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil prices turned to a gain Friday after Iran poured cold water on growing market hopes for a near-term agreement with the United States, reminding traders yet again that optimism around diplomacy and reality on the ground are not always moving in the same direction. Brent crude ",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "AI Could Unlock $500 Billion for Oil and Gas Producers by 2030",
-      "link": "https://oilprice.com/Energy/Energy-General/AI-Could-Unlock-500-Billion-for-Oil-and-Gas-Producers-by-2030.html",
-      "date": "2026-05-22T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Digitalization and artificial intelligence (AI) will create close to $500 billion in cumulative value for E&P companies between 2026 and 2030, according to Rystad Energy estimates. This value is captured through cost reductions from more efficient operations, production increases",
-      "category": "Production"
-    },
-    {
-      "title": "Higher Oil Prices Tempt US Drillers To Turn Up The Volume",
-      "link": "https://oilprice.com/Energy/Energy-General/Higher-Oil-Prices-Tempt-US-Drillers-To-Turn-Up-The-Volume.html",
-      "date": "2026-05-22T17:14:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 558, down just 8 from this same time last year. The number of active oil rigs rose ",
-      "category": "Prices"
-    },
-    {
-      "title": "Kazakhstan Court Upholds $1.4 Billion Award Against Gazprom",
-      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Court-Upholds-14-Billion-Award-Against-Gazprom.html",
-      "date": "2026-05-22T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "A court in Kazakhstan has inserted itself into the Russia-Ukraine conflict, ruling in favor of the Ukrainian state gas entity Naftogaz in a $1.4-billion dispute with the Russian energy behemoth Gazprom. The judgment and order issued by the court of Astana International Finance Ce",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Ukraine Hits 300,000-Bpd Gazprom Neft Refinery in Overnight Drone Strike",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Hits-300000-Bpd-Gazprom-Neft-Refinery-in-Overnight-Drone-Strike.html",
-      "date": "2026-05-22T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Ukraine targeted overnight the Yaroslavl oil refinery in Russia, escalating the drone attacks on Russian refining and oil exporting assets, Ukrainian President Volodymyr Zelenskyy said on Friday. “Today, there was a report by Commander-in-Chief of the Armed Forces of Ukraine Olek",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Oil Markets Ignore Red Flags as Global Energy Crisis Deepens",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Markets-Ignore-Red-Flags-as-Global-Energy-Crisis-Deepens.html",
-      "date": "2026-05-22T15:24:02.000Z",
-      "source": "OilPrice.com",
-      "description": "Global oil markets remain under severe stress as Hormuz disruptions, weak economic data, and tightening inventories reshape energy flows worldwide. Friday, May 22, 2026 In a week of contradicting narratives, the largest ever US inventory drawdown sparked only a minor bullish mome",
-      "category": "Prices"
-    },
-    {
       "title": "USA Crude Oil Stocks Drop Almost 8MM Barrels WoW",
       "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_almost_8mm_barrels_wow-22-may-2026-183762-article/?rss=true",
       "date": "2026-05-22T14:58:35.000Z",
@@ -132,36 +204,12 @@
       "category": "Production"
     },
     {
-      "title": "EU Warns Energy Prices Will Stay Elevated Through 2027",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Warns-Energy-Prices-Will-Stay-Elevated-Through-2027.html",
-      "date": "2026-05-22T14:41:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Top EU officials said Friday that oil and gas prices are expected to remain elevated through at least the end of 2027, with the fallout from the Iran war likely to keep pressure on inflation and economic growth. Speaking after a meeting of eurozone finance ministers in Cyprus on ",
-      "category": "Geopolitics"
-    },
-    {
       "title": "UK to Close Oil Tax Loophole",
       "link": "https://www.rigzone.com/news/uk_to_close_oil_tax_loophole-22-may-2026-183759-article/?rss=true",
       "date": "2026-05-22T14:38:22.000Z",
       "source": "Rigzone",
       "description": "<p>Chancellor of the Exchequer Rachel Reeves said the UK is closing a tax loophole on oil and gas companies, as she sought to pay for a raft of measures meant t...",
       "category": "General"
-    },
-    {
-      "title": "Pakistan Looks to Host Crude Reserve Sites of Gulf Oil Producers",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Looks-to-Host-Crude-Reserve-Sites-of-Gulf-Oil-Producers.html",
-      "date": "2026-05-22T14:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Pakistan is encouraging oil producers from the Persian Gulf to set up crude reserve buffers at a planned Energy City near one of its ports, The Express Tribune reported on Friday. \"In case of emergencies like the breakout of war, Pakistan will have the first right to utilise the ",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Iran Is Tightening Its Grip on the Strait of Hormuz",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-Is-Tightening-Its-Grip-on-the-Strait-of-Hormuz.html",
-      "date": "2026-05-22T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Shortly after the outbreak of the war with the United States and Israel, Iran took control of the Strait of Hormuz, a key artery for global oil and gas supplies. By threatening and attacking international shipping, Iran brought maritime traffic to a virtual standstill, giving it ",
-      "category": "Geopolitics"
     },
     {
       "title": "ExxonMobil, QatarEnergy Eye Egypt Facilities for Potential Cyprus Gas",
@@ -338,14 +386,6 @@
       "source": "Offshore Technology",
       "description": "Oil prices increased on 21 May as investors weighed the outcome of peace negotiations between the US and Iran, alongside signs of tightening supply and notable reductions in US petroleum inventories.",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Inpex signs agreements for offtake from Abadi LNG Project",
-      "link": "https://www.offshore-technology.com/news/inpex-agreements-offtake-abadi-lng-project/",
-      "date": "2026-05-21T09:45:17.000Z",
-      "source": "Offshore Technology",
-      "description": "Japan's Inpex has signed agreements in principle with multiple companies for the offtake of liquefied natural gas (LNG) from the Abadi LNG Project in Indonesia's Masela Block.",
-      "category": "General"
     },
     {
       "title": "Wood Mackenzie Warns Oil Could Hit $200",
@@ -642,14 +682,6 @@
       "source": "Rigzone",
       "description": "<p>The US and Iran remained far apart on a deal to end weeks of war and reopen the Strait of Hormuz, with President Donald Trump expressing renewed frustration ...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Brazil Tops Shell Payments to Governments in 2025",
-      "link": "https://www.rigzone.com/news/brazil_tops_shell_payments_to_governments_in_2025-17-may-2026-183706-article/?rss=true",
-      "date": "2026-05-17T11:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Shell PLC remitted a total of $23.84 billion to governments in 24 countries where the British energy giant has upstream activities last year, with Brazil dis...",
-      "category": "General"
     }
   ]
 }
