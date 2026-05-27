@@ -1,8 +1,192 @@
 {
-  "lastUpdated": "2026-05-27T09:45:25.939Z",
-  "summary": "• Strait of Hormuz volatility—including Iranian clashes, ADNOC's \"dark mode\" LNG operations, and accelerating alternative shipping routes through Eurasia—is creating structural supply-route risk for Western Hemisphere exporters competing for Asian markets.\n\n• Geopolitical realignment away from traditional suppliers is intensifying, with India, China, and Asia pivoting toward Russia, Brazil, and Venezuela while U.S. sanctions on Venezuelan oil paradoxically strengthen non-Western supply chains and reduce Americas market leverage.\n\n• Arctic and unconventional production face competing headwinds from rising climate constraints in Europe and production challenges in Russia, while U.S. onshore growth (Alaska, Duvernay) and offshore expansion (Ivoire) are critical offsets to maintain Western Hemisphere supply competitiveness against demand shifts toward EVs and alternative energy.",
-  "count": 83,
+  "lastUpdated": "2026-05-27T19:28:34.622Z",
+  "summary": "• Russia faces a significant diesel export supply shock following Ukraine's attacks on its refineries, potentially tightening global refined product markets and supporting crude demand.\n\n• China's potential return to active energy market participation could create a major geopolitical price shock through increased competition for crude supplies and shifts in trading patterns across the Western Hemisphere.\n\n• Multiple supply disruption risks in both crude and refined products are emerging simultaneously—from Russian refinery damage to potential disputes over LNG project costs in Mozambique—creating compounding upside pressure on oil and product prices.",
+  "count": 89,
   "articles": [
+    {
+      "title": "BHP Killed Its Own Hedge Against the Green Steel Shift",
+      "link": "https://oilprice.com/Energy/Energy-General/BHP-Killed-Its-Own-Hedge-Against-the-Green-Steel-Shift.html",
+      "date": "2026-05-27T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "China just expanded its national emissions trading scheme to cover steel production. The EU's carbon border adjustment mechanism entered its definitive phase in January, putting a financial penalty on emissions-intensive steel. Simandou, the world's largest untapped deposit of hi",
+      "category": "Prices"
+    },
+    {
+      "title": "Can Armenia Break Free From Russia’s Orbit?",
+      "link": "https://oilprice.com/Geopolitics/Africa/Can-Armenia-Break-Free-From-Russias-Orbit.html",
+      "date": "2026-05-27T18:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "With Election Day fast approaching, Armenian Prime Minister Nikol Pashinyan’s government is hoping that shows of support from the United States and European Union will give it a boost at the polls. US Secretary of State Marco Rubio paid a brief visit to Yerevan on May 26, during ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Germany’s Power Prices Soar 30% on Strong Demand, Low Wind Speeds",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germanys-Power-Prices-Soar-30-on-Strong-Demand-Low-Wind-Speeds.html",
+      "date": "2026-05-27T17:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Germany’s day-ahead electricity prices soared by 29% on Wednesday as a heatwave across Europe boosted cooling demand while low wind speeds reduced wind power generation. The lower wind speeds and the resulting lower power output from wind turbines are raising the need to fire up ",
+      "category": "Prices"
+    },
+    {
+      "title": "China’s Return to the Energy Market Could Become the Next Global Price Shock",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Chinas-Return-to-the-Energy-Market-Could-Become-the-Next-Global-Price-Shock.html",
+      "date": "2026-05-27T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "For months, China’s reduced appetite for oil and LNG imports has helped ease some of the pressure on already-strained global energy markets. But Beijing’s current strategy appears less about weakening demand and more about caution amid the Iran war and the growing risks surroundi",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Tokyo Reverses Crisis-Era Benchmark Shift as Dubai-Brent Spread Narrows",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Tokyo-Reverses-Crisis-Era-Benchmark-Shift-as-Dubai-Brent-Spread-Narrows.html",
+      "date": "2026-05-27T16:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Japan’s industry ministry will officially switch the benchmark for calculating gasoline price subsidies back to Dubai crude prices from Brent crude, effective June 4, after Dubai crude prices stabilized and the gap between Dubai and Brent has narrowed, allowing for more accurate ",
+      "category": "Prices"
+    },
+    {
+      "title": "Aluminum Prices Surge as Supply Shock Fears Grip the Market",
+      "link": "https://oilprice.com/Metals/Commodities/Aluminum-Prices-Surge-as-Supply-Shock-Fears-Grip-the-Market.html",
+      "date": "2026-05-27T16:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Aluminum prices in London are up nearly 17% since the onset of the U.S.-Iran conflict, as a growing chorus of top commodity desks, including Mercuria, Goldman, JPMorgan, and others, warn that the market is facing a major supply shock. That disruption, driven firstly by Middle Eas",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Russia Braces For Diesel Export Ban After Ukraine Attacks Refineries",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Braces-For-Diesel-Export-Ban-After-Ukraine-Attacks-Refineries.html",
+      "date": "2026-05-27T15:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Russian government has reached the final stages of implementing a comprehensive ban on diesel and aviation fuel (kerosene) exports following a devastating wave of Ukrainian long-range drone strikes that have knocked out a quarter of the nation’s total oil refining capacity, e",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Aluminum Market Facing ‘Serious and Prolonged Supply Outage’",
+      "link": "https://oilprice.com/Metals/Commodities/Aluminum-Market-Facing-Serious-and-Prolonged-Supply-Outage.html",
+      "date": "2026-05-27T15:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The war in Iran and the accompanying shipping bottleneck are triggering a historic crisis in the aluminum market, with potentially devastating knock-on effects across sectors that depend on the base metal. Aluminum is the third most used metal in the world, behind only iron and s",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Strategists Predict Week on Week USA Crude Stock Drop",
+      "link": "https://www.rigzone.com/news/strategists_predict_week_on_week_usa_crude_stock_drop-27-may-2026-183794-article/?rss=true",
+      "date": "2026-05-27T14:54:44.000Z",
+      "source": "Rigzone",
+      "description": "<p>In an oil and gas report sent to Rigzone late Tuesday, Macquarie strategists, including Walt Chancellor, revealed that they are forecasting that U.S. crude i...",
+      "category": "Production"
+    },
+    {
+      "title": "TotalEnergies Extends French Fuel Price Caps Through June",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Extends-French-Fuel-Price-Caps-Through-June.html",
+      "date": "2026-05-27T14:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "TotalEnergies will keep its fuel price caps across all its services stations in France through June amid the ongoing crisis in the Middle East, the French supermajor said on Wednesday. TotalEnergies first announced in March caps on the price of gasoline and diesel it sells at its",
+      "category": "Prices"
+    },
+    {
+      "title": "Hafnia Posts Higher Q1 Profit",
+      "link": "https://www.rigzone.com/news/hafnia_posts_higher_q1_profit-27-may-2026-183793-article/?rss=true",
+      "date": "2026-05-27T14:02:24.000Z",
+      "source": "Rigzone",
+      "description": "<p>Hafnia Ltd on Wednesday reported $179.7 million or $0.36 per share in net profit for the first quarter (Q1), up from $63.2 million for the same three-month p...",
+      "category": "General"
+    },
+    {
+      "title": "UK Petrol Prices Hit Highest Level Since 2022",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Petrol-Prices-Hit-Highest-Level-Since-2022.html",
+      "date": "2026-05-27T14:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Petrol prices in the UK have hit a new high since the Iran war began, as the price of oil jumped back up to $100 per barrel following fresh US strikes. The average price of a litre of petrol is now 159.43p in the UK, according to motoring services firm the RAC. This petrol price ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Republican Hardliner Beats Incumbent Texas Oil Regulator in Runoff Vote",
+      "link": "https://www.rigzone.com/news/republican_hardliner_beats_incumbent_texas_oil_regulator_in_runoff_vote-27-may-2026-183791-article/?rss=true",
+      "date": "2026-05-27T13:44:50.000Z",
+      "source": "Rigzone",
+      "description": "<p>Republican hardliner Bo French defeated incumbent Texas Railroad Commissioner Jim Wright in a runoff election for the GOP nomination to sit on the Lone Star ...",
+      "category": "Production"
+    },
+    {
+      "title": "Dallas Fed Pres Says World Needs To Consume Less Oil And Gas",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dallas-Fed-Pres-Says-World-Needs-To-Consume-Less-Oil-And-Gas.html",
+      "date": "2026-05-27T13:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Federal Reserve Bank of Dallas President Lorie Logan says that the world may eventually have to reduce its consumption of oil and natural gas to bring volatile energy markets into a balance. Speaking at a closed-press conference, Logan emphasized the reality of physical supply co",
+      "category": "Prices"
+    },
+    {
+      "title": "Mozambique Contests TotalEnergies' $2 Billion Cost from LNG Project Delay",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Mozambique-Contests-TotalEnergies-2-Billion-Cost-from-LNG-Project-Delay.html",
+      "date": "2026-05-27T12:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The government of Mozambique disagrees with TotalEnergies’ estimate that the years-long delay in the Mozambique LNG project has cost it and its partners $2 billion in overruns, a source familiar with the matter told Bloomberg on Wednesday. TotalEnergies and its partners in the $2",
+      "category": "General"
+    },
+    {
+      "title": "Noble Appoints Halliburton CEO as Director",
+      "link": "https://www.rigzone.com/news/noble_appoints_halliburton_ceo_as_director-27-may-2026-183790-article/?rss=true",
+      "date": "2026-05-27T12:00:24.000Z",
+      "source": "Rigzone",
+      "description": "<p>Noble Corporation plc announced, in a statement posted on its site, that its board of directors has appointed Jeff Miller, the Chairman of the Board of Direc...",
+      "category": "General"
+    },
+    {
+      "title": "China's CNOOC Starts Production at Bohai Sea Oilfield",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-CNOOC-Starts-Production-at-Bohai-Sea-Oilfield.html",
+      "date": "2026-05-27T11:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "China’s top offshore crude oil and natural gas producer, CNOOC, on Wednesday announced the launch of full production from phase one development of the Kenli 10-2 oilfield in the south Bohai Sea. The Kenli 10-2 oilfield cluster is China’s largest offshore shallow-layer lithologica",
+      "category": "Production"
+    },
+    {
+      "title": "Petrofac Emirates Sold to Mason-Led Consortium",
+      "link": "https://www.rigzone.com/news/petrofac_emirates_sold_to_masonled_consortium-27-may-2026-183789-article/?rss=true",
+      "date": "2026-05-27T10:54:33.000Z",
+      "source": "Rigzone",
+      "description": "<p>British energy engineering company Petrofac Ltd, under administration since 2025, said Tuesday it had completed the divestment of its core engineering and co...",
+      "category": "Policy"
+    },
+    {
+      "title": "Digitalization, AI in Upstream Oil, Gas is '$500B Opportunity'",
+      "link": "https://www.rigzone.com/news/digitalization_ai_in_upstream_oil_gas_is_500b_opportunity-27-may-2026-183788-article/?rss=true",
+      "date": "2026-05-27T10:44:35.000Z",
+      "source": "Rigzone",
+      "description": "<p>In a market update sent to Rigzone recently, Rystad Energy described digitalization and Artificial Intelligence (AI) in upstream oil and gas as “a $500 billi...",
+      "category": "Prices"
+    },
+    {
+      "title": "U.K. Energy Bills to Jump 13% as Gas Shock Hits Households",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Energy-Bills-to-Jump-13-as-Gas-Shock-Hits-Households.html",
+      "date": "2026-05-27T10:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "UK energy prices will jump by 13% from July 1 after energy regulator Ofgem on Wednesday raised the price cap as a result of higher wholesale gas prices amid the Middle East crisis. The UK has a so-called Energy Price Cap in place, which protects households from excessively high b",
+      "category": "Prices"
+    },
+    {
+      "title": "Impact Oil & Gas to split Namibia and South Africa portfolios",
+      "link": "https://www.offshore-technology.com/news/impact-oil-gas-to-split-namibia-south-africa-portfolios/",
+      "date": "2026-05-27T10:23:32.000Z",
+      "source": "Offshore Technology",
+      "description": "UK-based Impact Oil & Gas agreed to a corporate restructure that will split its Namibian and South African interests into separate entities.",
+      "category": "Policy"
+    },
+    {
+      "title": "Baker Hughes secures expanded Santos Basin contract",
+      "link": "https://www.offshore-technology.com/news/baker-hughes-expanded-santos-basin-contract/",
+      "date": "2026-05-27T10:13:16.000Z",
+      "source": "Offshore Technology",
+      "description": "Baker Hughes secured a contract extension from Petrobras to provide integrated well construction solutions in Santos Basin, offshore Brazil.",
+      "category": "General"
+    },
+    {
+      "title": "America’s Answer to China’s Lithium Stranglehold Is Hiding in the Permian Basin",
+      "link": "https://oilprice.com/Energy/Energy-General/Americas-Answer-to-Chinas-Lithium-Stranglehold-Is-Hiding-in-the-Permian-Basin.html",
+      "date": "2026-05-27T10:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Permian Basin innovator LibertyStream is betting big that the “drill baby drill” era may have an unexpected side effect: a surge in lithium feedstock flowing through America’s existing oil infrastructure network. Every single day, Texas’ prolific Permian Basin oil production also",
+      "category": "Production"
+    },
     {
       "title": "Aramco Exits Malaysian Refining, Petrochemical Complex",
       "link": "https://www.rigzone.com/news/aramco_exits_malaysian_refining_petrochemical_complex-27-may-2026-183787-article/?rss=true",
@@ -12,12 +196,12 @@
       "category": "General"
     },
     {
-      "title": "Oil Prices Fall as Traders Bet on U.S.-Iran Deal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Traders-Bet-on-US-Iran-Deal.html",
-      "date": "2026-05-27T09:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil prices dropped by around 4% early on Wednesday as hopes of a U.S.-Iran deal outweighed concerns about rapidly drawing inventories as the Strait of Hormuz remained closed on the back of fresh U.S.-Iran hostilities. As of early Wednesday trade in Europe, WTI Crude, the U.S. ben",
-      "category": "Geopolitics"
+      "title": "New episode: Glut or shortage – what lies ahead for LNG?",
+      "link": "https://www.offshore-technology.com/news/new-episode-lng-glut-or-shortage/",
+      "date": "2026-05-27T08:50:24.000Z",
+      "source": "Offshore Technology",
+      "description": "This week’s episode looks at LNG supply and demand dynamics and asks whether the sector is on track for future shortages, or a glut.",
+      "category": "General"
     },
     {
       "title": "Eni, Baleine Partners Approve Phase 3 of Ivorian Project",
@@ -36,67 +220,11 @@
       "category": "Production"
     },
     {
-      "title": "ADNOC Sends Another LNG Carrier Through Hormuz in “Dark Mode”",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Sends-Another-LNG-Carrier-Through-Hormuz-in-Dark-Mode.html",
-      "date": "2026-05-27T08:15:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Emirati ADNOC has sent a second LNG carrier through the Strait of Hormuz, Bloomberg reported today, citing shipping data that shows the vessel is sailing to India. The publication earlier this week reported that ADNOC has been using its own fleet of tankers to ship oil and gas th",
-      "category": "Supply Routes"
-    },
-    {
       "title": "Russia Weighs Fuel Export Limits as Attacks Grow",
       "link": "https://www.rigzone.com/news/russia_weighs_fuel_export_limits_as_attacks_grow-27-may-2026-183785-article/?rss=true",
       "date": "2026-05-27T08:02:43.000Z",
       "source": "Rigzone",
       "description": "<p>Russia is considering limiting exports of diesel and jet fuel, according to Interfax, as refinery run rates fall to multi-year lows amid Ukraine’s escalating...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "U.S. Sends Rare SPR Oil Cargo to Asia as Hormuz Crisis Reshapes Trade",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Sends-Rare-SPR-Oil-Cargo-to-Asia-as-Hormuz-Crisis-Reshapes-Trade.html",
-      "date": "2026-05-27T07:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "A tanker loaded with crude oil from the U.S. strategic petroleum reserve has set off from the Gulf of Mexico to the Philippines in what is the first U.S. oil shipment to Asia since late 2022, Reuters reported, citing shipping data. The rare move yet again highlights the rearrange",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Europe’s Arctic Oil Dilemma Deepens as Supply Fears Grow",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Arctic-Oil-Dilemma-Deepens-as-Supply-Fears-Grow.html",
-      "date": "2026-05-27T05:53:16.000Z",
-      "source": "OilPrice.com",
-      "description": "A dozen financial institutions from Scandinavia have urged the European Commission to remain firm in its opposition to Arctic oil drilling even as the bloc faces physical oil shortages in weeks, according to energy experts. “The Arctic is one of the planet's most vulnerable ecosy",
-      "category": "Production"
-    },
-    {
-      "title": "IEA: Global Electric Car Sales Topped 20 Million In 2025",
-      "link": "https://oilprice.com/Energy/Energy-General/IEA-Global-Electric-Car-Sales-Topped-20-Million-In-2025.html",
-      "date": "2026-05-27T00:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Over the past five or so years, the global electric vehicle (EV) market has been rapidly transforming from a niche segment into a mainstream industry thanks to plunging battery costs, aggressive emissions standards and an influx of affordable models from major manufacturing hubs,",
-      "category": "Prices"
-    },
-    {
-      "title": "Alaska’s Oil Revival Gains Momentum",
-      "link": "https://oilprice.com/Energy/Energy-General/Alaskas-Oil-Revival-Gains-Momentum.html",
-      "date": "2026-05-26T23:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil majors are rediscovering Alaska amid the unprecedented oil and gas crunch caused by the war in the Middle East. Previously considered a sort of toxic drilling destination, the northernmost state is now returning to the spotlight as a source of secure supply. In early May, the",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "India Turns to Russia, Brazil, and Venezuela for Crude",
-      "link": "https://oilprice.com/Energy/Crude-Oil/India-Turns-to-Russia-Brazil-and-Venezuela-for-Crude.html",
-      "date": "2026-05-26T22:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The world’s third-largest crude importer, India, is accelerating efforts to diversify its oil imports in the wake of the Middle East crisis. India had begun raising imports from Russia three years before the Iran war cut off most supplies from the Middle East, on which India reli",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "NATO Warns Russia’s Hybrid War Is Targeting Europe’s Energy Grid",
-      "link": "https://oilprice.com/Energy/Energy-General/NATO-Warns-Russias-Hybrid-War-Is-Targeting-Europes-Energy-Grid.html",
-      "date": "2026-05-26T21:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "While many may be focusing on the transfer of nuclear weapons from Russia to Belarus on NATO’s northeastern Baltic States border, the bloc's security apparatus is at least as concerned about imminent attacks on the region's energy infrastructure, a senior source who works very cl",
       "category": "Geopolitics"
     },
     {
@@ -108,68 +236,12 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Germany Puts €5 Billion Behind Carbon Capture Push",
-      "link": "https://oilprice.com/Energy/Energy-General/Germany-Puts-5-Billion-Behind-Carbon-Capture-Push.html",
-      "date": "2026-05-26T20:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "For years, Germany approached carbon capture the way many Europeans approach nuclear power at dinner parties: cautiously, awkwardly, and preferably not at all. The country that built Europe’s industrial backbone somehow became one of the continent’s most politically hesitant nati",
-      "category": "Geopolitics"
-    },
-    {
       "title": "A Searing Asian Summer Will Add to Risk of Surging Gas Prices",
       "link": "https://www.rigzone.com/news/a_searing_asian_summer_will_add_to_risk_of_surging_gas_prices-26-may-2026-183782-article/?rss=true",
       "date": "2026-05-26T20:00:00.000Z",
       "source": "Rigzone",
       "description": "<p>As the global gas market grapples with the Strait of Hormuz being all-but closed for nearly three months, traders are fixated on two wildcards: China and the...",
       "category": "Prices"
-    },
-    {
-      "title": "U.S. Natural Gas Prices Surge On Lower Output, Higher LNG Flows",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Natural-Gas-Prices-Surge-On-Lower-Output-Higher-LNG-Flows.html",
-      "date": "2026-05-26T19:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "U.S. natural gas prices surged on Tuesday, with a combination of declining domestic output and an improving demand outlook helping the gas market break past prior downward pressure from seasonal maintenance. Henry Hub, the primary benchmark price for the North American natural ga",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "How U.S. Control of Venezuelan Oil Is Reshaping Asian Energy",
-      "link": "https://oilprice.com/Energy/Crude-Oil/How-US-Control-of-Venezuelan-Oil-Is-Reshaping-Asian-Energy.html",
-      "date": "2026-05-26T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Asian nations are scrambling to find new oil and gas suppliers as the Iran war stretches on and negotiations over the Strait of Hormuz remain murky at best. Asia, the primary purchaser of oil and gas supplies out of the Gulf, has been hit hardest by the sudden blockage of approxi",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Ukraine Cuts Gas Storage Rates To Encourage Domestic Buildup Ahead Of Winter",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Cuts-Gas-Storage-Rates-To-Encourage-Domestic-Buildup-Ahead-Of-Winter.html",
-      "date": "2026-05-26T18:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Ukraine's state energy regulator has cut storage fees for natural gas by 11% in a bid to accelerate domestic gas injection, with an option to further lower the rate if capacities are booked long-term for at least one year. The discount creates favorable tariff structures to lever",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Gulf Shipping Crisis Fuels New Eurasian Corridors",
-      "link": "https://oilprice.com/Energy/Energy-General/Gulf-Shipping-Crisis-Fuels-New-Eurasian-Corridors.html",
-      "date": "2026-05-26T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Donald Trump and Bibi Netanyahu deserve thanks for boosting Eurasia connectivity after their attacks on Iran resulted in the collapse of ship traffic through the Strait of Hormuz. Unfortunately, the attacks may reduce real labor incomes by as much as US$3 trillion globally by 202",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "China's Rare Earth Grip Holds Despite Trump-Xi Talks",
-      "link": "https://oilprice.com/Metals/Commodities/Chinas-Rare-Earth-Grip-Holds-Despite-Trump-Xi-Talks.html",
-      "date": "2026-05-26T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Donald Trump returned from Beijing calling his two-day summit with Xi Jinping a \"success,” but the rare earth market is less convinced. Despite closely watched talks on May 14-15, no formal agreement emerged on China's export controls, and shipments of the critical heavy minerals",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Russia Threatens New Strikes on Kyiv as It Urges Americans to Leave",
-      "link": "https://oilprice.com/Energy/Energy-General/Russia-Threatens-New-Strikes-on-Kyiv-as-It-Urges-Americans-to-Leave.html",
-      "date": "2026-05-26T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Russia sharply escalated threats against Kyiv, warning of \"systematic and consistent strikes\" as Russia's top diplomat urged American citizens to evacuate the Ukrainian capital. A day after Moscow pummeled the Kyiv region with hundreds of drones -- and a powerful new hypersonic m",
-      "category": "Geopolitics"
     },
     {
       "title": "DOI Bags Over $4B from Texas, New Mexico Lease Sale",
@@ -284,14 +356,6 @@
       "category": "Production"
     },
     {
-      "title": "Beach Energy to divest 60% operated stake in Otway VIC/L35",
-      "link": "https://www.offshore-technology.com/news/beach-energy-divest-stake-otway-vic-l35/",
-      "date": "2026-05-26T07:50:34.000Z",
-      "source": "Offshore Technology",
-      "description": "Beach Energy to divest its 60% operated stake in the VIC/L35 in Australia’s offshore Otway Basin to Amplitude Energy and O.G. Otway.",
-      "category": "General"
-    },
-    {
       "title": "Trump Issues Upbeat Signal on Iran Talks",
       "link": "https://www.rigzone.com/news/trump_issues_upbeat_signal_on_iran_talks-26-may-2026-183774-article/?rss=true",
       "date": "2026-05-26T07:17:30.000Z",
@@ -346,14 +410,6 @@
       "source": "Rigzone",
       "description": "<p>In a crude market commentary piece sent to Rigzone on Monday, Gaik June Goh, a senior oil market analyst at Sparta Commodities, explained today’s oil price d...",
       "category": "Prices"
-    },
-    {
-      "title": "Subsea7 lands contract for Vår Energi’s Goliat Gas Export project",
-      "link": "https://www.offshore-technology.com/news/subsea7-contract-goliat-gas-export-project/",
-      "date": "2026-05-25T09:22:06.000Z",
-      "source": "Offshore Technology",
-      "description": "Subsea7 has secured a contract from Vår Energi for the Goliat Gas Export Project in the Barents Sea off the coast of Norway.",
-      "category": "Supply Routes"
     },
     {
       "title": "Gazprom Starts Production at Chona Fields in Eastern Siberia",
@@ -442,14 +498,6 @@
       "source": "Rigzone",
       "description": "<p>Exxon Mobil Corp and QatarEnergy have signed a memorandum of understanding (MoU) with Egypt to assess the potential of developing natural gas discoveries in ...",
       "category": "General"
-    },
-    {
-      "title": "Oil prices jump as investors await US-Iran peace talks progress",
-      "link": "https://www.offshore-technology.com/news/oil-prices-jump-investors-us-iran-peace/",
-      "date": "2026-05-22T13:24:10.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil prices rose on 22 May amid investor uncertainty surrounding progress in peace negotiations between the US and Iran, although both Brent and US WTI crude were set to conclude the week with declines.",
-      "category": "Geopolitics"
     },
     {
       "title": "EIR Says Qatari LNG Outage Will Shift Gas Market to Deficit",
