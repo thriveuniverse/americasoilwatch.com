@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import MobileNav from '@/components/MobileNav';
+import GoogleAnalytics from '@/components/GoogleAnalytics';
+import CookieConsent from '@/components/CookieConsent';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://americasoilwatch.com'),
@@ -118,6 +120,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </p>
           </div>
         </footer>
+        <CookieConsent />
+        <GoogleAnalytics measurementId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID ?? ''} />
       </body>
     </html>
   );
