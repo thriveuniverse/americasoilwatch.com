@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-31T08:44:44.670Z",
-  "priceUsd": 87.36,
-  "changeUsd": 0,
-  "changePct": 0,
-  "weekEnding": "2026-05-31",
-  "dataSource": "Yahoo Finance (CL=F)"
+  "lastUpdated": "2026-06-01T11:33:05.916Z",
+  "priceUsd": 90.46,
+  "changeUsd": 3.1,
+  "changePct": 3.55,
+  "weekEnding": "2026-06-01",
+  "dataSource": "Stooq (cl.f front-month)"
 }
