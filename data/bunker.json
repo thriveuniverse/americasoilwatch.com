@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-01T11:37:37.923Z",
-  "brentBasis": 93.71,
-  "brentChange": 2.59,
+  "lastUpdated": "2026-06-02T10:22:56.435Z",
+  "brentBasis": 94.11,
+  "brentChange": 0.4,
   "note": "Estimated from Brent crude benchmark. For exact market prices: Ship & Bunker, Platts.",
   "ports": [
     {
@@ -9,30 +9,30 @@
       "code": "ARA",
       "region": "NW Europe",
       "relevance": "Primary EU/UK supply hub — leading indicator for diesel and gasoil",
-      "vlsfo": 619,
-      "mgo": 739,
-      "vlsfoChange": 16.8,
-      "mgoChange": 16.8
+      "vlsfo": 622,
+      "mgo": 742,
+      "vlsfoChange": 2.6,
+      "mgoChange": 2.6
     },
     {
       "name": "Fujairah",
       "code": "FUJA",
       "region": "Middle East",
       "relevance": "Gulf supply stress indicator — rises under Hormuz/Red Sea disruption",
-      "vlsfo": 634,
-      "mgo": 754,
-      "vlsfoChange": 16.8,
-      "mgoChange": 16.8
+      "vlsfo": 637,
+      "mgo": 757,
+      "vlsfoChange": 2.6,
+      "mgoChange": 2.6
     },
     {
       "name": "Singapore",
       "code": "SING",
       "region": "Asia-Pacific",
       "relevance": "Global benchmark — reflects competition between Asian and EU buyers",
-      "vlsfo": 627,
-      "mgo": 749,
-      "vlsfoChange": 16.8,
-      "mgoChange": 16.8
+      "vlsfo": 630,
+      "mgo": 752,
+      "vlsfoChange": 2.6,
+      "mgoChange": 2.6
     }
   ]
 }
