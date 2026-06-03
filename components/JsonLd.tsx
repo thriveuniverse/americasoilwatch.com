@@ -40,7 +40,7 @@ export default function JsonLd({ type }: JsonLdProps) {
     '@context': 'https://schema.org',
     '@type': 'Dataset',
     name: 'Americas Oil Market Data',
-    description: 'Weekly WTI crude price, US commercial petroleum stocks, US retail fuel prices, and producer snapshots for 12 Western Hemisphere countries. Sources: EIA, Yahoo Finance, MARAD.',
+    description: 'Weekly WTI crude price, US commercial petroleum stocks, US retail fuel prices, and producer snapshots for 12 Western Hemisphere countries. Sources: EIA, Stooq, MARAD.',
     url: baseUrl,
     creator: organization,
     temporalCoverage: '2026/..',
@@ -88,11 +88,13 @@ export default function JsonLd({ type }: JsonLdProps) {
       {
         '@type': 'Dataset',
         name: 'EIA Weekly Petroleum Status Report',
+        description: 'US Energy Information Administration weekly crude oil and petroleum-product inventories, production and refinery data.',
         url: 'https://www.eia.gov/petroleum/supply/weekly/',
       },
       {
         '@type': 'Dataset',
         name: 'EIA Weekly Retail Gasoline and Diesel Prices',
+        description: 'US Energy Information Administration weekly national and regional average retail gasoline and diesel prices.',
         url: 'https://www.eia.gov/petroleum/gasdiesel/',
       },
     ],
