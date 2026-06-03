@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-02T10:23:21.140Z",
-  "statusLine": "Americas crude markets remain elevated near $91 WTI amid persistent Middle East maritime risks and declining US inventories, though retail fuel prices show modest relief.",
-  "overallStatus": "warning",
-  "fullAnalysis": "US crude markets gained 1.12% week-on-week in the period ending June 2nd, with WTI reaching $91.47/barrel as commercial crude inventories fell by a significant 9.1 million barrels to 365.1 million barrels. This drawdown, combined with declines in gasoline (-2.6 MB) and distillate (-2.1 MB) stocks, reflects robust domestic demand against steady production of 13.7 million barrels per day. The Strategic Petroleum Reserve remains at historically low levels of 81.2 million barrels.\n\nThe WTI-Brent spread widened to -$2.64, indicating continued pressure on Americas crude pricing relative to international benchmarks. This discount reflects pipeline capacity constraints limiting export potential from key US production hubs, particularly as shale output remains strong. Canadian heavy crude (WCS) likely faces even steeper discounts given pipeline bottlenecks to US refineries.\n\nCritical maritime security threats persist across key global shipping routes, with multiple MARAD advisories warning of Houthi attacks in the Red Sea/Bab el Mandeb corridor and Iranian threats in the Persian Gulf. While these chokepoints don't directly affect Americas-to-Americas flows, they're supporting global crude prices by disrupting Middle East-to-Europe routes and forcing longer voyage times around Africa.\n\nRetail fuel prices provided modest consumer relief, with gasoline declining 1.6 cents to $4.605/gallon and diesel dropping 7.3 cents to $5.523/gallon. However, both remain well above historical norms, reflecting the elevated crude environment and ongoing refinery margin pressures from tight global product markets.",
+  "generatedAt": "2026-06-03T10:58:46.039Z",
+  "statusLine": "Americas oil markets show resilience with WTI gaining 5% week-on-week to $96.04/bbl despite significant inventory draws and Middle East shipping disruptions.",
+  "overallStatus": "watch",
+  "fullAnalysis": "US oil markets demonstrated strength in the week ending June 3, 2026, with WTI crude rising 5% week-on-week to $96.04/barrel while maintaining production at 13.715 million barrels per day. The weekly gain reflects tightening fundamentals as commercial crude inventories fell by 9.063 million barrels to 365.112 million barrels, marking a significant draw that underscores robust demand amid steady output from America's shale basins.\n\nThe $2.25 WTI discount to Brent crude at $98.29/barrel indicates continued regional price dynamics, with Americas crude remaining competitive despite global supply concerns. This spread reflects both the efficiency of US midstream infrastructure and the premium international markets are placing on non-Middle Eastern crude amid ongoing shipping disruptions. Refined product inventories also declined sharply, with gasoline stocks down 2.572 million barrels and distillates falling 2.107 million barrels.\n\nCritical maritime advisories highlight severe risks to global oil flows, particularly Iranian attacks in the Persian Gulf and Strait of Hormuz chokepoint, plus continued Houthi disruptions across Red Sea shipping lanes. These threats to approximately 20% of global oil transit capacity are supporting price premiums and driving increased reliance on Atlantic Basin crude supplies from the US, Canada, and emerging producers like Guyana.\n\nUS retail fuel prices have begun reflecting recent crude gains, though consumers saw relief with gasoline falling 16.6 cents to $4.439/gallon and diesel dropping 17.3 cents to $5.35/gallon. The Strategic Petroleum Reserve remains at 81.185 million barrels, well below historical averages, limiting the administration's ability to moderate price spikes through emergency releases if geopolitical tensions escalate further.",
   "keyPoints": [
-    "WTI crude gained 1.12% week-on-week to $91.47/barrel amid declining US commercial inventories",
-    "US crude stocks fell 9.1 million barrels while gasoline and distillate inventories also declined significantly",
-    "Multiple critical maritime advisories remain active for Red Sea and Persian Gulf shipping routes",
-    "WTI-Brent spread at -$2.64 indicates continued export constraints from US production centers",
-    "Retail gasoline and diesel prices declined modestly but remain elevated at $4.61 and $5.52 per gallon",
-    "US crude production steady at 13.7 million barrels per day with Strategic Petroleum Reserve at 81.2 million barrels"
+    "WTI crude gained 5% week-on-week to $96.04/bbl in the week ending June 3, supported by tight US fundamentals",
+    "US crude inventories fell 9.063 million barrels while production held steady at 13.715 million bpd",
+    "Critical maritime advisories warn of Iranian attacks on Persian Gulf shipping and ongoing Houthi Red Sea disruptions",
+    "WTI trades at $2.25 discount to Brent, reflecting strong Americas crude competitiveness amid global supply risks",
+    "Gasoline and distillate stocks both declined significantly, indicating robust domestic demand",
+    "Strategic Petroleum Reserve at 81.185 million barrels limits policy response options for price volatility"
   ],
-  "dataPeriod": "week ending 2026-06-02",
+  "dataPeriod": "week ending 2026-06-03",
   "model": "claude-sonnet-4-20250514"
 }
