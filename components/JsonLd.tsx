@@ -6,10 +6,27 @@
  */
 
 interface JsonLdProps {
-  type: 'home' | 'supply' | 'prices' | 'about' | 'methodology';
+  type: 'home' | 'supply' | 'prices' | 'about' | 'methodology' | 'article';
+  // article-specific (analysis / insights / briefings)
+  articleTitle?: string;
+  articleDescription?: string;
+  articleDate?: string;
+  articleAuthor?: string;
+  articlePath?: string; // e.g. "/insights/slug"
+  sectionName?: string; // "Analysis" | "Insights" | "Briefings"
+  sectionPath?: string; // e.g. "/insights"
 }
 
-export default function JsonLd({ type }: JsonLdProps) {
+export default function JsonLd({
+  type,
+  articleTitle,
+  articleDescription,
+  articleDate,
+  articleAuthor,
+  articlePath,
+  sectionName,
+  sectionPath,
+}: JsonLdProps) {
   const baseUrl = 'https://americasoilwatch.com';
 
   const organization = {
@@ -171,6 +188,39 @@ export default function JsonLd({ type }: JsonLdProps) {
       description: 'About AmericasOilWatch — an independent Western Hemisphere oil and fuel security intelligence dashboard.',
       url: `${baseUrl}/about`,
       mainEntity: organization,
+    });
+  }
+
+  if (type === 'article' && articleTitle && articlePath) {
+    const url = `${baseUrl}${articlePath}`;
+
+    schemas.push({
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      headline: articleTitle,
+      description: articleDescription,
+      datePublished: articleDate,
+      dateModified: articleDate,
+      author: { '@type': 'Person', name: articleAuthor ?? 'AmericasOilWatch' },
+      publisher: { '@type': 'Organization', name: 'AmericasOilWatch', url: baseUrl },
+      image: `${baseUrl}/og-image.png`,
+      mainEntityOfPage: url,
+      url,
+    });
+
+    schemas.push({
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: baseUrl },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          name: sectionName ?? 'Analysis',
+          item: `${baseUrl}${sectionPath ?? '/analysis'}`,
+        },
+        { '@type': 'ListItem', position: 3, name: articleTitle, item: url },
+      ],
     });
   }
 

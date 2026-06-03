@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getBriefing, getAllBriefings } from '@/lib/briefings';
 import SubscribeCta from '@/components/SubscribeCta';
+import JsonLd from '@/components/JsonLd';
 
 export const revalidate = 3600;
 
@@ -25,6 +26,16 @@ export default function BriefingPage({ params }: { params: { slug: string } }) {
 
   return (
     <article className="max-w-3xl mx-auto space-y-6">
+      <JsonLd
+        type="article"
+        articleTitle={b.subject}
+        articleDescription={b.excerpt}
+        articleDate={b.date}
+        articleAuthor="Jon Kelly"
+        articlePath={`/briefings/${params.slug}`}
+        sectionName="Briefings"
+        sectionPath="/briefings"
+      />
       <div>
         <a href="/briefings" className="text-xs text-oil-400 hover:underline">← All briefings</a>
         <p className="mt-2 text-[10px] font-mono text-gray-600 mb-2">

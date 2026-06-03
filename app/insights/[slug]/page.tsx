@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getInsight, getAllInsights } from '@/lib/insights';
 import SubscribeCta from '@/components/SubscribeCta';
+import JsonLd from '@/components/JsonLd';
 
 export const revalidate = 3600;
 
@@ -32,6 +33,16 @@ export default function InsightPage({ params }: { params: { slug: string } }) {
 
   return (
     <article className="max-w-3xl mx-auto space-y-6">
+      <JsonLd
+        type="article"
+        articleTitle={insight.title}
+        articleDescription={insight.excerpt}
+        articleDate={insight.date}
+        articleAuthor={insight.author}
+        articlePath={`/insights/${params.slug}`}
+        sectionName="Insights"
+        sectionPath="/insights"
+      />
       <div>
         <a href="/insights" className="text-xs text-oil-400 hover:underline">← All insights</a>
         <div className="mt-2 flex items-center gap-2 text-[10px] font-mono text-gray-600 mb-3">
