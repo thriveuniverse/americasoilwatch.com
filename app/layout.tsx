@@ -6,6 +6,7 @@ import CookieConsent from '@/components/CookieConsent';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://americasoilwatch.com'),
+  icons: { icon: '/icon.svg', shortcut: '/icon.svg', apple: '/icon.svg' },
   title: {
     default: 'AmericasOilWatch — Western Hemisphere Oil & Fuel Intelligence',
     template: '%s | AmericasOilWatch',
