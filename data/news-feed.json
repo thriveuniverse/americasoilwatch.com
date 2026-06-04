@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-06-03T20:19:45.780Z",
-  "summary": "• Middle East geopolitical tensions between Iran and the U.S. are creating persistent upward pressure on crude prices, with analysts warning that any disruption to the Strait of Hormuz could extend supply constraints through year-end.\n\n• Argentina's Vaca Muerta shale production faces regulatory approval delays for major development projects, potentially constraining Western Hemisphere crude supply growth despite industry investment commitments.\n\n• Refinery capacity constraints and shifting energy infrastructure priorities are limiting downstream processing capacity, as producers pivot toward renewable fuel production rather than expanding conventional oil refining.",
-  "count": 71,
+  "lastUpdated": "2026-06-04T09:55:49.838Z",
+  "summary": "• Venezuela's requirement that oil firms self-supply power threatens to further constrain refinery operations and crude production at a time when the country's output is already critically depleted.\n\n• Middle East geopolitical escalation between Iran and US allies is creating persistent crude price volatility and supply uncertainty that could disrupt global markets if shipping routes through the region face disruption.\n\n• Argentina's major Vaca Muerta project approval and Delfin LNG's $5 billion FID signal potential supply growth from South America, but these developments face execution risks and will take years to materially impact hemispheric crude availability.",
+  "count": 62,
   "articles": [
+    {
+      "title": "US Says Israel, Lebanon Agreed Truce on Hezbollah Condition",
+      "link": "https://www.rigzone.com/news/us_says_israel_lebanon_agreed_truce_on_hezbollah_condition-04-jun-2026-183847-article/?rss=true",
+      "date": "2026-06-04T08:00:55.000Z",
+      "source": "Rigzone",
+      "description": "<p>The US said Israel and Lebanon agreed to a ceasefire if Hezbollah also stops fighting, the latest attempt by the Trump administration to keep peace talks wit...",
+      "category": "Policy"
+    },
+    {
+      "title": "Delfin Midstream approves $5bn FID for Delfin LNG project phase one",
+      "link": "https://www.offshore-technology.com/news/delfin-midstream-5bn-fid-delfin-lng-phase-one/",
+      "date": "2026-06-04T07:58:52.000Z",
+      "source": "Offshore Technology",
+      "description": "Delfin Midstream has confirmed a final investment decision (FID) for its first floating liquefied natural gas (FLNG) vessel, allocating $5bn to the first phase of the Delfin LNG project off the coast of Louisiana.",
+      "category": "General"
+    },
+    {
+      "title": "Venezuela Wants Oil Firms to Supply Their Own Power",
+      "link": "https://www.rigzone.com/news/venezuela_wants_oil_firms_to_supply_their_own_power-03-jun-2026-183843-article/?rss=true",
+      "date": "2026-06-03T21:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Energy companies heading to Venezuela are being told to bring their own power plants to run their oil and natural gas operations and shield them from frequen...",
+      "category": "Refinery"
+    },
     {
       "title": "Oil Settles Higher On Iran Strikes",
       "link": "https://www.rigzone.com/news/oil_settles_higher_on_iran_strikes-03-jun-2026-183846-article/?rss=true",
@@ -42,6 +66,14 @@
       "source": "Rigzone",
       "description": "<p>Repsol SA has begun producing renewable diesel at its Puertollano Industrial Complex in Ciudad Real, Spain, its second plant dedicated exclusively to produci...",
       "category": "Refinery"
+    },
+    {
+      "title": "Equinor awards Ocean Installer 4.5-year Bacalhau well tie-in deal",
+      "link": "https://www.offshore-technology.com/news/equinor-ocean-installer-bacalhau-well-deal/",
+      "date": "2026-06-03T13:48:06.000Z",
+      "source": "Offshore Technology",
+      "description": "Ocean Installer has secured a contract from Equinor to carry out subsea installation work at the Bacalhau field in Brazil.",
+      "category": "Geopolitics"
     },
     {
       "title": "Energy Cos Team Up for New AI Powered Safety Initiative",
@@ -104,7 +136,7 @@
       "link": "https://www.rigzone.com/news/tensions_broil_again_as_iran_hits_us_mideast_allies-03-jun-2026-183836-article/?rss=true",
       "date": "2026-06-03T07:16:28.000Z",
       "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) June 3, 2026, 2:55 PM GMT: Article upd...",
+      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) June 4, 2026, 9:45 AM GMT: Article upd...",
       "category": "Geopolitics"
     },
     {
@@ -284,14 +316,6 @@
       "category": "Supply Routes"
     },
     {
-      "title": "Tamboran completes $173m Falcon acquisition after court approval",
-      "link": "https://www.offshore-technology.com/news/tamboran-completes-falcon-acquisition/",
-      "date": "2026-06-01T13:51:41.000Z",
-      "source": "Offshore Technology",
-      "description": "Natural gas company Tamboran Resources has completed the previously announced $172.9m acquisition of Falcon Oil & Gas, following final approval by a Canadian court.",
-      "category": "General"
-    },
-    {
       "title": "Knutsen Revenue Down Quarter on Quarter",
       "link": "https://www.rigzone.com/news/knutsen_revenue_down_quarter_on_quarter-01-jun-2026-183818-article/?rss=true",
       "date": "2026-06-01T13:31:28.000Z",
@@ -322,14 +346,6 @@
       "source": "Rigzone",
       "description": "<p>TotalEnergies SE said it has filed for government authorization for a EUR 4.5-billion ($5.24 billion) 1.5-gigawatt (GW) wind farm off the coast of Normandy, ...",
       "category": "General"
-    },
-    {
-      "title": "Oil prices surge amid renewed US, Iran and Israel military action",
-      "link": "https://www.offshore-technology.com/news/oil-prices-surge-1-june/",
-      "date": "2026-06-01T10:13:10.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil prices increased by more than 3% on Monday, 1 June, following a weekend of intensified military activity between the US and Iran.",
-      "category": "Geopolitics"
     },
     {
       "title": "Fresh Clashes as Iran, US Trade Truce Terms",
@@ -481,94 +497,6 @@
       "date": "2026-05-28T10:11:17.000Z",
       "source": "Rigzone",
       "description": "<p>Global investments in oil projects are due to fall for the third year in a row, as the supply shock from the Middle East conflict shifts priorities to new tr...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "BP Chair Says He Was Fired Without Explanation",
-      "link": "https://www.rigzone.com/news/bp_chair_says_he_was_fired_without_explanation-27-may-2026-183792-article/?rss=true",
-      "date": "2026-05-27T20:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Former BP Plc Chairman Albert Manifold says he was fired without warning or explanation and will challenge the company’s version of events, deepening the tur...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Oil Settles Below $89 On Deal Hopes",
-      "link": "https://www.rigzone.com/news/oil_settles_below_89_on_deal_hopes-27-may-2026-183795-article/?rss=true",
-      "date": "2026-05-27T19:51:04.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil tumbled on optimism that the US and Iran will reach a peace deal, even as President Donald Trump signaled that the warring sides remain far apart in nego...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Strategists Predict Week on Week USA Crude Stock Drop",
-      "link": "https://www.rigzone.com/news/strategists_predict_week_on_week_usa_crude_stock_drop-27-may-2026-183794-article/?rss=true",
-      "date": "2026-05-27T14:54:44.000Z",
-      "source": "Rigzone",
-      "description": "<p>In an oil and gas report sent to Rigzone late Tuesday, Macquarie strategists, including Walt Chancellor, revealed that they are forecasting that U.S. crude i...",
-      "category": "Production"
-    },
-    {
-      "title": "Hafnia Posts Higher Q1 Profit",
-      "link": "https://www.rigzone.com/news/hafnia_posts_higher_q1_profit-27-may-2026-183793-article/?rss=true",
-      "date": "2026-05-27T14:02:24.000Z",
-      "source": "Rigzone",
-      "description": "<p>Hafnia Ltd on Wednesday reported $179.7 million or $0.36 per share in net profit for the first quarter (Q1), up from $63.2 million for the same three-month p...",
-      "category": "General"
-    },
-    {
-      "title": "Republican Hardliner Beats Incumbent Texas Oil Regulator in Runoff Vote",
-      "link": "https://www.rigzone.com/news/republican_hardliner_beats_incumbent_texas_oil_regulator_in_runoff_vote-27-may-2026-183791-article/?rss=true",
-      "date": "2026-05-27T13:44:50.000Z",
-      "source": "Rigzone",
-      "description": "<p>Republican hardliner Bo French defeated incumbent Texas Railroad Commissioner Jim Wright in a runoff election for the GOP nomination to sit on the Lone Star ...",
-      "category": "Production"
-    },
-    {
-      "title": "Noble Appoints Halliburton CEO as Director",
-      "link": "https://www.rigzone.com/news/noble_appoints_halliburton_ceo_as_director-27-may-2026-183790-article/?rss=true",
-      "date": "2026-05-27T12:00:24.000Z",
-      "source": "Rigzone",
-      "description": "<p>Noble Corporation plc announced, in a statement posted on its site, that its board of directors has appointed Jeff Miller, the Chairman of the Board of Direc...",
-      "category": "General"
-    },
-    {
-      "title": "Petrofac Emirates Sold to Mason-Led Consortium",
-      "link": "https://www.rigzone.com/news/petrofac_emirates_sold_to_masonled_consortium-27-may-2026-183789-article/?rss=true",
-      "date": "2026-05-27T10:54:33.000Z",
-      "source": "Rigzone",
-      "description": "<p>British energy engineering company Petrofac Ltd, under administration since 2025, said Tuesday it had completed the divestment of its core engineering and co...",
-      "category": "Policy"
-    },
-    {
-      "title": "Digitalization, AI in Upstream Oil, Gas is '$500B Opportunity'",
-      "link": "https://www.rigzone.com/news/digitalization_ai_in_upstream_oil_gas_is_500b_opportunity-27-may-2026-183788-article/?rss=true",
-      "date": "2026-05-27T10:44:35.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a market update sent to Rigzone recently, Rystad Energy described digitalization and Artificial Intelligence (AI) in upstream oil and gas as “a $500 billi...",
-      "category": "Prices"
-    },
-    {
-      "title": "Aramco Exits Malaysian Refining, Petrochemical Complex",
-      "link": "https://www.rigzone.com/news/aramco_exits_malaysian_refining_petrochemical_complex-27-may-2026-183787-article/?rss=true",
-      "date": "2026-05-27T09:18:18.000Z",
-      "source": "Rigzone",
-      "description": "<p>Saudi Arabian Oil Co (Aramco) has agreed to sell its stake in a refining and petrochemical complex in the Malaysian state of Johor to the Southeast Asian cou...",
-      "category": "General"
-    },
-    {
-      "title": "Eni, Baleine Partners Approve Phase 3 of Ivorian Project",
-      "link": "https://www.rigzone.com/news/eni_baleine_partners_approve_phase_3_of_ivorian_project-27-may-2026-183786-article/?rss=true",
-      "date": "2026-05-27T08:50:19.000Z",
-      "source": "Rigzone",
-      "description": "<p>Eni SpA and its partners have made a final investment decision (FID) to proceed with the third-phase development of Côte d’Ivoire's biggest hydrocarbon disco...",
-      "category": "General"
-    },
-    {
-      "title": "Russia Weighs Fuel Export Limits as Attacks Grow",
-      "link": "https://www.rigzone.com/news/russia_weighs_fuel_export_limits_as_attacks_grow-27-may-2026-183785-article/?rss=true",
-      "date": "2026-05-27T08:02:43.000Z",
-      "source": "Rigzone",
-      "description": "<p>Russia is considering limiting exports of diesel and jet fuel, according to Interfax, as refinery run rates fall to multi-year lows amid Ukraine’s escalating...",
       "category": "Geopolitics"
     }
   ]
