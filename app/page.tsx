@@ -9,6 +9,7 @@ import WtiTrendChart from '@/components/WtiTrendChart';
 import ReserveGauge from '@/components/ReserveGauge';
 import SubscribeCta from '@/components/SubscribeCta';
 import RefineryHealthPanel from '@/components/RefineryHealthPanel';
+import Padd5Watch from '@/components/Padd5Watch';
 
 export const revalidate = 3600;
 
@@ -59,6 +60,7 @@ export default async function HomePage() {
   const wti          = loadJSON<any>('wti.json');
   const brent        = loadJSON<any>('brent.json');
   const usStocks     = loadJSON<any>('us-stocks.json');
+  const padd5        = loadJSON<any>('padd5-stocks.json');
   const usPrices     = loadJSON<any>('us-prices.json');
   const analysis     = loadJSON<any>('analysis.json');
   const marad        = loadJSON<any>('marad-advisories.json');
@@ -214,6 +216,9 @@ export default async function HomePage() {
           </div>
         );
       })()}
+
+      {/* West Coast (PADD 5) regional fuel watch — national totals mask its tightness */}
+      <Padd5Watch data={padd5} />
 
       {/* WTI 18-month trend */}
       {wtiHistory?.entries && wtiHistory.entries.length > 0 && (

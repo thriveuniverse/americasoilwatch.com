@@ -1,0 +1,45 @@
+{
+  "lastUpdated": "2026-06-05T09:31:07.148Z",
+  "weekEnding": "2026-05-29",
+  "region": "West Coast (PADD 5)",
+  "products": {
+    "distillate": {
+      "current": 10017,
+      "period": "2026-05-29",
+      "wowChange": 45,
+      "fiveYrMin": 9802,
+      "fiveYrMax": 13585,
+      "fiveYrAvg": 11346,
+      "pctOfRange": 0.057,
+      "vsAvgPct": -11.7,
+      "sampleN": 14,
+      "status": "critical"
+    },
+    "jet": {
+      "current": 10822,
+      "period": "2026-05-29",
+      "wowChange": 11,
+      "fiveYrMin": 8309,
+      "fiveYrMax": 11787,
+      "fiveYrAvg": 10111,
+      "pctOfRange": 0.723,
+      "vsAvgPct": 7,
+      "sampleN": 14,
+      "status": "ample"
+    },
+    "gasoline": {
+      "current": 27070,
+      "period": "2026-05-29",
+      "wowChange": 167,
+      "fiveYrMin": 26903,
+      "fiveYrMax": 31372,
+      "fiveYrAvg": 29256,
+      "pctOfRange": 0.037,
+      "vsAvgPct": -7.5,
+      "sampleN": 14,
+      "status": "critical"
+    }
+  },
+  "note": "Scored against each fuel's own 5-year seasonal band (same calendar week). Low for the season = tight.",
+  "dataSource": "US Energy Information Administration (EIA), Weekly Petroleum Status Report"
+}
