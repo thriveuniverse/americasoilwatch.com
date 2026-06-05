@@ -1,8 +1,272 @@
 {
-  "lastUpdated": "2026-06-04T09:55:49.838Z",
-  "summary": "• Venezuela's requirement that oil firms self-supply power threatens to further constrain refinery operations and crude production at a time when the country's output is already critically depleted.\n\n• Middle East geopolitical escalation between Iran and US allies is creating persistent crude price volatility and supply uncertainty that could disrupt global markets if shipping routes through the region face disruption.\n\n• Argentina's major Vaca Muerta project approval and Delfin LNG's $5 billion FID signal potential supply growth from South America, but these developments face execution risks and will take years to materially impact hemispheric crude availability.",
-  "count": 62,
+  "lastUpdated": "2026-06-05T09:49:12.083Z",
+  "summary": "• Indian companies' surging imports from Venezuelan oil fields signal growing Western Hemisphere supply diversification, potentially offsetting near-term production constraints from Venezuela's debt restructuring challenges and geopolitical isolation.\n\n• Middle East supply route vulnerabilities are intensifying regional risk premiums, with terminal attacks in Oman and escalating Iran nuclear concerns creating spillover pressure on Western Hemisphere crude competitiveness and pricing.\n\n• Enhanced recovery projects in North Dakota and expanded production from the Brazil-Guyana-Venezuela corridor present offsetting supply dynamics, with South American export growth competing against U.S. onshore production recovery to reshape regional market share.",
+  "count": 82,
   "articles": [
+    {
+      "title": "Scottish Parliament Votes for Transfer of Energy Powers",
+      "link": "https://www.rigzone.com/news/scottish_parliament_votes_for_transfer_of_energy_powers-05-jun-2026-183860-article/?rss=true",
+      "date": "2026-06-05T08:37:40.000Z",
+      "source": "Rigzone",
+      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) June 5, 2026, 10:03 AM GMT+1: Article ...",
+      "category": "General"
+    },
+    {
+      "title": "Matador Resources Inks Marketing Deals with Energy Transfer",
+      "link": "https://www.rigzone.com/news/matador_resources_inks_marketing_deals_with_energy_transfer-05-jun-2026-183859-article/?rss=true",
+      "date": "2026-06-05T08:33:49.000Z",
+      "source": "Rigzone",
+      "description": "<p>Matador Resources Co said Thursday it has executed natural gas supply and other agreements with Energy Transfer LP (ET).</p> <p>\"This transaction is an ad...",
+      "category": "Prices"
+    },
+    {
+      "title": "Norway Averts Offshore Strike as Workers and Industry Reach Deal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Norway-Averts-Offshore-Strike-as-Workers-and-Industry-Reach-Deal.html",
+      "date": "2026-06-05T08:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Norway has narrowly avoided a strike at offshore oil platforms after trade unions and oil companies reached an agreement on wages in the early hours on Friday. The potential strike over wages could have threatened smooth operations offshore Norway, Western Europe's top oil and ga",
+      "category": "General"
+    },
+    {
+      "title": "Skirmishes in Lebanon as Hezbollah Rejects Mideast Truce",
+      "link": "https://www.rigzone.com/news/skirmishes_in_lebanon_as_hezbollah_rejects_mideast_truce-05-jun-2026-183858-article/?rss=true",
+      "date": "2026-06-05T08:12:16.000Z",
+      "source": "Rigzone",
+      "description": "<p>The US and Iran have made little progress in talks over an interim peace deal this week, with the sides seeing their worst clashes since an April ceasefire b...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Indian Companies Eye Venezuelan Oil Fields as Imports Surge 51% in a Month",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Companies-Eye-Venezuelan-Oil-Fields-as-Imports-Surge-51-in-a-Month.html",
+      "date": "2026-06-05T07:44:49.000Z",
+      "source": "OilPrice.com",
+      "description": "Indian energy companies are interested in expanding into Venezuelan oil, New Delhi’s top energy official Hardeep Singh Puri said today at a meeting with Venezuela’s interim president Delcy Rodriguez in India, as quoted by Reuters. The report follows earlier media coverage of the ",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "SBM Offshore to sell 45% stake in Chalchi FSO to NYK",
+      "link": "https://www.offshore-technology.com/news/sbm-offshore-to-sell-stake-fso-chalchi/",
+      "date": "2026-06-05T07:09:20.000Z",
+      "source": "Offshore Technology",
+      "description": "SBM Offshore signed shareholders’ agreement with NYK to sell 45% share in special purpose companies for leasing operating FSO vessel, Chalchi.",
+      "category": "General"
+    },
+    {
+      "title": "Japan Plans to Replace Up to 14 Nuclear Reactors by 2050",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Plans-to-Replace-Up-to-14-Nuclear-Reactors-by-2050.html",
+      "date": "2026-06-05T06:35:54.000Z",
+      "source": "OilPrice.com",
+      "description": "Japan's government is making long-term plans for replacing up to a dozen nuclear reactors by 2050, to secure its electricity supply, with two to five of these to be rebuilt by the 2040s, the country's economy ministry said today. This is the latest step in a policy reversal for T",
+      "category": "Policy"
+    },
+    {
+      "title": "Oman Oil Terminal Attack Rattles the Market's Last Calm Corner",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oman-Oil-Terminal-Attack-Rattles-the-Markets-Last-Calm-Corner.html",
+      "date": "2026-06-05T05:26:21.000Z",
+      "source": "OilPrice.com",
+      "description": "Media reports about a blast disrupting oil loadings at Oman’s main terminal pushed benchmark prices higher earlier today, in the latest sign that any hopes about an end to Persian Gulf hostilities is probably premature. At the time of writing, Brent crude was trading at $95.37 pe",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "North Dakota Chases A Second Bakken Boom Through Enhanced Recovery",
+      "link": "https://oilprice.com/Energy/Crude-Oil/North-Dakota-Chases-A-Second-Bakken-Boom-Through-Enhanced-Recovery.html",
+      "date": "2026-06-05T00:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "North Dakota’s elected officials are pushing hard to deploy Enhanced Oil Recovery (EOR) technologies to boost oil production in the Bakken before Donald Trump's tenure as president expires. The Trump administration has significantly opened up federal lands and offshore waters for",
+      "category": "Policy"
+    },
+    {
+      "title": "Brazil, Guyana, Venezuela Fuel South America’s Oil Export Boom",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Brazil-Guyana-Venezuela-Fuel-South-Americas-Oil-Export-Boom.html",
+      "date": "2026-06-04T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "South America has raised its oil exports more than the U.S. has done so far this year as key producers in the region boosted production and shipments to a world scrambling for crude that’s not dependent on the Strait of Hormuz. Over the past five years, South America’s biggest pr",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "IAEA Warns Iran Nuclear Risk Has Increased",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/IAEA-Warns-Iran-Nuclear-Risk-Has-Increased.html",
+      "date": "2026-06-04T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The possibility of Iran developing a nuclear weapon is now higher than it was before the United States and Israel first attacked the country in February, the International Atomic Energy Agency has concluded in a report. The conclusion suggests the war has so far resulted in the o",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Brazil Launches World-First Ethanol-Powered Grid Engine",
+      "link": "https://oilprice.com/Energy/Energy-General/Brazil-Launches-World-First-Ethanol-Powered-Grid-Engine.html",
+      "date": "2026-06-04T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Brazil is undertaking a major biofuels experiment that could be majorly disruptive for the global energy landscape if it proves effective. The South American country is filthy rich in biomass, and is seeking to use ethanol in novel applications – in this case, to power the energy",
+      "category": "General"
+    },
+    {
+      "title": "Trafigura Pays Record Dividend as Profit Soars Over $4B",
+      "link": "https://www.rigzone.com/news/trafigura_pays_record_dividend_as_profit_soars_over_4b-04-jun-2026-183854-article/?rss=true",
+      "date": "2026-06-04T21:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Trafigura Group made a record payout to its top traders and executives as the commodity trading giant reaped profits of over $4 billion in the first half of ...",
+      "category": "Policy"
+    },
+    {
+      "title": "Oil Retreats on Truce Optimism",
+      "link": "https://www.rigzone.com/news/oil_retreats_on_truce_optimism-04-jun-2026-183857-article/?rss=true",
+      "date": "2026-06-04T20:04:38.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil declined on hopes that the US and Iran are inching closer to a peace deal after a conditional ceasefire between Israel and Lebanon, even as the truce was...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "A New U.S. Battery Line Designed to Make Energy Storage Safer and Cheaper",
+      "link": "https://oilprice.com/Energy/Energy-General/A-New-US-Battery-Line-Designed-to-Make-Energy-Storage-Safer-and-Cheaper.html",
+      "date": "2026-06-04T20:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The US has recently launched a new battery production line, which is expected to help researchers develop safer and cheaper energy storage technologies for the electric grid. The new line is housed at the Grid Storage Launchpad (GSL), a 93,000-square-foot research facility. It is",
+      "category": "Refinery"
+    },
+    {
+      "title": "Iran's Oil Exports Collapse to Six-Year Low as Blockade Tightens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Oil-Exports-Collapse-to-Six-Year-Low-as-Blockade-Tightens.html",
+      "date": "2026-06-04T19:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Iran's oil exports fell to their lowest level in at least six years in May as the U.S. naval blockade continued to choke off crude shipments and leave tens of millions of barrels stranded at sea. According to shipping data from Vortexa, Iran exported just 209,000 barrels per day ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Venezuela’s Debt Overhaul Faces New Controversy",
+      "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Debt-Overhaul-Faces-New-Controversy.html",
+      "date": "2026-06-04T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "When the US removed Nicolás Maduro from power in Venezuela, the expectation was collapse. It has not come. The removal of a long-serving head of state is almost always followed by economic chaos. Following the removal of Saddam Hussein, Iraq’s oil production fell by 36%, and its ",
+      "category": "Production"
+    },
+    {
+      "title": "Georgia’s Government Backs a Controversial Crypto Push",
+      "link": "https://oilprice.com/Geopolitics/Asia/Georgias-Government-Backs-a-Controversial-Crypto-Push.html",
+      "date": "2026-06-04T18:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Tether, the world's largest stablecoin issuer, has announced a major investment in Georgia and plans to launch GEL?, a digital token pegged one-to-one to the Georgian lari, a currency used only within the country of 3.7 million. The move signals growing crypto ambitions in the So",
+      "category": "General"
+    },
+    {
+      "title": "U.S. Oil Shocks Don't Hit Like They Used To, Fed Study Finds",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Shocks-Dont-Hit-Like-They-Used-To-Fed-Study-Finds.html",
+      "date": "2026-06-04T17:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The United States still feels oil shocks. It just doesn't feel them the way it did when America was dancing to disco and waiting in gas lines. If the Fed is right, the idea that every oil shock leads to recession is outdated. A new study from the Federal Reserve Bank of Boston fi",
+      "category": "Production"
+    },
+    {
+      "title": "Central Banks Bought Less Gold in 2025 But It Still Hit a 45 Year High",
+      "link": "https://oilprice.com/Metals/Gold/Central-Banks-Bought-Less-Gold-in-2025-But-It-Still-Hit-a-45-Year-High.html",
+      "date": "2026-06-04T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Gold saw a significant price rally over the course of 2025, after geopolitical uncertainty and heightened central bank buying drove more people to the safe haven asset. Gold prices rallied 44 per cent last year, reaching $4,550 per ounce in December and recording 56 fresh record ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Dangote Breaks Ground on 700,000-Bpd Second Crude Processing Unit",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dangote-Breaks-Ground-on-700000-Bpd-Second-Crude-Processing-Unit.html",
+      "date": "2026-06-04T16:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Africa's biggest refinery is getting bigger. Nigeria's Dangote refinery has started work on a second crude processing unit that will add another 700,000 barrels per day (bpd) of capacity, putting the complex on track to rival the world's largest refining site and giving billionai",
+      "category": "Refinery"
+    },
+    {
+      "title": "USA Crude Oil Stocks Drop by 8MM Barrels Week on Week",
+      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_by_8mm_barrels_week_on_week-04-jun-2026-183856-article/?rss=true",
+      "date": "2026-06-04T14:47:27.000Z",
+      "source": "Rigzone",
+      "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), decreased by 8.0 million barrels from the week ending May 22...",
+      "category": "Production"
+    },
+    {
+      "title": "Delfin to Proceed with US' First Floating LNG Project",
+      "link": "https://www.rigzone.com/news/delfin_to_proceed_with_us_first_floating_lng_project-04-jun-2026-183855-article/?rss=true",
+      "date": "2026-06-04T14:24:24.000Z",
+      "source": "Rigzone",
+      "description": "<p>Delfin Midstream Inc announced Wednesday a $5 billion investment to launch a Gulf Coast project that will be the United States' first floating liquefied natu...",
+      "category": "General"
+    },
+    {
+      "title": "Santander, JPM to Back $1B TGS Vaca Muerta Financing",
+      "link": "https://www.rigzone.com/news/santander_jpm_to_back_1b_tgs_vaca_muerta_financing-04-jun-2026-183853-article/?rss=true",
+      "date": "2026-06-04T14:18:06.000Z",
+      "source": "Rigzone",
+      "description": "<p>Citigroup, Banco Santander SA and JP Morgan are among lenders working on a roughly $1 billion finance package for a project by Transportadora de Gas del Sur ...",
+      "category": "General"
+    },
+    {
+      "title": "Velesto wins contract for NAGA 6 drilling rig in Thailand",
+      "link": "https://www.offshore-technology.com/news/velesto-contract-naga-6-drilling-rig/",
+      "date": "2026-06-04T13:04:55.000Z",
+      "source": "Offshore Technology",
+      "description": "Velesto Energy’s subsidiary Velesto Sumber has won a contract for jack-up drilling rig services and related operations offshore Thailand from NGP.",
+      "category": "Production"
+    },
+    {
+      "title": "Avangrid Bags New Contract to Power Microsoft",
+      "link": "https://www.rigzone.com/news/avangrid_bags_new_contract_to_power_microsoft-04-jun-2026-183852-article/?rss=true",
+      "date": "2026-06-04T13:04:25.000Z",
+      "source": "Rigzone",
+      "description": "<p>Avangrid Inc has signed an agreement to supply electricity to Microsoft Corp from the Bluebird Solar project in Klickitat County, Washington, designed to hav...",
+      "category": "General"
+    },
+    {
+      "title": "License to Drill Act Passes USA House of Representatives",
+      "link": "https://www.rigzone.com/news/license_to_drill_act_passes_usa_house_of_representatives-04-jun-2026-183851-article/?rss=true",
+      "date": "2026-06-04T12:06:06.000Z",
+      "source": "Rigzone",
+      "description": "<p>The License to Drill Act, also known as H.R.7831, passed the U.S. House of Representatives this week, the Congress.gov website showed.</p> <p>A version of...",
+      "category": "Policy"
+    },
+    {
+      "title": "Middle East crisis set to reconfigure energy investment – IEA",
+      "link": "https://www.offshore-technology.com/news/middle-east-crisis-set-to-reconfigure-energy-investment-iea/",
+      "date": "2026-06-04T10:52:14.000Z",
+      "source": "Offshore Technology",
+      "description": "The IEA says energy security concerns from Middle East conflict and recent supply shocks are reshaping global investment priorities in 2026.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Albanese Says 40MM More Liters of Diesel Secured for Queensland",
+      "link": "https://www.rigzone.com/news/albanese_says_40mm_more_liters_of_diesel_secured_for_queensland-04-jun-2026-183850-article/?rss=true",
+      "date": "2026-06-04T10:49:28.000Z",
+      "source": "Rigzone",
+      "description": "<p>The Australian government has secured an additional 40 million liters of diesel for Queensland state through an agreement between Freedom Fuels and Export Fi...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "WoodMac Names Most Admired Explorer",
+      "link": "https://www.rigzone.com/news/woodmac_names_most_admired_explorer-04-jun-2026-183849-article/?rss=true",
+      "date": "2026-06-04T10:41:52.000Z",
+      "source": "Rigzone",
+      "description": "<p>Wood Mackenzie (WoodMac) named BP as the Most Admired Explorer in its 17th Annual Exploration Awards, WoodMac revealed in a statement sent to Rigzone recentl...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Energean Faces Competition for Chevron Stakes in Angola Blocks",
+      "link": "https://www.rigzone.com/news/energean_faces_competition_for_chevron_stakes_in_angola_blocks-04-jun-2026-183848-article/?rss=true",
+      "date": "2026-06-04T10:04:02.000Z",
+      "source": "Rigzone",
+      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) June 5, 2026, 9:00 AM GMT: Added note ...",
+      "category": "General"
+    },
+    {
+      "title": "Oil prices edge lower after Israel-Lebanon ceasefire agreement",
+      "link": "https://www.offshore-technology.com/news/oil-prices-lower-israel-lebanon-ceasefire-agreement/",
+      "date": "2026-06-04T09:59:55.000Z",
+      "source": "Offshore Technology",
+      "description": "Oil prices declined on 4 June, Thursday, following an announced ceasefire agreement between Israel and Lebanon, raising hopes for potential advances towards a wider deal in the Middle East.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "McDermott wins Aramco LTA role for project management consultancy",
+      "link": "https://www.offshore-technology.com/news/mcdermott-aramco-lta-project-management-consultancy/",
+      "date": "2026-06-04T09:52:48.000Z",
+      "source": "Offshore Technology",
+      "description": "McDermott, through its subsidiary McDermott Nederland, has been chosen by Aramco as one of the 11 contractors for a long-term agreement (LTA) in project management consultancy (PMC).",
+      "category": "General"
+    },
     {
       "title": "US Says Israel, Lebanon Agreed Truce on Hezbollah Condition",
       "link": "https://www.rigzone.com/news/us_says_israel_lebanon_agreed_truce_on_hezbollah_condition-04-jun-2026-183847-article/?rss=true",
@@ -156,14 +420,6 @@
       "category": "Geopolitics"
     },
     {
-      "title": "New episode: how big can, and should, mega turbines get?",
-      "link": "https://www.offshore-technology.com/news/new-episode-how-big-can-and-should-mega-turbines-get/",
-      "date": "2026-06-02T17:40:25.000Z",
-      "source": "Offshore Technology",
-      "description": "In this episode of Energy Technology, we’re unpacking mega wind turbines and the challenges and opportunities ahead for the market.",
-      "category": "Prices"
-    },
-    {
       "title": "Eldorado to Acquire Vantage Drilling",
       "link": "https://www.rigzone.com/news/eldorado_to_acquire_vantage_drilling-02-jun-2026-183834-article/?rss=true",
       "date": "2026-06-02T15:24:39.000Z",
@@ -204,14 +460,6 @@
       "category": "Production"
     },
     {
-      "title": "Parex Resources completes $500m acquisition of Frontera E&P assets",
-      "link": "https://www.offshore-technology.com/news/parex-resources-completes-frontera-ep-acquisition/",
-      "date": "2026-06-02T13:22:31.000Z",
-      "source": "Offshore Technology",
-      "description": "Parex Resources has completed its acquisition of all Colombian exploration and production assets held by Frontera Energy in a deal valued at $500m.",
-      "category": "Production"
-    },
-    {
       "title": "JP Morgan Sees Increasing Monthly Oil Demand Losses",
       "link": "https://www.rigzone.com/news/jp_morgan_sees_increasing_monthly_oil_demand_losses-02-jun-2026-183828-article/?rss=true",
       "date": "2026-06-02T11:06:57.000Z",
@@ -234,30 +482,6 @@
       "source": "Rigzone",
       "description": "<p>In a market analysis sent to Rigzone on Tuesday, Samer Hasn, a Senior Market Analyst at XS.com, flagged conflicting statements regarding negotiations between...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Oil retreats as US-Iran talks continue amid tension",
-      "link": "https://www.offshore-technology.com/news/oil-retreats-us-iran-talks-continue-amid-tension/",
-      "date": "2026-06-02T09:47:44.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil prices fell more than 1% on 2 June 2026, reversing earlier gains, after US President Donald Trump said talks with Iran were still ongoing despite reports that Tehran had paused indirect negotiations with Washington, reported Reuters.",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "BP starts NAG production at ACG field offshore Azerbaijan",
-      "link": "https://www.offshore-technology.com/news/bp-starts-nag-production-acg-field/",
-      "date": "2026-06-02T09:41:33.000Z",
-      "source": "Offshore Technology",
-      "description": "BP announced start of non-associated gas production operations at Azeri–Chirag–Gunashli field, off the coast of Azerbaijan in Caspian Sea.",
-      "category": "Production"
-    },
-    {
-      "title": "Fluor JV receives LNTP for LNG Canada phase two expansion",
-      "link": "https://www.offshore-technology.com/news/fluor-jv-lntp-lng-canada-phase-2-expansion/",
-      "date": "2026-06-02T07:37:42.000Z",
-      "source": "Offshore Technology",
-      "description": "Fluor announced that its joint venture with JGC, JGC Fluor BC LNG II (JFJV2), has been granted a limited notice to proceed (LNTP) for the planned Phase 2 expansion of the LNG Canada export terminal located in Kitimat, British Columbia.",
-      "category": "Supply Routes"
     },
     {
       "title": "LNG Deliveries to China Rebound in May",
@@ -433,70 +657,6 @@
       "date": "2026-05-29T07:10:56.000Z",
       "source": "Rigzone",
       "description": "<p>The US and Iran have reached a tentative deal to extend a ceasefire by 60 days and launch further talks on Tehran's nuclear program, a person with knowledge ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Crude Mixed on Iran Truce Talks",
-      "link": "https://www.rigzone.com/news/crude_mixed_on_iran_truce_talks-28-may-2026-183803-article/?rss=true",
-      "date": "2026-05-28T21:03:30.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil prices were little changed after a volatile trading day as traders digested news that the US and Iran have reached a tentative deal to extend a ceasefire...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "US Strikes Iran Military Targets Near Hormuz",
-      "link": "https://www.rigzone.com/news/us_strikes_iran_military_targets_near_hormuz-28-may-2026-183796-article/?rss=true",
-      "date": "2026-05-28T14:00:26.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) May 28, 2026, 2:00 PM GMT: Article upd...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Ships Desert Hormuz amid Fresh US Strikes",
-      "link": "https://www.rigzone.com/news/ships_desert_hormuz_amid_fresh_us_strikes-28-may-2026-183802-article/?rss=true",
-      "date": "2026-05-28T13:46:32.000Z",
-      "source": "Rigzone",
-      "description": "<p>Traffic through the Strait of Hormuz appeared all but deserted on Thursday as commercial operators remain wary of renewed military escalation.</p> <p>No c...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "SEFE to Book Its First LNG Supply from Canada",
-      "link": "https://www.rigzone.com/news/sefe_to_book_its_first_lng_supply_from_canada-28-may-2026-183801-article/?rss=true",
-      "date": "2026-05-28T13:36:34.000Z",
-      "source": "Rigzone",
-      "description": "<p>Ksi Lisims LNG LP has signed a preliminary agreement to supply 1 million metric tons per annum (MMtpa) of liquefied natural gas (LNG) for up to 20 years to S...",
-      "category": "General"
-    },
-    {
-      "title": "Monumental Energy Raises $2.2MM in Share Offering",
-      "link": "https://www.rigzone.com/news/monumental_energy_raises_22mm_in_share_offering-28-may-2026-183800-article/?rss=true",
-      "date": "2026-05-28T12:33:45.000Z",
-      "source": "Rigzone",
-      "description": "<p>Monumental Energy Corp has raised around CAD 3.05 million ($2.2 million) in a private placement that offered nearly 34 million units.</p> <p>\"The Company ...",
-      "category": "General"
-    },
-    {
-      "title": "Pembina Approves New NGL Extraction Plant Project",
-      "link": "https://www.rigzone.com/news/pembina_approves_new_ngl_extraction_plant_project-28-may-2026-183799-article/?rss=true",
-      "date": "2026-05-28T11:43:36.000Z",
-      "source": "Rigzone",
-      "description": "<p>Pembina Pipeline Corp has decided to proceed with a new straddle plant project to extract natural gas liquids through Pembina's existing rights on the Yellow...",
-      "category": "Refinery"
-    },
-    {
-      "title": "NOG Enters Canada with Duvernay Acquisition from Parallax",
-      "link": "https://www.rigzone.com/news/nog_enters_canada_with_duvernay_acquisition_from_parallax-28-may-2026-183798-article/?rss=true",
-      "date": "2026-05-28T10:55:45.000Z",
-      "source": "Rigzone",
-      "description": "<p>Northern Oil and Gas Inc (NOG) has signed a deal to buy a 25 percent stake in light-oil assets in the Duvernay shale from Parallax Energy LP for an initial p...",
-      "category": "Production"
-    },
-    {
-      "title": "IEA Sees Oil Investments Dropping for 3rd Year",
-      "link": "https://www.rigzone.com/news/iea_sees_oil_investments_dropping_for_3rd_year-28-may-2026-183797-article/?rss=true",
-      "date": "2026-05-28T10:11:17.000Z",
-      "source": "Rigzone",
-      "description": "<p>Global investments in oil projects are due to fall for the third year in a row, as the supply shock from the Middle East conflict shifts priorities to new tr...",
       "category": "Geopolitics"
     }
   ]
