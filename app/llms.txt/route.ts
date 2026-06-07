@@ -40,10 +40,30 @@ interface UsPricesFile {
   dieselUsdGal: number;
 }
 
+interface Padd5File {
+  weekEnding: string;
+  products: Record<string, { current: number; vsAvgPct: number | null; status: string }>;
+}
+
 function loadJson<T>(filename: string): T | null {
   const p = path.join(process.cwd(), 'data', filename);
   if (!fs.existsSync(p)) return null;
   try { return JSON.parse(fs.readFileSync(p, 'utf-8')) as T; } catch { return null; }
+}
+
+const SEASON_WORD: Record<string, string> = {
+  critical: 'very low for the season',
+  warning:  'low for the season',
+  normal:   'normal for the season',
+  ample:    'ample for the season',
+};
+
+function padd5Line(p: Padd5File, key: string, label: string): string {
+  const d = p.products?.[key];
+  if (!d) return '';
+  const word = SEASON_WORD[d.status] ?? d.status;
+  const avg = d.vsAvgPct != null ? ` (${d.vsAvgPct >= 0 ? '+' : ''}${d.vsAvgPct}% vs 5-yr avg)` : '';
+  return `- ${label}: ${(d.current / 1000).toFixed(1)} million barrels — ${word}${avg}`;
 }
 
 export async function GET() {
@@ -51,6 +71,7 @@ export async function GET() {
   const brent    = loadJson<BrentFile>('brent.json');
   const stocks   = loadJson<UsStocksFile>('us-stocks.json');
   const prices   = loadJson<UsPricesFile>('us-prices.json');
+  const padd5    = loadJson<Padd5File>('padd5-stocks.json');
 
   const today = new Date().toISOString().slice(0, 10);
 
@@ -58,7 +79,7 @@ export async function GET() {
 
 > Independent Western Hemisphere oil and fuel security intelligence. Daily-refreshed dashboard built on official EIA data covering US, Canada, Mexico, Brazil, Guyana, Venezuela, Argentina and other producers.
 
-AmericasOilWatch tracks WTI crude, US commercial / SPR petroleum stocks, US retail pump prices, Brent benchmark, refinery thermal anomalies, and Atlantic-basin supply-route risk. All data traces back to named institutional sources. Free public API for programmatic access — see below.
+AmericasOilWatch tracks WTI crude, US commercial / SPR petroleum stocks, US retail pump prices, West Coast (PADD 5) regional product-stock tightness scored against a 5-year seasonal band, Brent benchmark, refinery thermal anomalies, and Atlantic-basin supply-route risk. All data traces back to named institutional sources. Free public API for programmatic access — see below.
 
 ## Current snapshot (auto-refreshes daily; this page generated ${today})
 
@@ -78,6 +99,11 @@ ${stocks ? `US petroleum stocks${stocks.weekEnding ? ` (week ending ${stocks.wee
 ${prices ? `US retail prices${prices.weekEnding ? ` (week ending ${prices.weekEnding})` : ''}:
 - Regular gasoline: $${prices.gasolineUsdGal.toFixed(3)} per US gallon
 - Diesel:           $${prices.dieselUsdGal.toFixed(3)} per US gallon` : ''}
+
+${padd5?.products ? `West Coast (PADD 5) regional product stocks${padd5.weekEnding ? ` (week ending ${padd5.weekEnding})` : ''}, scored against each fuel's own 5-year seasonal band. The West Coast is a near-island market reliant on Asian imports, so national totals can mask its tightness:
+${padd5Line(padd5, 'distillate', 'Diesel/distillate')}
+${padd5Line(padd5, 'jet', 'Jet fuel')}
+${padd5Line(padd5, 'gasoline', 'Gasoline')}` : ''}
 
 ## How to cite
 
@@ -108,6 +134,7 @@ Free, read-only JSON. CORS-enabled, no key required.
 ## Data sources
 
 - U.S. EIA Weekly Petroleum Status Report: stocks, production
+- U.S. EIA PADD 5 (West Coast) weekly stocks: distillate (WDISTP51), jet fuel (WKJSTP51), gasoline (WGTSTP51), scored against a 5-year seasonal band
 - U.S. EIA Retail Gasoline and Diesel Prices: pump prices
 - Stooq: WTI (cl.f) and Brent (cb.f) front-month futures
 - U.S. EIA: WTI daily Cushing spot (RWTCd) and Europe Brent Spot (RBRTEd) fallbacks
