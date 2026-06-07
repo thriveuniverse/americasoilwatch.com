@@ -1,8 +1,48 @@
 {
-  "lastUpdated": "2026-06-06T08:33:10.803Z",
-  "summary": "• Geopolitical tensions in the Middle East and weakening global demand forecasts are creating downward pressure on oil prices, with markets oscillating between conflict risks and truce optimism.\n\n• Offshore production disruptions from labor strikes, particularly in the North Sea and among specialized offshore workers, pose near-term supply constraints despite some labor agreements being reached.\n\n• Arctic and deepwater project developments, including the Alaska Arctic Refuge auction and Vaca Muerta financing, face uncertainty regarding industry capital commitment amid subdued oil price environment and policy transitions.",
-  "count": 66,
+  "lastUpdated": "2026-06-07T08:55:42.837Z",
+  "summary": "• OPEC output is declining while darkening tanker traffic around Hormuz signals geopolitical tensions that could restrict global supply flows and create upside price risk until 2028.\n\n• US Arctic and offshore production faces labor disruptions and execution uncertainty, limiting near-term supply growth as domestic drillers add rigs amid constrained global output.\n\n• Escalating Iran tensions and stalled US-Iran negotiations create unpredictability around Hormuz chokepoint flows, compounded by strategic petroleum reserve repayment obligations that will compete for barrels in tight markets.",
+  "count": 81,
   "articles": [
+    {
+      "title": "Oil Market Flying Blind as Dark Tanker Traffic Surges in Hormuz",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Market-Flying-Blind-as-Dark-Tanker-Traffic-Surges-in-Hormuz.html",
+      "date": "2026-06-06T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Tanker traffic through the Strait of Hormuz has collapsed by 90% to 95% compared to pre-war levels, analysts concur. Some oil cargoes continue to trickle through the critical chokepoint, but under increasingly opaque operating conditions, complicating the tracking of oil and gas ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Why Solar Power Is Booming Under Trump",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Why-Solar-Power-Is-Booming-Under-Trump.html",
+      "date": "2026-06-06T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Despite the Trump administration’s pivot away from renewable energies, solar continues to dominate new energy additions in the United States. Newly released data from the Federal Energy Regulatory Commission (FERC) shows that at the close of last year, solar energy additions were",
+      "category": "Policy"
+    },
+    {
+      "title": "AI Boom or Political Play? Trump Channels Defense Funds Into Dying Coal Plants",
+      "link": "https://oilprice.com/Energy/Coal/AI-Boom-or-Political-Play-Trump-Channels-Defense-Funds-Into-Dying-Coal-Plants.html",
+      "date": "2026-06-06T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Trump administration is set to channel nearly $700 million in federal funds into the U.S. coal industry Thursday, invoking a Korean War-era statute to prop up existing power plants, finance new construction, and push open a California export terminal that has been blocked for",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "UK Sees Risk of $100 Oil Until 2028",
+      "link": "https://www.rigzone.com/news/uk_sees_risk_of_100_oil_until_2028-06-jun-2026-183867-article/?rss=true",
+      "date": "2026-06-06T12:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>The UK government has revised its internal oil price forecasts upwards, assessing that crude could stay around $100 a barrel until 2028 even with a US-Iran p...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Can AI Save More Energy Than It Consumes?",
+      "link": "https://oilprice.com/Energy/Energy-General/Can-AI-Save-More-Energy-Than-It-Consumes.html",
+      "date": "2026-06-05T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The artificial intelligence boom has created unprecedented pressure and anxiety in the energy industry. The public and private sector alike are expending enormous amounts of effort trying to quantify the amount of electricity that will be needed to power data centers in the near ",
+      "category": "General"
+    },
     {
       "title": "Survey Shows OPEC Output Plunges Further",
       "link": "https://www.rigzone.com/news/survey_shows_opec_output_plunges_further-05-jun-2026-183866-article/?rss=true",
@@ -17,6 +57,62 @@
       "date": "2026-06-05T19:43:28.000Z",
       "source": "Rigzone",
       "description": "<p>Oil edged lower as traders assessed the extent of demand destruction against a backdrop of ongoing US-Iran peace talks, which have so far yielded little prog...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Regional Leaders Back Taliban Trade Ties While EU Holds the Line",
+      "link": "https://oilprice.com/Geopolitics/International/Regional-Leaders-Back-Taliban-Trade-Ties-While-EU-Holds-the-Line.html",
+      "date": "2026-06-05T18:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Top level officials from Central and South Asia convened in Tashkent on June 4 to discuss regional trade and connectivity under a format known as the Termez Dialogue. Participants were unanimous in seeing a strategic need to weave Afghanistan into regional trade networks, but dis",
+      "category": "General"
+    },
+    {
+      "title": "SPR Borrowers Owe Uncle Sam 40 Million Extra Barrels",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/SPR-Borrowers-Owe-Uncle-Sam-40-Million-Extra-Barrels.html",
+      "date": "2026-06-05T17:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The US Strategic Petroleum Reserve has taken a beating during the Iran war, but Energy Secretary Chris Wright says the government's emergency oil stash is headed for a surprisingly lucrative refill. Companies that borrowed crude from the SPR during the conflict will return those ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "US Drillers Continue to Add Oil Rigs",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Drillers-Continue-to-Add-Oil-Rigs.html",
+      "date": "2026-06-05T17:10:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 563, up 4 from this same time last year. The number of active oil rigs rose by 2 to",
+      "category": "Production"
+    },
+    {
+      "title": "Bank of England Official Says Oil Crisis Clouds Rate Outlook",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Bank-of-England-Official-Says-Oil-Crisis-Clouds-Rate-Outlook.html",
+      "date": "2026-06-05T16:40:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Bank of England may know where inflation is headed, but it has a much harder time knowing where oil—and interest rates—are headed. That was the message from Bank of England policymaker Swati Dhingra on Friday, as the ongoing Middle East energy crisis continues to complicate t",
+      "category": "Policy"
+    },
+    {
+      "title": "S&P Rejects Fast Entry for SpaceX, Delaying $14B in Passive Inflows",
+      "link": "https://oilprice.com/Finance/the-Markets/SP-Rejects-Fast-Entry-for-SpaceX-Delaying-14B-in-Passive-Inflows.html",
+      "date": "2026-06-05T16:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Earlier today, in our forensic analysis of the SpaceX IPO, we said that according to BNP estimates, the company's inclusion into the S&P 500 some 6 months after the offering would unlock $13.4 billion worth of inflows. It turns out that that is not going to happen 6 months after ",
+      "category": "General"
+    },
+    {
+      "title": "India Launches 85% Ethanol Fuel to Cut Oil Import Dependence",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Launches-85-Ethanol-Fuel-to-Cut-Oil-Import-Dependence.html",
+      "date": "2026-06-05T15:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "India is launching on Friday a new fuel blend with an 85% ethanol component as part of the fuel flex mobility program of the world's third-largest crude importer to reduce dependence on imported oil. The E85 fuel was officially launched at a ceremony in New Delhi in the presence ",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Oil Markets Stop Believing Trump’s Peace Narrative",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Markets-Stop-Believing-Trumps-Peace-Narrative.html",
+      "date": "2026-06-05T15:20:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Fresh strikes on Kuwait and Oman undermine hopes of a U.S.-Iran de-escalation, keeping oil markets on edge and traders skeptical of diplomatic progress. Friday, June 05, 2026 This week’s strikes on Kuwait and the Friday morning attack on Oman have dented hopes for a de-escalation",
       "category": "Geopolitics"
     },
     {
@@ -36,6 +132,14 @@
       "category": "Production"
     },
     {
+      "title": "Trump Auction Opens Arctic Refuge Drilling Rights for First Time Ever",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Auction-Opens-Arctic-Refuge-Drilling-Rights-for-First-Time-Ever.html",
+      "date": "2026-06-05T14:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Trump Administration is holding its latest lease sale in Alaska on Friday in a test for investors and environmentalists as the auction comprises tracts in the Coastal Plain of the Arctic National Wildlife Refuge. The Bureau of Land Management (BLM) is holding the oil and gas ",
+      "category": "Policy"
+    },
+    {
       "title": "Arctic Refuge Auction Will Test Oil Industry Appetite",
       "link": "https://www.rigzone.com/news/arctic_refuge_auction_will_test_oil_industry_appetite-05-jun-2026-183865-article/?rss=true",
       "date": "2026-06-05T14:22:34.000Z",
@@ -44,12 +148,36 @@
       "category": "Production"
     },
     {
+      "title": "Trump Floats Meeting Iran's Supreme Leader, But Only If There's A Deal",
+      "link": "https://oilprice.com/Geopolitics/International/Trump-Floats-Meeting-Irans-Supreme-Leader-But-Only-If-Theres-A-Deal.html",
+      "date": "2026-06-05T14:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "US President Donald Trump said the United States will win the conflict with Iran either \"militarily or on paper,\" referring to the fitful negotiations with Tehran, and he suggested he could meet with Iran's reclusive supreme leader \"if it was to make a deal.\" \"We're going to win ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Australia's 344-Million-Barrel Oilfield Could Finally Get the Green Light",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australias-344-Million-Barrel-Oilfield-Could-Finally-Get-the-Green-Light.html",
+      "date": "2026-06-05T13:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "After years of delays, Australia's largest undeveloped oil project could progress to a final investment decision in 2027 as the energy crisis amid the Iran war has heightened the need of homegrown resources. Carnarvon Energy Ltd, a junior explorer that holds 10% in the Dorado oil",
+      "category": "Geopolitics"
+    },
+    {
       "title": "Clean Energy Fuels Starts Up New RNG Plant in Idaho",
       "link": "https://www.rigzone.com/news/clean_energy_fuels_starts_up_new_rng_plant_in_idaho-05-jun-2026-183864-article/?rss=true",
       "date": "2026-06-05T13:00:00.000Z",
       "source": "Rigzone",
       "description": "<p>Clean Energy Fuels Corp said Thursday it had begun production at its eighth renewable natural gas (RNG) facility, \"one of the largest single-site dairies and...",
       "category": "Refinery"
+    },
+    {
+      "title": "UK Conservatives Blast Labour North Sea Ban as 'Utter Madness'",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Conservatives-Blast-Labour-North-Sea-Ban-as-Utter-Madness.html",
+      "date": "2026-06-05T12:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The current UK government's policy of not allowing new drilling in the UK North Sea is “utter madness” as billions of barrels of untapped oil could benefit the UK industry and reduce Britain’s reliance on imports, Kemi Badenoch, the leader of the opposition Conservative Party, ha",
+      "category": "Policy"
     },
     {
       "title": "Strike Averted as About 8,000 Workers offshore Norway Win Pay Raise",
@@ -522,14 +650,6 @@
       "source": "Rigzone",
       "description": "<p>Mitsui & Co. is looking to invest in liquefied natural gas projects across the Middle East, the US and Australia, its chief executive officer said, as the Ja...",
       "category": "Policy"
-    },
-    {
-      "title": "Kretinsky Sees Potential to Boost TotalEnergies Stake",
-      "link": "https://www.rigzone.com/news/kretinsky_sees_potential_to_boost_totalenergies_stake-30-may-2026-183811-article/?rss=true",
-      "date": "2026-05-30T11:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Czech billionaire Daniel Kretinsky said he's open to increasing his holding in TotalEnergies SE, after gaining a stake in the French oil major last month.</p...",
-      "category": "General"
     }
   ]
 }
