@@ -225,30 +225,39 @@ export default async function HomePage() {
         <WtiTrendChart entries={wtiHistory.entries} />
       )}
 
-      {/* Active supply disruption — Druzhba halt began 1 May 2026 */}
+      {/* Active supply disruption — Middle East (Hormuz + Mahshahr) primary; Druzhba secondary */}
       <div className="rounded-lg border border-amber-700/40 bg-amber-950/20 overflow-hidden">
         <div className="px-5 py-3 border-b border-amber-700/30 flex items-center justify-between">
           <h2 className="text-xs font-mono font-semibold tracking-widest text-amber-300 uppercase">
             Active Supply Disruption
           </h2>
-          <span className="text-[10px] font-mono text-amber-400/70">Active since 1 May 2026</span>
+          <span className="text-[10px] font-mono text-amber-400/70">Active since Feb 2026</span>
         </div>
         <div className="px-5 py-4 space-y-2">
           <p className="text-sm font-semibold text-white">
-            Russia has halted Kazakh crude supply via Druzhba pipeline to Germany
+            Hormuz still constrained; Israel strikes Iran&apos;s Mahshahr energy complex
           </p>
           <p className="text-xs text-gray-400 leading-relaxed">
-            PCK Schwedt refinery (supplies most of Berlin&apos;s fuel) has lost ~17% of its crude since 1 May.
-            Germany says alternative routes cover it, but its regulator has warned of regional pricing risk.
+            The Gulf&apos;s master chokepoint is moving only limited, negotiated transits — Iran is tying
+            any reopening to new conditions (possible Oman-set transit fees, which Washington opposes),
+            and the EIA assumed Hormuz effectively closed into late May with traffic only now picking up.
+            Israel&apos;s strike on the Mahshahr petrochemical complex is the first hit on Iranian energy
+            infrastructure since the April ceasefire, putting a direct energy-asset risk premium back on.
           </p>
           <p className="text-xs text-gray-500 leading-relaxed">
             <span className="text-oil-300 font-medium">Americas angle:</span>{' '}
-            North Atlantic Basin arbitrage is tightening as European refiners seek substitute barrels —
-            more pull on US Gulf Coast crude exports.
+            Atlantic-basin barrels (US shale, Brazil, Guyana) are the substitution pool as Gulf supply
+            stays limited. Saudi Arabia cut July official selling prices to Asia by $6/bbl — a sign the
+            shock is entering its demand-destruction phase even as prices stay elevated.
+          </p>
+          <p className="text-xs text-gray-500 leading-relaxed">
+            <span className="text-oil-300 font-medium">Also active:</span>{' '}
+            Russia&apos;s halt of Kazakh crude via the Druzhba pipeline to Germany (since 1 May) keeps
+            North Atlantic Basin arbitrage tight — more pull on US Gulf Coast crude exports.
           </p>
         </div>
         <div className="px-5 py-2 border-t border-amber-700/20 bg-amber-950/10">
-          <p className="text-[10px] text-gray-600">Source: Reuters.</p>
+          <p className="text-[10px] text-gray-600">Sources: Reuters, IEA OMR, EIA STEO (June 2026).</p>
         </div>
       </div>
 
