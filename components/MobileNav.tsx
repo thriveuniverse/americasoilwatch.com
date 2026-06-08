@@ -9,6 +9,7 @@ const LINKS = [
   { href: '/analysis',     label: 'Analysis' },
   { href: '/insights',     label: 'Insights' },
   { href: '/news',         label: 'News' },
+  { href: '/doom-loop',    label: 'Doom Loop' },
   { href: '/methodology',  label: 'Methodology' },
   { href: '/about',        label: 'About' },
 ];
