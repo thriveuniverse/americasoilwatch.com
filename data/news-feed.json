@@ -1,8 +1,128 @@
 {
-  "lastUpdated": "2026-06-07T08:55:42.837Z",
-  "summary": "• OPEC output is declining while darkening tanker traffic around Hormuz signals geopolitical tensions that could restrict global supply flows and create upside price risk until 2028.\n\n• US Arctic and offshore production faces labor disruptions and execution uncertainty, limiting near-term supply growth as domestic drillers add rigs amid constrained global output.\n\n• Escalating Iran tensions and stalled US-Iran negotiations create unpredictability around Hormuz chokepoint flows, compounded by strategic petroleum reserve repayment obligations that will compete for barrels in tight markets.",
-  "count": 81,
+  "lastUpdated": "2026-06-08T10:53:47.194Z",
+  "summary": "• Middle East geopolitical tensions between Israel and Iran are creating acute volatility in global oil prices, with direct attacks on petrochemical infrastructure and ongoing military escalations threatening regional stability and potentially disrupting supply flows through critical chokepoints like the Hormuz Strait.\n\n• Elevated dark tanker traffic and opaque trading patterns in the Hormuz Strait indicate supply route uncertainty and potential sanctions evasion activities, creating visibility challenges for Western markets assessing actual crude flows and exposing Western Hemisphere producers to unpredictable price swings.\n\n• OPEC+ production increases and Saudi price cuts signal weakening Asian demand, reducing incentive for higher-cost Western Hemisphere production and creating margin pressure on U.S. and Latin American operators while simultaneously opening Arctic refuge leasing suggests long-term supply diversification away from traditional global swing producers.",
+  "count": 83,
   "articles": [
+    {
+      "title": "Saudi Arabia Slashes Oil Prices Again as Asian Demand Weakens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Slashes-Oil-Prices-Again-as-Asian-Demand-Weakens.html",
+      "date": "2026-06-08T10:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Saudi Arabia has slashed the official selling prices of its crude loading in July to customers in Asia, Europe, and the United States, in a widely expected second consecutive monthly cut amid weakening demand and narrowing spot Middle East crude premiums. Saudi oil giant Aramco h",
+      "category": "Prices"
+    },
+    {
+      "title": "Oil prices surge more than $4 amid renewed Israeli strikes on Iran",
+      "link": "https://www.offshore-technology.com/news/oil-prices-surge-renewed-israeli-strikes-iran/",
+      "date": "2026-06-08T10:02:55.000Z",
+      "source": "Offshore Technology",
+      "description": "Oil prices climbed by more than $4 per barrel on 8 June, Monday, following renewed Israeli strikes on Iran and attacks on Lebanon, triggering concerns among investors over the stability of supply from the Middle East.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "BLM auction in Arctic refuge yields five oil and gas leases",
+      "link": "https://www.offshore-technology.com/news/blm-auction-arctic-refuge-five-oil-gas-leases/",
+      "date": "2026-06-08T09:54:37.000Z",
+      "source": "Offshore Technology",
+      "description": "The US Bureau of Land Management (BLM) has completed an oil and gas lease sale in the Coastal Plain of the Arctic National Wildlife Refuge (ANWR) in Alaska, awarding five leases and generating $3.74m in total receipts.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Israel Hits Iranian Petrochemical Plant as War Escalates",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Israel-Hits-Iranian-Petrochemical-Plant-as-War-Escalates.html",
+      "date": "2026-06-08T09:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Israel hit a petrochemical plant in southwestern Iran early on Monday, the first direct energy strike on Iranian territory since the April 8 ceasefire, as hostilities in the Middle East rapidly escalated during the weekend. Israel and Iran traded missile strikes on Sunday, with I",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "China Dominates Global Low-Carbon Investment as U.S. Momentum Slows",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Dominates-Global-Low-Carbon-Investment-as-US-Momentum-Slows.html",
+      "date": "2026-06-08T08:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "China accounts for the majority of low-carbon projects that secured total funding of $43 billion over the last six months, Reuters has reported, citing a report by the Mission Possible Partnership, a non-governmental energy transition advocacy, supported by the World Economic For",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Asian Coal Prices Surge as Indonesia Tightens Export Controls",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Coal-Prices-Surge-as-Indonesia-Tightens-Export-Controls.html",
+      "date": "2026-06-08T07:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Benchmark coal prices in Asia surged to the highest in almost two years following a government announcement from Indonesia concerning control of commodity exports, including coal. The new rules for commodity exports would cause delays in outbound shipments of coal from Indonesia,",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Eni wins licence to explore offshore Block A1 in Gambia",
+      "link": "https://www.offshore-technology.com/news/eni-licence-to-explore-block-a1-gambia/",
+      "date": "2026-06-08T07:10:23.000Z",
+      "source": "Offshore Technology",
+      "description": "Eni has been granted a licence to explore Block A1, an offshore area in Gambia, following an agreement signed with the Gambian government.",
+      "category": "General"
+    },
+    {
+      "title": "How DLE is turning oilfield wastewater into a valuable lithium source",
+      "link": "https://www.offshore-technology.com/features/dle-lithium-oilfield-brine/",
+      "date": "2026-06-08T07:00:00.000Z",
+      "source": "Offshore Technology",
+      "description": "As the energy transition picks up pace, operators across industries are turning to DLE technologies and subterranean brine to get more lithium, faster.",
+      "category": "General"
+    },
+    {
+      "title": "Eni Gets Exploration Block offshore Gambia",
+      "link": "https://www.rigzone.com/news/eni_gets_exploration_block_offshore_gambia-08-jun-2026-183870-article/?rss=true",
+      "date": "2026-06-08T06:30:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Eni SpA has won an exploration block in Gambian waters, expanding its footprint in the West African segment of the Atlantic margin.</p> <p>Eni executed a ...",
+      "category": "Production"
+    },
+    {
+      "title": "OPEC+ Approves Another Oil Output Hike for July",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Approves-Another-Oil-Output-Hike-for-July.html",
+      "date": "2026-06-08T06:15:00.000Z",
+      "source": "OilPrice.com",
+      "description": "OPEC+ this Sunday decided to add another 188,000 barrels of crude to its collective production next month despite the ongoing disruption in the Middle East resulting from the U.S. and Israeli war against Iran. The group has approved a series of output hikes totaling close to 600,",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Israel Fires Back at Iran after Missile Attacks",
+      "link": "https://www.rigzone.com/news/israel_fires_back_at_iran_after_missile_attacks-08-jun-2026-183871-article/?rss=true",
+      "date": "2026-06-08T03:50:46.000Z",
+      "source": "Rigzone",
+      "description": "<p>Israel said it struck several military targets in Iran, retaliating against missile attacks by Tehran despite President Donald Trump's call for Prime Ministe...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil Prices Spike After Iran and Israel Exchange Missile Attacks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Spike-After-Iran-Launches-Missile-Attack-on-Israel.html",
+      "date": "2026-06-08T01:09:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Oil prices started the week higher after Iran launched ballistic missiles at Israel on Sunday night, heightening fears that U.S.-Iran peace talks might once again fall apart. Israel has since retaliated to the attack with strikes in western and central Iran despite calls from Tru",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Post-War Oil Trade Could Look Nothing Like It Did Before Hormuz",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Post-War-Oil-Trade-Could-Look-Nothing-Like-It-Did-Before-Hormuz.html",
+      "date": "2026-06-07T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Persian Gulf oil exporters are scrambling to reroute their crude from ports to pipelines to keep the world running and keep their oil money flowing and fueling their economies. Sanction waivers abound. Venezuela’s oil output has shot up to 1.25 million barrels daily. The world of",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Britain's Net Zero Policy Is Killing Its Chemical Industry",
+      "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Policy-Is-Killing-Its-Chemical-Industry.html",
+      "date": "2026-06-07T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "From ammonia to plastics, there can be no modern economy without a functioning chemicals industry, and Britain's is in peril, writes Sharon Todd The recent announcement of a £350m Critical Chemicals Resilience Fund from Chancellor Rachel Reeves is welcome but it is also an acknow",
+      "category": "Policy"
+    },
+    {
+      "title": "OPAL Fuels, GFL Agree 2 Landfill Gas Projects",
+      "link": "https://www.rigzone.com/news/opal_fuels_gfl_agree_2_landfill_gas_projects-07-jun-2026-183863-article/?rss=true",
+      "date": "2026-06-07T11:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>GFL Environmental Inc and OPAL Fuels LLC have agreed on 2 joint projects to enable renewable natural gas (RNG) production at the Stones Throw Landfill in Tal...",
+      "category": "Production"
+    },
     {
       "title": "Oil Market Flying Blind as Dark Tanker Traffic Surges in Hormuz",
       "link": "https://oilprice.com/Energy/Energy-General/Oil-Market-Flying-Blind-as-Dark-Tanker-Traffic-Surges-in-Hormuz.html",
@@ -84,38 +204,6 @@
       "category": "Production"
     },
     {
-      "title": "Bank of England Official Says Oil Crisis Clouds Rate Outlook",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Bank-of-England-Official-Says-Oil-Crisis-Clouds-Rate-Outlook.html",
-      "date": "2026-06-05T16:40:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Bank of England may know where inflation is headed, but it has a much harder time knowing where oil—and interest rates—are headed. That was the message from Bank of England policymaker Swati Dhingra on Friday, as the ongoing Middle East energy crisis continues to complicate t",
-      "category": "Policy"
-    },
-    {
-      "title": "S&P Rejects Fast Entry for SpaceX, Delaying $14B in Passive Inflows",
-      "link": "https://oilprice.com/Finance/the-Markets/SP-Rejects-Fast-Entry-for-SpaceX-Delaying-14B-in-Passive-Inflows.html",
-      "date": "2026-06-05T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Earlier today, in our forensic analysis of the SpaceX IPO, we said that according to BNP estimates, the company's inclusion into the S&P 500 some 6 months after the offering would unlock $13.4 billion worth of inflows. It turns out that that is not going to happen 6 months after ",
-      "category": "General"
-    },
-    {
-      "title": "India Launches 85% Ethanol Fuel to Cut Oil Import Dependence",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Launches-85-Ethanol-Fuel-to-Cut-Oil-Import-Dependence.html",
-      "date": "2026-06-05T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India is launching on Friday a new fuel blend with an 85% ethanol component as part of the fuel flex mobility program of the world's third-largest crude importer to reduce dependence on imported oil. The E85 fuel was officially launched at a ceremony in New Delhi in the presence ",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Oil Markets Stop Believing Trump’s Peace Narrative",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Markets-Stop-Believing-Trumps-Peace-Narrative.html",
-      "date": "2026-06-05T15:20:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Fresh strikes on Kuwait and Oman undermine hopes of a U.S.-Iran de-escalation, keeping oil markets on edge and traders skeptical of diplomatic progress. Friday, June 05, 2026 This week’s strikes on Kuwait and the Friday morning attack on Oman have dented hopes for a de-escalation",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Oil India identifies natural gas in second Andaman offshore well",
       "link": "https://www.offshore-technology.com/news/oil-india-natural-gas-andaman-offshore/",
       "date": "2026-06-05T14:41:31.000Z",
@@ -132,14 +220,6 @@
       "category": "Production"
     },
     {
-      "title": "Trump Auction Opens Arctic Refuge Drilling Rights for First Time Ever",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Auction-Opens-Arctic-Refuge-Drilling-Rights-for-First-Time-Ever.html",
-      "date": "2026-06-05T14:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Trump Administration is holding its latest lease sale in Alaska on Friday in a test for investors and environmentalists as the auction comprises tracts in the Coastal Plain of the Arctic National Wildlife Refuge. The Bureau of Land Management (BLM) is holding the oil and gas ",
-      "category": "Policy"
-    },
-    {
       "title": "Arctic Refuge Auction Will Test Oil Industry Appetite",
       "link": "https://www.rigzone.com/news/arctic_refuge_auction_will_test_oil_industry_appetite-05-jun-2026-183865-article/?rss=true",
       "date": "2026-06-05T14:22:34.000Z",
@@ -148,36 +228,12 @@
       "category": "Production"
     },
     {
-      "title": "Trump Floats Meeting Iran's Supreme Leader, But Only If There's A Deal",
-      "link": "https://oilprice.com/Geopolitics/International/Trump-Floats-Meeting-Irans-Supreme-Leader-But-Only-If-Theres-A-Deal.html",
-      "date": "2026-06-05T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "US President Donald Trump said the United States will win the conflict with Iran either \"militarily or on paper,\" referring to the fitful negotiations with Tehran, and he suggested he could meet with Iran's reclusive supreme leader \"if it was to make a deal.\" \"We're going to win ",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Australia's 344-Million-Barrel Oilfield Could Finally Get the Green Light",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australias-344-Million-Barrel-Oilfield-Could-Finally-Get-the-Green-Light.html",
-      "date": "2026-06-05T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "After years of delays, Australia's largest undeveloped oil project could progress to a final investment decision in 2027 as the energy crisis amid the Iran war has heightened the need of homegrown resources. Carnarvon Energy Ltd, a junior explorer that holds 10% in the Dorado oil",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Clean Energy Fuels Starts Up New RNG Plant in Idaho",
       "link": "https://www.rigzone.com/news/clean_energy_fuels_starts_up_new_rng_plant_in_idaho-05-jun-2026-183864-article/?rss=true",
       "date": "2026-06-05T13:00:00.000Z",
       "source": "Rigzone",
       "description": "<p>Clean Energy Fuels Corp said Thursday it had begun production at its eighth renewable natural gas (RNG) facility, \"one of the largest single-site dairies and...",
       "category": "Refinery"
-    },
-    {
-      "title": "UK Conservatives Blast Labour North Sea Ban as 'Utter Madness'",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Conservatives-Blast-Labour-North-Sea-Ban-as-Utter-Madness.html",
-      "date": "2026-06-05T12:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The current UK government's policy of not allowing new drilling in the UK North Sea is “utter madness” as billions of barrels of untapped oil could benefit the UK industry and reduce Britain’s reliance on imports, Kemi Badenoch, the leader of the opposition Conservative Party, ha",
-      "category": "Policy"
     },
     {
       "title": "Strike Averted as About 8,000 Workers offshore Norway Win Pay Raise",
@@ -316,14 +372,6 @@
       "category": "Policy"
     },
     {
-      "title": "Middle East crisis set to reconfigure energy investment – IEA",
-      "link": "https://www.offshore-technology.com/news/middle-east-crisis-set-to-reconfigure-energy-investment-iea/",
-      "date": "2026-06-04T10:52:14.000Z",
-      "source": "Offshore Technology",
-      "description": "The IEA says energy security concerns from Middle East conflict and recent supply shocks are reshaping global investment priorities in 2026.",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Albanese Says 40MM More Liters of Diesel Secured for Queensland",
       "link": "https://www.rigzone.com/news/albanese_says_40mm_more_liters_of_diesel_secured_for_queensland-04-jun-2026-183850-article/?rss=true",
       "date": "2026-06-04T10:49:28.000Z",
@@ -348,36 +396,12 @@
       "category": "General"
     },
     {
-      "title": "Oil prices edge lower after Israel-Lebanon ceasefire agreement",
-      "link": "https://www.offshore-technology.com/news/oil-prices-lower-israel-lebanon-ceasefire-agreement/",
-      "date": "2026-06-04T09:59:55.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil prices declined on 4 June, Thursday, following an announced ceasefire agreement between Israel and Lebanon, raising hopes for potential advances towards a wider deal in the Middle East.",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "McDermott wins Aramco LTA role for project management consultancy",
-      "link": "https://www.offshore-technology.com/news/mcdermott-aramco-lta-project-management-consultancy/",
-      "date": "2026-06-04T09:52:48.000Z",
-      "source": "Offshore Technology",
-      "description": "McDermott, through its subsidiary McDermott Nederland, has been chosen by Aramco as one of the 11 contractors for a long-term agreement (LTA) in project management consultancy (PMC).",
-      "category": "General"
-    },
-    {
       "title": "US Says Israel, Lebanon Agreed Truce on Hezbollah Condition",
       "link": "https://www.rigzone.com/news/us_says_israel_lebanon_agreed_truce_on_hezbollah_condition-04-jun-2026-183847-article/?rss=true",
       "date": "2026-06-04T08:00:55.000Z",
       "source": "Rigzone",
       "description": "<p>The US said Israel and Lebanon agreed to a ceasefire if Hezbollah also stops fighting, the latest attempt by the Trump administration to keep peace talks wit...",
       "category": "Policy"
-    },
-    {
-      "title": "Delfin Midstream approves $5bn FID for Delfin LNG project phase one",
-      "link": "https://www.offshore-technology.com/news/delfin-midstream-5bn-fid-delfin-lng-phase-one/",
-      "date": "2026-06-04T07:58:52.000Z",
-      "source": "Offshore Technology",
-      "description": "Delfin Midstream has confirmed a final investment decision (FID) for its first floating liquefied natural gas (FLNG) vessel, allocating $5bn to the first phase of the Delfin LNG project off the coast of Louisiana.",
-      "category": "General"
     },
     {
       "title": "Venezuela Wants Oil Firms to Supply Their Own Power",
@@ -642,14 +666,6 @@
       "source": "Rigzone",
       "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) June 1, 2026, 3:05 PM GMT: Article upd...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Mitsui Eyes LNG Expansion as Data Centers Drive Power Demand",
-      "link": "https://www.rigzone.com/news/mitsui_eyes_lng_expansion_as_data_centers_drive_power_demand-31-may-2026-183812-article/?rss=true",
-      "date": "2026-05-31T11:00:01.000Z",
-      "source": "Rigzone",
-      "description": "<p>Mitsui & Co. is looking to invest in liquefied natural gas projects across the Middle East, the US and Australia, its chief executive officer said, as the Ja...",
-      "category": "Policy"
     }
   ]
 }
