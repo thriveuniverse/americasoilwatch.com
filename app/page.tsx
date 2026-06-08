@@ -238,7 +238,8 @@ export default async function HomePage() {
             Hormuz still constrained; Israel strikes Iran&apos;s Mahshahr energy complex
           </p>
           <p className="text-xs text-gray-400 leading-relaxed">
-            The Gulf&apos;s master chokepoint is moving only limited, negotiated transits — Iran is tying
+            The Gulf&apos;s master chokepoint is technically open but commercially constrained — only a
+            thin, high-risk trickle of crude, product and LNG vessels has moved, often with AIS gaps, while Iran ties
             any reopening to new conditions (possible Oman-set transit fees, which Washington opposes),
             and the EIA assumed Hormuz effectively closed into late May with traffic only now picking up.
             Israel&apos;s strike on the Mahshahr petrochemical complex is the first hit on Iranian energy
