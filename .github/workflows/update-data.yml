@@ -75,6 +75,10 @@ jobs:
         run: npm run fetch:portwatch
         continue-on-error: true
 
+      - name: Fetch IMF PortWatch port oil-flow data
+        run: npm run fetch:port-flows
+        continue-on-error: true
+
       - name: Fetch news feeds (OilPrice, Rigzone, Offshore Technology)
         run: npm run fetch:news
         env:

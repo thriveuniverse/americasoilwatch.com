@@ -5,6 +5,7 @@ import JsonLd from '@/components/JsonLd';
 import SeaStatePanel, { type SeaStateData } from '@/components/SeaStatePanel';
 import ChokepointsMap from '@/components/ChokepointsMap';
 import ChokepointTransitPanel, { type PortwatchData } from '@/components/ChokepointTransitPanel';
+import PortFlowPanel, { type PortFlowData } from '@/components/PortFlowPanel';
 import RefineryHealthPanel from '@/components/RefineryHealthPanel';
 import { getFIRMSDetections } from '@/lib/firms';
 import { maradOverrideFor } from '@/lib/marad-risk';
@@ -261,6 +262,12 @@ export default async function SupplyPage() {
     try { return JSON.parse(fs.readFileSync(p, 'utf-8')) as PortwatchData; } catch { return null; }
   })();
 
+  const portFlows = (() => {
+    const p = path.join(process.cwd(), 'data', 'port-flows.json');
+    if (!fs.existsSync(p)) return null;
+    try { return JSON.parse(fs.readFileSync(p, 'utf-8')) as PortFlowData; } catch { return null; }
+  })();
+
   const firmsResult = await getFIRMSDetections();
 
   return (
@@ -282,6 +289,9 @@ export default async function SupplyPage() {
 
       {/* Live chokepoint transit monitor — IMF PortWatch daily transits vs baseline */}
       {portwatch && <ChokepointTransitPanel data={portwatch} />}
+
+      {/* Port oil-flow monitor — IMF PortWatch daily tanker volumes vs baseline */}
+      {portFlows && <PortFlowPanel data={portFlows} />}
 
       {/* Live sea-state panel — chokepoint conditions from Open-Meteo */}
       {seaState && (
