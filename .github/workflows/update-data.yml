@@ -71,6 +71,10 @@ jobs:
         run: npm run fetch:crea
         continue-on-error: true
 
+      - name: Fetch IMF PortWatch chokepoint transit data
+        run: npm run fetch:portwatch
+        continue-on-error: true
+
       - name: Fetch news feeds (OilPrice, Rigzone, Offshore Technology)
         run: npm run fetch:news
         env:
