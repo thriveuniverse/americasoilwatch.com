@@ -291,7 +291,7 @@ export default async function SupplyPage() {
       {portwatch && <ChokepointTransitPanel data={portwatch} />}
 
       {/* Port oil-flow monitor — IMF PortWatch daily tanker volumes vs baseline */}
-      {portFlows && <PortFlowPanel data={portFlows} />}
+      {portFlows && <PortFlowPanel data={portFlows} site="americas" />}
 
       {/* Live sea-state panel — chokepoint conditions from Open-Meteo */}
       {seaState && (
