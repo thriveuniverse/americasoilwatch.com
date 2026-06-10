@@ -217,6 +217,9 @@ export default async function HomePage() {
         );
       })()}
 
+      {/* Newsletter sign-up — placed above PADD 5 for prominence */}
+      <SubscribeCta prominent />
+
       {/* West Coast (PADD 5) regional fuel watch — national totals mask its tightness */}
       <Padd5Watch data={padd5} />
 
@@ -461,9 +464,6 @@ export default async function HomePage() {
           </div>
         </div>
       )}
-
-      {/* Subscribe CTA */}
-      <SubscribeCta />
 
       {/* Producer grid by region */}
       <div>
