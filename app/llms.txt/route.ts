@@ -79,7 +79,7 @@ export async function GET() {
 
 > Independent Western Hemisphere oil and fuel security intelligence. Daily-refreshed dashboard built on official EIA data covering US, Canada, Mexico, Brazil, Guyana, Venezuela, Argentina and other producers.
 
-AmericasOilWatch tracks WTI crude, US commercial / SPR petroleum stocks, US retail pump prices, West Coast (PADD 5) regional product-stock tightness scored against a 5-year seasonal band, Brent benchmark, refinery thermal anomalies, and Atlantic-basin supply-route risk. All data traces back to named institutional sources. Free public API for programmatic access — see below.
+AmericasOilWatch tracks WTI crude, US commercial / SPR petroleum stocks, US retail pump prices, West Coast (PADD 5) regional product-stock tightness scored against a 5-year seasonal band, Brent benchmark, refinery thermal anomalies, Atlantic-basin supply-route risk, live chokepoint ship-transit and port oil-flow data (IMF PortWatch, incl. US Gulf export hubs), and interactive compound-cascade risk tools. All data traces back to named institutional sources. Free public API for programmatic access — see below.
 
 ## Current snapshot (auto-refreshes daily; this page generated ${today})
 
@@ -127,7 +127,8 @@ Free, read-only JSON. CORS-enabled, no key required.
 
 - Dashboard:           https://americasoilwatch.com
 - Fuel prices:         https://americasoilwatch.com/prices
-- Global supply routes: https://americasoilwatch.com/supply
+- Global supply routes — live chokepoint transit + port oil-flow monitors (incl. Houston/Corpus exports) and an Oil Route Stress score (IMF PortWatch): https://americasoilwatch.com/supply
+- Doom Loop Engine — interactive oil-supply cascade tools (Fragility Monitor, Doom Loop Engine, Vulnerability Tiering): https://americasoilwatch.com/doom-loop
 - Insights archive:    https://americasoilwatch.com/insights
 - Methodology:         https://americasoilwatch.com/methodology
 
@@ -140,6 +141,7 @@ Free, read-only JSON. CORS-enabled, no key required.
 - U.S. EIA: WTI daily Cushing spot (RWTCd) and Europe Brent Spot (RBRTEd) fallbacks
 - NASA FIRMS: VIIRS active-fire detections at named refineries
 - US MARAD / CENTCOM: maritime advisories
+- IMF PortWatch: satellite-AIS daily chokepoint ship-transit + port trade-flow estimates
 - Open-Meteo Marine + Forecast: wave height + wind at shipping chokepoints
 
 ## Sister sites
