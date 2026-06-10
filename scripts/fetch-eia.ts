@@ -43,22 +43,22 @@ async function eiaFetch(path_: string, params: Record<string, string>): Promise<
 async function fetchUSStocks() {
   console.log('  Fetching US petroleum stocks...');
 
-  // Series IDs:
-  // WCSSTUS1 = US commercial crude stocks (MB)
-  // WGTSTUS1 = US total gasoline stocks (MB)
-  // WDISTUS1 = US distillate fuel oil stocks (MB)
-  // WCSSTUS2 = US SPR crude stocks (MB)  — actually WPRSTUS1
-  // WCRFPUS2 = US crude production (kb/d)
-
+  // EIA weekly stock series — verified against the API (values in thousand barrels):
+  //   WCESTUS1 = US commercial crude excl SPR (~433.7 MMbbl)  ← commercial crude
+  //   WCSSTUS1 = US crude oil in the SPR       (~357.1 MMbbl)  ← SPR
+  //   WGTSTUS1 = US total gasoline stocks
+  //   WDISTUS1 = US distillate fuel oil stocks
+  // NB: the prior mapping was wrong — crudeMb pulled WCSSTUS1 (the SPR), and sprMb
+  // pulled WPRSTUS1 (which is PROPANE stocks). Both corrected here. Production has no
+  // series on this endpoint and is fetched from the supply endpoint below.
   const seriesMap: Record<string, string> = {
-    'WCSSTUS1': 'crudeMb',
+    'WCESTUS1': 'crudeMb',
     'WGTSTUS1': 'gasolineMb',
     'WDISTUS1': 'distillateMb',
-    'WPRSTUS1': 'sprMb',
-    'WCRFPUS2': 'productionKbpd',
+    'WCSSTUS1': 'sprMb',
   };
 
-  const results: Record<string, { current: number; prev: number }> = {};
+  const results: Record<string, { current: number; prev: number; period?: string }> = {};
 
   for (const [series, field] of Object.entries(seriesMap)) {
     try {
@@ -71,7 +71,7 @@ async function fetchUSStocks() {
         'length': '2',
       });
       if (rows.length >= 1) {
-        results[field] = { current: +rows[0].value, prev: rows[1] ? +rows[1].value : +rows[0].value };
+        results[field] = { current: +rows[0].value, prev: rows[1] ? +rows[1].value : +rows[0].value, period: rows[0].period };
       }
     } catch (e: any) {
       console.warn(`    ⚠ ${series}: ${e.message}`);
@@ -97,7 +97,7 @@ async function fetchUSStocks() {
 
   const out = {
     lastUpdated: new Date().toISOString(),
-    weekEnding: new Date().toISOString().slice(0, 10),
+    weekEnding: results['crudeMb']?.period ?? new Date().toISOString().slice(0, 10),
     crudeMb: results['crudeMb']?.current ?? null,
     crudeMbChange: results['crudeMb'] ? +(results['crudeMb'].current - results['crudeMb'].prev).toFixed(1) : null,
     gasolineMb: results['gasolineMb']?.current ?? null,
