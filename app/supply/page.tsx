@@ -61,12 +61,12 @@ const CHOKEPOINTS: Chokepoint[] = [
     id: 'panama',
     name: 'Panama Canal',
     region: 'Central America',
-    risk: 'elevated',
-    riskLabel: 'Elevated — drought restrictions eased, monitoring water levels',
+    risk: 'normal',
+    riskLabel: 'Normal — wet-season water levels healthy; dry-season draft risk (Dec–Apr)',
     dailyFlow: '~820,000 bpd oil equivalent (5% of global seaborne trade)',
     relevance: 'Critical for US Gulf Coast petroleum exports to Asia. Also carries Alaska North Slope crude south and LNG movements. Supertankers cannot transit — limited to Panamax/Neo-Panamax.',
     coords: '9.1°N 79.4°W',
-    summary: 'The Panama Canal handles roughly 5% of global seaborne trade and is the only non-Cape route between the Atlantic and Pacific in the Americas. Severe drought in 2023-2024 forced vessel restrictions to 24/day (down from 36), causing major disruption and wait times of 10+ days.',
+    summary: 'The Panama Canal handles roughly 5% of global seaborne trade and is the only non-Cape route between the Atlantic and Pacific in the Americas. Severe drought in 2023-2024 forced vessel restrictions to 24/day (down from 36), causing major disruption and wait times of 10+ days. Wet-season levels have since restored near-normal transits; the risk window is the dry season (~Dec–Apr), when low Gatún Lake levels can again force draft and slot cuts.',
     impact: 'Drought-linked restrictions in 2023-24 added $300-500M in annual shipping costs. US LNG exporters diverted cargoes around Cape Horn. Alaska crude exports to Gulf Coast refineries delayed. El Niño patterns drive multi-year drought cycles.',
     context: 'Canal expansion completed 2016 allows Neo-Panamax vessels up to 14,000 TEU. However, Gatun Lake water levels remain the binding constraint. Climate change projections suggest increasing drought frequency. Alternative: Cape Horn route adds ~8,000 nautical miles.',
     lastReviewed: '2026-04-19',
@@ -237,14 +237,44 @@ function readCrea(): { lastUpdated: string; articles: CreaArticle[] } | null {
   try { return JSON.parse(fs.readFileSync(p, 'utf-8')); } catch { return null; }
 }
 
+// Live transit override — derive a tracked chokepoint's risk badge from IMF PortWatch
+// tanker tonnage vs the 2023 norm, so the status auto-updates with the data (the
+// editorial summary/impact/context still provide the "why"). MARAD security advisories
+// are layered on top and can escalate further.
+function portwatchOverrideFor(
+  id: string,
+  pw: PortwatchData | null,
+): { risk: RiskLevel; riskLabel: string; asOf: string } | null {
+  const cp = pw?.chokepoints?.find((k) => k.key === id);
+  if (!cp || cp.pctTankerTonnage == null) return null;
+  const p = cp.pctTankerTonnage;
+  let risk: RiskLevel, phrase: string;
+  if (p < 25) { risk = 'critical'; phrase = `at ${p}% of the 2023 norm`; }
+  else if (p < 60) { risk = 'high'; phrase = `down to ${p}% of the 2023 norm`; }
+  else if (p < 85) { risk = 'elevated'; phrase = `at ${p}% of the 2023 norm`; }
+  else { risk = 'normal'; phrase = `near the 2023 norm (${p}%)`; }
+  const cap = risk[0].toUpperCase() + risk.slice(1);
+  return { risk, riskLabel: `${cap} — tanker tonnage ${phrase} (live · IMF PortWatch)`, asOf: cp.latestDate };
+}
+
 export default async function SupplyPage() {
   const marad = readMarad();
   const crea  = readCrea();
 
-  const chokepoints: Chokepoint[] = CHOKEPOINTS.map(c => {
-    const ovr = marad ? maradOverrideFor(c.id, marad.advisories, marad.lastUpdated, c.risk) : null;
-    return ovr ? { ...c, risk: ovr.risk, riskLabel: ovr.riskLabel, lastReviewed: ovr.lastReviewed } : c;
-  });
+  const chokepoints: Chokepoint[] = (() => {
+    const pwPath = path.join(process.cwd(), 'data', 'portwatch-chokepoints.json');
+    let pw: PortwatchData | null = null;
+    if (fs.existsSync(pwPath)) { try { pw = JSON.parse(fs.readFileSync(pwPath, 'utf-8')); } catch { pw = null; } }
+    return CHOKEPOINTS.map(c => {
+      let cc = c;
+      // 1. live transit (IMF PortWatch) drives the badge from current flow
+      const live = portwatchOverrideFor(c.id, pw);
+      if (live) cc = { ...cc, risk: live.risk, riskLabel: live.riskLabel, lastReviewed: live.asOf };
+      // 2. MARAD security advisories layered on top — can escalate further
+      const ovr = marad ? maradOverrideFor(cc.id, marad.advisories, marad.lastUpdated, cc.risk) : null;
+      return ovr ? { ...cc, risk: ovr.risk, riskLabel: ovr.riskLabel, lastReviewed: ovr.lastReviewed } : cc;
+    });
+  })();
 
   const critical = chokepoints.filter(c => c.risk === 'critical');
   const high     = chokepoints.filter(c => c.risk === 'high');
