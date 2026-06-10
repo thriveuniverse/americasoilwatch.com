@@ -127,7 +127,7 @@ Free, read-only JSON. CORS-enabled, no key required.
 
 - Dashboard:           https://americasoilwatch.com
 - Fuel prices:         https://americasoilwatch.com/prices
-- Global supply routes — live chokepoint transit + port oil-flow monitors (incl. Houston/Corpus exports) and an Oil Route Stress score (IMF PortWatch): https://americasoilwatch.com/supply
+- Global supply routes — live chokepoint transit + port oil-flow monitors (incl. Houston/Corpus exports), a Panama Canal Watch, and an Oil Route Stress score (IMF PortWatch): https://americasoilwatch.com/supply
 - Doom Loop Engine — interactive oil-supply cascade tools (Fragility Monitor, Doom Loop Engine, Vulnerability Tiering): https://americasoilwatch.com/doom-loop
 - Insights archive:    https://americasoilwatch.com/insights
 - Methodology:         https://americasoilwatch.com/methodology
