@@ -6,6 +6,7 @@ import SeaStatePanel, { type SeaStateData } from '@/components/SeaStatePanel';
 import ChokepointsMap from '@/components/ChokepointsMap';
 import ChokepointTransitPanel, { type PortwatchData } from '@/components/ChokepointTransitPanel';
 import PortFlowPanel, { type PortFlowData } from '@/components/PortFlowPanel';
+import PanamaCanalWatch from '@/components/PanamaCanalWatch';
 import RefineryHealthPanel from '@/components/RefineryHealthPanel';
 import { getFIRMSDetections } from '@/lib/firms';
 import { maradOverrideFor } from '@/lib/marad-risk';
@@ -290,6 +291,9 @@ export default async function SupplyPage() {
 
       {/* Live chokepoint transit monitor — IMF PortWatch daily transits vs baseline */}
       {portwatch && <ChokepointTransitPanel data={portwatch} />}
+
+      {/* Panama Canal Watch — the Americas' key chokepoint (locator + live transit) */}
+      {portwatch && <PanamaCanalWatch data={portwatch} />}
 
       {/* Port oil-flow monitor — IMF PortWatch daily tanker volumes vs baseline */}
       {portFlows && <PortFlowPanel data={portFlows} site="americas" />}
