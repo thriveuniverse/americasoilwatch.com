@@ -10,6 +10,7 @@ import ReserveGauge from '@/components/ReserveGauge';
 import SubscribeCta from '@/components/SubscribeCta';
 import RefineryHealthPanel from '@/components/RefineryHealthPanel';
 import Padd5Watch from '@/components/Padd5Watch';
+import DisruptionBanner from '@/components/DisruptionBanner';
 
 export const revalidate = 3600;
 
@@ -108,6 +109,15 @@ export default async function HomePage() {
           Built for fleet operators, energy traders, procurement teams, and journalists tracking Americas fuel supply.
         </p>
       </div>
+
+      {/* Disruption alert */}
+      <DisruptionBanner
+        tone="update"
+        headline="Fragile de-escalation — tentative U.S.–Iran MOU"
+        body="a reported, still-provisional memorandum points to reopening Hormuz, a 60-day talks window and possible sanctions waivers — the eased premium is showing up at the pump and in inflation expectations, but it isn't barrels moving: buffers drawn down over the disruption don't refill on an announcement, and the satellite-transit data that would confirm a real reopening lags by ~a week"
+        linkLabel="What the MOU changes →"
+        linkHref="/analysis/us-iran-mou-fragile-deescalation"
+      />
 
       {/* Key metrics */}
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
