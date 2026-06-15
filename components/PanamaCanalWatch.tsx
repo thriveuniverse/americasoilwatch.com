@@ -82,7 +82,7 @@ export default function PanamaCanalWatch({ data }: { data: PortwatchData }) {
         Watch the <span className="text-gray-400">draft</span>, not just the count: Panama&rsquo;s throughput is
         rationed by Gatún Lake water levels, and drought has forced deep transit cuts before (2023–24). A dry
         season that lowers the lake squeezes daily slots and pushes more tonnage onto the longer Cape Horn / Suez
-        routes. Latest data {p.latestDate}. Source:{' '}
+        routes. Latest data {p.latestDate} (PortWatch reports ~a week in arrears). Source:{' '}
         <a href={data.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-oil-400 hover:underline">IMF PortWatch</a>
         {' '}— transit estimated from satellite AIS, not canal-authority counts.
       </p>
