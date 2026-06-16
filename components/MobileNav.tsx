@@ -7,6 +7,7 @@ const LINKS = [
   { href: '/supply',       label: 'Supply Routes' },
   { href: '/prices',       label: 'Prices' },
   { href: '/analysis',     label: 'Analysis' },
+  { href: '/research',     label: 'Research' },
   { href: '/insights',     label: 'Insights' },
   { href: '/news',         label: 'News' },
   { href: '/doom-loop',    label: 'Doom Loop' },
