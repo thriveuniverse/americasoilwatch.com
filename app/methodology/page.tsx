@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import JsonLd from '@/components/JsonLd';
-export const metadata: Metadata = { title: 'Methodology | AmericasOilWatch' };
+export const metadata: Metadata = { title: 'Methodology | AmericasOilWatch', alternates: { canonical: 'https://americasoilwatch.com/methodology' } };
 export default function MethodologyPage() {
   return (
     <div className="max-w-3xl mx-auto space-y-8">
