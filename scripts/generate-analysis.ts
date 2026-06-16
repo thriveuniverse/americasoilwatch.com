@@ -145,7 +145,7 @@ Output valid JSON only — no markdown, no preamble:
       'anthropic-version': '2023-06-01',
     },
     body: JSON.stringify({
-      model: 'claude-sonnet-4-20250514',
+      model: 'claude-sonnet-4-6',
       max_tokens: 2000,
       system: systemPrompt,
       messages: [{ role: 'user', content: `Analyse this Americas energy data:\n\n${dataContext}` }],
@@ -165,7 +165,7 @@ Output valid JSON only — no markdown, no preamble:
     fullAnalysis: parsed.fullAnalysis,
     keyPoints: parsed.keyPoints,
     dataPeriod: parsed.dataPeriod ?? wti?.weekEnding ?? 'unknown',
-    model: 'claude-sonnet-4-20250514',
+    model: 'claude-sonnet-4-6',
   };
 
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(analysis, null, 2));
