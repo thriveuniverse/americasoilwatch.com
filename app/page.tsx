@@ -114,7 +114,7 @@ export default async function HomePage() {
       <DisruptionBanner
         tone="update"
         headline="MOU under strain"
-        body="the U.S.–Iran memorandum is still technically alive, but renewed Israel–Lebanon escalation has put the de-escalation trade on hold; Hormuz recovery is still possible but uncertain, and the eased premium at the pump is partly returning"
+        body="the 14-point U.S.–Iran framework is still in effect, but the formal Switzerland signing ceremony was postponed (Vance pulled out) amid renewed Israel–Lebanon strikes; Hormuz transit has only tentatively restarted and stays far below normal, with the IRGC still conditioning passage"
         linkLabel="What the MOU changes →"
         linkHref="/analysis/us-iran-mou-fragile-deescalation"
       />
