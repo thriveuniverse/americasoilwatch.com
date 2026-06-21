@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-20T08:54:54.195Z",
+  "lastUpdated": "2026-06-21T09:49:33.625Z",
   "priceUsd": 76.54,
-  "changeUsd": 0.76,
-  "changePct": 1,
-  "weekEnding": "2026-06-20",
+  "changeUsd": 0,
+  "changePct": 0,
+  "weekEnding": "2026-06-21",
   "dataSource": "Yahoo Finance (CL=F)"
 }
