@@ -72,6 +72,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <nav className="hidden sm:flex items-center gap-6 text-sm text-gray-400" aria-label="Main navigation">
               <a href="/" className="hover:text-white transition">Dashboard</a>
               <a href="/supply" className="hover:text-white transition">Supply Routes</a>
+              <a href="/hormuz-timeline" className="hover:text-white transition">Hormuz Timeline</a>
               <a href="/fertilizer" className="hover:text-white transition">Fertilizer</a>
               <a href="/prices" className="hover:text-white transition">Prices</a>
               <a href="/analysis" className="hover:text-white transition">Analysis</a>

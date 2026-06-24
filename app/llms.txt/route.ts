@@ -128,6 +128,7 @@ Free, read-only JSON. CORS-enabled, no key required.
 - Dashboard:           https://americasoilwatch.com
 - Fuel prices:         https://americasoilwatch.com/prices
 - Global supply routes — live chokepoint transit + port oil-flow monitors (incl. Houston/Corpus exports), a Panama Canal Watch, and an Oil Route Stress score (IMF PortWatch): https://americasoilwatch.com/supply
+- Strait of Hormuz crisis timeline — a sourced, filterable chronology of the 2026 Hormuz crisis (military/diplomatic/shipping/market events, outbreak to fragile reopening): https://americasoilwatch.com/hormuz-timeline
 - Doom Loop Engine — interactive oil-supply cascade tools (Fragility Monitor, Doom Loop Engine, Vulnerability Tiering): https://americasoilwatch.com/doom-loop
 - The Hormuz Inventory Runway — interactive depletion model (accessible cushion drains in months; hoarding-feedback scenario): https://americasoilwatch.com/runway
 - Research hub — the original body of work (Jonathan Kelly): the Compound Cascade Systems Modelling framework + its companion Institutional Failure Mode Typology, plus the interactive instruments: https://americasoilwatch.com/research
