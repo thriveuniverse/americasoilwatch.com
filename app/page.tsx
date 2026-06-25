@@ -113,10 +113,10 @@ export default async function HomePage() {
       {/* Disruption alert */}
       <DisruptionBanner
         tone="update"
-        headline="Hormuz: fragile reopening, not settled"
-        body="U.S. and Iran have agreed a 60-day roadmap with a safe-passage communications line for the Strait; the JMIC has cut its threat level to moderate and the U.S. blockade has ended, and tankers (VLCCs, Qatari LNG and Korean-operated vessels) are moving again. But it isn't an all-clear — mine-clearance continues, Iran briefly halted traffic over the weekend, and transit is erratic (Kpler counted ~5 vessels Sunday vs 26 a day earlier). Brent has eased to ~$79. Fragile reprieve, not resolution."
-        linkLabel="What the MOU changes →"
-        linkHref="/analysis/us-iran-mou-fragile-deescalation"
+        headline="Venezuela quake: oil infrastructure watch"
+        body="A major M7.5 earthquake near Morón has caused severe humanitarian damage in Venezuela. Oil infrastructure does not yet appear to be materially disrupted: Reuters reports a worker at the nearby El Palito refinery said there was no damage, while official PDVSA confirmation is still pending. The main global oil market remains focused on returning Hormuz flows, with Brent back in the high-$70s. We are monitoring El Palito, Morón petrochemicals, power supply, and export-terminal operations."
+        linkLabel="Supply routes →"
+        linkHref="/supply"
       />
 
       {/* Research hub — flagship body of work */}
