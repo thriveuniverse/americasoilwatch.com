@@ -112,11 +112,11 @@ export default async function HomePage() {
 
       {/* Disruption alert */}
       <DisruptionBanner
-        tone="update"
-        headline="Venezuela quake: oil infrastructure watch"
-        body="A major M7.5 earthquake near Morón has caused severe humanitarian damage in Venezuela. Oil infrastructure does not yet appear to be materially disrupted: Reuters reports a worker at the nearby El Palito refinery said there was no damage, while official PDVSA confirmation is still pending. The main global oil market remains focused on returning Hormuz flows, with Brent back in the high-$70s. We are monitoring El Palito, Morón petrochemicals, power supply, and export-terminal operations."
-        linkLabel="Supply routes →"
-        linkHref="/supply"
+        tone="alert"
+        headline="Hormuz effectively shut after vessel struck"
+        body="A container ship (the Singapore-flagged Ever Lovely) was hit by an 'unknown projectile' off Oman on 25 June while using the UN-backed transit route — bridge damaged, no casualties; a U.S. official attributes it to an Iranian drone, though Iran has not claimed it. The IMO has suspended the evacuation of stranded ships pending safety guarantees, after Iran's IRGC warned that only its declared route is permitted. With transits already near a trickle, the strait is effectively shut again. Crude had eased to ~$73 on de-escalation hopes; a confirmed strike on shipping puts that in question."
+        linkLabel="What the MOU changes →"
+        linkHref="/analysis/us-iran-mou-fragile-deescalation"
       />
 
       {/* Research hub — flagship body of work */}
@@ -261,19 +261,21 @@ export default async function HomePage() {
         </div>
         <div className="px-5 py-4 space-y-2">
           <p className="text-sm font-semibold text-white">
-            Hormuz: reopening stalls, strait still contested
+            Hormuz effectively shut after vessel struck
           </p>
           <p className="text-xs text-gray-400 leading-relaxed">
-            After the 22 June 60-day roadmap, the JMIC cut its Hormuz threat to moderate and traffic
-            briefly recovered — Kpler logged a weekend spike toward ~90 transits. But it has reversed:
-            on 25 June Iran&apos;s IRGC reasserted routing control over the Strait (vessels must seek
-            clearance or &ldquo;face consequences&rdquo;) and transits collapsed back toward ~5 a day,
-            with several hundred ships still stranded; the U.S. disputes any closure. The brief recovery
-            was also lopsided — the vessels that moved were largely Iranian, rushing crude out under the
-            new U.S. licence, while broader international traffic stayed thin. Crude has fallen regardless
-            (Brent ~$73, WTI below $70) as the market leans on the diplomatic track and ample
-            Atlantic-basin supply. Price and threat lead; the lagging transit data confirms — and right
-            now it points back down.
+            The brief reopening has given way to a strike. On 25 June Iran&apos;s IRGC reasserted routing
+            control over the Strait — only its declared route is permitted, &ldquo;violators will be dealt
+            with&rdquo; — and that evening a container ship (the Singapore-flagged Ever Lovely) was hit by
+            an &ldquo;unknown projectile&rdquo; off Oman on the UN-backed route, sustaining bridge damage
+            (no casualties). A U.S. official attributes the strike to an Iranian drone; Iran has not
+            claimed it. The IMO has suspended the evacuation of stranded ships pending safety guarantees,
+            leaving transits — already near a trickle (~5/day against a ~90–125 norm) — effectively halted.
+            Crude had fallen to ~$73 (WTI below $70) on de-escalation hopes; a confirmed attack on shipping
+            puts that in question. Separately, a major M7.5 earthquake hit Venezuela on 25 June — a
+            humanitarian disaster; the Jose crude-export terminal reported normal operations, with El
+            Palito refinery&apos;s status still being confirmed. Price and threat lead; the lagging transit
+            data confirms.
           </p>
           <p className="text-xs text-gray-500 leading-relaxed">
             <span className="text-oil-300 font-medium">Americas angle:</span>{' '}
