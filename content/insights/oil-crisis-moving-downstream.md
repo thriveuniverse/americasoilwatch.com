@@ -1,8 +1,9 @@
 ---
 title: "The Oil Crisis Is Not Ending — It Is Moving Downstream"
-date: "2026-06-26"
 excerpt: "Falling crude prices are tempting the world to call the oil crisis over. It isn't ending — it's changing shape, moving downstream from a single chokepoint into a distributed resilience crisis spanning refineries, products, tankers, insurance, inventories and sanctions. A tour of the new weak points — and why crude can fall while the real fuel economy stays fragile."
+date: "2026-06-26"
 author: "Jon Kelly"
+tags: ["Hormuz", "Refining", "Diesel", "Inventories", "SPR", "OPEC", "Russia", "Dangote", "Resilience", "Americas"]
 ---
 
 The mistake now would be to look at falling crude prices and declare the oil crisis over.
