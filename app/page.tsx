@@ -114,7 +114,7 @@ export default async function HomePage() {
       <DisruptionBanner
         tone="update"
         headline="Venezuela quake: energy aftershocks"
-        body="Venezuela's twin quakes have not delivered a major crude-export shock — key oilfields and export terminals appear largely undamaged, with output still cited around 1.2M bpd and the Jose terminal operating. But power outages are hitting refining and ports: the 645,000-bpd Amuay (the country's largest, and running only ~137k before the quakes) was forced offline by a power loss before supply was restored; the 146,000-bpd El Palito and the Morón petrochemical complex have struggled to restart; Puerto Cabello is only partly operating and La Guaira stayed shut. A regional-infrastructure story, not a global oil shock."
+        body="Venezuela's twin quakes have not delivered a major crude-export shock — key oilfields and export terminals appear largely undamaged, with output still cited around 1.2M bpd and the Jose terminal operating. But power outages are hitting refining and ports: the 645,000-bpd Amuay (the country's largest, and running only ~137k before the quakes) was forced offline by a power loss before supply was restored; the 146,000-bpd El Palito and the Morón petrochemical complex have struggled to restart; Puerto Cabello is only partly operating and La Guaira stayed shut. Reuters reports at least eight workers were injured in an explosion at a PDVSA rig in Apure state, the injured taken to Colombia for treatment (PDVSA had not commented). A regional-infrastructure story, not a global oil shock."
         linkLabel="Supply & infrastructure →"
         linkHref="/supply"
       />
