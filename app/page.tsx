@@ -112,11 +112,11 @@ export default async function HomePage() {
 
       {/* Disruption alert */}
       <DisruptionBanner
-        tone="alert"
-        headline="Hormuz escalates: second tanker hit, U.S. strikes Iran"
-        body="On 27 June an Iranian drone struck a second tanker — the Panama-flagged M/T Kiku, ~2M barrels of crude — and the U.S. launched airstrikes on Iranian air-defence, drone and minelaying sites; Iranian drones also hit Bahrain, and Iran says it struck U.S. sites in the Gulf. The 60-day ceasefire is being violated on both sides. Yet the market is leaning the other way — heavy short positioning is betting the escalation stays contained and supply ample, so crude has not spiked the way the headlines suggest. That gap between the shooting and the price could unwind fast. Active escalation."
-        linkLabel="Live Hormuz timeline →"
-        linkHref="/hormuz-timeline"
+        tone="update"
+        headline="Venezuela quake: energy aftershocks"
+        body="Venezuela's twin quakes have not delivered a major crude-export shock — key oilfields and export terminals appear largely undamaged, with output still cited around 1.2M bpd and the Jose terminal operating. But power outages are hitting refining and ports: the 645,000-bpd Amuay (the country's largest, and running only ~137k before the quakes) was forced offline by a power loss before supply was restored; the 146,000-bpd El Palito and the Morón petrochemical complex have struggled to restart; Puerto Cabello is only partly operating and La Guaira stayed shut. A regional-infrastructure story, not a global oil shock."
+        linkLabel="Supply & infrastructure →"
+        linkHref="/supply"
       />
 
       {/* Research hub — flagship body of work */}
@@ -255,27 +255,26 @@ export default async function HomePage() {
       <div className="rounded-lg border border-amber-700/40 bg-amber-950/20 overflow-hidden">
         <div className="px-5 py-3 border-b border-amber-700/30 flex items-center justify-between">
           <h2 className="text-xs font-mono font-semibold tracking-widest text-amber-300 uppercase">
-            Active Supply Disruption
+            Global Oil — Where We Stand
           </h2>
-          <span className="text-[10px] font-mono text-amber-400/70">Active since Feb 2026</span>
+          <span className="text-[10px] font-mono text-amber-400/70">Updated 28 Jun 2026</span>
         </div>
         <div className="px-5 py-4 space-y-2">
           <p className="text-sm font-semibold text-white">
-            Hormuz escalates: second tanker hit, U.S. strikes Iran
+            Oil prices fall as Hormuz traffic resumes — but U.S. messaging shifts, IRGC leverage, diesel
+            tightness and power-grid stress keep the system on edge
           </p>
           <p className="text-xs text-gray-400 leading-relaxed">
-            The de-escalation has reversed. On 27 June an Iranian one-way drone struck a second tanker —
-            the Panama-flagged M/T Kiku, carrying about 2 million barrels of crude — near the Strait, and
-            the U.S. answered with airstrikes on Iranian air-defence, surveillance, drone-storage and
-            minelaying sites (CENTCOM). Iranian drones also struck Bahrain, and Iran says it hit U.S. sites
-            in the Gulf — a tit-for-tat that began with the 25 June Ever Lovely strike. The 60-day
-            ceasefire is being violated on both sides. Yet the price is leaning the other way: speculators
-            have built heavy short positions on the de-escalation and ample-supply view, so crude has not
-            spiked despite the strikes — a divergence between the shooting and the price that could unwind
-            violently if the strikes sustain. Separately, Venezuela&apos;s 25 June M7.5 quake spared major
-            crude-export infrastructure (output ~1.2M bpd, the Jose terminal operating), but El Palito
-            refinery is largely out on power loss and the Puerto Cabello and La Guaira ports are disrupted
-            — a domestic-fuel and logistics problem, not a global crude shock.
+            The crude panic has eased and Brent is back in the low-$70s (around $72.6, WTI ~$69.8) after a
+            10%+ drop last week. Middle East loadings are restarting under a temporary U.S. sanctions
+            waiver and Hormuz traffic is up toward ~75% of pre-war levels — but volumes remain well below
+            normal, many vessels still go dark, and the IRGC retains real leverage over Iranian exports and
+            strait security. After a sharp 27 June exchange (U.S. strikes on Iran; Iranian missiles and
+            drones at U.S. bases in Bahrain and Kuwait), both sides agreed on 28 June to halt the
+            tit-for-tat and return to talks. A pattern of rapid U.S. messaging shifts — strike threats,
+            cancellations citing &ldquo;productive talks,&rdquo; repeated &ldquo;deal imminent&rdquo; calls
+            that slipped — adds uncertainty. The stress has moved downstream: diesel, refineries, ports,
+            power and shipping risk stay elevated.
           </p>
           <p className="text-xs text-gray-500 leading-relaxed">
             <span className="text-oil-300 font-medium">Americas angle:</span>{' '}
@@ -290,7 +289,7 @@ export default async function HomePage() {
           </p>
         </div>
         <div className="px-5 py-2 border-t border-amber-700/20 bg-amber-950/10">
-          <p className="text-[10px] text-gray-600">Sources: Reuters, S&amp;P Global, IEA, U.S. CENTCOM (June 2026).</p>
+          <p className="text-[10px] text-gray-600">Sources: Reuters, U.S. CENTCOM, EIA, IEA (28 June 2026).</p>
         </div>
       </div>
 
