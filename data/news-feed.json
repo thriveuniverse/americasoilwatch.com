@@ -1,15 +1,159 @@
 {
-  "lastUpdated": "2026-06-28T08:50:55.883Z",
+  "lastUpdated": "2026-06-29T10:58:31.126Z",
   "summary": null,
-  "count": 71,
+  "count": 75,
   "articles": [
+    {
+      "title": "EU Secures Industry Deal to Grow Energy Storage Capacity",
+      "link": "https://www.rigzone.com/news/eu_secures_industry_deal_to_grow_energy_storage_capacity-29-jun-2026-184009-article/?rss=true",
+      "date": "2026-06-29T10:56:50.000Z",
+      "source": "Rigzone",
+      "description": "<p>The European Commission has executed a public-private cooperation agreement on energy storage that saw 22 member states commit to enabling the installation o...",
+      "category": "General"
+    },
+    {
+      "title": "Oil Prices Climb as U.S.-Iran Flare-Up Shakes Market Complacency",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Flare-Up-Shakes-Market-Complacency.html",
+      "date": "2026-06-29T10:31:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Oil prices were climbing early on Monday morning after a fresh escalation between the U.S. and Iran over the weekend. The price rise was relatively delayed, as markets continue to price in a potential peace deal while discounting more bullish geopolitical catalysts. A growing num",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "U.S. Pipeline Giant Eyes $5.5 Billion Deal to Expand LNG Reach",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Pipeline-Giant-Eyes-55-Billion-Deal-to-Expand-LNG-Reach.html",
+      "date": "2026-06-29T10:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "U.S. natural gas pipeline giant Williams could be close to one of its biggest acquisitions ever as it is in late-stage talks to acquire gas pipeline operator Momentum Midstream in a deal estimated to be worth about $5.5 billion, sources with knowledge of the development have told",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Oil trade stabilises amid US-Iran halt to renewed hostilities",
+      "link": "https://www.offshore-technology.com/news/oil-stabilises-us-iran-halt-renewed-hostilities/",
+      "date": "2026-06-29T09:44:50.000Z",
+      "source": "Offshore Technology",
+      "description": "Oil prices stabilised on 29 June, Monday after the US and Iran reached an agreement to halt their renewed hostilities in the Gulf and committed to resuming negotiations over the Strait of Hormuz.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "OEUK Says Urgent Decisions Needed on Rosebank, Jackdaw",
+      "link": "https://www.rigzone.com/news/oeuk_says_urgent_decisions_needed_on_rosebank_jackdaw-29-jun-2026-184008-article/?rss=true",
+      "date": "2026-06-29T09:39:30.000Z",
+      "source": "Rigzone",
+      "description": "<p>In a statement sent to Rigzone recently, industry body Offshore Energies UK (OEUK) said “urgent decisions” are needed on the Rosebank and Jackdaw projects “f...",
+      "category": "Production"
+    },
+    {
+      "title": "Zephyr Energy acquires 27,000 acres in Utah’s Paradox Basin",
+      "link": "https://www.offshore-technology.com/news/zephyr-energy-acquires-27000-acres-paradox-basin/",
+      "date": "2026-06-29T09:29:17.000Z",
+      "source": "Offshore Technology",
+      "description": "Zephyr Energy has expanded its operated land position in the Paradox Basin, Utah, US, with the acquisition of approximately 27,000 acres of additional leases.",
+      "category": "General"
+    },
+    {
+      "title": "More Well Workers offshore Norway Will Join Strike",
+      "link": "https://www.rigzone.com/news/more_well_workers_offshore_norway_will_join_strike-29-jun-2026-184007-article/?rss=true",
+      "date": "2026-06-29T08:41:11.000Z",
+      "source": "Rigzone",
+      "description": "<p>The Norwegian Union of Energy Workers (SAFE) said it had sent a notice that an additional 63 members would join hundreds already on strike after government m...",
+      "category": "General"
+    },
+    {
+      "title": "Middle East Oil Production Rebounds to 15 Million Bpd",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Production-Rebounds-to-15-Million-Bpd.html",
+      "date": "2026-06-29T08:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Crude oil production in the Middle East rebounded to between 14.6 million bpd and 15 million bpd earlier this month amid the ceasefire between Iran and the United States, the Financial Express reported today, citing a prediction that full recovery to pre-war levels would come by ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Hormuz Traffic Ebbs as Attacks Stoke Fresh Concerns",
+      "link": "https://www.rigzone.com/news/hormuz_traffic_ebbs_as_attacks_stoke_fresh_concerns-29-jun-2026-184006-article/?rss=true",
+      "date": "2026-06-29T07:30:29.000Z",
+      "source": "Rigzone",
+      "description": "<p>Commercial traffic through the Strait of Hormuz persisted at a reduced level after attacks on two ships raised fresh concerns about the ability and willingne...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "China’s LNG Buying Rebounds as Summer Power Demand Surges",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Buying-Rebounds-as-Summer-Power-Demand-Surges.html",
+      "date": "2026-06-29T07:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "China’s imports of liquefied natural gas this month are likely to be unchanged on last year’s, Kpler has forecast, seeing arrivals of a total of 5.29 million tons, as cited by Bloomberg. The June total, however, would be an increase on May LNG imports, which stood at 4.9 million ",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Williams set to acquire Momentum Midstream for $5.5bn",
+      "link": "https://www.offshore-technology.com/news/williams-to-acquire-momentum-midstream-5-5bn/",
+      "date": "2026-06-29T06:55:58.000Z",
+      "source": "Offshore Technology",
+      "description": "Williams, a US-based natural gas company, is reportedly close to acquire Momentum Midstream in a transaction valued at approximately $5.5bn.",
+      "category": "General"
+    },
+    {
+      "title": "Australian Gas Exploration Surges as Energy Security Takes Center Stage",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australian-Gas-Exploration-Surges-as-Energy-Security-Takes-Center-Stage.html",
+      "date": "2026-06-29T05:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Investment in natural gas exploration in Australia hit the highest in ten years amid the energy crunch caused by the war in the Middle East, totaling the equivalent of $329 million in the first quarter of the year, government data showed, as quoted by Reuters. The publication cit",
+      "category": "Geopolitics"
+    },
     {
       "title": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
       "link": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Turning-Into-The-Energy-Trade-of-the-Century.html",
-      "date": "2026-06-27T23:00:00.000Z",
+      "date": "2026-06-28T23:00:00.000Z",
       "source": "OilPrice.com",
       "description": "You might think that Shark Tank’s “Mr. Wonderful,” Kevin O’Leary, is betting it all on AI, but he is not. He is betting on the $5+ trillion in infrastructure required to run it, and that’s where big capital is flowing now. And he’s betting on Bitzero (NASDAQ: AIBZ) to be one of t",
       "category": "General"
+    },
+    {
+      "title": "Oil Markets Are Pricing A Supply Surge That Isn’t Guaranteed",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Are-Pricing-A-Supply-Surge-That-Isnt-Guaranteed.html",
+      "date": "2026-06-28T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Crude oil prices are in freefall after the United States and Iran agreed on a ceasefire, set to last 60 days. Traders expect the ceasefire to unleash an avalanche of crude, and indeed, tankers are leaving the Persian Gulf in growing numbers. And yet Iran just struck a commercial ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "The World's Biggest Energy Bet Is No Longer on Fossil Fuels",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/The-Worlds-Biggest-Energy-Bet-Is-No-Longer-on-Fossil-Fuels.html",
+      "date": "2026-06-28T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "For years, critics of the energy transition have made essentially the same argument. Renewable energy was supposedly too expensive, too dependent on subsidies, too intermittent, and too vulnerable to survive a serious energy security crisis. Sooner or later, they argued, governme",
+      "category": "General"
+    },
+    {
+      "title": "The World Is Racing to Develop New Nuclear Fuels",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-World-Is-Racing-to-Develop-New-Nuclear-Fuels.html",
+      "date": "2026-06-28T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "In the age of the nuclear renaissance, several countries are strategising to significantly increase their nuclear energy capacity over the coming decades, as part of efforts to diversify their energy mix and boost long-term energy security. However, securing fuel to power operati",
+      "category": "General"
+    },
+    {
+      "title": "China Eyes a Major Opportunity in Post-War Iran",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/China-Eyes-a-Major-Opportunity-in-Post-War-Iran.html",
+      "date": "2026-06-28T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Beijing is positioning itself to lead the post-war reconstruction effort in Tehran - a move analysts suggest could secure China long-term access to critical Iranian oil reserves. The diplomatic groundwork was laid during a recent meeting in New Delhi between Chinese Foreign Minis",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Egypt Targets 60% Renewable Electricity by 2040",
+      "link": "https://oilprice.com/Energy/Energy-General/Egypt-Targets-60-Renewable-Electricity-by-2040.html",
+      "date": "2026-06-28T15:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Egypt has steadily been increasing its renewable energy capacity and has even bigger plans for the coming decade. While Egypt continues to rely heavily on fossil fuels, that could soon change thanks to high levels of private investment in green energy, supported by favourable nat",
+      "category": "General"
+    },
+    {
+      "title": "Europe Averts Jet Fuel Chaos",
+      "link": "https://www.rigzone.com/news/europe_averts_jet_fuel_chaos-28-jun-2026-184004-article/?rss=true",
+      "date": "2026-06-28T12:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>A combination of surging local production and increased imports from non-Middle East suppliers have helped Europe to avoid a jet fuel crisis that some had fe...",
+      "category": "Supply Routes"
     },
     {
       "title": "One of Texas' Oldest Oil Plays Is Running Dry",
@@ -44,36 +188,12 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Turkey Pushes Bold Global Plan to Electrify 35% of Energy Use by 2035",
-      "link": "https://oilprice.com/Energy/Energy-General/Turkey-Pushes-Bold-Global-Plan-to-Electrify-35-of-Energy-Use-by-2035.html",
-      "date": "2026-06-27T15:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Turkey, the host of the UN’s COP31 climate summit, has urged other countries to electrify to support the global green transition. This shift could significantly cut greenhouse gas emissions and reduce reliance on fossil fuels over the next decade, helping to achieve global climat",
-      "category": "General"
-    },
-    {
       "title": "Panama Canal Sees Revenue Beating Forecast",
       "link": "https://www.rigzone.com/news/panama_canal_sees_revenue_beating_forecast-27-jun-2026-184000-article/?rss=true",
       "date": "2026-06-27T12:00:00.000Z",
       "source": "Rigzone",
       "description": "<p>The Panama Canal expects revenue to exceed its $5.2 billion forecast for fiscal 2026 after the closure of the Strait of Hormuz drove more ships through the w...",
       "category": "Supply Routes"
-    },
-    {
-      "title": "The Billion-Dollar Debt Deals Exposing an Oil Giant",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Billion-Dollar-Debt-Deals-Exposing-an-Oil-Giant.html",
-      "date": "2026-06-26T22:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Last week, Angola's state oil company, Sociedade Nacional de Combustíveis de Angola (Sonangol), secured a $2.65-billion financing deal with a consortium of international banks to fund the company's operating expenses and capital investments. The financing was heavily backed by a ",
-      "category": "General"
-    },
-    {
-      "title": "AI Demand, War, and Climate Pressure Push World Back To Nuclear",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/AI-Demand-War-and-Climate-Pressure-Push-World-Back-To-Nuclear.html",
-      "date": "2026-06-26T20:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Global energy markets are in turmoil as energy crises keep piling up. The energy-hungry AI boom, war in Iran, geopolitical instability, and climate pressures are creating a polycrisis for the global energy sector, and it’s just getting started. To solve multiple overlapping crise",
-      "category": "Geopolitics"
     },
     {
       "title": "UK Grid Issues Another Supply Warning",
@@ -89,62 +209,6 @@
       "date": "2026-06-26T19:39:53.000Z",
       "source": "Rigzone",
       "description": "<p>US oil plunged, erasing nearly all its gains made during the war, as vessel traffic through the Strait of Hormuz continued to rise and as investors increasin...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "China's Battery Giant Bets Big on Sodium as Lithium Volatility Persists",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Giant-Bets-Big-on-Sodium-as-Lithium-Volatility-Persists.html",
-      "date": "2026-06-26T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The world’s largest battery maker is taking a step back from the eclectic vehicles sector to refocus its efforts on energy storage. China’s Contemporary Amperex Technology Co. Ltd. (better known as CATL) has been building up its energy storage portfolio for years now, but the com",
-      "category": "General"
-    },
-    {
-      "title": "The IAEA Faces a New Nuclear Puzzle Inside Iran",
-      "link": "https://oilprice.com/Energy/Energy-General/The-IAEA-Faces-a-New-Nuclear-Puzzle-Inside-Iran.html",
-      "date": "2026-06-26T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Amid an ongoing row between Washington and Tehran over whether international monitors can verify Iranian compliance with its nuclear nonproliferation commitments, former officials have told RFE/RL that the scale, scope, and degree of access are crucial to the success of inspectio",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "US Drillers Add Oil, Gas Rigs As Hormuz Transit Resumes",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Drillers-Add-Oil-Gas-Rigs-As-Hormuz-Transit-Resumes.html",
-      "date": "2026-06-26T17:44:27.000Z",
-      "source": "OilPrice.com",
-      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 573, up 26 from this same time last year. The number of active oil rigs rose by 7 t",
-      "category": "Production"
-    },
-    {
-      "title": "Equinor Pulls Out of Japan’s Offshore Wind Market",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Pulls-Out-of-Japans-Offshore-Wind-Market.html",
-      "date": "2026-06-26T17:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Equinor is ending its offshore wind business activities in Japan and will close its Tokyo office by the end of the year as the Norwegian energy major is realigning its non-oil and gas strategy to focus on power markets. “This decision reflects a reassessment of Equinor’s strategi",
-      "category": "Prices"
-    },
-    {
-      "title": "Canada and Japan Consider Joint Critical Mineral Projects to Counter China",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Canada-and-Japan-Consider-Joint-Critical-Mineral-Projects-to-Counter-China.html",
-      "date": "2026-06-26T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Canada and Japan are considering cooperation in critical mineral projects and a potential plan of joint stockpiling of key metals as the two G7 economies look to reduce China’s outsized dominance in the market, Canada’s Minister of International Trade, Maninder Sidhu, told Reuter",
-      "category": "Prices"
-    },
-    {
-      "title": "Brent Erases Iran War Premium as Hormuz Flows Show Signs of Recovery",
-      "link": "https://oilprice.com/Energy/Energy-General/Brent-Erases-Iran-War-Premium-as-Hormuz-Flows-Show-Signs-of-Recovery.html",
-      "date": "2026-06-26T16:19:44.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil prices tumbled as markets bet Strait of Hormuz disruptions will ease, with Brent down 10% on the week and Middle East crude benchmarks slipping into contango. Friday, June 26, 2026 Whilst ship transits through the Strait of Hormuz remain a fraction of their previous norm (130",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Russia’s Fuel Crisis Is Pushing the Kremlin Toward Kazakhstan",
-      "link": "https://oilprice.com/Energy/Energy-General/Russias-Fuel-Crisis-Is-Pushing-the-Kremlin-Toward-Kazakhstan.html",
-      "date": "2026-06-26T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Grappling with a severe shortage, Russia is seeking to purchase a significant volume of gasoline from neighboring Kazakhstan. Astana appears hesitant to fulfill the request, however, apparently concerned that doing so might entail consequences for the Central Asian nation’s own e",
       "category": "Geopolitics"
     },
     {
@@ -340,14 +404,6 @@
       "category": "General"
     },
     {
-      "title": "TotalEnergies acquires 10% stake in Bab Gas Cap concession",
-      "link": "https://www.offshore-technology.com/news/totalenergies-acquires-10-stake-in-bab-gas-cap-concession/",
-      "date": "2026-06-25T07:38:57.000Z",
-      "source": "Offshore Technology",
-      "description": "TotalEnergies entered the Bab Gas Cap concession in Abu Dhabi, with a 10% interest, joining a consortium led by ADNOC, holds a 60% stake.",
-      "category": "General"
-    },
-    {
       "title": "Oil Falls to Postwar Lows",
       "link": "https://www.rigzone.com/news/oil_falls_to_postwar_lows-24-jun-2026-183984-article/?rss=true",
       "date": "2026-06-24T19:53:17.000Z",
@@ -380,14 +436,6 @@
       "category": "Production"
     },
     {
-      "title": "ADES to acquire Saipem’s Saudi rig-owning unit for $285m",
-      "link": "https://www.offshore-technology.com/news/ades-to-acquire-saipems-saudi-rig/",
-      "date": "2026-06-24T13:29:13.000Z",
-      "source": "Offshore Technology",
-      "description": "ADES Holding, a Saudi Arabia-based oil and gas drilling services provider, has signed a deal worth $285m to acquire Saudi Arabian Saipem in a move to expand its offshore fleet.",
-      "category": "Production"
-    },
-    {
       "title": "Woodside Wins Contract to Supply Gas to Alcoa",
       "link": "https://www.rigzone.com/news/woodside_wins_contract_to_supply_gas_to_alcoa-24-jun-2026-183980-article/?rss=true",
       "date": "2026-06-24T11:47:20.000Z",
@@ -402,14 +450,6 @@
       "source": "Rigzone",
       "description": "<p>The Norwegian Union of Energy Workers (SAFE) said Tuesday hundreds of well service members are pressing on with a strike that has now entered a second week, ...",
       "category": "General"
-    },
-    {
-      "title": "PLN EPI hot taps WNTS to link Conrad’s Mako gas project",
-      "link": "https://www.offshore-technology.com/news/pln-epi-wnts-link-conrads-mako-gas/",
-      "date": "2026-06-24T09:39:59.000Z",
-      "source": "Offshore Technology",
-      "description": "Conrad Asia Energy has announced that PLN Energi Primer Indonesia (PLN EPI) has completed a \"hot tap\" connection to the West Natuna Transportation System (WNTS), facilitating a link to the Pemping gas pipeline project.",
-      "category": "Supply Routes"
     },
     {
       "title": "US, Qatar Push Back against EU Methane Rules",
@@ -562,14 +602,6 @@
       "source": "Rigzone",
       "description": "<p>Iran said there had been \"major progress\" in all-night discussions with the US, as the warring sides try to reach a peace deal within two months.</p> <p>T...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Braskem Presses on with Petrochemicals Growth Plans",
-      "link": "https://www.rigzone.com/news/braskem_presses_on_with_petrochemicals_growth_plans-21-jun-2026-183958-article/?rss=true",
-      "date": "2026-06-21T11:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Braskem SA, the heavily indebted Brazilian petrochemical giant seeking an extrajudicial recovery, is continuing its push to increase production even as price...",
-      "category": "Prices"
     }
   ]
 }
