@@ -1,8 +1,104 @@
 {
-  "lastUpdated": "2026-07-01T19:03:51.425Z",
+  "lastUpdated": "2026-07-02T08:55:43.484Z",
   "summary": null,
-  "count": 85,
+  "count": 80,
   "articles": [
+    {
+      "title": "Harbour Energy begins gas production at Dvalin North in Norwegian Sea",
+      "link": "https://www.offshore-technology.com/news/harbour-energy-gas-production-dvalin-north/",
+      "date": "2026-07-02T08:35:37.000Z",
+      "source": "Offshore Technology",
+      "description": "Harbour Energy has commenced gas production from the Dvalin North field in the Norwegian Sea, marking the start-up ahead of schedule and under budget.",
+      "category": "Production"
+    },
+    {
+      "title": "Chinese Teapots Snap Up Middle East Crude As Prices Slide",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Teapots-Snap-Up-Middle-East-Crude-As-Prices-Slide.html",
+      "date": "2026-07-02T08:19:14.000Z",
+      "source": "OilPrice.com",
+      "description": "Chinese private refiners are buying Middle Eastern crude on the spot market amid falling prices, Bloomberg reported today, citing two purchases of Saudi and Emirati crude. According to the report, one teapot refiner, Rongsheng Petrochemical Co. bought a cargo of Saudi crude for p",
+      "category": "Refinery"
+    },
+    {
+      "title": "Iran Struggles to Woo Oil Buyers before US Waiver Expires",
+      "link": "https://www.rigzone.com/news/iran_struggles_to_woo_oil_buyers_before_us_waiver_expires-02-jul-2026-184039-article/?rss=true",
+      "date": "2026-07-02T07:58:57.000Z",
+      "source": "Rigzone",
+      "description": "<p>A hoard of Iranian oil is building up at sea, as the Islamic Republic struggles to find buyers before the expiry of a 60-day window granted by Washington.</p...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "EU Bows to Tech Lobby, Drops Ten-Year Renewables Rule for Data Centers",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Bows-to-Tech-Lobby-Drops-Ten-Year-Renewables-Rule-for-Data-Centers.html",
+      "date": "2026-07-02T07:01:14.000Z",
+      "source": "OilPrice.com",
+      "description": "The European Union has given in to pressure from Big Tech to water down its strict low-carbon energy requirements in order to pursue its AI agenda as the U.S. and China pull far ahead and the EU plays catchup. Citing a draft document released this week, the Financial Times report",
+      "category": "General"
+    },
+    {
+      "title": "Iran Exports Crude at 20% Premium Even as Unsold Barrels Pile Up at Sea",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Exports-Crude-at-20-Premium-Even-as-Unsold-Barrels-Pile-Up-at-Sea.html",
+      "date": "2026-07-02T06:03:54.000Z",
+      "source": "OilPrice.com",
+      "description": "Crude oil in floating storage off the Iranian coast is on the rise amid reluctance among buyers, Bloomberg reported today, citing data from Vortexa and its own calculations, suggesting some 58 million barrels are sitting on tankers. More than 90% of those barrels had no clear des",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "5 Under-the-Radar Stocks Fueling the AI Revolution",
+      "link": "https://oilprice.com/Energy/Energy-General/5-Under-the-Radar-Stocks-Fueling-the-AI-Revolution.html",
+      "date": "2026-07-02T00:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Nvidia was the first poster child of the AI revolution. OpenAI turned ChatGPT into a global phenomenon. Google, Microsoft, and Anthropic have since dominated headlines with ever-more-powerful models. But throughout history, the biggest fortunes made during a technological revolut",
+      "category": "General"
+    },
+    {
+      "title": "Trump Targets California Again In SpaceX Feud",
+      "link": "https://oilprice.com/Energy/Energy-General/Trump-Targets-California-Again-In-SpaceX-Feud.html",
+      "date": "2026-07-01T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "For years, U.S. President Donald Trump has loomed large over California's energy and environmental sectors as he tries to promote fossil fuels and roll back the state’s climate initiatives, with varying degrees of success. Back in 2019, the Trump administration effectively revoke",
+      "category": "Policy"
+    },
+    {
+      "title": "Wall Street Is Pivoting From Solar To Solar Plus Storage",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Wall-Street-Is-Pivoting-From-Solar-To-Solar-Plus-Storage.html",
+      "date": "2026-07-01T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The global solar energy boom is showing no signs of slowing down, with falling costs and ambitious clean energy targets continuing to drive rapid adoption. Last year, solar capacity additions surged 11% Y/Y to a record 647 GW worldwide, bringing the total cumulative solar capacit",
+      "category": "General"
+    },
+    {
+      "title": "The Hydrogen Industry's Efficiency Problem May Have Just Met Its Fix",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Hydrogen-Industrys-Efficiency-Problem-May-Have-Just-Met-Its-Fix.html",
+      "date": "2026-07-01T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "A team of researchers in Germany has discovered a highly efficient way to convert sunlight into hydrogen fuel, potentially solving some of the most critical challenges facing the green hydrogen sector and offering an elegant solution to clean up some of the economy’s dirtiest ind",
+      "category": "General"
+    },
+    {
+      "title": "How the U.S. and U.K. Are Redrawing Syria's Energy Map",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/How-the-US-and-UK-Are-Redrawing-Syrias-Energy-Map.html",
+      "date": "2026-07-01T20:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The agreement signed last week between the Syrian Petroleum Company (SPC), the U.S.’s ConocoPhillips and Great Britain’s Novaterra ConocoPhillips — covering the development of new gas fields and the expansion of output at existing sites — is the latest move in Washington’s and Lo",
+      "category": "Production"
+    },
+    {
+      "title": "Saudis Make Rare Spot Oil Sales",
+      "link": "https://www.rigzone.com/news/saudis_make_rare_spot_oil_sales-01-jul-2026-184034-article/?rss=true",
+      "date": "2026-07-01T20:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Saudi Arabia is taking the unusual step of selling millions of barrels of oil on an ad-hoc basis to customers in Asia, illustrating the complex task of resto...",
+      "category": "Production"
+    },
+    {
+      "title": "Crude Extends Losses on Glut Fears",
+      "link": "https://www.rigzone.com/news/crude_extends_losses_on_glut_fears-01-jul-2026-184038-article/?rss=true",
+      "date": "2026-07-01T19:54:31.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil extended its run of declines on growing signs of oversupply, with traffic through the Strait of Hormuz recovering and some of the impacts of the Iran war...",
+      "category": "Geopolitics"
+    },
     {
       "title": "Same Fear, Different Fallout: Oil and Gold's Diverging Collapse",
       "link": "https://oilprice.com/Energy/Energy-General/Same-Fear-Different-Fallout-Oil-and-Golds-Diverging-Collapse.html",
@@ -68,44 +164,12 @@
       "category": "Policy"
     },
     {
-      "title": "Renewables Hit Record 58% Share of Germany's Power Consumption",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Renewables-Hit-Record-58-Share-of-Germanys-Power-Consumption.html",
-      "date": "2026-07-01T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Renewable energy accounted for a record-high 58% of Germany’s electricity consumption in the first half of 2026, up from 55.8% for the same period last year, the latest estimates by industry associations ZSW and BDEW showed on Wednesday. Germany is looking to boost its solar and ",
-      "category": "General"
-    },
-    {
-      "title": "EIA: U.S. Crude Inventories Post Another Major Draw",
-      "link": "https://oilprice.com/Energy/Crude-Oil/EIA-US-Crude-Inventories-Post-Another-Major-Draw.html",
-      "date": "2026-07-01T14:47:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Crude oil inventories in the United States decreased by 3.8 million barrels during the week ending June 26, according to new data from the U.S. Energy Information Administration (EIA) released on Wednesday. The decrease brings commercial stockpiles to 408.4 million barrels, accor",
-      "category": "Policy"
-    },
-    {
-      "title": "Japan's Biggest LNG Buyer Creates Standalone Trading Arm",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Biggest-LNG-Buyer-Creates-Standalone-Trading-Arm.html",
-      "date": "2026-07-01T14:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Japan’s JERA is creating a wholly-owned subsidiary to develop and manage its LNG, upstream, low-carbon fuels, and shipping businesses, the biggest Japanese LNG importer and largest power producer said on Wednesday. The new company, JERA Global Energy Solutions (JERA GES), will be",
-      "category": "Supply Routes"
-    },
-    {
       "title": "Oil Execs Predict Future WTI Oil Prices",
       "link": "https://www.rigzone.com/news/oil_execs_predict_future_wti_oil_prices-01-jul-2026-184036-article/?rss=true",
       "date": "2026-07-01T14:25:08.000Z",
       "source": "Rigzone",
       "description": "<p>Executives from oil and gas firms revealed where they expect the West Texas Intermediate (WTI) crude oil price to be at various points in the future in the s...",
       "category": "Policy"
-    },
-    {
-      "title": "U.S. Raises Pressure on Iran With Renewed Military Warning",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/US-Raises-Pressure-on-Iran-With-Renewed-Military-Warning.html",
-      "date": "2026-07-01T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "US Vice President JD Vance has again signaled that the White House is prepared to use force against Iran if diplomacy fails, raising the stakes around a 60-day memorandum of understanding (MOU) that has halted open hostilities but left the core disputes unresolved. In an intervie",
-      "category": "Geopolitics"
     },
     {
       "title": "Woodside assumes operatorship of Gippsland Basin assets",
@@ -116,11 +180,11 @@
       "category": "Supply Routes"
     },
     {
-      "title": "EU Industry Splits Over Emissions Trading Scheme Overhaul",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Industry-Splits-Over-Emissions-Trading-Scheme-Overhaul.html",
-      "date": "2026-07-01T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "European companies are concerned – in various ways – about the upcoming revamping of the EU's emissions trading scheme (ETS), the key instrument the bloc has been implementing since 2005 to curb emissions from heavy-polluting sectors including the cement, steel-making, and chemic",
+      "title": "Can Brazil become a key rare earth supplier for the West?",
+      "link": "https://www.offshore-technology.com/news/can-brazil-become-a-key-rare-earth-supplier-for-the-west/",
+      "date": "2026-07-01T13:43:08.000Z",
+      "source": "Offshore Technology",
+      "description": "We explore Brazil's growing role in the global rare earth industry and whether it can become a key supplier to Western markets.",
       "category": "Prices"
     },
     {
@@ -140,14 +204,6 @@
       "category": "Prices"
     },
     {
-      "title": "Eni Forms Trading Venture With Mercuria to Boost Commodity Profits",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Eni-Forms-Trading-Venture-With-Mercuria-to-Boost-Commodity-Profits.html",
-      "date": "2026-07-01T12:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Eni is forming an energy commodity joint venture with global trader Mercuria as the Italian energy major eyes higher profits to rival the most active traders among the European energy giants. Eni on Wednesday said it had signed an agreement with Geneva-based Mercuria, one of the ",
-      "category": "Prices"
-    },
-    {
       "title": "BP Sees More Leadership Changes",
       "link": "https://www.rigzone.com/news/bp_sees_more_leadership_changes-01-jul-2026-184032-article/?rss=true",
       "date": "2026-07-01T11:53:46.000Z",
@@ -162,14 +218,6 @@
       "source": "Rigzone",
       "description": "<p>In a statement posted on his Truth Social page on Tuesday, U.S. President Donald J. Trump ordered U.S. gasoline retailers to cut their prices “immediately”.<...",
       "category": "Prices"
-    },
-    {
-      "title": "KKR and SK Launch South Korea’s Largest Renewable Energy Platform",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/KKR-and-SK-Launch-South-Koreas-Largest-Renewable-Energy-Platform.html",
-      "date": "2026-07-01T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Global investment firm KKR and South Korea’s industrial conglomerate SK Inc are launching the single biggest renewable energy platform in South Korea to help meet growing power demand from AI and chip manufacturing. KKR and SK Inc are creating the platform, valued at about $1.3 b",
-      "category": "General"
     },
     {
       "title": "Petronas reports two new hydrocarbon finds in Suriname’s Block 52",
@@ -194,14 +242,6 @@
       "source": "Rigzone",
       "description": "<p>In a report sent to Rigzone late Tuesday by the Standard Chartered team, Standard Chartered Bank Energy Research Head Emily Ashford noted that oil’s “softeni...",
       "category": "Production"
-    },
-    {
-      "title": "Goldman Sachs Warns Oil Inventory Rebuild Won’t Prevent 2027 Supply Glut",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-Oil-Inventory-Rebuild-Wont-Prevent-2027-Supply-Glut.html",
-      "date": "2026-07-01T09:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The coming global race to rebuild depleted oil inventories will not be enough to offset a massive glut that’s coming to the market next year, as traffic through the Strait of Hormuz appears to be headed toward normalization, according to Goldman Sachs. Stockpiles of crude and ref",
-      "category": "Geopolitics"
     },
     {
       "title": "ADNOC, Eni Acquire Stakes in Argentina LNG Blocks",
@@ -332,20 +372,20 @@
       "category": "General"
     },
     {
-      "title": "Eni Adds Gas Production Capacity in Libya",
-      "link": "https://www.rigzone.com/news/eni_adds_gas_production_capacity_in_libya-30-jun-2026-184020-article/?rss=true",
-      "date": "2026-06-30T06:30:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Eni SpA and Libya's National Oil Corp (NOC) have started up a compression project that improves natural gas recovery in the Bahr Essalam field off the Medite...",
-      "category": "Production"
-    },
-    {
       "title": "TechnipFMC Bags Large Contract to Deliver New Var Energi Projects",
       "link": "https://www.rigzone.com/news/technipfmc_bags_large_contract_to_deliver_new_var_energi_projects-30-jun-2026-184018-article/?rss=true",
       "date": "2026-06-30T06:30:00.000Z",
       "source": "Rigzone",
       "description": "<p>TechnipFMC PLC has received a contract to execute the Vår Energi ASA-led Ofelia and Gjøa Nord development projects on Norway's side of the North Sea.</p> ...",
       "category": "General"
+    },
+    {
+      "title": "Eni Adds Gas Production Capacity in Libya",
+      "link": "https://www.rigzone.com/news/eni_adds_gas_production_capacity_in_libya-30-jun-2026-184020-article/?rss=true",
+      "date": "2026-06-30T06:30:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Eni SpA and Libya's National Oil Corp (NOC) have started up a compression project that improves natural gas recovery in the Bahr Essalam field off the Medite...",
+      "category": "Production"
     },
     {
       "title": "Putin Acknowledges Russia Faces Fuel Supply Issues",
@@ -404,14 +444,6 @@
       "category": "Production"
     },
     {
-      "title": "Lion Energy gains Indonesia’s approval for East Seram PSC farmout",
-      "link": "https://www.offshore-technology.com/news/lion-energy-indonesias-approval-east-seram/",
-      "date": "2026-06-29T12:35:23.000Z",
-      "source": "Offshore Technology",
-      "description": "Lion Energy has received formal approval from the Indonesian MEMR for the transfer of a 15% participating interest in the East Seram PSC from its subsidiary Balam Energy to OPIC East Seram.",
-      "category": "General"
-    },
-    {
       "title": "Oil Price Bubble Has Burst",
       "link": "https://www.rigzone.com/news/oil_price_bubble_has_burst-29-jun-2026-184010-article/?rss=true",
       "date": "2026-06-29T11:49:42.000Z",
@@ -426,14 +458,6 @@
       "source": "Rigzone",
       "description": "<p>The European Commission has executed a public-private cooperation agreement on energy storage that saw 22 member states commit to enabling the installation o...",
       "category": "General"
-    },
-    {
-      "title": "Oil trade stabilises amid US-Iran halt to renewed hostilities",
-      "link": "https://www.offshore-technology.com/news/oil-stabilises-us-iran-halt-renewed-hostilities/",
-      "date": "2026-06-29T09:44:50.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil prices stabilised on 29 June, Monday after the US and Iran reached an agreement to halt their renewed hostilities in the Gulf and committed to resuming negotiations over the Strait of Hormuz.",
-      "category": "Geopolitics"
     },
     {
       "title": "OEUK Says Urgent Decisions Needed on Rosebank, Jackdaw",
@@ -618,70 +642,6 @@
       "source": "Rigzone",
       "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) June 26, 2026, 7:52 AM GMT: Article up...",
       "category": "General"
-    },
-    {
-      "title": "Oil Falls to Postwar Lows",
-      "link": "https://www.rigzone.com/news/oil_falls_to_postwar_lows-24-jun-2026-183984-article/?rss=true",
-      "date": "2026-06-24T19:53:17.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil's wartime price gains have evaporated as the US and Iran log progress in peace talks and more tankers openly transit the Strait of Hormuz, easing fears o...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Iran, Oman to Coordinate Hormuz Transits",
-      "link": "https://www.rigzone.com/news/iran_oman_to_coordinate_hormuz_transits-24-jun-2026-183983-article/?rss=true",
-      "date": "2026-06-24T16:10:48.000Z",
-      "source": "Rigzone",
-      "description": "<p>Shippers can transit the Strait of Hormuz via Iranian or Omani and US-coordinated waters, according to the International Maritime Organization, part of a bro...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Tesla, NatPower Partner to Enable Over 25GWh of BESS in Europe",
-      "link": "https://www.rigzone.com/news/tesla_natpower_partner_to_enable_over_25gwh_of_bess_in_europe-24-jun-2026-183982-article/?rss=true",
-      "date": "2026-06-24T16:04:46.000Z",
-      "source": "Rigzone",
-      "description": "<p>NatPower SA and Tesla Inc have signed \"a multi-year supply and execution agreement\" to add more than 25 gigawatt hours (GWh) of battery energy storage system...",
-      "category": "General"
-    },
-    {
-      "title": "Saipem Divests Saudi Shallow Water Rigs",
-      "link": "https://www.rigzone.com/news/saipem_divests_saudi_shallow_water_rigs-24-jun-2026-183981-article/?rss=true",
-      "date": "2026-06-24T15:46:14.000Z",
-      "source": "Rigzone",
-      "description": "<p>Saipem SpA said Wednesday it had signed an agreement to sell a subsidiary in Saudi Arabia operating shallow-water drillers to ADES Holding Co for $285 millio...",
-      "category": "Production"
-    },
-    {
-      "title": "Woodside Wins Contract to Supply Gas to Alcoa",
-      "link": "https://www.rigzone.com/news/woodside_wins_contract_to_supply_gas_to_alcoa-24-jun-2026-183980-article/?rss=true",
-      "date": "2026-06-24T11:47:20.000Z",
-      "source": "Rigzone",
-      "description": "<p>Woodside Energy Group Ltd has executed an agreement with Alcoa Corp to supply the alumina maker with 31.1 petajoules of Western Australian natural gas from 2...",
-      "category": "General"
-    },
-    {
-      "title": "Norway Well Workers Continue Strike as Standoff Escalates",
-      "link": "https://www.rigzone.com/news/norway_well_workers_continue_strike_as_standoff_escalates-24-jun-2026-183979-article/?rss=true",
-      "date": "2026-06-24T10:24:01.000Z",
-      "source": "Rigzone",
-      "description": "<p>The Norwegian Union of Energy Workers (SAFE) said Tuesday hundreds of well service members are pressing on with a strike that has now entered a second week, ...",
-      "category": "General"
-    },
-    {
-      "title": "US, Qatar Push Back against EU Methane Rules",
-      "link": "https://www.rigzone.com/news/us_qatar_push_back_against_eu_methane_rules-24-jun-2026-183978-article/?rss=true",
-      "date": "2026-06-24T08:07:26.000Z",
-      "source": "Rigzone",
-      "description": "<p>The US, Qatar and other natural gas exporters are urging the European Union to ease some of its pending methane emissions rules, warning that the regulations...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Asian Demand for Mideast Oil Slows after Splurge",
-      "link": "https://www.rigzone.com/news/asian_demand_for_mideast_oil_slows_after_splurge-24-jun-2026-183977-article/?rss=true",
-      "date": "2026-06-24T07:45:33.000Z",
-      "source": "Rigzone",
-      "description": "<p>Asian refiners have slowed purchases of Middle Eastern crude after a buying spree over the past three weeks, with oil majors and traders stepping in to take ...",
-      "category": "Refinery"
     }
   ]
 }
