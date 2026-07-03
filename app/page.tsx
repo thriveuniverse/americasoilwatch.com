@@ -112,10 +112,10 @@ export default async function HomePage() {
 
       {/* Disruption alert */}
       <DisruptionBanner
-        tone="update"
-        headline="Venezuela quake: energy aftershocks"
-        body="Venezuela's twin quakes have not delivered a major crude-export shock — key oilfields and export terminals appear largely undamaged, with output still cited around 1.2M bpd and the Jose terminal operating. But power outages are hitting refining and ports: the 645,000-bpd Amuay (the country's largest, and running only ~137k before the quakes) was forced offline by a power loss before supply was restored; the 146,000-bpd El Palito and the Morón petrochemical complex have struggled to restart; Puerto Cabello is only partly operating and La Guaira stayed shut. Reuters reports at least eight workers were injured in an explosion at a PDVSA rig in Apure state, the injured taken to Colombia for treatment (PDVSA had not commented). A regional-infrastructure story, not a global oil shock."
-        linkLabel="Supply & infrastructure →"
+        tone="alert"
+        headline="Escalation risk: this week is the flashpoint"
+        body="WTI ~$68, Brent ~$71 (lowest since 27 February) on a glut of previously stranded Gulf barrels — but the market has priced out the geopolitical premium faster than the risk has receded, even as US forces pour into the region. Vectors converge on the 4–9 July window: a US–Iran ceasefire negotiators concede is more likely to collapse than hold (Axios); a hardening US build-up (USS Boxer in-theatre, three carrier groups, ~50,000 personnel, the 82nd Airborne ordered from Fort Bragg); a Houthi ban on Israeli-linked Red Sea shipping since 8 June squeezing Bab-el-Mandeb while Hormuz stays contested; and the 4–9 July Khamenei funeral, with Israel having declared his successor 'marked for death'. A confirmed trigger would re-price oil sharply — diesel and freight first, with the SPR cushion thin."
+        linkLabel="Supply routes & escalation →"
         linkHref="/supply"
       />
 
