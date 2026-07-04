@@ -113,10 +113,10 @@ export default async function HomePage() {
       {/* Disruption alert */}
       <DisruptionBanner
         tone="alert"
-        headline="Escalation risk: this week is the flashpoint"
-        body="WTI ~$68, Brent ~$71 (lowest since 27 February) on a glut of previously stranded Gulf barrels — but the market has priced out the geopolitical premium faster than the risk has receded, even as US forces pour into the region. Vectors converge on the 4–9 July window: a US–Iran ceasefire negotiators concede is more likely to collapse than hold (Axios); a hardening US build-up (USS Boxer in-theatre, three carrier groups, ~50,000 personnel, the 82nd Airborne ordered from Fort Bragg); a Houthi ban on Israeli-linked Red Sea shipping since 8 June squeezing Bab-el-Mandeb while Hormuz stays contested; and the 4–9 July Khamenei funeral, with Israel having declared his successor 'marked for death'. A confirmed trigger would re-price oil sharply — diesel and freight first, with the SPR cushion thin. Meanwhile the UK and France are leading a multinational mine-clearance mission to reopen the strait — French minehunters and frigates and the Royal Navy's RFA Lyme Bay — even as France returns its carrier Charles de Gaulle to Toulon — though Iran rejects any foreign mine-clearance, insisting it will clear the strait alone and that passage stays conditional on Tehran."
-        linkLabel="Supply routes & escalation →"
-        linkHref="/supply"
+        headline="A low oil price is not safety"
+        body="Crude is pricing a glut while Hormuz stays unsafe and diesel tightens. WTI ~$68.78, Brent ~$71.94 — prompt Brent in contango — as stranded Gulf barrels finally sail, but that backlog is nearly exhausted (Kpler), Gulf exports are still ~40% below normal, major lines like CMA CGM won't return, and JMIC still rates the Hormuz threat 'substantial'. US distillate sits ~10% below average with the SPR thin, and Russia weighs a diesel-export ban — a cheaper barrel may not reach the pump. Escalation risk around the 4–9 July funeral window remains live."
+        linkLabel="The two-speed reopening →"
+        linkHref="/analysis/low-oil-price-is-not-safety"
       />
 
       {/* Research hub — flagship body of work */}
