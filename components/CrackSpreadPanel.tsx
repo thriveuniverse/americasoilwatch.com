@@ -111,6 +111,14 @@ export default function CrackSpreadPanel({ data }: { data: CrackData }) {
           holding their value even as crude falls — so pump and diesel prices need not follow crude
           down. It is the bridge between the barrel and the bill.
         </p>
+        <p className="mt-2 text-[10px] leading-relaxed text-amber-500/70">
+          Paper benchmark margin — products vs benchmark crude. A refiner's cash margin runs lower
+          after sour-crude differentials and energy costs, so read this as a product-tightness gauge,
+          not refiner profit.{' '}
+          <a href="/analysis/record-crack-is-not-record-profit" className="underline hover:text-amber-400">
+            Why a record crack isn&apos;t record profit →
+          </a>
+        </p>
         <p className="mt-2 text-[10px] font-mono text-gray-600">
           {data.dataSource} · spot basis · latest {data.latestDate}
         </p>
