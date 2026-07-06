@@ -10,6 +10,7 @@
     "lint": "next lint",
     "fetch:wti": "npx tsx scripts/fetch-wti.ts",
     "fetch:eia": "npx tsx scripts/fetch-eia.ts",
+    "fetch:crack": "npx tsx scripts/fetch-crack.ts",
     "fetch:brent": "npx tsx scripts/fetch-brent.ts",
     "fetch:bunker": "npx tsx scripts/fetch-bunker.ts",
     "fetch:marad": "npx tsx scripts/fetch-marad.ts",

@@ -37,6 +37,12 @@ jobs:
           EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
         continue-on-error: true
 
+      - name: Fetch US 3-2-1 crack spread (refining margin)
+        run: npm run fetch:crack
+        env:
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+        continue-on-error: true
+
       - name: Fetch Brent crude price
         run: npm run fetch:brent
         continue-on-error: true

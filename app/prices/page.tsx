@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import JsonLd from '@/components/JsonLd';
 import BrentHistoricalContext from '@/components/BrentHistoricalContext';
+import CrackSpreadPanel, { type CrackData } from '@/components/CrackSpreadPanel';
 
 export const revalidate = 3600;
 export const metadata: Metadata = {
@@ -27,6 +28,7 @@ export default function PricesPage() {
     allTimeLow:  { date: string; priceUsd: number };
   }>('brent-eia-daily.json');
   const liveBrent = loadJson<{ priceUsd: number }>('brent.json');
+  const crack = loadJson<CrackData>('crack.json');
 
   return (
     <div className="max-w-4xl mx-auto space-y-8">
@@ -97,6 +99,9 @@ export default function PricesPage() {
           </div>
         </div>
       )}
+
+      {/* US 3-2-1 refining margin */}
+      {crack && crack.history?.length > 1 && <CrackSpreadPanel data={crack} />}
 
       {/* Price context note */}
       <div className="rounded-lg border border-oil-800 bg-oil-900/20 px-5 py-4">
