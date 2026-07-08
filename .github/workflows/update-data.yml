@@ -43,6 +43,10 @@ jobs:
           EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
         continue-on-error: true
 
+      - name: Fetch Dow–Nasdaq divergence (FRED)
+        run: npm run fetch:divergence
+        continue-on-error: true
+
       - name: Fetch Brent crude price
         run: npm run fetch:brent
         continue-on-error: true
