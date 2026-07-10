@@ -7,12 +7,12 @@ export const revalidate = 3600;
 export const metadata: Metadata = {
   title: 'Strait of Hormuz Crisis Timeline (2026) | AmericasOilWatch',
   description:
-    'A sourced, filterable chronology of the 2026 Strait of Hormuz crisis — military, diplomatic, shipping and market events from the outbreak of war through the fragile reopening. Every entry cited.',
+    'A sourced, filterable chronology of the 2026 Strait of Hormuz crisis — military, diplomatic, shipping and market events from the outbreak of war through reopening and renewed escalation. Every entry cited.',
   alternates: { canonical: 'https://americasoilwatch.com/hormuz-timeline' },
   openGraph: {
     title: 'Strait of Hormuz Crisis Timeline (2026) | AmericasOilWatch',
     description:
-      'Sourced, filterable chronology of the 2026 Strait of Hormuz crisis — outbreak to fragile reopening.',
+      'Sourced, filterable chronology of the 2026 Strait of Hormuz crisis — outbreak to renewed escalation.',
     url: 'https://americasoilwatch.com/hormuz-timeline',
     siteName: 'AmericasOilWatch',
     type: 'website',
@@ -51,7 +51,7 @@ export default function HormuzTimelinePage() {
         <h1 className="mt-2 text-2xl font-bold text-white">Strait of Hormuz — Crisis Timeline</h1>
         <p className="mt-2 text-sm text-gray-400 leading-relaxed">
           A sourced, filterable chronology of the 2026 Strait of Hormuz crisis — from the outbreak of
-          war on 28 February through the fragile reopening. The Western Hemisphere has been the swing
+          war on 28 February through reopening and renewed escalation. The Western Hemisphere has been the swing
           supplier replacing disrupted Gulf barrels, so the strait&apos;s recovery shapes US export pull
           and pump prices across the Americas. Every entry links to its source; many link to our deeper
           analysis. Price and threat lead the story; the lagging transit data confirms it.
