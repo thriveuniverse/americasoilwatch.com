@@ -1,8 +1,160 @@
 {
-  "lastUpdated": "2026-07-10T08:21:48.042Z",
+  "lastUpdated": "2026-07-10T15:07:46.631Z",
   "summary": null,
-  "count": 82,
+  "count": 88,
   "articles": [
+    {
+      "title": "BOEM Explores Potential for OCS Space Launch and Recovery",
+      "link": "https://www.rigzone.com/news/boem_explores_potential_for_ocs_space_launch_and_recovery-10-jul-2026-184116-article/?rss=true",
+      "date": "2026-07-10T14:55:52.000Z",
+      "source": "Rigzone",
+      "description": "<p>In a statement posted on its website this week, the U.S. Department of the Interior’s Bureau of Ocean Energy Management (BOEM) announced that it had initiate...",
+      "category": "Policy"
+    },
+    {
+      "title": "UAE Oil Output Hits All-Time High, Doubling Pre-Crisis Levels",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UAE-Oil-Output-Hits-All-Time-High-Doubling-Pre-Crisis-Levels.html",
+      "date": "2026-07-10T14:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The United Arab Emirates (UAE) produced 4.1 million barrels per day (bpd) of crude oil in June, its highest output ever, according to estimates by the International Energy Agency. The UAE’s crude oil production jumped from 3.3 million bpd in May to 4.1 million bpd in June after t",
+      "category": "Production"
+    },
+    {
+      "title": "Venezuela Breaks Up Oil Monopoly Under New Rules",
+      "link": "https://www.rigzone.com/news/venezuela_breaks_up_oil_monopoly_under_new_rules-10-jul-2026-184114-article/?rss=true",
+      "date": "2026-07-10T14:26:05.000Z",
+      "source": "Rigzone",
+      "description": "<p>Venezuela’s interim government published long-awaited oil regulations on Thursday that effectively end the decades-long control of national oil company Petró...",
+      "category": "Policy"
+    },
+    {
+      "title": "Bureaucracy Is Strangling America's Clean Energy Buildout",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Bureaucracy-Is-Strangling-Americas-Clean-Energy-Buildout.html",
+      "date": "2026-07-10T14:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The global energy system is facing a polycrisis. Consecutive and escalating geopolitical crises have thrown the world’s oil and gas markets into turmoil, the artificial intelligence boom is placing unprecedented stress on power grids and threatens to drive a major energy supply d",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "IEA Cuts Russia's Oil Production Forecast Due to Ukrainian Attacks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Cuts-Russias-Oil-Production-Forecast-Due-to-Ukrainian-Attacks.html",
+      "date": "2026-07-10T13:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Russia's oil production in 2026 and 2027 is set to be lower than previously expected, due to intensified Ukrainian drone attacks on Russia's energy infrastructure, the International Energy Agency said in its monthly oil market report on Friday. Russia produced on average 9.2 mill",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "India’s State Nuclear Firm In Search of Global Uranium Assets",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-State-Nuclear-Firm-In-Search-of-Global-Uranium-Assets.html",
+      "date": "2026-07-10T12:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Indian state-owned NTPC Ltd, the biggest utility in the country, is looking to acquire stakes in uranium assets globally to secure fuel for the expected massive expansion of India’s nuclear power capacity. NTPC, currently the only nuclear power generator in the country, has issue",
+      "category": "General"
+    },
+    {
+      "title": "Chevron to Continue Supplying Gas to Australian Utility Alinta",
+      "link": "https://www.rigzone.com/news/chevron_to_continue_supplying_gas_to_australian_utility_alinta-10-jul-2026-184111-article/?rss=true",
+      "date": "2026-07-10T12:03:37.000Z",
+      "source": "Rigzone",
+      "description": "<p>Chevron Corp has signed an agreement to supply 46 petajoules (pJ) of natural gas to Alinta Energy Pty Ltd over five years.</p> <p>Supply to the Perth, Wes...",
+      "category": "General"
+    },
+    {
+      "title": "Oil Prices Rally on Renewed Hormuz Supply Risks",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-on-Renewed-Hormuz-Supply-Risks.html",
+      "date": "2026-07-10T11:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "August WTI crude oil traded higher during the week ending July 10, with prices last at $71.84 through Thursday evening, up $3.38, or 4.94%. The contract posted a wide weekly range, climbing from a low of $67.82 to a high of $76.08 before pulling back late Thursday. The week's adv",
+      "category": "Prices"
+    },
+    {
+      "title": "Nord Stream Loses Landmark Insurance Case as War Exclusion Prevails",
+      "link": "https://oilprice.com/Energy/Energy-General/Nord-Stream-Loses-Landmark-Insurance-Case-as-War-Exclusion-Prevails.html",
+      "date": "2026-07-10T11:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Politics, Geopolitics & Conflict A UK High Court ruling has ended Nord Stream AG’s attempt to recover $662 million in insurance claims from the September 2022 sabotage of the Nord Stream 1 gas pipeline, with a judge ruling it a standard war-risk exclusion and relieving insurers o",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "U.S. Strikes Fail to Break Iran’s Grip on the Strait of Hormuz",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Strikes-Fail-to-Break-Irans-Grip-on-the-Strait-of-Hormuz.html",
+      "date": "2026-07-10T11:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The U.S. launched another major round of strikes across Iran this week, targeting roughly 90 military sites, including coastal radar installations, anti-ship missile batteries, drone launch positions, command networks and IRGC naval assets around Hormuz. Tehran responded within h",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "ADNOC Orders $900 Million in New LNG Carriers to Expand Global Fleet",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Orders-900-Million-in-New-LNG-Carriers-to-Expand-Global-Fleet.html",
+      "date": "2026-07-10T11:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "ADNOC Logistics and Services has placed a $900-million order for four newbuild LNG carriers to expand its fleet as Abu Dhabi’s national oil company seeks to boost gas exports to seize the global rise in LNG demand. ADNOC Logistics and Services on Friday announced a newbuilding or",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "EIA Cuts 2026, 2027 USA Gasoline Price Projection",
+      "link": "https://www.rigzone.com/news/eia_cuts_2026_2027_usa_gasoline_price_projection-10-jul-2026-184110-article/?rss=true",
+      "date": "2026-07-10T11:19:07.000Z",
+      "source": "Rigzone",
+      "description": "<p>The U.S. Energy Information Administration (EIA) lowered its U.S. regular gasoline price projection for both 2026 and 2027 in its latest short term energy ou...",
+      "category": "Policy"
+    },
+    {
+      "title": "IEA Warns Renewed U.S.-Iran Conflict Could Upend Oil Surplus Forecast",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-Renewed-US-Iran-Conflict-Could-Upend-Oil-Surplus-Forecast.html",
+      "date": "2026-07-10T10:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Despite the tentative recovery of oil flows through the Strait of Hormuz and the first build-up in global stocks since the war began, this week’s re-escalation of the U.S.-Iran hostilities could flip the outlook for an oil market surplus for next year, the International Energy Ag",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Strategists Expect USA-Iran Tension to be Short Lived",
+      "link": "https://www.rigzone.com/news/strategists_expect_usairan_tension_to_be_short_lived-10-jul-2026-184108-article/?rss=true",
+      "date": "2026-07-10T10:05:56.000Z",
+      "source": "Rigzone",
+      "description": "<p>In an oil and gas report sent to Rigzone on Thursday by the Macquarie team, Macquarie strategists, including Vikas Dwivedi and Walt Chancellor, said they exp...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Baker Hughes wins contracts for Cheniere’s Sabine Pass LNG expansion",
+      "link": "https://www.offshore-technology.com/news/baker-hughes-contracts-sabine-pass-lng-expansion/",
+      "date": "2026-07-10T09:53:32.000Z",
+      "source": "Offshore Technology",
+      "description": "Baker Hughes has secured three significant contracts to supply equipment and services for the expansion of Cheniere’s Sabine Pass LNG facility in Cameron Parish, Louisiana, US.",
+      "category": "Refinery"
+    },
+    {
+      "title": "TotalEnergies exports first cargo from ECA LNG plant to Asia",
+      "link": "https://www.offshore-technology.com/news/totalenergies-exports-first-cargo-eca-lng/",
+      "date": "2026-07-10T09:31:30.000Z",
+      "source": "Offshore Technology",
+      "description": "TotalEnergies has exported the initial cargo of liquefied natural gas (LNG) produced at the ECA LNG Phase 1 terminal on Mexico’s Pacific Coast to Asia.",
+      "category": "Refinery"
+    },
+    {
+      "title": "Fuel Refining Margins Hit Record Highs as Markets Tighten",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Fuel-Refining-Margins-Hit-Record-Highs-as-Markets-Tighten.html",
+      "date": "2026-07-10T09:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Refining margins for gasoline and diesel jumped this week to new record highs after the re-escalation in the Middle East, Russia’s ban on diesel exports, and crumbling global fuel inventories. The surge in fuel margins and the price spread over crude prices suggest that the globa",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "ADNOC, Mitsui Ink Broad Energy Partnership",
+      "link": "https://www.rigzone.com/news/adnoc_mitsui_ink_broad_energy_partnership-10-jul-2026-184107-article/?rss=true",
+      "date": "2026-07-10T09:05:41.000Z",
+      "source": "Rigzone",
+      "description": "<p>Abu Dhabi National Oil Co PJSC and Japan's Mitsui & Co Ltd have signed an agreement to explore potential joint projects across the energy value chain.</p> ...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "More LNG Carriers Brave the Strait of Hormuz Despite Renewed Hostilities",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/More-LNG-Carriers-Brave-the-Strait-of-Hormuz-Despite-Renewed-Hostilities.html",
+      "date": "2026-07-10T08:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Close to half a dozen liquefied natural gas carriers have gone into the Strait of Hormuz in the past few days and six have exited the strait, despite the recent return to hostilities between the United States and Iran. According to Kpler data cited by Reuters, five ballast LNG ta",
+      "category": "Geopolitics"
+    },
     {
       "title": "New Pipeline Paves Way for Increased Israeli Gas Exports to Egypt",
       "link": "https://www.rigzone.com/news/new_pipeline_paves_way_for_increased_israeli_gas_exports_to_egypt-10-jul-2026-184106-article/?rss=true",
@@ -60,46 +212,6 @@
       "category": "Prices"
     },
     {
-      "title": "The Strait Of Malacca Faces Growing Fears Of Copycat Shipping Fees",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Strait-Of-Malacca-Faces-Growing-Fears-Of-Copycat-Shipping-Fees.html",
-      "date": "2026-07-09T22:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil prices spiked again on Wednesday after U.S. President Donald Trump declared that the ceasefire deal with Iran is over and vowed to strike Iran again, effectively ending the tentative peace deal barely a month after signing. Iran struck three commercial vessels in the Strait o",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Fed Sees Oil Prices Cooling Despite Renewed Iran War",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Fed-Sees-Oil-Prices-Cooling-Despite-Renewed-Iran-War.html",
-      "date": "2026-07-09T21:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Federal Reserve still thinks energy prices are headed lower even as missiles are flying again in the Middle East. New York Fed President John Williams said Thursday that the market's expectation for oil prices to ease over the next six to 12 months remains \"a pretty reasonabl",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "America's Answer to China's Molten Salt Reactor",
-      "link": "https://oilprice.com/Energy/Energy-General/Americas-Answer-to-Chinas-Molten-Salt-Reactor.html",
-      "date": "2026-07-09T21:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "A United States firm just got one step closer to realizing the development of a thorium reactor – using a 3D printer. The Florida-based advanced nuclear energy company AMPERA successfully fabricated a nuclear reactor module using a 3D printer, which will serve as the basis for wh",
-      "category": "General"
-    },
-    {
-      "title": "Turkey and Iraq Move to Keep Critical Oil Export Route Alive",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-and-Iraq-Move-to-Keep-Critical-Oil-Export-Route-Alive.html",
-      "date": "2026-07-09T20:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Iraq just bought itself another year. Turkey and Iraq are expected to sign a 12-month extension of the agreement governing the Iraq-Turkey crude oil pipeline within days, preventing a July 27 expiration that threatened one of Baghdad's few remaining viable oil export routes. Turk",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Washington Draws a Line for Iraq’s New Leader",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Washington-Draws-a-Line-for-Iraqs-New-Leader.html",
-      "date": "2026-07-09T20:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Iraq’s new prime minister, Ali Al-Zaidi, will meet U.S. President Donald Trump in Washington, D.C. on 14 July - shortly after America’s Independence Day on July 4th. Trump will no doubt highlight America’s struggle for independence and will press Al-Zaidi to make Iraq independent",
-      "category": "General"
-    },
-    {
       "title": "Crypto Startup Trying to Put a Barrel of Oil on Blockchain",
       "link": "https://www.rigzone.com/news/crypto_startup_trying_to_put_a_barrel_of_oil_on_blockchain-09-jul-2026-184101-article/?rss=true",
       "date": "2026-07-09T20:00:00.000Z",
@@ -113,54 +225,6 @@
       "date": "2026-07-09T19:48:56.000Z",
       "source": "Rigzone",
       "description": "<p>Oil fell as traders priced in a limited US-Iran conflict, easing initial concerns that energy infrastructure would come under attack again.<br /> <br /> We...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Citi's AI Robotics Picks: Rockwell, Emerson, Honeywell Lead the List",
-      "link": "https://oilprice.com/Energy/Energy-General/Citis-AI-Robotics-Picks-Rockwell-Emerson-Honeywell-Lead-the-List.html",
-      "date": "2026-07-09T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Citi's Robotics & Physical AI Leadership Conference wrapped up on Tuesday. The annual Citi Research event brings together robotics founders, investors, operators, and industry executives to assess the state of \"physical AI.\" Analyst Heath Terry summarized the key takeaways Wednes",
-      "category": "Policy"
-    },
-    {
-      "title": "China Walks Away From Georgia's Strategic Deep-Water Port Project",
-      "link": "https://oilprice.com/Geopolitics/Asia/China-Walks-Away-From-Georgias-Strategic-Deep-Water-Port-Project.html",
-      "date": "2026-07-09T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "China has walked away from the Anaklia Deep Sea Port project, ending speculation over one of Georgia’s most important infrastructure projects. The Georgian government now says it wants to develop and operate the port on its own. Few infrastructure projects in the Caucasus have be",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "U.S. Oil Dominance Keeps Growing Despite Lower Prices",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Dominance-Keeps-Growing-Despite-Lower-Prices.html",
-      "date": "2026-07-09T17:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "While much of the world spent 2025 debating peak oil, the United States was busy setting another production record. New data from the U.S. Energy Information Administration showed that U.S. crude oil production, including lease condensate, averaged a record 13.6 million barrels p",
-      "category": "Policy"
-    },
-    {
-      "title": "Iran War May Ignite Middle East Market Share Race, But Not Yet",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-May-Ignite-Middle-East-Market-Share-Race-But-Not-Yet.html",
-      "date": "2026-07-09T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "When the UAE said it was leaving OPEC so it could boost production as much as it wanted, it sparked speculation, yet again, that OPEC was falling apart. The peace deal between the United States and Iran was a done deal in the eyes of oil traders, and the race for market share was",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "NATO Projects Unity as Leaders Rally Behind Ukraine",
-      "link": "https://oilprice.com/Energy/Energy-General/NATO-Projects-Unity-as-Leaders-Rally-Behind-Ukraine.html",
-      "date": "2026-07-09T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "It is fair to say that the final day of the NATO summit in Ankara on July 8 got off to a tense start. Overnight, the United States had resumed strikes on Iran after an uneasy cease-fire. The entire conflict had shaken the military alliance, with US President Donald Trump slamming",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Indonesia Receives First Russian Crude Shipment Under April Supply Deal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indonesia-Receives-First-Russian-Crude-Shipment-Under-April-Supply-Deal.html",
-      "date": "2026-07-09T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Indonesia has recently welcomed the first cargo of Russian crude oil under a deal Southeast Asia’s biggest economy struck with Moscow in April. About 770,000 barrels of Russian crude oil was delivered to Indonesia’s port of Balikpapan at the end of June, per customs data by Big T",
       "category": "Geopolitics"
     },
     {
@@ -354,22 +418,6 @@
       "source": "Offshore Technology",
       "description": "Which power generation technologies and regions are shaping the energy transition investment landscape through 2030?",
       "category": "General"
-    },
-    {
-      "title": "Oil hits two-week high after Trump says Iran peace deal is over",
-      "link": "https://www.offshore-technology.com/news/oil-hits-two-week-high-trump-iran-peace-over/",
-      "date": "2026-07-08T09:48:25.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil prices rose more than 5% on Wednesday, 8 July, hitting a two-week high after US President Donald Trump said the peace deal with Iran was over, reviving fears of supply disruptions in the Middle East.",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "MidOcean Energy secures $1.1bn backing from UAE royal family",
-      "link": "https://www.offshore-technology.com/news/midocean-energy-uae-royal-familys-1-1bn-backing/",
-      "date": "2026-07-08T09:35:39.000Z",
-      "source": "Offshore Technology",
-      "description": "The Private Department of Abu Dhabi’s Crown Prince Sheikh Mohammed bin Khalid Al Nahyan has announced an investment of $1.13bn in MidOcean Energy.",
-      "category": "Policy"
     },
     {
       "title": "Eni Starts Building Italian Battery Hub, Agrees Chilean Lithium Investment",
