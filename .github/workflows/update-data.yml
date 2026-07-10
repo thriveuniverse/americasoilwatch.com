@@ -2,10 +2,13 @@ name: Update Data Pipeline
 
 on:
   schedule:
-    # Run at 06:00 UTC daily (after EIA Wednesday/Monday releases)
-    - cron: '0 6 * * *'
-    # Also run Wednesday at 17:00 UTC (after EIA weekly stocks release ~10:30 ET)
-    - cron: '0 17 * * 3'
+    # Times are staggered OFF the top of the hour: GitHub drops/delays far fewer
+    # off-:00 scheduled runs. Three daily runs (was one) give redundancy — if
+    # GitHub skips one, a later one catches it the same day. The evening run also
+    # covers the EIA weekly stocks release (Wed ~10:30 ET).
+    - cron: '7 6 * * *'    # 06:07 UTC — morning
+    - cron: '23 12 * * *'  # 12:23 UTC — midday redundancy (catches a dropped morning run)
+    - cron: '43 17 * * *'  # 17:43 UTC — evening (new 2nd/3rd daily run)
   workflow_dispatch:
 
 permissions:
