@@ -79,7 +79,7 @@ export async function GET() {
 
 > Independent Western Hemisphere oil and fuel security intelligence. Daily-refreshed dashboard built on official EIA data covering US, Canada, Mexico, Brazil, Guyana, Venezuela, Argentina and other producers.
 
-AmericasOilWatch tracks WTI crude, US commercial / SPR petroleum stocks, US retail pump prices, West Coast (PADD 5) regional product-stock tightness scored against a 5-year seasonal band, Brent benchmark, refinery thermal anomalies, Atlantic-basin supply-route risk, live chokepoint ship-transit and port oil-flow data (IMF PortWatch, incl. US Gulf export hubs), and interactive compound-cascade risk tools. All data traces back to named institutional sources. Free public API for programmatic access — see below.
+AmericasOilWatch tracks WTI crude, US commercial / SPR petroleum stocks, US retail pump prices, West Coast (PADD 5) regional product-stock tightness scored against a 5-year seasonal band, Brent benchmark, a WTI 3-2-1 refining-margin (crack-spread) panel, a Dow–Nasdaq divergence indicator, a Strait of Hormuz tanker-throughput tracker, a weekly Fertilizer Watch, refinery thermal anomalies, Atlantic-basin supply-route risk, live chokepoint ship-transit and port oil-flow data (IMF PortWatch, incl. US Gulf export hubs), and interactive compound-cascade risk tools. All data traces back to named institutional sources. Free public API for programmatic access — see below.
 
 ## Current snapshot (auto-refreshes daily; this page generated ${today})
 
@@ -128,10 +128,13 @@ Free, read-only JSON. CORS-enabled, no key required.
 - Dashboard:           https://americasoilwatch.com
 - Fuel prices:         https://americasoilwatch.com/prices
 - Global supply routes — live chokepoint transit + port oil-flow monitors (incl. Houston/Corpus exports), a Panama Canal Watch, and an Oil Route Stress score (IMF PortWatch): https://americasoilwatch.com/supply
-- Strait of Hormuz crisis timeline — a sourced, filterable chronology of the 2026 Hormuz crisis (military/diplomatic/shipping/market events, outbreak to fragile reopening): https://americasoilwatch.com/hormuz-timeline
+- Strait of Hormuz crisis timeline — a sourced, filterable chronology of the 2026 Hormuz crisis (military/diplomatic/shipping/market events, outbreak to renewed escalation): https://americasoilwatch.com/hormuz-timeline
 - Doom Loop Engine — interactive oil-supply cascade tools (Fragility Monitor, Doom Loop Engine, Vulnerability Tiering): https://americasoilwatch.com/doom-loop
 - The Hormuz Inventory Runway — interactive depletion model (accessible cushion drains in months; hoarding-feedback scenario): https://americasoilwatch.com/runway
 - Research hub — the original body of work (Jonathan Kelly): the Compound Cascade Systems Modelling framework + its companion Institutional Failure Mode Typology, plus the interactive instruments: https://americasoilwatch.com/research
+- The Second Shock Is Not the First — buffer-depletion analysis + a pre-registered, backcast-validated Monte Carlo (why the market has stopped pricing Hormuz): https://americasoilwatch.com/analysis/the-second-shock-is-not-the-first
+- Hormuz Is Not Reopened — a controlled high-risk corridor as a second diesel shock emerges (Part II): https://americasoilwatch.com/analysis/hormuz-controlled-corridor-diesel-shock
+- Fertilizer Watch — weekly urea / ammonia / DAP / potash + TTF gas benchmark tracker: https://americasoilwatch.com/fertilizer
 - Insights archive:    https://americasoilwatch.com/insights
 - Methodology:         https://americasoilwatch.com/methodology
 
