@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-07-10T19:09:25.004Z",
+  "lastUpdated": "2026-07-11T08:09:05.203Z",
   "summary": null,
-  "count": 88,
+  "count": 80,
   "articles": [
+    {
+      "title": "Europe’s Nuclear Plants Can’t Beat the Heat",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Europes-Nuclear-Plants-Cant-Beat-the-Heat.html",
+      "date": "2026-07-10T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Europe’s blistering heat wave is threatening energy security across the continent as power plants shut down and the risk of rolling blackouts rises. Electric grids are overstressed, and ecosystems are too. Rivers are greatly affected by soaring temperatures, which in turn impacts",
+      "category": "Refinery"
+    },
+    {
+      "title": "Kazakhstan Extends Petroleum Export Ban Six Months as Hormuz Tensions Flare",
+      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Extends-Petroleum-Export-Ban-Six-Months-as-Hormuz-Tensions-Flare.html",
+      "date": "2026-07-10T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Kazakhstan is growing more possessive of its petroleum products as a gasoline shortage tightens its grip in Russia and the US-Iran conflict reignites. Kazakh officials have established new police checkpoints on almost 60 roads along the country’s lengthy border with Russia to cur",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "IEA Says UAE Oil Output Surged to Record High in June",
+      "link": "https://www.rigzone.com/news/iea_says_uae_oil_output_surged_to_record_high_in_june-10-jul-2026-184115-article/?rss=true",
+      "date": "2026-07-10T20:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>The United Arab Emirates boosted crude oil production to an all-time high last month, the most compelling evidence yet of how Abu Dhabi responded more boldly...",
+      "category": "Production"
+    },
     {
       "title": "Summer Heatwaves Are Rewriting the Rules for Britain's Power Grid",
       "link": "https://oilprice.com/Energy/Energy-General/Summer-Heatwaves-Are-Rewriting-the-Rules-for-Britains-Power-Grid.html",
@@ -132,28 +156,12 @@
       "category": "Geopolitics"
     },
     {
-      "title": "ADNOC Orders $900 Million in New LNG Carriers to Expand Global Fleet",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Orders-900-Million-in-New-LNG-Carriers-to-Expand-Global-Fleet.html",
-      "date": "2026-07-10T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "ADNOC Logistics and Services has placed a $900-million order for four newbuild LNG carriers to expand its fleet as Abu Dhabi’s national oil company seeks to boost gas exports to seize the global rise in LNG demand. ADNOC Logistics and Services on Friday announced a newbuilding or",
-      "category": "Supply Routes"
-    },
-    {
       "title": "EIA Cuts 2026, 2027 USA Gasoline Price Projection",
       "link": "https://www.rigzone.com/news/eia_cuts_2026_2027_usa_gasoline_price_projection-10-jul-2026-184110-article/?rss=true",
       "date": "2026-07-10T11:19:07.000Z",
       "source": "Rigzone",
       "description": "<p>The U.S. Energy Information Administration (EIA) lowered its U.S. regular gasoline price projection for both 2026 and 2027 in its latest short term energy ou...",
       "category": "Policy"
-    },
-    {
-      "title": "IEA Warns Renewed U.S.-Iran Conflict Could Upend Oil Surplus Forecast",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-Renewed-US-Iran-Conflict-Could-Upend-Oil-Surplus-Forecast.html",
-      "date": "2026-07-10T10:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Despite the tentative recovery of oil flows through the Strait of Hormuz and the first build-up in global stocks since the war began, this week’s re-escalation of the U.S.-Iran hostilities could flip the outlook for an oil market surplus for next year, the International Energy Ag",
-      "category": "Geopolitics"
     },
     {
       "title": "Strategists Expect USA-Iran Tension to be Short Lived",
@@ -634,78 +642,6 @@
       "source": "Rigzone",
       "description": "<p>Russia’s subsidy payouts to oil refiners that supply domestic markets jumped more than six-fold in June from a year earlier, as Moscow sought to avoid shorta...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Refiner Profits Are Soaring",
-      "link": "https://www.rigzone.com/news/refiner_profits_are_soaring-03-jul-2026-184059-article/?rss=true",
-      "date": "2026-07-03T20:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>US crude refiners are enjoying some of the best profit margins in years, the latest sign that even as energy shipments pick up through the Strait of Hormuz, ...",
-      "category": "Refinery"
-    },
-    {
-      "title": "Texas Oil Regulator Directs DOGE to Enhance RRC Efficiency",
-      "link": "https://www.rigzone.com/news/texas_oil_regulator_directs_doge_to_enhance_rrc_efficiency-03-jul-2026-184060-article/?rss=true",
-      "date": "2026-07-03T14:34:17.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a statement posted on its website recently, the Texas Railroad Commission (RRC) announced that RRC Commissioner Wayne Christian has directed the Deliverin...",
-      "category": "General"
-    },
-    {
-      "title": "China Urges 'Unimpeded Passage' of Hormuz",
-      "link": "https://www.rigzone.com/news/china_urges_unimpeded_passage_of_hormuz-03-jul-2026-184057-article/?rss=true",
-      "date": "2026-07-03T14:16:07.000Z",
-      "source": "Rigzone",
-      "description": "<p>China called for the unhindered flow of shipping through the Strait of Hormuz, comments that come as leading European powers are apparently accepting that ve...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Alberta Advances West Coast Oil Pipeline Project",
-      "link": "https://www.rigzone.com/news/alberta_advances_west_coast_oil_pipeline_project-03-jul-2026-184056-article/?rss=true",
-      "date": "2026-07-03T14:03:52.000Z",
-      "source": "Rigzone",
-      "description": "<p>Alberta's government said Thursday it had applied to list the West Coast Oil Pipeline project, a new gateway for the province's oil sands to British Columbia...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Which Country is the Biggest Oil Consumer?",
-      "link": "https://www.rigzone.com/news/which_country_is_the_biggest_oil_consumer-03-jul-2026-184055-article/?rss=true",
-      "date": "2026-07-03T13:00:23.000Z",
-      "source": "Rigzone",
-      "description": "<p>According to the Energy Institute’s (EI) latest statistical review of world energy, which was released recently, the world’s biggest oil consumer is the Unit...",
-      "category": "General"
-    },
-    {
-      "title": "Woodside Assumes Operatorship of Aussie Gas Assets from ExxonMobil",
-      "link": "https://www.rigzone.com/news/woodside_assumes_operatorship_of_aussie_gas_assets_from_exxonmobil-03-jul-2026-184053-article/?rss=true",
-      "date": "2026-07-03T10:53:40.000Z",
-      "source": "Rigzone",
-      "description": "<p>Exxon Mobil Corp has completed the transfer of operatorship of the Gippsland Basin Joint Venture (GBJV) and Kipper Unit Joint Venture (KUJV) to Woodside Ener...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "ExxonMobil, QatarEnergy Affirm Commerciality of Cyprus Discoveries",
-      "link": "https://www.rigzone.com/news/exxonmobil_qatarenergy_affirm_commerciality_of_cyprus_discoveries-03-jul-2026-184052-article/?rss=true",
-      "date": "2026-07-03T09:23:25.000Z",
-      "source": "Rigzone",
-      "description": "<p>QatarEnergy and Exxon Mobil Corp have signed a \"commercial discovery declaration\" with the Cypriot government for two discoveries in Block 10 in the Mediterr...",
-      "category": "General"
-    },
-    {
-      "title": "Oil Remains in a Divided Market",
-      "link": "https://www.rigzone.com/news/oil_remains_in_a_divided_market-03-jul-2026-184051-article/?rss=true",
-      "date": "2026-07-03T09:14:31.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil remains in a divided market - prices are stabilizing, but upside is capped by demand uncertainty and expected supply increases.</p> <p>That’s what Wal...",
-      "category": "Prices"
-    },
-    {
-      "title": "TotalEnergies Offers Millions of Iraqi Barrels to Asia",
-      "link": "https://www.rigzone.com/news/totalenergies_offers_millions_of_iraqi_barrels_to_asia-03-jul-2026-184050-article/?rss=true",
-      "date": "2026-07-03T07:52:55.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 3, 2026, 2:07 PM GMT: Article upd...",
-      "category": "Production"
     }
   ]
 }
