@@ -121,21 +121,18 @@ export default async function HomePage() {
 
       {/* Flagship analysis — bold feature banner */}
       <a
-        href="/analysis/the-second-shock-is-not-the-first"
+        href="/analysis/hormuz-controlled-corridor-diesel-shock"
         className="block rounded-lg border border-amber-600/50 bg-amber-950/20 px-4 py-3.5 hover:border-amber-500 hover:bg-amber-950/30 transition group"
       >
         <span className="text-[10px] font-mono font-semibold tracking-widest text-amber-400 uppercase">
           New · Flagship Analysis
         </span>
         <span className="mt-0.5 block text-base font-bold text-white leading-snug">
-          The Second Shock Is Not the First{' '}
+          Hormuz Is Not Reopened &mdash; a Controlled Corridor as a Diesel Shock Emerges{' '}
           <span className="text-amber-300 group-hover:text-white">&rarr;</span>
         </span>
         <span className="mt-1 block text-xs text-gray-400 leading-relaxed">
-          Tankers burned in the Strait of Hormuz on 8 July and Brent barely moved. This
-          buffer-by-buffer audit argues that calm is not resilience but depletion &mdash; the
-          system has spent every shock absorber it used in the spring &mdash; backed by a
-          pre-registered Monte Carlo whose forecast updates when the IEA data lands mid-month.
+          The market is fighting two wars at once &mdash; renewed Hormuz risk and Russia&apos;s diesel export ban. Crude stays contained near $76 while European diesel margins hit a record; the squeeze is surfacing downstream first, in the fuels that move trucks, ships and food. Part II to The Second Shock.
         </span>
       </a>
 
