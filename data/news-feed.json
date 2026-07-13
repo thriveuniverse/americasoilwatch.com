@@ -1,8 +1,96 @@
 {
-  "lastUpdated": "2026-07-12T18:39:18.729Z",
+  "lastUpdated": "2026-07-13T09:45:07.553Z",
   "summary": null,
-  "count": 81,
+  "count": 82,
   "articles": [
+    {
+      "title": "Oil Jumps After Battle for Hormuz Control Escalates",
+      "link": "https://www.rigzone.com/news/oil_jumps_after_battle_for_hormuz_control_escalates-13-jul-2026-184118-article/?rss=true",
+      "date": "2026-07-13T09:43:23.000Z",
+      "source": "Rigzone",
+      "description": "<p>In a market quick take posted on its website on Monday, Saxo Bank highlighted that oil prices jumped “after the battle for control over the Strait of Hormuz ...",
+      "category": "Prices"
+    },
+    {
+      "title": "Iran Warns U.S. Interference Could Trigger Further Oil and Gas Disruptions",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Warns-US-Interference-Could-Trigger-Further-Oil-and-Gas-Disruptions.html",
+      "date": "2026-07-13T09:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Following a major U.S.-Iran re-escalation over the Strait of Hormuz this weekend, Iran’s Islamic Revolutionary Guard Corps (IRGC) on Monday warned that continued U.S. interference in the chokepoint “could lead to greater incidents in the global oil and gas sector.” The renewed ho",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "USA, Iran Trade Fresh Strikes",
+      "link": "https://www.rigzone.com/news/usa_iran_trade_fresh_strikes-13-jul-2026-184117-article/?rss=true",
+      "date": "2026-07-13T08:31:54.000Z",
+      "source": "Rigzone",
+      "description": "<p>The US and Iran exchanged fresh strikes overnight into Monday as they continued their tit-for-tat attacks while issuing conflicting declarations over whether...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "European Natural Gas Prices Jump on Hormuz Escalation",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Jump-on-Hormuz-Escalation.html",
+      "date": "2026-07-13T07:45:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Europe’s benchmark natural gas prices opened 3% higher on Monday following the weekend escalation over the Strait of Hormuz which threatens LNG shipments out of the Middle East again. The August 2026 contract of the Dutch TTF Natural Gas Futures jumped by 3.35% to $59.51 (50.43 e",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "EC conditionally approves $13.6bn Baker Hughes-Chart deal",
+      "link": "https://www.offshore-technology.com/news/ec-conditionally-approves-baker-hughes-chart-deal/",
+      "date": "2026-07-13T07:37:41.000Z",
+      "source": "Offshore Technology",
+      "description": "The European Commission (EC) has conditionally approved the proposed $13.6bn acquisition of Chart Industries by Baker Hughes under the EU Merger Regulation.",
+      "category": "Policy"
+    },
+    {
+      "title": "Oil and LNG Tankers Go Dark Again as Hormuz Crisis Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-and-LNG-Tankers-Go-Dark-Again-as-Hormuz-Crisis-Deepens.html",
+      "date": "2026-07-13T06:15:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Oil and LNG tankers are back to switching off transponders when transiting the Strait of Hormuz as the latest escalation in the region and last week’s Iranian attacks on commercial ships prompted vessel operators to brave the chokepoint unobserved. Total tanker traffic collapsed ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil Prices Surge 4% as U.S.-Iran Escalation Rekindles Supply Fears",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-4-as-US-Iran-Escalation-Rekindles-Supply-Fears.html",
+      "date": "2026-07-13T04:55:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Oil prices jumped by 4% in Asian trade on Monday, following a weekend of intense U.S. strikes on Iran, claims from Iran that the Strait of Hormuz is closed to traffic once again, and Iranian strikes on five U.S. allies in the region. Brent Crude futures surged by 4% to top $79 pe",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Iran Strikes 5 Gulf Countries as Regional Escalation Continues",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Iran-Strikes-5-Gulf-Countries-as-Regional-Escalation-Continues.html",
+      "date": "2026-07-13T04:35:55.000Z",
+      "source": "OilPrice.com",
+      "description": "Iran has opened a new front across the Gulf, striking countries that host U.S. forces and sit beside the oil, gas, and shipping infrastructure sustaining the global energy system. Qatar, Bahrain, Kuwait, Oman, and Jordan all reported Iranian missile or drone activity on Sunday af",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Big Oil’s War-Related Profits Anger Governments",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-War-Related-Profits-Anger-Governments.html",
+      "date": "2026-07-12T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Supermajors are set to report bumper profits for the second quarter thanks to the surge in oil and gas prices, driven higher by the hostilities between the United States, Israel, and Iran. This is a problem for governments—notably the Trump administration, but politicians in Euro",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Uruguay’s Offshore Oil Province Could Be Bigger Than Vaca Muerta",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Uruguays-Offshore-Oil-Province-Could-Be-Bigger-Than-Vaca-Muerta.html",
+      "date": "2026-07-12T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Companies are gearing up for exploration drilling in deepwater blocks offshore Uruguay in the hope that the South Atlantic margin offshore South America could hold a lot of oil, similar to the recent discoveries offshore Namibia in Africa. Uruguay, with a limited exploration dril",
+      "category": "Production"
+    },
+    {
+      "title": "Is the AI Bubble About to Burst?",
+      "link": "https://oilprice.com/Energy/Energy-General/Is-the-AI-Bubble-About-to-Burst.html",
+      "date": "2026-07-12T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Artificial Intelligence has grown in popularity over the past five years, from something consumers only knew from sci-fi movies to a widely used technology. Many companies are now using AI in some form, and it has become part of everyday life for many consumers, with AI services ",
+      "category": "General"
+    },
     {
       "title": "Can Sodium-Ion Batteries Help the U.S. Close the Gap With China?",
       "link": "https://oilprice.com/Energy/Energy-General/Can-Sodium-Ion-Batteries-Help-the-US-Close-the-Gap-With-China.html",
@@ -76,76 +164,12 @@
       "category": "Policy"
     },
     {
-      "title": "Europe’s Nuclear Plants Can’t Beat the Heat",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Europes-Nuclear-Plants-Cant-Beat-the-Heat.html",
-      "date": "2026-07-10T23:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Europe’s blistering heat wave is threatening energy security across the continent as power plants shut down and the risk of rolling blackouts rises. Electric grids are overstressed, and ecosystems are too. Rivers are greatly affected by soaring temperatures, which in turn impacts",
-      "category": "Refinery"
-    },
-    {
-      "title": "Kazakhstan Extends Petroleum Export Ban Six Months as Hormuz Tensions Flare",
-      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Extends-Petroleum-Export-Ban-Six-Months-as-Hormuz-Tensions-Flare.html",
-      "date": "2026-07-10T21:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Kazakhstan is growing more possessive of its petroleum products as a gasoline shortage tightens its grip in Russia and the US-Iran conflict reignites. Kazakh officials have established new police checkpoints on almost 60 roads along the country’s lengthy border with Russia to cur",
-      "category": "Geopolitics"
-    },
-    {
       "title": "IEA Says UAE Oil Output Surged to Record High in June",
       "link": "https://www.rigzone.com/news/iea_says_uae_oil_output_surged_to_record_high_in_june-10-jul-2026-184115-article/?rss=true",
       "date": "2026-07-10T20:00:00.000Z",
       "source": "Rigzone",
       "description": "<p>The United Arab Emirates boosted crude oil production to an all-time high last month, the most compelling evidence yet of how Abu Dhabi responded more boldly...",
       "category": "Production"
-    },
-    {
-      "title": "Summer Heatwaves Are Rewriting the Rules for Britain's Power Grid",
-      "link": "https://oilprice.com/Energy/Energy-General/Summer-Heatwaves-Are-Rewriting-the-Rules-for-Britains-Power-Grid.html",
-      "date": "2026-07-10T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The energy grid operator has warned that the “extreme temperatures” from this week’s heatwave could hit power supplies on Thursday night, as households’ use of fans and air conditioner place a record strain on our electricity system. The National Energy System Operator (Neso) iss",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "US Oil, Gas Drillers Hang Back in Volatile Market",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Gas-Drillers-Hang-Back-in-Volatile-Market.html",
-      "date": "2026-07-10T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 581, up 44 from this same time last year. The number of active oil rigs stayed at 4",
-      "category": "Prices"
-    },
-    {
-      "title": "China Tightens Its Grip on Namibia's Next Energy Boom",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Tightens-Its-Grip-on-Namibias-Next-Energy-Boom.html",
-      "date": "2026-07-10T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "China isn't waiting for Namibia to become an oil producer. It's getting in early. During a state visit to Beijing this week, Namibia and China signed eight cooperation agreements covering energy, critical minerals, infrastructure, agriculture, and economic development, as China a",
-      "category": "General"
-    },
-    {
-      "title": "Oil’s Calm Is Over as Middle East Risks Return",
-      "link": "https://oilprice.com/Energy/Energy-General/Oils-Calm-Is-Over-as-Middle-East-Risks-Return.html",
-      "date": "2026-07-10T16:01:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Renewed U.S.-Iran strikes have revived the Middle East risk premium, lifting Brent above $76 as traffic through the Strait of Hormuz slows and supply disruption fears return. Friday, July 10, 2026 The return of the Middle Eastern geopolitical risk premium has lifted global oil pr",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Russian Fuel Disruptions Push Central Asia Into an Energy Crisis",
-      "link": "https://oilprice.com/Energy/Energy-General/Russian-Fuel-Disruptions-Push-Central-Asia-Into-an-Energy-Crisis.html",
-      "date": "2026-07-10T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Ukraine's sustained attacks on Russia's oil refineries immediately plunged Central Asian countries into energy chaos, highlighting years of short-term policy decisions that have left the region without a coordinated energy strategy and sufficient diversification to withstand majo",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "IEA Chief Urges EU to Drop Arctic Drilling Ban",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Chief-Urges-EU-to-Drop-Arctic-Drilling-Ban.html",
-      "date": "2026-07-10T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The European Union should reverse the current moratorium on drilling in the Arctic, where Norway is pushing to drill if allowed, Fatih Birol, the executive director of the International Energy Agency (IEA), has said. The EU’s moratorium on Arctic drilling was enacted in 2021 due ",
-      "category": "Policy"
     },
     {
       "title": "BOEM Explores Potential for OCS Space Launch and Recovery",
@@ -169,6 +193,14 @@
       "date": "2026-07-10T12:03:37.000Z",
       "source": "Rigzone",
       "description": "<p>Chevron Corp has signed an agreement to supply 46 petajoules (pJ) of natural gas to Alinta Energy Pty Ltd over five years.</p> <p>Supply to the Perth, Wes...",
+      "category": "General"
+    },
+    {
+      "title": "Chevron signs new five-year WA gas supply deal with Alinta Energy",
+      "link": "https://www.offshore-technology.com/news/chevron-supply-deal-alinta-energy/",
+      "date": "2026-07-10T11:52:37.000Z",
+      "source": "Offshore Technology",
+      "description": "Chevron Australia has entered into a new long-term sale and purchase agreement with Alinta Energy for the supply of natural gas from Chevron’s Western Australian gas portfolio.",
       "category": "General"
     },
     {
@@ -428,22 +460,6 @@
       "category": "Geopolitics"
     },
     {
-      "title": "US drives global renewable refinery production capacity by 2030",
-      "link": "https://www.offshore-technology.com/analyst-comment/us-drives-global-renewable-refinery-production-capacity-by-2030/",
-      "date": "2026-07-08T10:10:06.000Z",
-      "source": "Offshore Technology",
-      "description": "Policy support and large-scale investments keep North America at the forefront of global renewable refinery capacity additions.",
-      "category": "Refinery"
-    },
-    {
-      "title": "Energy transition investment trends: where’s the money flowing?",
-      "link": "https://www.offshore-technology.com/news/energy-transition-investment-trends-wheres-the-money-flowing/",
-      "date": "2026-07-08T09:57:52.000Z",
-      "source": "Offshore Technology",
-      "description": "Which power generation technologies and regions are shaping the energy transition investment landscape through 2030?",
-      "category": "General"
-    },
-    {
       "title": "Eni Starts Building Italian Battery Hub, Agrees Chilean Lithium Investment",
       "link": "https://www.rigzone.com/news/eni_starts_building_italian_battery_hub_agrees_chilean_lithium_investment-08-jul-2026-184085-article/?rss=true",
       "date": "2026-07-08T09:10:03.000Z",
@@ -642,14 +658,6 @@
       "source": "Rigzone",
       "description": "<p>Oil and gas shipping along a US-protected corridor in the Strait of Hormuz showed signs of recovering Sunday, a day after a batch of vessels performed unexpl...",
       "category": "Supply Routes"
-    },
-    {
-      "title": "Santos Secures 10-Year Deal to Supply Gas to South Australia",
-      "link": "https://www.rigzone.com/news/santos_secures_10year_deal_to_supply_gas_to_south_australia-05-jul-2026-184054-article/?rss=true",
-      "date": "2026-07-05T11:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>The South Australian government has awarded Santos Ltd a 10-year contract to supply 200 petajoules of domestic natural gas to the state from 2030.</p> <p>...",
-      "category": "Geopolitics"
     }
   ]
 }
