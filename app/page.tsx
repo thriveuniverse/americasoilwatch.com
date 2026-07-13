@@ -11,6 +11,7 @@ import SubscribeCta from '@/components/SubscribeCta';
 import RefineryHealthPanel from '@/components/RefineryHealthPanel';
 import Padd5Watch from '@/components/Padd5Watch';
 import DisruptionBanner from '@/components/DisruptionBanner';
+import FreshnessGuard from '@/components/FreshnessGuard';
 
 export const revalidate = 3600;
 
@@ -58,6 +59,7 @@ const REGION_LABELS: Record<string, string> = {
 };
 
 export default async function HomePage() {
+  const whereWeStandAsOf = '2026-07-13'; // single source of truth: the Updated label + the FreshnessGuard below
   const wti          = loadJSON<any>('wti.json');
   const brent        = loadJSON<any>('brent.json');
   const usStocks     = loadJSON<any>('us-stocks.json');
@@ -274,8 +276,9 @@ export default async function HomePage() {
           <h2 className="text-xs font-mono font-semibold tracking-widest text-amber-300 uppercase">
             Global Oil — Where We Stand
           </h2>
-          <span className="text-[10px] font-mono text-amber-400/70">Updated 13 Jul 2026</span>
+          <span className="text-[10px] font-mono text-amber-400/70">Updated {new Date(whereWeStandAsOf).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' })}</span>
         </div>
+        <FreshnessGuard lastUpdated={whereWeStandAsOf} maxAgeDays={4} label="This summary" className="mx-5 mt-3" />
         <div className="px-5 py-4 space-y-2">
           <p className="text-sm font-semibold text-white">
             Oil jumps as the Hormuz conflict escalates — Brent tops $79 with Trump calling the strait open and Iran calling it closed; the first strike on Gulf oil infrastructure in weeks puts $100 back in view
