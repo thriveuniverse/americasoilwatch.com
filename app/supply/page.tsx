@@ -7,6 +7,7 @@ import SeaStatePanel, { type SeaStateData } from '@/components/SeaStatePanel';
 import ChokepointsMap from '@/components/ChokepointsMap';
 import ChokepointTransitPanel, { type PortwatchData } from '@/components/ChokepointTransitPanel';
 import HormuzThroughputPanel from '@/components/HormuzThroughputPanel';
+import HormuzPosturePanel from '@/components/HormuzPosturePanel';
 import PortFlowPanel, { type PortFlowData } from '@/components/PortFlowPanel';
 import PanamaCanalWatch from '@/components/PanamaCanalWatch';
 import RefineryHealthPanel from '@/components/RefineryHealthPanel';
@@ -389,6 +390,9 @@ export default async function SupplyPage() {
 
       {/* Hormuz recovery tracker — dedicated view of the flagship chokepoint */}
       {portwatch && <HormuzThroughputPanel data={portwatch} />}
+
+      {/* Hormuz force posture — sourced US/Iran order of battle (reported, not live positions) */}
+      <HormuzPosturePanel />
 
       {/* Live chokepoint transit monitor — IMF PortWatch daily transits vs baseline */}
       {portwatch && <ChokepointTransitPanel data={portwatch} />}
