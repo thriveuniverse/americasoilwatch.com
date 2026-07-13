@@ -15,7 +15,6 @@ export const metadata: Metadata = {
     url: 'https://americasoilwatch.com/reports/the-fall-of-the-uk',
     siteName: 'AmericasOilWatch',
     type: 'article',
-    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'The Fall of the United Kingdom?' }],
   },
 };
 

@@ -17,7 +17,6 @@ export const metadata: Metadata = {
     url: 'https://americasoilwatch.com/hormuz-timeline',
     siteName: 'AmericasOilWatch',
     type: 'website',
-    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'AmericasOilWatch Hormuz Timeline' }],
   },
 };
 

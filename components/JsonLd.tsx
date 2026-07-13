@@ -203,7 +203,7 @@ export default function JsonLd({
       dateModified: articleDate,
       author: { '@type': 'Person', name: articleAuthor ?? 'AmericasOilWatch' },
       publisher: { '@type': 'Organization', name: 'AmericasOilWatch', url: baseUrl },
-      image: `${baseUrl}/og-image.png`,
+      image: `${baseUrl}/opengraph-image`,
       mainEntityOfPage: url,
       url,
     });

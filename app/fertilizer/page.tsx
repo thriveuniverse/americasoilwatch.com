@@ -15,7 +15,6 @@ export const metadata: Metadata = {
     url: 'https://americasoilwatch.com/fertilizer',
     siteName: 'AmericasOilWatch',
     type: 'article',
-    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Fertilizer Watch' }],
   },
 };
 
