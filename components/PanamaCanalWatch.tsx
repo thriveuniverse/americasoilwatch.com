@@ -82,7 +82,9 @@ export default function PanamaCanalWatch({ data }: { data: PortwatchData }) {
         Watch the <span className="text-gray-400">draft</span>, not just the count: Panama&rsquo;s throughput is
         rationed by Gatún Lake water levels, and drought has forced deep transit cuts before (2023–24). A dry
         season that lowers the lake squeezes daily slots and pushes more tonnage onto the longer Cape Horn / Suez
-        routes. Latest data {p.latestDate} (PortWatch reports ~a week in arrears). Source:{' '}
+        routes. As of July 2026 the Authority is again trimming Neopanamax draft (49.5&rarr;48.5 ft by mid-August) —
+        precautionary, to bank water ahead of an expected very-strong El Ni&ntilde;o, even as transits run above the
+        2023 norm for now. Latest data {p.latestDate} (PortWatch reports ~a week in arrears). Source:{' '}
         <a href={data.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-oil-400 hover:underline">IMF PortWatch</a>
         {' '}— transit estimated from satellite AIS, not canal-authority counts.
       </p>
