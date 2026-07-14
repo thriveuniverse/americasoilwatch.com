@@ -17,6 +17,14 @@ const nextConfig = {
       },
     ];
   },
+  async rewrites() {
+    return [
+      // Legacy static OG path: pages now use the dynamic app/opengraph-image.tsx
+      // generator, but old HTML in crawler/social caches still requests this bare
+      // URL. Serve the dynamic image here so /og-image.png stops 404ing.
+      { source: '/og-image.png', destination: '/opengraph-image' },
+    ];
+  },
 };
 
 module.exports = nextConfig;
