@@ -1,8 +1,104 @@
 {
-  "lastUpdated": "2026-07-15T08:31:13.785Z",
+  "lastUpdated": "2026-07-15T14:16:43.376Z",
   "summary": null,
-  "count": 76,
+  "count": 78,
   "articles": [
+    {
+      "title": "New U.S. Sanctions Bill Targets Russia's Oil Exports and Shadow Fleet",
+      "link": "https://oilprice.com/Energy/Energy-General/New-US-Sanctions-Bill-Targets-Russias-Oil-Exports-and-Shadow-Fleet.html",
+      "date": "2026-07-15T14:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "A bipartisan group of US senators on July 14 introduced the Sanctioning Russia Act of 2026, unveiling a revised package of sanctions and tariffs aimed at squeezing Moscow's war finances while seeking to overcome concerns that had stalled earlier versions of the legislation. The b",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "USA Oil, Gas Workforce Drops from May to June",
+      "link": "https://www.rigzone.com/news/usa_oil_gas_workforce_drops_from_may_to_june-15-jul-2026-184136-article/?rss=true",
+      "date": "2026-07-15T13:42:12.000Z",
+      "source": "Rigzone",
+      "description": "<p>The number of employees in the oil and gas extraction industry dropped from May to June, data on the U.S. Bureau of Labor Statistics (BLS) website showed.</p...",
+      "category": "General"
+    },
+    {
+      "title": "Automation and AI in biofuel refining: Q&A with Honeywell",
+      "link": "https://www.offshore-technology.com/analysis/automation-ai-biofuel-refining-honeywell/",
+      "date": "2026-07-15T13:38:01.000Z",
+      "source": "Offshore Technology",
+      "description": "This episode of Energy Technology’s asks how AI and automation are shaping biofuel refining, in conversation with Honeywell Process and Automation.",
+      "category": "Refinery"
+    },
+    {
+      "title": "Japan Trade Chief Says Hormuz Is Off-Limits as Hostilities Reignite",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Trade-Chief-Says-Hormuz-Is-Off-Limits-as-Hostilities-Reignite.html",
+      "date": "2026-07-15T13:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Commercial shipping through the Strait of Hormuz is once again off-limits in the near term as the renewed hostilities and threats to vessels led to another spike in risks of transiting the key tanker and container shipping lane, according to Masahiro Okafuji, chair of the Japan F",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "IMO Urges Shippers Not to Risk Strait of Hormuz Transits",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IMO-Urges-Shippers-Not-to-Risk-Strait-of-Hormuz-Transits.html",
+      "date": "2026-07-15T12:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Navigation through the Strait of Hormuz remains too dangerous for ship owners and operators to brave the chokepoint, the head of the United Nations’ International Maritime Organization (IMO) said on Wednesday. “I will maintain the message of upholding international law, for count",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Ukraine Intensifies Attacks on Russian Tankers in the Black Sea",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Intensifies-Attacks-on-Russian-Tankers-in-the-Black-Sea.html",
+      "date": "2026-07-15T11:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "After striking 116 vessels linked to Russia’s shadow fleet in the Sea of Azov in recent weeks, Ukraine’s military is turning its sights on ships in the Black Sea, hitting in drone attacks as many as 20 vessels overnight on Wednesday. Ukrainian forces struck 17 Russia-linked oil t",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil Prices Climb for Fourth Day as Iran Threatens New Energy Chokepoints",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Climb-for-Fourth-Day-as-Iran-Threatens-New-Energy-Chokepoints.html",
+      "date": "2026-07-15T10:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Oil prices rose early on Wednesday for the fourth consecutive trading session as the collapsed U.S.-Iran ceasefire precipitated a new crisis in the Strait of Hormuz and Iran threatened to close “all other export corridors that benefit the US and its allies.” As of early trade in ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "BMI Says Outlook for Oil Prices in Q3 Now Highly Uncertain",
+      "link": "https://www.rigzone.com/news/bmi_says_outlook_for_oil_prices_in_q3_now_highly_uncertain-15-jul-2026-184135-article/?rss=true",
+      "date": "2026-07-15T10:01:31.000Z",
+      "source": "Rigzone",
+      "description": "<p>The outlook for oil prices in the third quarter of 2026 is now highly uncertain, analysts at BMI warned in a BMI report sent to Rigzone by the Fitch Group ea...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil prices climb 2% as Middle East hostilities escalate",
+      "link": "https://www.offshore-technology.com/news/oil-prices-15-july-iran-war/",
+      "date": "2026-07-15T09:58:54.000Z",
+      "source": "Offshore Technology",
+      "description": "Oil prices climbed by approximately 2% on Wednesday, 15 July, as rising hostilities between the US and Iran heightened concerns.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Brent Futures Flip to Backwardation as Middle East Supply Risks Return",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Futures-Flip-to-Backwardation-as-Middle-East-Supply-Risks-Return.html",
+      "date": "2026-07-15T09:50:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Brent Crude futures curve flipped into backwardation this week, signaling expectations of tight prompt supply for the first time in a month, as the market started pricing in the renewed hostilities in the Middle East, collapsed tanker traffic through the Strait of Hormuz, and",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Sunda Energy applies for offshore Taranaki Basin exploration permit",
+      "link": "https://www.offshore-technology.com/news/sunda-energy-applies-for-offshore-taranaki-basin-exploration-permit/",
+      "date": "2026-07-15T09:48:20.000Z",
+      "source": "Offshore Technology",
+      "description": "Sunda Energy submitted an application for a petroleum exploration permit (PEP) in the offshore region of the Taranaki Basin in New Zealand.",
+      "category": "Production"
+    },
+    {
+      "title": "U.S. Gasoline Prices Could Hit $4 Per Gallon Within Days",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Could-Hit-4-Per-Gallon-Within-Days.html",
+      "date": "2026-07-15T08:45:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Following a few weeks of reprieve for drivers, the U.S. national average price of gasoline could top $4 per gallon within a week, as crude oil prices rallied by about 12% in the three days since Friday amid the all-but-collapsed U.S.-Iran ceasefire. The renewed hostilities in the",
+      "category": "Geopolitics"
+    },
     {
       "title": "IMO SecGen Says Hormuz Is Too Dangerous for Ships",
       "link": "https://www.rigzone.com/news/imo_secgen_says_hormuz_is_too_dangerous_for_ships-15-jul-2026-184134-article/?rss=true",
@@ -98,62 +194,6 @@
       "source": "OilPrice.com",
       "description": "A proposed 20% charge on cargo passing through the Strait of Hormuz would violate the basic principles of international navigation, raise energy costs and undermine the stated purpose of restoring stability. It could also do more to accelerate the global energy transition than ma",
       "category": "General"
-    },
-    {
-      "title": "Trump Scraps Hormuz Toll Plan as U.S.-Iran Conflict Deepens",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Trump-Scraps-Hormuz-Toll-Plan-as-US-Iran-Conflict-Deepens.html",
-      "date": "2026-07-14T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "US President Donald Trump has walked back his plan to charge a 20 percent fee on cargo shipped through the Strait of Hormuz, replacing it with proposed trade and investment agreements with Persian Gulf states while maintaining a blockade on Iranian shipping. “Based on highly prod",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Azerbaijan Accelerates Middle Corridor Push With Central Asia Trade Deals",
-      "link": "https://oilprice.com/Geopolitics/Asia/Azerbaijan-Accelerates-Middle-Corridor-Push-With-Central-Asia-Trade-Deals.html",
-      "date": "2026-07-14T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Azerbaijan is working hard this summer to build bridges across the Caspian Sea, announcing a variety of projects to expand Middle Corridor trade with Central Asian states. In late June, Azerbaijan and Turkmenistan signed a series of agreements to foster energy cooperation and ope",
-      "category": "General"
-    },
-    {
-      "title": "Dangote's Dollar Shift Reveals Nigeria's Bigger Oil Problem",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dangotes-Dollar-Shift-Reveals-Nigerias-Bigger-Oil-Problem.html",
-      "date": "2026-07-14T17:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Africa's biggest refinery has started pricing fuel in U.S. dollars because Nigeria can't supply enough Nigerian crude to keep it running. Dangote Petroleum Refinery, which can process 700,000 barrels of crude per day, said it is switching domestic gasoline, diesel, and jet fuel p",
-      "category": "Refinery"
-    },
-    {
-      "title": "New York Imposes First Ever Moratorium On U.S. Data Centers",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/New-York-Imposes-First-Ever-Moratorium-On-US-Data-Centers.html",
-      "date": "2026-07-14T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "New York Governor Kathy Hochul has signed the country’s first-ever executive order imposing a statewide moratorium on new large-scale data centers for up to one year. The order freezes the permitting process for new data centers requiring 50 megawatts or more of electricity, plac",
-      "category": "Refinery"
-    },
-    {
-      "title": "Oil’s Oversupply Narrative Just Died",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oils-Oversupply-Narrative-Just-Died.html",
-      "date": "2026-07-14T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Renewed U.S.-Iran hostilities have pushed Brent above $85, ending the oversupply narrative and reviving fears of a global oil shortage. Much Anticipated 2026 LNG Oversupply Wave May Not Materialize - According to industry analysts, the much-anticipated LNG oversupply wave of 2026",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "U.S. Gasoline Prices Rise for First Time Since May as Iran Ceasefire Collapses",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Rise-for-First-Time-Since-May-as-Iran-Ceasefire-Collapses.html",
-      "date": "2026-07-14T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "U.S. gasoline prices have increased for the first time since May, with the sudden reversal directly tied to the collapse of the tentative ceasefire between the U.S. and Iran. According to AAA data, the U.S. national average price of gasoline clocked in at $3.8590 per gallon on Tu",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Venezuela’s Oil Revival Faces a Critical Services Bottleneck",
-      "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Revival-Faces-a-Critical-Services-Bottleneck.html",
-      "date": "2026-07-14T15:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Venezuela's upstream industry has entered a new phase. Following sweeping hydrocarbon reforms and broader geopolitical developments in early 2026, the conversation has shifted from whether the country can reopen its oil sector to whether it can successfully execute a meaningful p",
-      "category": "Geopolitics"
     },
     {
       "title": "Greenfire to acquire Canadian oil sands producer Connacher for $900m",
@@ -308,14 +348,6 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Oil prices rise more than 3% amid new US-Iran military strikes near Hormuz",
-      "link": "https://www.offshore-technology.com/news/oil-prices-rise-new-us-iran-military-strikes/",
-      "date": "2026-07-13T09:56:59.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil prices climbed by more than 3% on 13 July, Monday, following renewed military exchanges between the US and Iran, prompting concerns over the security of global energy shipments through the Strait of Hormuz.",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Oil Jumps After Battle for Hormuz Control Escalates",
       "link": "https://www.rigzone.com/news/oil_jumps_after_battle_for_hormuz_control_escalates-13-jul-2026-184118-article/?rss=true",
       "date": "2026-07-13T09:43:23.000Z",
@@ -324,28 +356,12 @@
       "category": "General"
     },
     {
-      "title": "ADNOC L&S orders four LNG carriers from Jiangnan for $900m",
-      "link": "https://www.offshore-technology.com/news/adnoc-ls-orders-four-lng-carriers-jiangnan-900m/",
-      "date": "2026-07-13T09:40:27.000Z",
-      "source": "Offshore Technology",
-      "description": "ADNOC Logistics and Services (L&S), a subsidiary of ADNOC, has signed a contract worth approximately $900m (Dh3.3bn) with Jiangnan Shipyard for the construction of four new liquefied natural gas (LNG) carriers.",
-      "category": "Supply Routes"
-    },
-    {
       "title": "USA, Iran Trade Fresh Strikes",
       "link": "https://www.rigzone.com/news/usa_iran_trade_fresh_strikes-13-jul-2026-184117-article/?rss=true",
       "date": "2026-07-13T08:31:54.000Z",
       "source": "Rigzone",
       "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 13, 2026, 2:00 PM GMT+1: Article ...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "EC conditionally approves $13.6bn Baker Hughes-Chart deal",
-      "link": "https://www.offshore-technology.com/news/ec-conditionally-approves-baker-hughes-chart-deal/",
-      "date": "2026-07-13T07:37:41.000Z",
-      "source": "Offshore Technology",
-      "description": "The European Commission (EC) has conditionally approved the proposed $13.6bn acquisition of Chart Industries by Baker Hughes under the EU Merger Regulation.",
-      "category": "Policy"
     },
     {
       "title": "TotalEnergies Sells Small-Scale Solar Assets in Europe",
