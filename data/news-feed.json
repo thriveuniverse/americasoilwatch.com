@@ -1,8 +1,112 @@
 {
-  "lastUpdated": "2026-07-14T18:48:31.740Z",
+  "lastUpdated": "2026-07-15T08:31:13.785Z",
   "summary": null,
-  "count": 84,
+  "count": 76,
   "articles": [
+    {
+      "title": "IMO SecGen Says Hormuz Is Too Dangerous for Ships",
+      "link": "https://www.rigzone.com/news/imo_secgen_says_hormuz_is_too_dangerous_for_ships-15-jul-2026-184134-article/?rss=true",
+      "date": "2026-07-15T08:26:28.000Z",
+      "source": "Rigzone",
+      "description": "<p>The International Maritime Organization said the Strait of Hormuz remains too dangerous for commercial vessels to transit, the most significant warning to th...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Ukraine Says It Hit Russian Oil, Gas Tankers in Black Sea",
+      "link": "https://www.rigzone.com/news/ukraine_says_it_hit_russian_oil_gas_tankers_in_black_sea-15-jul-2026-184133-article/?rss=true",
+      "date": "2026-07-15T08:21:31.000Z",
+      "source": "Rigzone",
+      "description": "<p>Ukrainian forces hit multiple Russian vessels in the Black Sea overnight as Kyiv expands the scope of its naval attacks against Moscow.</p> <p>“The first ...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "LNG Canada offers equity option to First Nations for phase two tank",
+      "link": "https://www.offshore-technology.com/news/lng-canada-first-nations-partnership/",
+      "date": "2026-07-15T07:48:57.000Z",
+      "source": "Offshore Technology",
+      "description": "LNG Canada gives equity option to MNT Investments LP that could allow a First Nations partnership to invest up to C$1bn ($711m).",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "U.S. Backs Iraq-Syria Oil Pipeline to Bypass the Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Backs-Iraq-Syria-Oil-Pipeline-to-Bypass-the-Strait-of-Hormuz.html",
+      "date": "2026-07-15T07:40:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The United States supports plans by Iraq and Syria to rebuild a damaged oil pipeline that would carry crude from Kirkuk to Syria’s Mediterranean coast and bypass the Strait of Hormuz. The U.S. backs the Iraqi and Syrian efforts to rebuild the Kirkuk-Baniyas oil pipeline and dimin",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "China’s Refinery Runs Crash to Pandemic Lows as Crude Imports Collapse",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Refinery-Runs-Crash-to-Pandemic-Lows-as-Crude-Imports-Collapse.html",
+      "date": "2026-07-15T06:40:28.000Z",
+      "source": "OilPrice.com",
+      "description": "Chinese refiners further slashed crude processing in June, with volumes crumbling to the pandemic lows of 2020 amid Strait of Hormuz supply disruptions and weakening domestic fuel demand. China’s refinery throughput slumped by 17.7% from a year earlier, to just 12.47 million barr",
+      "category": "Refinery"
+    },
+    {
+      "title": "The Next Oil Rally May Depend On China, Not The Middle East",
+      "link": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Rally-May-Depend-On-China-Not-The-Middle-East.html",
+      "date": "2026-07-15T00:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Chinese refiners largely stopped competing for Middle Eastern crude during the Iran conflict, leaving more Gulf cargoes available to Europe, India, and the rest of Asia just as traders prepared for a supply shock. The International Energy Agency (IEA) estimates China drew 41 mill",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Bangladesh's Nuclear Power Play Is a Test for Emerging Economies",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Bangladeshs-Nuclear-Power-Play-Is-a-Test-for-Emerging-Economies.html",
+      "date": "2026-07-14T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Previously, we reported that India is betting big on solar energy to power its industrialization drive, abandoning earlier plans to rely on coal. Indeed, India is going off the beaten path by attempting to become the first country to industrialize using clean energy instead of fo",
+      "category": "General"
+    },
+    {
+      "title": "Canada Ties New West Coast Pipeline to Oil Sands Expansion",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Ties-New-West-Coast-Pipeline-to-Oil-Sands-Expansion.html",
+      "date": "2026-07-14T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Canada’s biggest oil sands producers, the Alberta provincial government, and the federal government have reached a new milestone in advancing the planned new West Coast pipeline that would move another 1 million barrels per day (bpd) of oil sands output from the top oil province ",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "US Crude Oil, Gasoline Inventories Still Falling",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Gasoline-Inventories-Still-Falling.html",
+      "date": "2026-07-14T21:04:18.000Z",
+      "source": "OilPrice.com",
+      "description": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell by 564,000 barrels in the week ending July 10. In the week prior, US crude oil inventories fell by 399,000 barrels. Although commercial crude oil inventories excluding the SPR ha",
+      "category": "Production"
+    },
+    {
+      "title": "Could Geothermal Energy Rescue Germany's Fading Coal Towns?",
+      "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Could-Geothermal-Energy-Rescue-Germanys-Fading-Coal-Towns.html",
+      "date": "2026-07-14T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Europe’s largest economy is walking a precarious tightrope toward carbon neutrality, trying to balance energy security with climate goals as this summer’s heat waves create mounting pressure on the continent’s energy grids while simultaneously highlighting the importance of mitig",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil Hits One-Month High",
+      "link": "https://www.rigzone.com/news/oil_hits_onemonth_high-14-jul-2026-184132-article/?rss=true",
+      "date": "2026-07-14T20:05:56.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil rose to the highest in a month as traders digested US President Donald Trump's U-turn on cargo payments in the Strait of Hormuz and more vessels in the w...",
+      "category": "General"
+    },
+    {
+      "title": "Trump’s Hormuz Toll Could Upend Global Energy Trade",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Trumps-Hormuz-Toll-Could-Upend-Global-Energy-Trade.html",
+      "date": "2026-07-14T20:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "A proposed 20% charge on cargo passing through the Strait of Hormuz would violate the basic principles of international navigation, raise energy costs and undermine the stated purpose of restoring stability. It could also do more to accelerate the global energy transition than ma",
+      "category": "General"
+    },
+    {
+      "title": "Trump Scraps Hormuz Toll Plan as U.S.-Iran Conflict Deepens",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Trump-Scraps-Hormuz-Toll-Plan-as-US-Iran-Conflict-Deepens.html",
+      "date": "2026-07-14T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "US President Donald Trump has walked back his plan to charge a 20 percent fee on cargo shipped through the Strait of Hormuz, replacing it with proposed trade and investment agreements with Persian Gulf states while maintaining a blockade on Iranian shipping. “Based on highly prod",
+      "category": "Geopolitics"
+    },
     {
       "title": "Azerbaijan Accelerates Middle Corridor Push With Central Asia Trade Deals",
       "link": "https://oilprice.com/Geopolitics/Asia/Azerbaijan-Accelerates-Middle-Corridor-Push-With-Central-Asia-Trade-Deals.html",
@@ -52,14 +156,6 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Oil Jumps Above $87 as Russia-Ukraine Black Sea Attacks Escalate",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Above-87-as-Russia-Ukraine-Black-Sea-Attacks-Escalate.html",
-      "date": "2026-07-14T14:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "A Russian drone strike on a commercial vessel in Ukraine's Odesa region has killed five seafarers and injured 12 others in one of the deadliest single strikes on commercial shipping since the start of the war. According to Odesa authorities, a Russian drone struck a Togo-flagged ",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Greenfire to acquire Canadian oil sands producer Connacher for $900m",
       "link": "https://www.offshore-technology.com/news/greenfire-to-acquire-connacher-900m/",
       "date": "2026-07-14T14:18:37.000Z",
@@ -92,14 +188,6 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Iran Ceasefire Collapse Sends UK Borrowing Costs to Five-Month High",
-      "link": "https://oilprice.com/Finance/the-Economy/Iran-Ceasefire-Collapse-Sends-UK-Borrowing-Costs-to-Five-Month-High.html",
-      "date": "2026-07-14T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The UK’s borrowing costs have sailed past five per cent for only the third time since the onset of the Iran war, in a headache for Andy Burnham just days before he enters Downing Street. The yield on the UK’s 10-year government bond – the benchmark for a country’s long-term abili",
-      "category": "Geopolitics"
-    },
-    {
       "title": "North America Drops Rigs for 1st Time in Months",
       "link": "https://www.rigzone.com/news/north_america_drops_rigs_for_1st_time_in_months-14-jul-2026-184129-article/?rss=true",
       "date": "2026-07-14T13:53:07.000Z",
@@ -108,44 +196,12 @@
       "category": "Production"
     },
     {
-      "title": "Pakistan Races for Emergency LNG as Strait of Hormuz Traffic Stalls",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Races-for-Emergency-LNG-as-Strait-of-Hormuz-Traffic-Stalls.html",
-      "date": "2026-07-14T13:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Pakistan is on track to procure the most LNG cargoes on the spot market since the Iran war began as the re-escalation in the Strait of Hormuz threatens to disrupt anew term supplies from Qatar. State-controlled Pakistan LNG this week issued a second tender for spot supply in as m",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Iran Says It Will Continue Exporting Oil Despite Canceled U.S. Waiver",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-It-Will-Continue-Exporting-Oil-Despite-Canceled-US-Waiver.html",
-      "date": "2026-07-14T12:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Iran continues to export its oil despite last week’s cancellation of the U.S. waiver of its oil sales, Iranian Oil Minister, Mohsen Paknejad, said on Tuesday, as Tehran remains defiant and determined to control the Strait of Hormuz amid renewed hostilities and the reinstated U.S.",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Escalations Damage Hormuz Media Narrative",
       "link": "https://www.rigzone.com/news/escalations_damage_hormuz_media_narrative-14-jul-2026-184128-article/?rss=true",
       "date": "2026-07-14T11:00:13.000Z",
       "source": "Rigzone",
       "description": "<p>Escalations over the past week have damaged the media narrative that has built up over the past few weeks, that transit through the Strait was practically ba...",
       "category": "General"
-    },
-    {
-      "title": "Asian Oil Importers Pivot to U.S. Supplies as Hormuz Risks Intensify",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Oil-Importers-Pivot-to-US-Supplies-as-Hormuz-Risks-Intensify.html",
-      "date": "2026-07-14T10:45:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Asian buyers are back to negotiating spot cargoes of U.S. crude oil after the expected recovery of flows through the Strait of Hormuz ground to a halt early this week with the latest re-escalation in the U.S.-Iran tensions. Asian refiners are now returning to the trade that saved",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "China Cuts Saudi Crude Orders as Hormuz Risks and Discounts Reshape Trade",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Cuts-Saudi-Crude-Orders-as-Hormuz-Risks-and-Discounts-Reshape-Trade.html",
-      "date": "2026-07-14T09:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Some Chinese refiners have not nominated term crude cargoes from Saudi Arabia for August, while others have not been allocated any term supply for next month, as weak demand in China, competition from other producers, and continued disruptions at the Strait of Hormuz have slashed",
-      "category": "Refinery"
     },
     {
       "title": "Chesapeake Utilities unveils $1.2bn Florida Energy Pathway plan",
@@ -172,28 +228,12 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Brent Surges Above $86 After Iran Strikes Two UAE Tankers in Hormuz",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Brent-Surges-Above-86-After-Iran-Strikes-Two-UAE-Tankers-in-Hormuz.html",
-      "date": "2026-07-14T08:45:53.000Z",
-      "source": "OilPrice.com",
-      "description": "Brent Crude prices soared by 3% early on Tuesday to above $86 per barrel, following an Iranian attack on two tankers of the United Arab Emirates in the southern lane of the Strait of Hormuz, in one of the biggest attacks in the recent re-escalation in the region. In early trading",
-      "category": "Geopolitics"
-    },
-    {
       "title": "BP Flags $1B Writedown from Low Carbon Business",
       "link": "https://www.rigzone.com/news/bp_flags_1b_writedown_from_low_carbon_business-14-jul-2026-184126-article/?rss=true",
       "date": "2026-07-14T08:24:26.000Z",
       "source": "Rigzone",
       "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 14, 2026, 9:42 PM GMT+1: Article ...",
       "category": "General"
-    },
-    {
-      "title": "Iran Sneaks 12 Million Barrels Past Renewed U.S. Oil Blockade",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Sneaks-12-Million-Barrels-Past-Renewed-US-Oil-Blockade.html",
-      "date": "2026-07-14T08:20:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Iran is estimated to have sneaked supertankers with a total of 12 million barrels of crude oil in the week between the end of the U.S. waiver on Iranian oil sales on July 7 and July 14, just as the U.S. announced the renewed blockade on Iranian ports and oil cargoes. Last Tuesday",
-      "category": "Geopolitics"
     },
     {
       "title": "Houthis Strike Saudi Arabia in Major Escalation",
@@ -210,14 +250,6 @@
       "source": "Offshore Technology",
       "description": "SLB OneSubsea has secured an engineering, procurement, and construction (EPC) contract from Eni for Phase 3 of the Baleine project located offshore Côte d’Ivoire.",
       "category": "General"
-    },
-    {
-      "title": "China’s Crude Oil Imports Crash to Decade Low as Hormuz Crisis Bites",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Oil-Imports-Crash-to-Decade-Low-as-Hormuz-Crisis-Bites.html",
-      "date": "2026-07-14T07:15:00.000Z",
-      "source": "OilPrice.com",
-      "description": "China’s crude oil imports crashed to a decade-low in June as the reduced flows through the Strait of Hormuz hiked oil prices and reduced refiners’ appetite for costly crude. Overall Chinese imports of crude oil plunged by 41.3% in June from a year earlier, to just 29.27 million t",
-      "category": "Refinery"
     },
     {
       "title": "Oil Soars on Hormuz Blockade",
@@ -361,14 +393,6 @@
       "date": "2026-07-10T12:03:37.000Z",
       "source": "Rigzone",
       "description": "<p>Chevron Corp has signed an agreement to supply 46 petajoules (pJ) of natural gas to Alinta Energy Pty Ltd over five years.</p> <p>Supply to the Perth, Wes...",
-      "category": "General"
-    },
-    {
-      "title": "Chevron signs new five-year WA gas supply deal with Alinta Energy",
-      "link": "https://www.offshore-technology.com/news/chevron-supply-deal-alinta-energy/",
-      "date": "2026-07-10T11:52:37.000Z",
-      "source": "Offshore Technology",
-      "description": "Chevron Australia has entered into a new long-term sale and purchase agreement with Alinta Energy for the supply of natural gas from Chevron’s Western Australian gas portfolio.",
       "category": "General"
     },
     {
@@ -586,94 +610,6 @@
       "source": "Rigzone",
       "description": "<p>The US carried out a new round of strikes in Iran targeting more than 80 sites and revoked a waiver allowing new sales of its oil, further imperiling a peace...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Fed President Stays Optimistic as Energy Prices Fall",
-      "link": "https://www.rigzone.com/news/fed_president_stays_optimistic_as_energy_prices_fall-07-jul-2026-184079-article/?rss=true",
-      "date": "2026-07-07T21:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Federal Reserve Bank of New York President John Williams said he expects falling energy prices to drive a drop in overall inflation over the next few months,...",
-      "category": "Prices"
-    },
-    {
-      "title": "Oil Jumps on Hormuz Shipping Attacks",
-      "link": "https://www.rigzone.com/news/oil_jumps_on_hormuz_shipping_attacks-07-jul-2026-184082-article/?rss=true",
-      "date": "2026-07-07T20:35:18.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil climbed almost 6% after attacks on Persian Gulf shipping prompted the US to revoke a waiver that had relaxed restrictions on Iranian crude sales.<br /> ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "BP Exits Bay du Nord Project offshore Canada",
-      "link": "https://www.rigzone.com/news/bp_exits_bay_du_nord_project_offshore_canada-07-jul-2026-184081-article/?rss=true",
-      "date": "2026-07-07T15:11:13.000Z",
-      "source": "Rigzone",
-      "description": "<p>BP PLC said Monday it had secured an agreement to sell its stake in the Bay du Nord oil project in Canada's Flemish Pass Basin to operator Equinor ASA.</p> ...",
-      "category": "General"
-    },
-    {
-      "title": "North America Finally Snaps Rig Count Addition Streak",
-      "link": "https://www.rigzone.com/news/north_america_finally_snaps_rig_count_addition_streak-07-jul-2026-184080-article/?rss=true",
-      "date": "2026-07-07T14:26:31.000Z",
-      "source": "Rigzone",
-      "description": "<p>North America’s rig count stayed flat week on week, according to Baker Hughes’ latest North America rotary rig count, which was published on July 2.</p> <...",
-      "category": "Production"
-    },
-    {
-      "title": "Shell Expects Gas Trading Results to Exceed Q1",
-      "link": "https://www.rigzone.com/news/shell_expects_gas_trading_results_to_exceed_q1-07-jul-2026-184078-article/?rss=true",
-      "date": "2026-07-07T14:15:55.000Z",
-      "source": "Rigzone",
-      "description": "<p>Shell PLC said Tuesday it expects trading results for its Integrated Gas segment to be \"significantly higher\" for the second quarter (Q2) compared to the pri...",
-      "category": "Prices"
-    },
-    {
-      "title": "German Stockpiling Agency Says It's Refilling Strategic Reserve",
-      "link": "https://www.rigzone.com/news/german_stockpiling_agency_says_its_refilling_strategic_reserve-07-jul-2026-184077-article/?rss=true",
-      "date": "2026-07-07T14:12:56.000Z",
-      "source": "Rigzone",
-      "description": "<p>Germany’s oil stockpiling <a href=\"https://www.ebv-oil.org/cmse/cms2.asp?sid=57&nid=&cof=57\" target=\"_blank\">agency</a> EBV is looking to refill strategic re...",
-      "category": "Production"
-    },
-    {
-      "title": "LNG Made Up 45 Percent of EU Gas Imports in 2025",
-      "link": "https://www.rigzone.com/news/lng_made_up_45_percent_of_eu_gas_imports_in_2025-07-jul-2026-184076-article/?rss=true",
-      "date": "2026-07-07T12:01:36.000Z",
-      "source": "Rigzone",
-      "description": "<p>Liquefied natural gas (LNG) accounted for 131 billion cubic meters (4.63 trillion cubic feet) or 45 percent of gas imported by European Union countries last ...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Oil Market is Attempting a System Reboot",
-      "link": "https://www.rigzone.com/news/oil_market_is_attempting_a_system_reboot-07-jul-2026-184075-article/?rss=true",
-      "date": "2026-07-07T11:06:54.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a report sent to Rigzone late last week by Natasha Kaneva, J.P. Morgan’s Head of Global Commodities Strategy, J.P. Morgan analysts, including Kaneva, said...",
-      "category": "Prices"
-    },
-    {
-      "title": "Bangchak Completes Acquisition of Chevron Hong Kong",
-      "link": "https://www.rigzone.com/news/bangchak_completes_acquisition_of_chevron_hong_kong-07-jul-2026-184074-article/?rss=true",
-      "date": "2026-07-07T10:06:29.000Z",
-      "source": "Rigzone",
-      "description": "<p>Bangchak Corp Public Co Ltd said it had completed the purchase of Chevron Corp's fueling business in Hong Kong, though acquired stations continue to serve th...",
-      "category": "General"
-    },
-    {
-      "title": "Gasoline Sees 3rd Most Expensive Independence Day Ever",
-      "link": "https://www.rigzone.com/news/gasoline_sees_3rd_most_expensive_independence_day_ever-07-jul-2026-184073-article/?rss=true",
-      "date": "2026-07-07T09:01:33.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a blog posted on its website on Monday, GasBuddy noted that, according to its data, the average price of gasoline in the U.S. had fallen 6.8 cents over th...",
-      "category": "Prices"
-    },
-    {
-      "title": "Qatari LNG Carrier Struck in Hormuz",
-      "link": "https://www.rigzone.com/news/qatari_lng_carrier_struck_in_hormuz-07-jul-2026-184072-article/?rss=true",
-      "date": "2026-07-07T06:43:21.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 7, 2026, 3:18 PM GMT: Article upd...",
-      "category": "General"
     }
   ]
 }
