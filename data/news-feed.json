@@ -1,8 +1,96 @@
 {
-  "lastUpdated": "2026-07-15T14:16:43.376Z",
+  "lastUpdated": "2026-07-15T18:46:35.493Z",
   "summary": null,
-  "count": 78,
+  "count": 81,
   "articles": [
+    {
+      "title": "China Expands Energy and Trade Partnerships in Central Asia",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Expands-Energy-and-Trade-Partnerships-in-Central-Asia.html",
+      "date": "2026-07-15T18:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The chairman of Kazakhstan’s Atomic Energy Agency, Almassadam Satkaliyev, is on an extended tour of nuclear-power facilities in China, gaining insight into PRC management techniques covering the entire development cycle, from designing to construction to operation of such entitie",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Critical Data For India’s Largest Nuclear Plant Exposed In Massive Breach",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Critical-Data-For-Indias-Largest-Nuclear-Plant-Exposed-In-Massive-Breach.html",
+      "date": "2026-07-15T17:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "A massive data breach has exposed approximately 19,000 highly sensitive files related to the Kudankulam Nuclear Power Plant (KKNPP) on the dark web. The documents mainly involve Units 3 and 4 of the 2,400 MW plant, both still under construction and slated to become operational by",
+      "category": "Refinery"
+    },
+    {
+      "title": "Five Ways China Is Shielding Itself as the Hormuz Cease-Fire Collapses",
+      "link": "https://oilprice.com/Energy/Energy-General/Five-Ways-China-Is-Shielding-Itself-as-the-Hormuz-Cease-Fire-Collapses.html",
+      "date": "2026-07-15T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The U.S.-Iran cease-fire that was supposed to reopen the Strait of Hormuz for good is falling apart. American forces reimposed a naval blockade on Iranian ports this week and hit dozens of targets along Iran's coast, and Tehran answered by striking tankers moving through the stra",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Engie Brasil Raises $1.7B In Latest Share Offering",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Engie-Brasil-Raises-17B-In-Latest-Share-Offering.html",
+      "date": "2026-07-15T16:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Brazil’s largest private electricity producer, Engie Brasil, has successfully raised 8.4 billion reais ($1.66 billion) at a price of 30.50 reais per share in a follow-on share offering, in one of the largest follow-on offerings in the country’s capital market this year, Reuters r",
+      "category": "Prices"
+    },
+    {
+      "title": "PJM Auction Comes Up 6.8 Gigawatts Short As Data Centers Devour Power",
+      "link": "https://oilprice.com/Energy/Energy-General/PJM-Auction-Comes-Up-68-Gigawatts-Short-As-Data-Centers-Devour-Power.html",
+      "date": "2026-07-15T16:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The largest US power grid failed for a third straight year to secure enough future supply commitments to ensure reliability for the future amid a historic boom in data center demand. PJM Interconnection, the largest US power grid (Regional Transmission Organization), which serves",
+      "category": "General"
+    },
+    {
+      "title": "U.S. Crude Inventories Fall 1.7 Million Barrels As Iran Tensions Rattle Markets",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Inventories-Fall-17-Million-Barrels-As-Iran-Tensions-Rattle-Markets.html",
+      "date": "2026-07-15T15:28:17.000Z",
+      "source": "OilPrice.com",
+      "description": "Crude oil inventories in the United States saw a decrease of 1.7 million barrels during the week ending July 10, according to new data from the U.S. Energy Information Administration (EIA) released on Wednesday. The increase brings commercial stockpiles to 409.7 million barrels, ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Russia’s Oil Export Surge Runs Into a 135 Million-Barrel Traffic Jam",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Export-Surge-Runs-Into-a-135-Million-Barrel-Traffic-Jam.html",
+      "date": "2026-07-15T15:01:10.000Z",
+      "source": "OilPrice.com",
+      "description": "Nearly 135 million barrels of Russian crude oil are currently stranded at sea as a result of Ukraine’s airstrike campaign targeting refineries with the intent to cripple crude processing. The offshore backlog is forcing Moscow to significantly ramp up export volumes. Intensive Uk",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "USA EIA Raises Henry Hub Price Forecast for 2026, 2027",
+      "link": "https://www.rigzone.com/news/usa_eia_raises_henry_hub_price_forecast_for_2026_2027-15-jul-2026-184139-article/?rss=true",
+      "date": "2026-07-15T14:48:02.000Z",
+      "source": "Rigzone",
+      "description": "<p>The U.S. Energy Information Administration (EIA) raised its Henry Hub natural gas spot price projection for 2026 and 2027 in its latest short term energy out...",
+      "category": "Policy"
+    },
+    {
+      "title": "Shell moves ahead with tender for Dragon offshore gas project",
+      "link": "https://www.offshore-technology.com/news/shell-tender-dragon-offshore-gas-project/",
+      "date": "2026-07-15T14:34:08.000Z",
+      "source": "Offshore Technology",
+      "description": "Shell is advancing preparations for drilling at the Dragon offshore gas field in eastern Venezuela, with tendering now underway for drilling services.",
+      "category": "Policy"
+    },
+    {
+      "title": "Russia Oil Sanctions Threat Could Complicate USA-India Talks",
+      "link": "https://www.rigzone.com/news/russia_oil_sanctions_threat_could_complicate_usaindia_talks-15-jul-2026-184138-article/?rss=true",
+      "date": "2026-07-15T14:28:49.000Z",
+      "source": "Rigzone",
+      "description": "<p>Fresh US threats to impose sanctions on countries buying Russian oil may complicate ongoing trade negotiations between Washington and New Delhi, according to...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Asian Oil Refiners Scoop Up USA Crude",
+      "link": "https://www.rigzone.com/news/asian_oil_refiners_scoop_up_usa_crude-15-jul-2026-184137-article/?rss=true",
+      "date": "2026-07-15T14:24:21.000Z",
+      "source": "Rigzone",
+      "description": "<p>The escalation of hostilities between Washington and Tehran and a virtual standstill in observable traffic through the Strait of Hormuz has prompted a flurry...",
+      "category": "Refinery"
+    },
     {
       "title": "New U.S. Sanctions Bill Targets Russia's Oil Exports and Shadow Fleet",
       "link": "https://oilprice.com/Energy/Energy-General/New-US-Sanctions-Bill-Targets-Russias-Oil-Exports-and-Shadow-Fleet.html",
@@ -132,67 +220,11 @@
       "category": "Supply Routes"
     },
     {
-      "title": "China’s Refinery Runs Crash to Pandemic Lows as Crude Imports Collapse",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Refinery-Runs-Crash-to-Pandemic-Lows-as-Crude-Imports-Collapse.html",
-      "date": "2026-07-15T06:40:28.000Z",
-      "source": "OilPrice.com",
-      "description": "Chinese refiners further slashed crude processing in June, with volumes crumbling to the pandemic lows of 2020 amid Strait of Hormuz supply disruptions and weakening domestic fuel demand. China’s refinery throughput slumped by 17.7% from a year earlier, to just 12.47 million barr",
-      "category": "Refinery"
-    },
-    {
-      "title": "The Next Oil Rally May Depend On China, Not The Middle East",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Rally-May-Depend-On-China-Not-The-Middle-East.html",
-      "date": "2026-07-15T00:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Chinese refiners largely stopped competing for Middle Eastern crude during the Iran conflict, leaving more Gulf cargoes available to Europe, India, and the rest of Asia just as traders prepared for a supply shock. The International Energy Agency (IEA) estimates China drew 41 mill",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Bangladesh's Nuclear Power Play Is a Test for Emerging Economies",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Bangladeshs-Nuclear-Power-Play-Is-a-Test-for-Emerging-Economies.html",
-      "date": "2026-07-14T23:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Previously, we reported that India is betting big on solar energy to power its industrialization drive, abandoning earlier plans to rely on coal. Indeed, India is going off the beaten path by attempting to become the first country to industrialize using clean energy instead of fo",
-      "category": "General"
-    },
-    {
-      "title": "Canada Ties New West Coast Pipeline to Oil Sands Expansion",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Ties-New-West-Coast-Pipeline-to-Oil-Sands-Expansion.html",
-      "date": "2026-07-14T22:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Canada’s biggest oil sands producers, the Alberta provincial government, and the federal government have reached a new milestone in advancing the planned new West Coast pipeline that would move another 1 million barrels per day (bpd) of oil sands output from the top oil province ",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "US Crude Oil, Gasoline Inventories Still Falling",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Gasoline-Inventories-Still-Falling.html",
-      "date": "2026-07-14T21:04:18.000Z",
-      "source": "OilPrice.com",
-      "description": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell by 564,000 barrels in the week ending July 10. In the week prior, US crude oil inventories fell by 399,000 barrels. Although commercial crude oil inventories excluding the SPR ha",
-      "category": "Production"
-    },
-    {
-      "title": "Could Geothermal Energy Rescue Germany's Fading Coal Towns?",
-      "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Could-Geothermal-Energy-Rescue-Germanys-Fading-Coal-Towns.html",
-      "date": "2026-07-14T21:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Europe’s largest economy is walking a precarious tightrope toward carbon neutrality, trying to balance energy security with climate goals as this summer’s heat waves create mounting pressure on the continent’s energy grids while simultaneously highlighting the importance of mitig",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Oil Hits One-Month High",
       "link": "https://www.rigzone.com/news/oil_hits_onemonth_high-14-jul-2026-184132-article/?rss=true",
       "date": "2026-07-14T20:05:56.000Z",
       "source": "Rigzone",
       "description": "<p>Oil rose to the highest in a month as traders digested US President Donald Trump's U-turn on cargo payments in the Strait of Hormuz and more vessels in the w...",
-      "category": "General"
-    },
-    {
-      "title": "Trump’s Hormuz Toll Could Upend Global Energy Trade",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Trumps-Hormuz-Toll-Could-Upend-Global-Energy-Trade.html",
-      "date": "2026-07-14T20:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "A proposed 20% charge on cargo passing through the Strait of Hormuz would violate the basic principles of international navigation, raise energy costs and undermine the stated purpose of restoring stability. It could also do more to accelerate the global energy transition than ma",
       "category": "General"
     },
     {
@@ -322,14 +354,6 @@
       "source": "Rigzone",
       "description": "<p>Weekly U.S. ending stocks of crude oil in the Strategic Petroleum Reserve (SPR) stood at 319.48 million barrels as of the week ending July 3, data on the U.S...",
       "category": "Production"
-    },
-    {
-      "title": "Petronas, Shizuoka Gas sign seven-year LNG supply agreement",
-      "link": "https://www.offshore-technology.com/news/petronas-shizuoka-gas-lng-supply-agreement/",
-      "date": "2026-07-13T12:28:41.000Z",
-      "source": "Offshore Technology",
-      "description": "Petronas LNG has agreed to supply LNG to Shizuoka Gas under a new sale and purchase agreement that will run for seven years from financial year 2032 to 2038.",
-      "category": "General"
     },
     {
       "title": "South Africa Plans First Oil Reserves Boost Since Apartheid",
