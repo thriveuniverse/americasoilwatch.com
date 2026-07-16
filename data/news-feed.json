@@ -1,14 +1,134 @@
 {
-  "lastUpdated": "2026-07-16T08:28:46.510Z",
+  "lastUpdated": "2026-07-16T14:29:22.593Z",
   "summary": null,
-  "count": 72,
+  "count": 77,
   "articles": [
+    {
+      "title": "The Undisputed Global Oil Superpower",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Undisputed-Global-Oil-Superpower.html",
+      "date": "2026-07-16T14:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The newly released 2026 Statistical Review of World Energy reinforces a point that sometimes gets lost in political discussions about energy: the United States remains the world’s largest oil producer. But the size of the U.S. lead depends on what is being counted. When most peop",
+      "category": "General"
+    },
+    {
+      "title": "CB&I wins EnQuest contract extension for Kittiwake duty holder role",
+      "link": "https://www.offshore-technology.com/news/cbi-enquest-contract-extension-kittiwake/",
+      "date": "2026-07-16T13:53:17.000Z",
+      "source": "Offshore Technology",
+      "description": "CB&I’s Asset Solutions business has been awarded a contract extension by EnQuest to continue as duty holder for the Kittiwake platform in the UK North Sea, carrying responsibilities through to cessation of production and the asset’s decommissioning.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "TotalEnergies Sees Strong Oil Trading",
+      "link": "https://www.rigzone.com/news/totalenergies_sees_strong_oil_trading-16-jul-2026-184147-article/?rss=true",
+      "date": "2026-07-16T13:50:01.000Z",
+      "source": "Rigzone",
+      "description": "<p>TotalEnergies SE reported another quarter of bumper oil trading after the Iran war upended crude markets, but warned of underperformance in its gas business....",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Ukraine Hit 2 Large Russia-Linked Oil Tankers in Black Sea",
+      "link": "https://www.rigzone.com/news/ukraine_hit_2_large_russialinked_oil_tankers_in_black_sea-16-jul-2026-184146-article/?rss=true",
+      "date": "2026-07-16T13:39:48.000Z",
+      "source": "Rigzone",
+      "description": "<p>Ukrainian naval drones hit two large Russia-linked oil tankers in the Black Sea as Moscow and Kyiv expand the scope of their mutual maritime strikes.</p> ...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "China’s Critical Minerals Grip Puts $6.5 Trillion of Global Industry at Risk",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Critical-Minerals-Grip-Puts-65-Trillion-of-Global-Industry-at-Risk.html",
+      "date": "2026-07-16T13:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The global critical minerals market remains highly concentrated, and new threats to supply security have emerged in recent months as China has curbed exports of some rare earth elements, the International Energy Agency said on Thursday. The Chinese government introduced major exp",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Asian LNG Spot Prices Jump 10% as Hormuz Crisis Reignites Supply Fears",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-LNG-Spot-Prices-Jump-10-as-Hormuz-Crisis-Reignites-Supply-Fears.html",
+      "date": "2026-07-16T12:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Spot prices of liquefied natural gas in Asia have surged by 10% in the past week to the highest level since March, as the re-escalation in the Middle East and the fresh near-halt to shipping through the Strait of Hormuz rekindled fears of supply in the world’s biggest LNG-importi",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Analysts Examine Hormuz Crossings",
+      "link": "https://www.rigzone.com/news/analysts_examine_hormuz_crossings-16-jul-2026-184145-article/?rss=true",
+      "date": "2026-07-16T11:34:36.000Z",
+      "source": "Rigzone",
+      "description": "<p>What is ship traffic through the Strait of Hormuz like currently? What type of ships are getting through and what type of ships aren’t? And is the petrochemi...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Pakistan Pays Highest Spot LNG Price in Four Years as Qatar Supply Falters",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Pays-Highest-Spot-LNG-Price-in-Four-Years-as-Qatar-Supply-Falters.html",
+      "date": "2026-07-16T11:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "State-controlled Pakistan LNG Ltd has bought the most expensive cargo of liquefied natural gas on the spot market in four years as the recent re-escalation of the Hormuz crisis cut off cargoes from its term supplier, Qatar. The state-owned Pakistani LNG importer has bought a carg",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "TotalEnergies Sees Stronger Q2 Profit as Refining and Oil Trading Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Sees-Stronger-Q2-Profit-as-Refining-and-Oil-Trading-Surge.html",
+      "date": "2026-07-16T10:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "TotalEnergies expects higher cash flows from its oil production and strong refining margins and oil trading results to boost second-quarter profits compared to the prior quarter, as oil prices rose and fuel markets tightened in the wake of the Iran war. “Downstream results and ca",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil prices fall but remain near one-month highs amid Gulf tensions",
+      "link": "https://www.offshore-technology.com/news/oil-eases-one-month-highs-gulf-tensions/",
+      "date": "2026-07-16T10:00:32.000Z",
+      "source": "Offshore Technology",
+      "description": "Oil prices edged lower on 16 July, Thursday, as market participants assessed growing tensions between the US and Iran, and the potential impact on oil shipments through the Strait of Hormuz.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "USA Crude Oil Stocks Drop Almost 2MM Barrels WoW",
+      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_almost_2mm_barrels_wow-16-jul-2026-184143-article/?rss=true",
+      "date": "2026-07-16T09:42:48.000Z",
+      "source": "Rigzone",
+      "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), dropped by 1.7 million barrels from the week ending July 3 t...",
+      "category": "Production"
+    },
+    {
+      "title": "Delfin issues LNTP to Siemens Energy for FLNG2 vessel",
+      "link": "https://www.offshore-technology.com/news/delfin-issues-lntp-siemens-energy-flng2-vessel/",
+      "date": "2026-07-16T09:38:51.000Z",
+      "source": "Offshore Technology",
+      "description": "Delfin Midstream has given a Limited Notice to Proceed (LNTP) to Siemens Energy for the purchase of several major components for its second floating liquefied natural gas (LNG) production vessel, known as FLNG2.",
+      "category": "Production"
+    },
+    {
+      "title": "India Urges Shipowners to Avoid Deploying Nationals on Hormuz Voyages",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Urges-Shipowners-to-Avoid-Deploying-Nationals-on-Hormuz-Voyages.html",
+      "date": "2026-07-16T09:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "India has advised ship owners and managers to avoid hiring Indian nationals on vessels they plan to send through the Strait of Hormuz, as attacks on commercial vessels have intensified in the area since the U.S.-Iran ceasefire all but collapsed. In an advisory for Indian maritime",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "India Hikes Diesel and Jet Fuel Export Tax",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Hikes-Diesel-and-Jet-Fuel-Export-Tax.html",
+      "date": "2026-07-16T08:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "India has hiked the export duties it will be charging on exports of diesel and jet fuel for the two weeks starting July 16, as the return of the Hormuz crisis is set to further tighten fuel markets. The export taxes on diesel and aviation fuel were nearly doubled per liter of the",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "India Bars Seafarers from Hormuz Voyages",
+      "link": "https://www.rigzone.com/news/india_bars_seafarers_from_hormuz_voyages-16-jul-2026-184142-article/?rss=true",
+      "date": "2026-07-16T08:29:52.000Z",
+      "source": "Rigzone",
+      "description": "<p>India has directed ship owners, ship managers and recruitment agencies to stop deploying the country’s seafarers on vessels going through the Strait of Hormu...",
+      "category": "Supply Routes"
+    },
     {
       "title": "USA-Iran Skirmishes Worsen as Hormuz Traffic Dwindles",
       "link": "https://www.rigzone.com/news/usairan_skirmishes_worsen_as_hormuz_traffic_dwindles-16-jul-2026-184141-article/?rss=true",
       "date": "2026-07-16T08:24:15.000Z",
       "source": "Rigzone",
-      "description": "<p>The US struck Iran for a fifth straight day overnight and hit a sanctioned oil tanker near the country’s main export terminal, as tensions between the warrin...",
+      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 16, 2026, 12:01 PM GMT+1: Article...",
       "category": "Geopolitics"
     },
     {
@@ -92,62 +212,6 @@
       "category": "Refinery"
     },
     {
-      "title": "World-First Floating Wind Technology to Help Power Oil Rigs",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/World-First-Floating-Wind-Technology-to-Help-Power-Oil-Rigs.html",
-      "date": "2026-07-15T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "It’s not often that wind power and oil and gas are mentioned in the same breath. The rare occasion concerns a new type of offshore wind turbine launched in China that will power the extraction of fossil fuels by offshore oil platforms. Developed by the China National Offshore Oil",
-      "category": "Production"
-    },
-    {
-      "title": "China Expands Energy and Trade Partnerships in Central Asia",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Expands-Energy-and-Trade-Partnerships-in-Central-Asia.html",
-      "date": "2026-07-15T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The chairman of Kazakhstan’s Atomic Energy Agency, Almassadam Satkaliyev, is on an extended tour of nuclear-power facilities in China, gaining insight into PRC management techniques covering the entire development cycle, from designing to construction to operation of such entitie",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Critical Data For India’s Largest Nuclear Plant Exposed In Massive Breach",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Critical-Data-For-Indias-Largest-Nuclear-Plant-Exposed-In-Massive-Breach.html",
-      "date": "2026-07-15T17:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "A massive data breach has exposed approximately 19,000 highly sensitive files related to the Kudankulam Nuclear Power Plant (KKNPP) on the dark web. The documents mainly involve Units 3 and 4 of the 2,400 MW plant, both still under construction and slated to become operational by",
-      "category": "Refinery"
-    },
-    {
-      "title": "Five Ways China Is Shielding Itself as the Hormuz Cease-Fire Collapses",
-      "link": "https://oilprice.com/Energy/Energy-General/Five-Ways-China-Is-Shielding-Itself-as-the-Hormuz-Cease-Fire-Collapses.html",
-      "date": "2026-07-15T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The U.S.-Iran cease-fire that was supposed to reopen the Strait of Hormuz for good is falling apart. American forces reimposed a naval blockade on Iranian ports this week and hit dozens of targets along Iran's coast, and Tehran answered by striking tankers moving through the stra",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Engie Brasil Raises $1.7B In Latest Share Offering",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Engie-Brasil-Raises-17B-In-Latest-Share-Offering.html",
-      "date": "2026-07-15T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Brazil’s largest private electricity producer, Engie Brasil, has successfully raised 8.4 billion reais ($1.66 billion) at a price of 30.50 reais per share in a follow-on share offering, in one of the largest follow-on offerings in the country’s capital market this year, Reuters r",
-      "category": "Prices"
-    },
-    {
-      "title": "PJM Auction Comes Up 6.8 Gigawatts Short As Data Centers Devour Power",
-      "link": "https://oilprice.com/Energy/Energy-General/PJM-Auction-Comes-Up-68-Gigawatts-Short-As-Data-Centers-Devour-Power.html",
-      "date": "2026-07-15T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The largest US power grid failed for a third straight year to secure enough future supply commitments to ensure reliability for the future amid a historic boom in data center demand. PJM Interconnection, the largest US power grid (Regional Transmission Organization), which serves",
-      "category": "General"
-    },
-    {
-      "title": "U.S. Crude Inventories Fall 1.7 Million Barrels As Iran Tensions Rattle Markets",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Inventories-Fall-17-Million-Barrels-As-Iran-Tensions-Rattle-Markets.html",
-      "date": "2026-07-15T15:28:17.000Z",
-      "source": "OilPrice.com",
-      "description": "Crude oil inventories in the United States saw a decrease of 1.7 million barrels during the week ending July 10, according to new data from the U.S. Energy Information Administration (EIA) released on Wednesday. The increase brings commercial stockpiles to 409.7 million barrels, ",
-      "category": "Geopolitics"
-    },
-    {
       "title": "USA EIA Raises Henry Hub Price Forecast for 2026, 2027",
       "link": "https://www.rigzone.com/news/usa_eia_raises_henry_hub_price_forecast_for_2026_2027-15-jul-2026-184139-article/?rss=true",
       "date": "2026-07-15T14:48:02.000Z",
@@ -168,7 +232,7 @@
       "link": "https://www.rigzone.com/news/russia_oil_sanctions_threat_could_complicate_usaindia_talks-15-jul-2026-184138-article/?rss=true",
       "date": "2026-07-15T14:28:49.000Z",
       "source": "Rigzone",
-      "description": "<p>Fresh US threats to impose sanctions on countries buying Russian oil may complicate ongoing trade negotiations between Washington and New Delhi, according to...",
+      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 16, 2026, 2:32 AM GMT+1: Article ...",
       "category": "Geopolitics"
     },
     {
@@ -268,14 +332,6 @@
       "category": "Supply Routes"
     },
     {
-      "title": "Conflict, energy security, and the energy transition: lessons from Asia",
-      "link": "https://www.offshore-technology.com/analyst-comment/conflict-energy-security-energy-transition-asia/",
-      "date": "2026-07-14T14:11:46.000Z",
-      "source": "Offshore Technology",
-      "description": "The recent conflict involving the US, Israel and Iran once again exposed the fragility of global energy markets.",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Ukraine Hits Russian Refineries, Ships, Moscow Hits Odesa",
       "link": "https://www.rigzone.com/news/ukraine_hits_russian_refineries_ships_moscow_hits_odesa-14-jul-2026-184130-article/?rss=true",
       "date": "2026-07-14T14:05:57.000Z",
@@ -298,22 +354,6 @@
       "source": "Rigzone",
       "description": "<p>Escalations over the past week have damaged the media narrative that has built up over the past few weeks, that transit through the Strait was practically ba...",
       "category": "General"
-    },
-    {
-      "title": "Chesapeake Utilities unveils $1.2bn Florida Energy Pathway plan",
-      "link": "https://www.offshore-technology.com/news/chesapeake-utilities-1-2bn-florida-energy-pathway/",
-      "date": "2026-07-14T09:28:31.000Z",
-      "source": "Offshore Technology",
-      "description": "Chesapeake Utilities, along with its subsidiary, Peninsula Pipeline, has announced plans for the $1.2bn Florida Energy Pathway, an intrastate natural gas infrastructure project in south Florida, US.",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Halliburton to deliver drilling services at Suriname’s GranMorgu field",
-      "link": "https://www.offshore-technology.com/news/halliburton-deliver-drilling-services-granmorgu-field/",
-      "date": "2026-07-14T09:20:31.000Z",
-      "source": "Offshore Technology",
-      "description": "Halliburton has been awarded contracts to provide integrated drilling and completions services for the GranMorgu deepwater oil development located around 150km off Suriname’s coast.",
-      "category": "Geopolitics"
     },
     {
       "title": "Cross-Industry Group Issues Letter to Incoming UK Gov",
