@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-15T18:46:08.752Z",
-  "priceUsd": 85.18,
-  "priceEur": 74.22,
-  "eurUsd": 1.1477,
-  "changeUsd": 0.31,
-  "changePct": 0.37,
+  "lastUpdated": "2026-07-16T08:28:26.232Z",
+  "priceUsd": 84.43,
+  "priceEur": 73.61,
+  "eurUsd": 1.1471,
+  "changeUsd": -0.75,
+  "changePct": -0.88,
   "dataSource": "Stooq (cb.f front-month)"
 }

@@ -1,8 +1,104 @@
 {
-  "lastUpdated": "2026-07-15T18:46:35.493Z",
+  "lastUpdated": "2026-07-16T08:28:46.510Z",
   "summary": null,
-  "count": 81,
+  "count": 72,
   "articles": [
+    {
+      "title": "USA-Iran Skirmishes Worsen as Hormuz Traffic Dwindles",
+      "link": "https://www.rigzone.com/news/usairan_skirmishes_worsen_as_hormuz_traffic_dwindles-16-jul-2026-184141-article/?rss=true",
+      "date": "2026-07-16T08:24:15.000Z",
+      "source": "Rigzone",
+      "description": "<p>The US struck Iran for a fifth straight day overnight and hit a sanctioned oil tanker near the country’s main export terminal, as tensions between the warrin...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Halliburton wins unconventional gas project contract from Aramco",
+      "link": "https://www.offshore-technology.com/news/halliburton-contract-unconventional-gas-project-aramco/",
+      "date": "2026-07-16T08:02:34.000Z",
+      "source": "Offshore Technology",
+      "description": "Halliburton has secured a multi-year contract from Aramco to provide integrated stimulation and completion services for unconventional gas development in Saudi Arabia.",
+      "category": "General"
+    },
+    {
+      "title": "IEA Warns World Has Just Weeks to Avoid Hormuz Economic Shock",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-World-Has-Just-Weeks-to-Avoid-Hormuz-Economic-Shock.html",
+      "date": "2026-07-16T07:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The world has just a few weeks before taking an economic toll from the re-escalation in the Middle East and the new halt to tanker traffic through the Strait of Hormuz, according to Fatih Birol, the Executive Director of the International Energy Agency (IEA). The situation in the",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "U.S. Strikes Iran-Linked Tanker Near Kharg Island",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Strikes-Iran-Linked-Tanker-Near-Kharg-Island.html",
+      "date": "2026-07-16T05:48:03.000Z",
+      "source": "OilPrice.com",
+      "description": "U.S. forces have struck and disabled an Iran-linked sanctioned oil tanker near Iran’s key export terminal, Kharg Island, deep in the Persian Gulf, the U.S. Central Command (CENTCOM) said early on Thursday, as the U.S. appears to be broadening the scope of the renewed blockade on ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Global Investments In Nuclear Fusion Surge 69% To $4.5B",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Global-Investments-In-Nuclear-Fusion-Surge-69-To-45B.html",
+      "date": "2026-07-16T00:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Global private investments in nuclear fusion hit a record $4.48 billion in 2025, in large part driven by the booming energy demands of AI data centers and rising global energy security concerns. According to the Fusion Industry Association (FIA), confidence in the viability of nu",
+      "category": "General"
+    },
+    {
+      "title": "As Ukraine Cripples Russian Refining, Global Diesel Markets Pay the Price",
+      "link": "https://oilprice.com/Energy/Crude-Oil/As-Ukraine-Cripples-Russian-Refining-Global-Diesel-Markets-Pay-the-Price.html",
+      "date": "2026-07-15T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Since March, Ukraine has systematically dismantled Russia’s refining system, driving crude processing to its lowest level in 21 years and forcing Moscow to ban exports of gasoline, jet fuel and diesel. Russian refineries processed an average of 3.91 million barrels of crude per d",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "AI Boom Sends U.S. Electricity Demand to New High",
+      "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Sends-US-Electricity-Demand-to-New-High.html",
+      "date": "2026-07-15T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "U.S. electricity consumption set a new record high last year and is on track for new all-time highs this year and next, as the AI boom has ended America’s decade of stagnant power use. Rising electrification rates are partly responsible for the higher power demand, but the AI boo",
+      "category": "General"
+    },
+    {
+      "title": "Five Oil and Gas Stocks Ready for a Hormuz Spike and a Hawkish Fed",
+      "link": "https://oilprice.com/Energy/Energy-General/Five-Oil-and-Gas-Stocks-Ready-for-a-Hormuz-Spike-and-a-Hawkish-Fed.html",
+      "date": "2026-07-15T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Two shocks are hitting energy investors at once, and they point in opposite directions. The first is obvious. Iran’s Revolutionary Guard declared the Strait of Hormuz closed again on July 11, the U.S. answered with three straight nights of strikes, and roughly a fifth of the worl",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "U.S. Strikes Iran Again as Brent Slips Despite Escalating Conflict",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Strikes-Iran-Again-as-Brent-Slips-Despite-Escalating-Conflict.html",
+      "date": "2026-07-15T20:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The oil market is treating another US-Iran escalation as background noise. The U.S. launched another wave of strikes against Iran on Wednesday, expanding attacks on military targets along the country's southern coast. Brent crude barely flinched. The global benchmark traded aroun",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil Settles Higher",
+      "link": "https://www.rigzone.com/news/oil_settles_higher-15-jul-2026-184140-article/?rss=true",
+      "date": "2026-07-15T20:12:44.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil narrowly held onto a three-day winning streak as the US launched fresh strikes on Iran in response to a spate of attacks on shipping vessels and American...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "China Just Connected the World's Biggest Hybrid Solar Plant to the Grid",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/China-Just-Connected-the-Worlds-Biggest-Hybrid-Solar-Plant-to-the-Grid.html",
+      "date": "2026-07-15T20:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The face of energy security is changing. Historically, fossil fuels have represented security thanks to their established supply chains and round-the-clock production potential, while renewable energies represented risk and variability. But that equation is reversing as consecuti",
+      "category": "Refinery"
+    },
+    {
+      "title": "World-First Floating Wind Technology to Help Power Oil Rigs",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/World-First-Floating-Wind-Technology-to-Help-Power-Oil-Rigs.html",
+      "date": "2026-07-15T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "It’s not often that wind power and oil and gas are mentioned in the same breath. The rare occasion concerns a new type of offshore wind turbine launched in China that will power the extraction of fossil fuels by offshore oil platforms. Developed by the China National Offshore Oil",
+      "category": "Production"
+    },
     {
       "title": "China Expands Energy and Trade Partnerships in Central Asia",
       "link": "https://oilprice.com/Energy/Energy-General/China-Expands-Energy-and-Trade-Partnerships-in-Central-Asia.html",
@@ -52,14 +148,6 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Russia’s Oil Export Surge Runs Into a 135 Million-Barrel Traffic Jam",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Export-Surge-Runs-Into-a-135-Million-Barrel-Traffic-Jam.html",
-      "date": "2026-07-15T15:01:10.000Z",
-      "source": "OilPrice.com",
-      "description": "Nearly 135 million barrels of Russian crude oil are currently stranded at sea as a result of Ukraine’s airstrike campaign targeting refineries with the intent to cripple crude processing. The offshore backlog is forcing Moscow to significantly ramp up export volumes. Intensive Uk",
-      "category": "Geopolitics"
-    },
-    {
       "title": "USA EIA Raises Henry Hub Price Forecast for 2026, 2027",
       "link": "https://www.rigzone.com/news/usa_eia_raises_henry_hub_price_forecast_for_2026_2027-15-jul-2026-184139-article/?rss=true",
       "date": "2026-07-15T14:48:02.000Z",
@@ -92,14 +180,6 @@
       "category": "Refinery"
     },
     {
-      "title": "New U.S. Sanctions Bill Targets Russia's Oil Exports and Shadow Fleet",
-      "link": "https://oilprice.com/Energy/Energy-General/New-US-Sanctions-Bill-Targets-Russias-Oil-Exports-and-Shadow-Fleet.html",
-      "date": "2026-07-15T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "A bipartisan group of US senators on July 14 introduced the Sanctioning Russia Act of 2026, unveiling a revised package of sanctions and tariffs aimed at squeezing Moscow's war finances while seeking to overcome concerns that had stalled earlier versions of the legislation. The b",
-      "category": "Geopolitics"
-    },
-    {
       "title": "USA Oil, Gas Workforce Drops from May to June",
       "link": "https://www.rigzone.com/news/usa_oil_gas_workforce_drops_from_may_to_june-15-jul-2026-184136-article/?rss=true",
       "date": "2026-07-15T13:42:12.000Z",
@@ -114,38 +194,6 @@
       "source": "Offshore Technology",
       "description": "This episode of Energy Technology’s asks how AI and automation are shaping biofuel refining, in conversation with Honeywell Process and Automation.",
       "category": "Refinery"
-    },
-    {
-      "title": "Japan Trade Chief Says Hormuz Is Off-Limits as Hostilities Reignite",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Trade-Chief-Says-Hormuz-Is-Off-Limits-as-Hostilities-Reignite.html",
-      "date": "2026-07-15T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Commercial shipping through the Strait of Hormuz is once again off-limits in the near term as the renewed hostilities and threats to vessels led to another spike in risks of transiting the key tanker and container shipping lane, according to Masahiro Okafuji, chair of the Japan F",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "IMO Urges Shippers Not to Risk Strait of Hormuz Transits",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IMO-Urges-Shippers-Not-to-Risk-Strait-of-Hormuz-Transits.html",
-      "date": "2026-07-15T12:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Navigation through the Strait of Hormuz remains too dangerous for ship owners and operators to brave the chokepoint, the head of the United Nations’ International Maritime Organization (IMO) said on Wednesday. “I will maintain the message of upholding international law, for count",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Ukraine Intensifies Attacks on Russian Tankers in the Black Sea",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Intensifies-Attacks-on-Russian-Tankers-in-the-Black-Sea.html",
-      "date": "2026-07-15T11:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "After striking 116 vessels linked to Russia’s shadow fleet in the Sea of Azov in recent weeks, Ukraine’s military is turning its sights on ships in the Black Sea, hitting in drone attacks as many as 20 vessels overnight on Wednesday. Ukrainian forces struck 17 Russia-linked oil t",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Oil Prices Climb for Fourth Day as Iran Threatens New Energy Chokepoints",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Climb-for-Fourth-Day-as-Iran-Threatens-New-Energy-Chokepoints.html",
-      "date": "2026-07-15T10:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil prices rose early on Wednesday for the fourth consecutive trading session as the collapsed U.S.-Iran ceasefire precipitated a new crisis in the Strait of Hormuz and Iran threatened to close “all other export corridors that benefit the US and its allies.” As of early trade in ",
-      "category": "Geopolitics"
     },
     {
       "title": "BMI Says Outlook for Oil Prices in Q3 Now Highly Uncertain",
@@ -164,28 +212,12 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Brent Futures Flip to Backwardation as Middle East Supply Risks Return",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Futures-Flip-to-Backwardation-as-Middle-East-Supply-Risks-Return.html",
-      "date": "2026-07-15T09:50:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Brent Crude futures curve flipped into backwardation this week, signaling expectations of tight prompt supply for the first time in a month, as the market started pricing in the renewed hostilities in the Middle East, collapsed tanker traffic through the Strait of Hormuz, and",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Sunda Energy applies for offshore Taranaki Basin exploration permit",
       "link": "https://www.offshore-technology.com/news/sunda-energy-applies-for-offshore-taranaki-basin-exploration-permit/",
       "date": "2026-07-15T09:48:20.000Z",
       "source": "Offshore Technology",
       "description": "Sunda Energy submitted an application for a petroleum exploration permit (PEP) in the offshore region of the Taranaki Basin in New Zealand.",
       "category": "Production"
-    },
-    {
-      "title": "U.S. Gasoline Prices Could Hit $4 Per Gallon Within Days",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Could-Hit-4-Per-Gallon-Within-Days.html",
-      "date": "2026-07-15T08:45:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Following a few weeks of reprieve for drivers, the U.S. national average price of gasoline could top $4 per gallon within a week, as crude oil prices rallied by about 12% in the three days since Friday amid the all-but-collapsed U.S.-Iran ceasefire. The renewed hostilities in the",
-      "category": "Geopolitics"
     },
     {
       "title": "IMO SecGen Says Hormuz Is Too Dangerous for Ships",
@@ -209,14 +241,6 @@
       "date": "2026-07-15T07:48:57.000Z",
       "source": "Offshore Technology",
       "description": "LNG Canada gives equity option to MNT Investments LP that could allow a First Nations partnership to invest up to C$1bn ($711m).",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "U.S. Backs Iraq-Syria Oil Pipeline to Bypass the Strait of Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Backs-Iraq-Syria-Oil-Pipeline-to-Bypass-the-Strait-of-Hormuz.html",
-      "date": "2026-07-15T07:40:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The United States supports plans by Iraq and Syria to rebuild a damaged oil pipeline that would carry crude from Kirkuk to Syria’s Mediterranean coast and bypass the Strait of Hormuz. The U.S. backs the Iraqi and Syrian efforts to rebuild the Kirkuk-Baniyas oil pipeline and dimin",
       "category": "Supply Routes"
     },
     {
@@ -314,14 +338,6 @@
       "source": "Rigzone",
       "description": "<p>The Iran-backed Houthi group in Yemen fired ballistic missiles and drones on Saudi Arabia, the worst attack in several years that threatens to draw the rebel...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "SLB OneSubsea wins EPC contract for Baleine phase three",
-      "link": "https://www.offshore-technology.com/news/slb-onesubsea-epc-baleine-phase-3-eni/",
-      "date": "2026-07-14T08:15:08.000Z",
-      "source": "Offshore Technology",
-      "description": "SLB OneSubsea has secured an engineering, procurement, and construction (EPC) contract from Eni for Phase 3 of the Baleine project located offshore Côte d’Ivoire.",
-      "category": "General"
     },
     {
       "title": "Oil Soars on Hormuz Blockade",
@@ -562,94 +578,6 @@
       "source": "Rigzone",
       "description": "<p>Metropolitan CCS Ltd, a joint venture of INPEX Corp and Kanto Natural Gas Development Co Ltd, has begun drilling an appraisal well for a carbon capture and s...",
       "category": "Production"
-    },
-    {
-      "title": "Oil Surges on Renewed Iran Strikes",
-      "link": "https://www.rigzone.com/news/oil_surges_on_renewed_iran_strikes-08-jul-2026-184093-article/?rss=true",
-      "date": "2026-07-08T20:00:59.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil jumped to a two-week high after the US renewed attacks on Iran and President Donald Trump said an interim peace deal is over, heightening concerns about ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Qatar Role as USA-Iran Mediator Jeopardized",
-      "link": "https://www.rigzone.com/news/qatar_role_as_usairan_mediator_jeopardized-08-jul-2026-184090-article/?rss=true",
-      "date": "2026-07-08T20:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>The targeting of a Qatari tanker near the Strait of Hormuz has imperiled the Gulf state’s role as one of the primary mediators between the US and Iran.</p> ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Which Country Would Win the Energy World Cup?",
-      "link": "https://www.rigzone.com/news/which_country_would_win_the_energy_world_cup-08-jul-2026-184092-article/?rss=true",
-      "date": "2026-07-08T15:03:49.000Z",
-      "source": "Rigzone",
-      "description": "<p>The 2026 FIFA World Cup is well underway at this point, with all eight of the quarter final slots filled.</p> <p>While there may be some clear favorites t...",
-      "category": "General"
-    },
-    {
-      "title": "4 US Advanced Nuclear Reactors Successfully Demonstrated, DOE Says",
-      "link": "https://www.rigzone.com/news/4_us_advanced_nuclear_reactors_successfully_demonstrated_doe_says-08-jul-2026-184091-article/?rss=true",
-      "date": "2026-07-08T14:54:15.000Z",
-      "source": "Rigzone",
-      "description": "<p>Aalo Atomics said it had successfully shown \"criticality\" for a commercial-scale advanced nuclear reactor - the fourth United States design to do so under an...",
-      "category": "General"
-    },
-    {
-      "title": "Sempra LNG Plant on Mexico's West Coast Exports 1st Shipment",
-      "link": "https://www.rigzone.com/news/sempra_lng_plant_on_mexicos_west_coast_exports_1st_shipment-08-jul-2026-184089-article/?rss=true",
-      "date": "2026-07-08T14:27:14.000Z",
-      "source": "Rigzone",
-      "description": "<p>Sempra Infrastructure’s liquefied natural gas project on Mexico’s west coast exported its first shipment, according to ship-tracking data compiled by Bloombe...",
-      "category": "Refinery"
-    },
-    {
-      "title": "LNG Japan Bags Its First Contract to Supply Gas in Australia",
-      "link": "https://www.rigzone.com/news/lng_japan_bags_its_first_contract_to_supply_gas_in_australia-08-jul-2026-184088-article/?rss=true",
-      "date": "2026-07-08T14:21:54.000Z",
-      "source": "Rigzone",
-      "description": "<p>LNG Japan Corp said Wednesday it had signed an agreement to supply over 30 petajoules of natural gas to Alinta Energy WA Pty Ltd from the Scarborough field o...",
-      "category": "General"
-    },
-    {
-      "title": "Decade of Cheap Henry Hub Gas Coming to End, WoodMac Warns",
-      "link": "https://www.rigzone.com/news/decade_of_cheap_henry_hub_gas_coming_to_end_woodmac_warns-08-jul-2026-184087-article/?rss=true",
-      "date": "2026-07-08T11:48:14.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a statement sent to Rigzone recently, Wood Mackenzie warned that the decade of cheap Henry Hub gas is coming to an end.</p> <p>The company projected in...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Oil Rockets Higher as Trump Declares Iran Ceasefire Over",
-      "link": "https://www.rigzone.com/news/oil_rockets_higher_as_trump_declares_iran_ceasefire_over-08-jul-2026-184086-article/?rss=true",
-      "date": "2026-07-08T10:21:52.000Z",
-      "source": "Rigzone",
-      "description": "<p>During a press meeting in Ankara, Türkiye, where he is attending the 2026 NATO Summit, U.S. President Donald Trump said he thought the ceasefire with Iran wa...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Eni Starts Building Italian Battery Hub, Agrees Chilean Lithium Investment",
-      "link": "https://www.rigzone.com/news/eni_starts_building_italian_battery_hub_agrees_chilean_lithium_investment-08-jul-2026-184085-article/?rss=true",
-      "date": "2026-07-08T09:10:03.000Z",
-      "source": "Rigzone",
-      "description": "<p>Eni SpA has broken ground for a project to produce lithium-iron-phosphate batteries at the Brindisi industrial site in Italy.</p> <p>Concurrently it annou...",
-      "category": "General"
-    },
-    {
-      "title": "Equinor Awards Contracts for Norway Tiebacks",
-      "link": "https://www.rigzone.com/news/equinor_awards_contracts_for_norway_tiebacks-08-jul-2026-184084-article/?rss=true",
-      "date": "2026-07-08T08:05:40.000Z",
-      "source": "Rigzone",
-      "description": "<p>Equinor ASA and its partners have signed contracts worth around NOK 6 billion ($613.39 million) for four tieback projects in different stages of development ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "US Cancels Oil Waiver and Strikes Iran Anew",
-      "link": "https://www.rigzone.com/news/us_cancels_oil_waiver_and_strikes_iran_anew-08-jul-2026-184083-article/?rss=true",
-      "date": "2026-07-08T06:59:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>The US carried out a new round of strikes in Iran targeting more than 80 sites and revoked a waiver allowing new sales of its oil, further imperiling a peace...",
-      "category": "Geopolitics"
     }
   ]
 }
