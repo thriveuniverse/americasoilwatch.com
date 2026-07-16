@@ -5,6 +5,7 @@ import path from 'path';
 import JsonLd from '@/components/JsonLd';
 import SeaStatePanel, { type SeaStateData } from '@/components/SeaStatePanel';
 import ChokepointsMap from '@/components/ChokepointsMap';
+import VesselFinderMap from '@/components/VesselFinderMap';
 import ChokepointTransitPanel, { type PortwatchData } from '@/components/ChokepointTransitPanel';
 import HormuzThroughputPanel from '@/components/HormuzThroughputPanel';
 import HormuzPosturePanel from '@/components/HormuzPosturePanel';
@@ -326,6 +327,9 @@ export default async function SupplyPage() {
           <span className="text-gray-500"> — a sourced, filterable chronology of the 2026 crisis.</span>
         </p>
       </div>
+
+      {/* Live global AIS map (VesselFinder embed) — illustrative; AIS-transmitting vessels only */}
+      <VesselFinderMap lat={20} lon={-70} zoom={3} />
 
       {/* Chokepoints overview map */}
       <ChokepointsMap />
