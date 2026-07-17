@@ -1,8 +1,96 @@
 {
-  "lastUpdated": "2026-07-17T14:09:22.992Z",
+  "lastUpdated": "2026-07-17T18:41:34.820Z",
   "summary": null,
-  "count": 72,
+  "count": 75,
   "articles": [
+    {
+      "title": "India Proposes Stricter Vehicle Emission Rules To Cut Oil Consumption",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Proposes-Stricter-Vehicle-Emission-Rules-To-Cut-Oil-Consumption.html",
+      "date": "2026-07-17T18:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Indian government has proposed stricter fuel efficiency regulations for passenger vehicles under the Corporate Average Fuel Efficiency (CAFE)-III norms, with the new fuel standards set to take effect on April 1, 2027. Released by the Ministry of Power for public consultation,",
+      "category": "Policy"
+    },
+    {
+      "title": "New Jersey Bets Big on Small Nuclear Reactors",
+      "link": "https://oilprice.com/Energy/Energy-General/New-Jersey-Bets-Big-on-Small-Nuclear-Reactors.html",
+      "date": "2026-07-17T18:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The newest frontier for the global nuclear renaissance is none other than New Jersey. This month, the state officially enacted a law launching a competitive procurement process to review and select a minimum of 1,100 megawatts (MW) of nuclear power. That power is set to come from",
+      "category": "Refinery"
+    },
+    {
+      "title": "BP, ConocoPhillips Partner In Iraq’s Giant Oilfield",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-ConocoPhillips-Partner-In-Iraqs-Giant-Oilfield.html",
+      "date": "2026-07-17T17:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "ConocoPhillips (NYSE:COP) agreed to acquire a 42% stake in BP Plc’s (NYSE:BP) development subsidiary covering four major oilfields in the Kirkuk region of northern Iraq, with the partnership aiming to rehabilitate and optimize production at a cost of ~$25 billion. The deal brings",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "US Oil Drilling Picks Up As Brent Gains 4%",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drilling-Picks-Up-As-Brent-Gains-4.html",
+      "date": "2026-07-17T17:27:07.000Z",
+      "source": "OilPrice.com",
+      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 588, up 44 from this same time last year. The number of active oil rigs rose by 7, ",
+      "category": "Prices"
+    },
+    {
+      "title": "Jeff Currie: Illusion of Oil Abundance Is Gone",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Jeff-Currie-Illusion-of-Oil-Abundance-Is-Gone.html",
+      "date": "2026-07-17T16:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Carlyle Group Chief Strategy Officer, Jeff Currie, has declared that the global oil market's \"illusion of abundance\" has vanished, warning that the market has rapidly transitioned from a standard supply deficit into a structural energy shortage. According to the former head of co",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil Markets Ignore Mounting Risks at Their Own Peril",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Ignore-Mounting-Risks-at-Their-Own-Peril.html",
+      "date": "2026-07-17T16:19:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Escalating U.S.-Iran hostilities, attacks on critical infrastructure, and near-halted Hormuz tanker traffic are fueling expectations of higher oil prices. Friday, July 17, 2026 US forces striking civilian infrastructure in Iran, Tehran attacking a Kuwaiti power and desalination p",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Trump-Backed Trade Corridor Moves Closer to Reality in Armenia",
+      "link": "https://oilprice.com/Geopolitics/Asia/Trump-Backed-Trade-Corridor-Moves-Closer-to-Reality-in-Armenia.html",
+      "date": "2026-07-17T15:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Armenian government approved a bill on July 16 to formalize the country’s role in the development of the Trump Route for International Peace and Prosperity, or TRIPP, which is envisioned as a key node in the emerging Middle Corridor trade network. The bill affirms the develop",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Chevron, Cheniere Reps Join DOE SEAB Board",
+      "link": "https://www.rigzone.com/news/chevron_cheniere_reps_join_doe_seab_board-17-jul-2026-184158-article/?rss=true",
+      "date": "2026-07-17T14:38:32.000Z",
+      "source": "Rigzone",
+      "description": "<p>The U.S. Department of Energy (DOE) announced newly appointed members of the Secretary of Energy Advisory Board (SEAB) in a statement posted on its website r...",
+      "category": "Policy"
+    },
+    {
+      "title": "BP and Conoco Partner in One of Iraq's Oldest Oilfields",
+      "link": "https://www.rigzone.com/news/bp_and_conoco_partner_in_one_of_iraqs_oldest_oilfields-17-jul-2026-184157-article/?rss=true",
+      "date": "2026-07-17T14:26:30.000Z",
+      "source": "Rigzone",
+      "description": "<p>BP Plc said ConocoPhillips will acquire 42% of its stake in a venture that’s redeveloping Iraq’s giant Kirkuk oil fields, a major revival target for the OPEC...",
+      "category": "General"
+    },
+    {
+      "title": "Zelenskyy Picks Energy CEO for Premier",
+      "link": "https://www.rigzone.com/news/zelenskyy_picks_energy_ceo_for_premier-17-jul-2026-184156-article/?rss=true",
+      "date": "2026-07-17T14:17:04.000Z",
+      "source": "Rigzone",
+      "description": "<p>President Volodymyr Zelenskyy named the head of a state-run energy company as Ukraine’s next prime minister, underscoring his focus on preparing for the comi...",
+      "category": "Policy"
+    },
+    {
+      "title": "ADES Holding wins $229m offshore drilling contracts in Nigeria and UK",
+      "link": "https://www.offshore-technology.com/news/ades-229m-nigeria-uk-contracts/",
+      "date": "2026-07-17T14:06:48.000Z",
+      "source": "Offshore Technology",
+      "description": "ADES Holding has secured two offshore drilling contracts totalling around $229.1m for projects located in Nigeria and the UK North Sea.",
+      "category": "Production"
+    },
     {
       "title": "U.S. Expands Iran Strikes as Tehran Retaliates Across the Gulf",
       "link": "https://oilprice.com/Geopolitics/Middle-East/US-Expands-Iran-Strikes-as-Tehran-Retaliates-Across-the-Gulf.html",
@@ -100,36 +188,12 @@
       "category": "General"
     },
     {
-      "title": "Libya Declares Major Oil Discovery Commercial as Production Revival Gains Pace",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Declares-Major-Oil-Discovery-Commercial-as-Production-Revival-Gains-Pace.html",
-      "date": "2026-07-17T09:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Libya’s National Oil Corporation, NOC, and Austrian energy firm OMV have declared the Essar oil discovery commercially viable as OPEC’s second-largest African producer pushes to revive its industry in partnerships with international oil majors. NOC has said that the “Essar” disco",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Iran-Linked LPG Tankers Turn Back as U.S. Blockade Tightens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Linked-LPG-Tankers-Turn-Back-as-US-Blockade-Tightens.html",
-      "date": "2026-07-17T08:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Iran-linked carriers of liquefied petroleum gas (LPG) have made U-turns and traveled in zig-zagging patterns in recent hours as they face the U.S. naval blockade in the Gulf of Oman, after having cleared the Strait of Hormuz outbound into the Gulf of Oman and the Arabian Sea. The",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Baker Hughes wraps up $13.6bn Chart Industries acquisition",
       "link": "https://www.offshore-technology.com/news/baker-hughes-13-6bn-chart-industries-acquisition/",
       "date": "2026-07-17T08:00:35.000Z",
       "source": "Offshore Technology",
       "description": "Baker Hughes has completed its $13.6bn acquisition of Chart Industries, expanding its industrial portfolio and establishing Chart as its third operating segment.",
       "category": "General"
-    },
-    {
-      "title": "Pakistan Plans Fresh LNG Purchases Amid Strait of Hormuz Shutdown",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Plans-Fresh-LNG-Purchases-Amid-Strait-of-Hormuz-Shutdown.html",
-      "date": "2026-07-17T07:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Pakistan is looking to buy additional spot LNG cargoes for July and August delivery as the fresh halt to Strait of Hormuz traffic has disrupted shipments from its term supplier, Qatar. The Pakistani government is close to finalizing a plan to buy on the spot market at least one a",
-      "category": "Supply Routes"
     },
     {
       "title": "Iran-Linked Tankers U-Turn, Zig-Zag",
@@ -153,38 +217,6 @@
       "date": "2026-07-17T06:54:05.000Z",
       "source": "Rigzone",
       "description": "<p>In a market update sent to Rigzone late Thursday, Rystad Energy revealed that it has revised its U.S.-Iran scenario framework “following a renewed deteriorat...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Biggest-Weekly-Surge-Since-April-as-Iran-War-Escalates.html",
-      "date": "2026-07-17T05:41:26.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil prices were headed early on Friday for a 12% weekly gain, the biggest jump in one week since April, as the re-escalation in the Middle East and the abrupt halt to the recovery of Strait of Hormuz flows pushed crude futures prices to the highest in over a month. In Asian trade",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "The No.1 Commodity Story of the Year Is Flying Under Wall Street’s Radar",
-      "link": "https://oilprice.com/Energy/Energy-General/The-No1-Commodity-Story-of-the-Year-Is-Flying-Under-Wall-Streets-Radar.html",
-      "date": "2026-07-17T00:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Cesium is an “obscure object of desire” in one of the world’s most tightly constrained critical mineral markets, where commercial production has historically come from only a handful of mines. The push to rebuild America’s defense supply chain has turned this rarest of commercial",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "China Could Be About to Remove Oil's Biggest Safety Net",
-      "link": "https://oilprice.com/Energy/Crude-Oil/China-Could-Be-About-to-Remove-Oils-Biggest-Safety-Net.html",
-      "date": "2026-07-16T23:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The oil market may soon run out of the supply and demand cushions that have kept prices from soaring to record highs during the huge loss of flows through the Strait of Hormuz. The window provided by the U.S.-Iran memorandum of understanding, during which Middle Eastern producers",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "India, South Africa To Boost Their Strategic Petroleum Reserves",
-      "link": "https://oilprice.com/Energy/Crude-Oil/India-South-Africa-To-Boost-Their-Strategic-Petroleum-Reserves.html",
-      "date": "2026-07-16T22:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Back in March, the 32-member countries of the International Energy Agency (IEA) agreed to a record release of 400 million barrels of oil and refined products from their emergency reserves after the Iran war disrupted global energy flows and triggered sharp oil price spikes. The U",
       "category": "Geopolitics"
     },
     {
@@ -330,14 +362,6 @@
       "source": "Rigzone",
       "description": "<p>The number of employees in the oil and gas extraction industry dropped from May to June, data on the U.S. Bureau of Labor Statistics (BLS) website showed.</p...",
       "category": "General"
-    },
-    {
-      "title": "Automation and AI in biofuel refining: Q&A with Honeywell",
-      "link": "https://www.offshore-technology.com/analysis/automation-ai-biofuel-refining-honeywell/",
-      "date": "2026-07-15T13:38:01.000Z",
-      "source": "Offshore Technology",
-      "description": "This episode of Energy Technology’s asks how AI and automation are shaping biofuel refining, in conversation with Honeywell Process and Automation.",
-      "category": "Refinery"
     },
     {
       "title": "BMI Says Outlook for Oil Prices in Q3 Now Highly Uncertain",
