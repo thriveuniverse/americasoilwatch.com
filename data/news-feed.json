@@ -1,8 +1,112 @@
 {
-  "lastUpdated": "2026-07-16T18:48:18.056Z",
+  "lastUpdated": "2026-07-17T08:24:27.592Z",
   "summary": null,
-  "count": 78,
+  "count": 71,
   "articles": [
+    {
+      "title": "Pakistan Plans Fresh LNG Purchases Amid Strait of Hormuz Shutdown",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Plans-Fresh-LNG-Purchases-Amid-Strait-of-Hormuz-Shutdown.html",
+      "date": "2026-07-17T07:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Pakistan is looking to buy additional spot LNG cargoes for July and August delivery as the fresh halt to Strait of Hormuz traffic has disrupted shipments from its term supplier, Qatar. The Pakistani government is close to finalizing a plan to buy on the spot market at least one a",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Iran-Linked Tankers U-Turn, Zig-Zag",
+      "link": "https://www.rigzone.com/news/iranlinked_tankers_uturn_zigzag-17-jul-2026-184152-article/?rss=true",
+      "date": "2026-07-17T07:08:22.000Z",
+      "source": "Rigzone",
+      "description": "<p>Two US-sanctioned tankers carrying cooking fuel are U-turning and zig-zagging in the Gulf of Oman and Arabian Sea, part of a flotilla of vessels laden with I...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Burnham to Back North Sea Oil",
+      "link": "https://www.rigzone.com/news/burnham_to_back_north_sea_oil-17-jul-2026-184151-article/?rss=true",
+      "date": "2026-07-17T07:01:21.000Z",
+      "source": "Rigzone",
+      "description": "<p>Within days of taking office incoming Prime Minister Andy Burnham is preparing to announce new drilling for oil and gas in the North Sea as well as taking pu...",
+      "category": "Policy"
+    },
+    {
+      "title": "Rystad Outlines 4 Potential USA-Iran Scenarios",
+      "link": "https://www.rigzone.com/news/rystad_outlines_4_potential_usairan_scenarios-17-jul-2026-184150-article/?rss=true",
+      "date": "2026-07-17T06:54:05.000Z",
+      "source": "Rigzone",
+      "description": "<p>In a market update sent to Rigzone late Thursday, Rystad Energy revealed that it has revised its U.S.-Iran scenario framework “following a renewed deteriorat...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Biggest-Weekly-Surge-Since-April-as-Iran-War-Escalates.html",
+      "date": "2026-07-17T05:41:26.000Z",
+      "source": "OilPrice.com",
+      "description": "Oil prices were headed early on Friday for a 12% weekly gain, the biggest jump in one week since April, as the re-escalation in the Middle East and the abrupt halt to the recovery of Strait of Hormuz flows pushed crude futures prices to the highest in over a month. In Asian trade",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "The No.1 Commodity Story of the Year Is Flying Under Wall Street’s Radar",
+      "link": "https://oilprice.com/Energy/Energy-General/The-No1-Commodity-Story-of-the-Year-Is-Flying-Under-Wall-Streets-Radar.html",
+      "date": "2026-07-17T00:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Cesium is an “obscure object of desire” in one of the world’s most tightly constrained critical mineral markets, where commercial production has historically come from only a handful of mines. The push to rebuild America’s defense supply chain has turned this rarest of commercial",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "China Could Be About to Remove Oil's Biggest Safety Net",
+      "link": "https://oilprice.com/Energy/Crude-Oil/China-Could-Be-About-to-Remove-Oils-Biggest-Safety-Net.html",
+      "date": "2026-07-16T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The oil market may soon run out of the supply and demand cushions that have kept prices from soaring to record highs during the huge loss of flows through the Strait of Hormuz. The window provided by the U.S.-Iran memorandum of understanding, during which Middle Eastern producers",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "India, South Africa To Boost Their Strategic Petroleum Reserves",
+      "link": "https://oilprice.com/Energy/Crude-Oil/India-South-Africa-To-Boost-Their-Strategic-Petroleum-Reserves.html",
+      "date": "2026-07-16T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Back in March, the 32-member countries of the International Energy Agency (IEA) agreed to a record release of 400 million barrels of oil and refined products from their emergency reserves after the Iran war disrupted global energy flows and triggered sharp oil price spikes. The U",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "IEA Predicts First Decrease in Global Oil Demand Since 2020",
+      "link": "https://oilprice.com/Energy/Crude-Oil/IEA-Predicts-First-Decrease-in-Global-Oil-Demand-Since-2020.html",
+      "date": "2026-07-16T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Global oil demand could decrease for the first time since 2020, following months of oil trade restrictions in the Middle East and ongoing geopolitical turmoil, the International Energy Agency (IEA) said on 10th July. This expectation is echoed in OPEC's most recent 2026 global oi",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Chevron Moves Closer to Iraq's Biggest Oil Prize—and a Hormuz Exit Strategy",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Moves-Closer-to-Iraqs-Biggest-Oil-Prizeand-a-Hormuz-Exit-Strategy.html",
+      "date": "2026-07-16T20:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Chevron is taking another step toward expanding its footprint in Iraq, and is set to sign two memoranda of understanding on Friday that will move the U.S. supermajor closer to developing the giant West Qurna 2 oilfield and the Nassiriya project. The agreements aren't binding, but",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil Ends Lower but Holds Weekly Gains",
+      "link": "https://www.rigzone.com/news/oil_ends_lower_but_holds_weekly_gains-16-jul-2026-184149-article/?rss=true",
+      "date": "2026-07-16T20:04:11.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil dipped, though remains higher for the week, as traders balanced profit-taking with concerns about disruptions to Middle East flows.<br /> <br /> Global...",
+      "category": "General"
+    },
+    {
+      "title": "Yemen's Houthis Threaten New Oil Shock as Civil War Reignites",
+      "link": "https://oilprice.com/Energy/Energy-General/Yemens-Houthis-Threaten-New-Oil-Shock-as-Civil-War-Reignites.html",
+      "date": "2026-07-16T20:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Yemen's Houthi Rebels are threatening to make the global energy crisis worse at the same time that the nation's own energy security is in dire straits. After four years of an unofficial truce and precarious peacetime, Yemen has once again erupted into conflict this week. And this",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Eni CEO: Big Oil Bets on Southeast Asia and Latin America",
+      "link": "https://oilprice.com/Energy/Energy-General/Eni-CEO-Big-Oil-Bets-on-Southeast-Asia-and-Latin-America.html",
+      "date": "2026-07-16T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The oil and gas industry is shifting its capital investments toward Southeast Asia and Latin America due to prolonged shipping disruptions in the Strait of Hormuz, Eni S.p.A (NYSE:E) CEO Claudio Descalzi has revealed. Speaking to a parliamentary committee on Thursday, the leader ",
+      "category": "Geopolitics"
+    },
     {
       "title": "Government Takes Control of British Steel, Citing National Interest",
       "link": "https://oilprice.com/Metals/Commodities/Government-Takes-Control-of-British-Steel-Citing-National-Interest.html",
@@ -60,22 +164,6 @@
       "category": "General"
     },
     {
-      "title": "Could Somalia See The World's Next Major Oil Discovery?",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Could-Somalia-See-The-Worlds-Next-Major-Oil-Discovery.html",
-      "date": "2026-07-16T15:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "As the Gulf (the world’s traditional energy centre) becomes riskier, the oil industry is searching for new hydrocarbon provinces. Much high-impact exploration is concentrated in Latin America and West Africa, far from Asia-Pacific, the main oil-demand growth centre. Somalia offer",
-      "category": "Production"
-    },
-    {
-      "title": "The Undisputed Global Oil Superpower",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Undisputed-Global-Oil-Superpower.html",
-      "date": "2026-07-16T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The newly released 2026 Statistical Review of World Energy reinforces a point that sometimes gets lost in political discussions about energy: the United States remains the world’s largest oil producer. But the size of the U.S. lead depends on what is being counted. When most peop",
-      "category": "General"
-    },
-    {
       "title": "CB&I wins EnQuest contract extension for Kittiwake duty holder role",
       "link": "https://www.offshore-technology.com/news/cbi-enquest-contract-extension-kittiwake/",
       "date": "2026-07-16T13:53:17.000Z",
@@ -100,44 +188,12 @@
       "category": "Geopolitics"
     },
     {
-      "title": "China’s Critical Minerals Grip Puts $6.5 Trillion of Global Industry at Risk",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Critical-Minerals-Grip-Puts-65-Trillion-of-Global-Industry-at-Risk.html",
-      "date": "2026-07-16T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The global critical minerals market remains highly concentrated, and new threats to supply security have emerged in recent months as China has curbed exports of some rare earth elements, the International Energy Agency said on Thursday. The Chinese government introduced major exp",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Asian LNG Spot Prices Jump 10% as Hormuz Crisis Reignites Supply Fears",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-LNG-Spot-Prices-Jump-10-as-Hormuz-Crisis-Reignites-Supply-Fears.html",
-      "date": "2026-07-16T12:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Spot prices of liquefied natural gas in Asia have surged by 10% in the past week to the highest level since March, as the re-escalation in the Middle East and the fresh near-halt to shipping through the Strait of Hormuz rekindled fears of supply in the world’s biggest LNG-importi",
-      "category": "Supply Routes"
-    },
-    {
       "title": "Analysts Examine Hormuz Crossings",
       "link": "https://www.rigzone.com/news/analysts_examine_hormuz_crossings-16-jul-2026-184145-article/?rss=true",
       "date": "2026-07-16T11:34:36.000Z",
       "source": "Rigzone",
       "description": "<p>What is ship traffic through the Strait of Hormuz like currently? What type of ships are getting through and what type of ships aren’t? And is the petrochemi...",
       "category": "Supply Routes"
-    },
-    {
-      "title": "Pakistan Pays Highest Spot LNG Price in Four Years as Qatar Supply Falters",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Pays-Highest-Spot-LNG-Price-in-Four-Years-as-Qatar-Supply-Falters.html",
-      "date": "2026-07-16T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "State-controlled Pakistan LNG Ltd has bought the most expensive cargo of liquefied natural gas on the spot market in four years as the recent re-escalation of the Hormuz crisis cut off cargoes from its term supplier, Qatar. The state-owned Pakistani LNG importer has bought a carg",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "TotalEnergies Sees Stronger Q2 Profit as Refining and Oil Trading Surge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Sees-Stronger-Q2-Profit-as-Refining-and-Oil-Trading-Surge.html",
-      "date": "2026-07-16T10:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "TotalEnergies expects higher cash flows from its oil production and strong refining margins and oil trading results to boost second-quarter profits compared to the prior quarter, as oil prices rose and fuel markets tightened in the wake of the Iran war. “Downstream results and ca",
-      "category": "Geopolitics"
     },
     {
       "title": "Oil prices fall but remain near one-month highs amid Gulf tensions",
@@ -164,22 +220,6 @@
       "category": "Production"
     },
     {
-      "title": "India Urges Shipowners to Avoid Deploying Nationals on Hormuz Voyages",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Urges-Shipowners-to-Avoid-Deploying-Nationals-on-Hormuz-Voyages.html",
-      "date": "2026-07-16T09:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India has advised ship owners and managers to avoid hiring Indian nationals on vessels they plan to send through the Strait of Hormuz, as attacks on commercial vessels have intensified in the area since the U.S.-Iran ceasefire all but collapsed. In an advisory for Indian maritime",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "India Hikes Diesel and Jet Fuel Export Tax",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Hikes-Diesel-and-Jet-Fuel-Export-Tax.html",
-      "date": "2026-07-16T08:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India has hiked the export duties it will be charging on exports of diesel and jet fuel for the two weeks starting July 16, as the return of the Hormuz crisis is set to further tighten fuel markets. The export taxes on diesel and aviation fuel were nearly doubled per liter of the",
-      "category": "Supply Routes"
-    },
-    {
       "title": "India Bars Seafarers from Hormuz Voyages",
       "link": "https://www.rigzone.com/news/india_bars_seafarers_from_hormuz_voyages-16-jul-2026-184142-article/?rss=true",
       "date": "2026-07-16T08:29:52.000Z",
@@ -202,14 +242,6 @@
       "source": "Offshore Technology",
       "description": "Halliburton has secured a multi-year contract from Aramco to provide integrated stimulation and completion services for unconventional gas development in Saudi Arabia.",
       "category": "General"
-    },
-    {
-      "title": "IEA Warns World Has Just Weeks to Avoid Hormuz Economic Shock",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-World-Has-Just-Weeks-to-Avoid-Hormuz-Economic-Shock.html",
-      "date": "2026-07-16T07:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The world has just a few weeks before taking an economic toll from the re-escalation in the Middle East and the new halt to tanker traffic through the Strait of Hormuz, according to Fatih Birol, the Executive Director of the International Energy Agency (IEA). The situation in the",
-      "category": "Geopolitics"
     },
     {
       "title": "Oil Settles Higher",
@@ -537,94 +569,6 @@
       "date": "2026-07-10T07:00:01.000Z",
       "source": "Rigzone",
       "description": "<p>India's state-owned Oil and Natural Gas Corp. approved an expansion of the country's strategic oil reserves, highlighting a push to strengthen energy resilie...",
-      "category": "Production"
-    },
-    {
-      "title": "Crypto Startup Trying to Put a Barrel of Oil on Blockchain",
-      "link": "https://www.rigzone.com/news/crypto_startup_trying_to_put_a_barrel_of_oil_on_blockchain-09-jul-2026-184101-article/?rss=true",
-      "date": "2026-07-09T20:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>The oil industry has spent more than a century pushing into new frontiers. Its engineers pulled crude from beneath deserts, oceans and frozen tundra. Its tra...",
-      "category": "Production"
-    },
-    {
-      "title": "Crude Slides on Easing Tensions",
-      "link": "https://www.rigzone.com/news/crude_slides_on_easing_tensions-09-jul-2026-184104-article/?rss=true",
-      "date": "2026-07-09T19:48:56.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil fell as traders priced in a limited US-Iran conflict, easing initial concerns that energy infrastructure would come under attack again.<br /> <br /> We...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Hormuz Ship Insurance Demand Drops",
-      "link": "https://www.rigzone.com/news/hormuz_ship_insurance_demand_drops-09-jul-2026-184103-article/?rss=true",
-      "date": "2026-07-09T15:08:03.000Z",
-      "source": "Rigzone",
-      "description": "<p>London marine insurers have been seeing fewer inquiries for journeys to transit the Strait of Hormuz and some said the cost of cover had risen, in a sign of ...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "USA EIA Reveals Latest Oil Price Forecast",
-      "link": "https://www.rigzone.com/news/usa_eia_reveals_latest_oil_price_forecast-09-jul-2026-184102-article/?rss=true",
-      "date": "2026-07-09T14:35:28.000Z",
-      "source": "Rigzone",
-      "description": "<p>The U.S. Energy Information Administration (EIA) revealed its latest oil price forecast for 2026 and 2027 in its July short term energy outlook (STEO), which...",
-      "category": "Policy"
-    },
-    {
-      "title": "AEP Texas Secures $3.26B DOE Loan",
-      "link": "https://www.rigzone.com/news/aep_texas_secures_326b_doe_loan-09-jul-2026-184096-article/?rss=true",
-      "date": "2026-07-09T13:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>The United States Department of Energy (DOE) and American Electric Power (AEP) Co's subsidiary in Texas have reached financial close for a loan of up to $3.2...",
-      "category": "Policy"
-    },
-    {
-      "title": "USA Crude Oil Stocks Rise Week on Week",
-      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_rise_week_on_week-09-jul-2026-184100-article/?rss=true",
-      "date": "2026-07-09T11:23:12.000Z",
-      "source": "Rigzone",
-      "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), increased by 3.0 million barrels from the week ending June 2...",
-      "category": "Production"
-    },
-    {
-      "title": "Hormuz Tanker Traffic Stops",
-      "link": "https://www.rigzone.com/news/hormuz_tanker_traffic_stops-09-jul-2026-184099-article/?rss=true",
-      "date": "2026-07-09T10:07:17.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a market update sent to Rigzone on Wednesday by Rystad Energy, Jorge Leon, Head of Geopolitical Analysis at Rystad, noted that tanker traffic through the ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "US Strikes Iran for 2nd Straight Day",
-      "link": "https://www.rigzone.com/news/us_strikes_iran_for_2nd_straight_day-09-jul-2026-184097-article/?rss=true",
-      "date": "2026-07-09T06:47:41.000Z",
-      "source": "Rigzone",
-      "description": "<p>The US military struck Iran for the second straight day, an escalation of violence that threatens efforts to reach a permanent peace deal.</p> <p>US Centr...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "TotalEnergies Ships First LNG Cargo from Mexican Pacific Coast to Asia",
-      "link": "https://www.rigzone.com/news/totalenergies_ships_first_lng_cargo_from_mexican_pacific_coast_to_asia-09-jul-2026-184098-article/?rss=true",
-      "date": "2026-07-09T06:47:14.000Z",
-      "source": "Rigzone",
-      "description": "<p>TotalEnergies SE said Thursday it had dispatched the maiden cargo from its joint liquefied natural gas (LNG) project with Sempra Infrastructure in Ensenada, ...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "ADNOC Scores 15-Year Deal to Supply 1 MMtpa of LNG to INPEX",
-      "link": "https://www.rigzone.com/news/adnoc_scores_15year_deal_to_supply_1_mmtpa_of_lng_to_inpex-09-jul-2026-184094-article/?rss=true",
-      "date": "2026-07-09T06:30:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Abu Dhabi National Oil Co PJSC (ADNOC) has signed an agreement to supply one million metric tons per annum (MMtpa) of liquefied natural gas (LNG) for 15 year...",
-      "category": "General"
-    },
-    {
-      "title": "INPEX Starts Appraisal Drilling for Japan CCS Project",
-      "link": "https://www.rigzone.com/news/inpex_starts_appraisal_drilling_for_japan_ccs_project-09-jul-2026-184095-article/?rss=true",
-      "date": "2026-07-09T06:30:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Metropolitan CCS Ltd, a joint venture of INPEX Corp and Kanto Natural Gas Development Co Ltd, has begun drilling an appraisal well for a carbon capture and s...",
       "category": "Production"
     }
   ]
