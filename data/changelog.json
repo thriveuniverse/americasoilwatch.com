@@ -1,0 +1,546 @@
+{
+  "lastUpdated": "2026-07-17T09:13:59.308Z",
+  "events": [
+    {
+      "hash": "6e2b11d54c8f99589c9c185639e50416169ef23d",
+      "shortHash": "6e2b11d",
+      "date": "2026-07-15T08:49:57.000Z",
+      "category": "newsletter",
+      "title": "2026-07-15",
+      "rawSubject": "chore: newsletter sent 2026-07-15",
+      "url": "/briefings"
+    },
+    {
+      "hash": "aaccfe64a15e3dc9e02d308f3e905cb94119bea7",
+      "shortHash": "aaccfe6",
+      "date": "2026-07-15T08:49:31.000Z",
+      "category": "newsletter",
+      "title": "AmericasOilWatch weekly 2026-07-15 — Hormuz crisis, the Americas as swing cushion",
+      "rawSubject": "newsletter: AmericasOilWatch weekly 2026-07-15 — Hormuz crisis, the Americas as swing cushion",
+      "url": "/briefings"
+    },
+    {
+      "hash": "a9a64c3638ccf2b0488ba0bb7625b38f65140301",
+      "shortHash": "a9a64c3",
+      "date": "2026-07-13T09:51:18.000Z",
+      "category": "feature",
+      "title": "Hormuz Force Posture Phase 2 — incidents strip from the timeline",
+      "rawSubject": "feat: Hormuz Force Posture Phase 2 — incidents strip from the timeline",
+      "url": "/"
+    },
+    {
+      "hash": "5722a4ceab6f7cf2ff92334fc09858e8436a254f",
+      "shortHash": "5722a4c",
+      "date": "2026-07-13T09:34:02.000Z",
+      "category": "feature",
+      "title": "Hormuz Force Posture panel (Phase 1) — sourced US/Iran order of battle",
+      "rawSubject": "feat: Hormuz Force Posture panel (Phase 1) — sourced US/Iran order of battle",
+      "url": "/"
+    },
+    {
+      "hash": "007d3f5541a0425f92671f3abfc172a09dbbb3c0",
+      "shortHash": "007d3f5",
+      "date": "2026-07-13T08:49:47.000Z",
+      "category": "feature",
+      "title": "FreshnessGuard — wire the last two surfaces (supply note + DisruptionBanner)",
+      "rawSubject": "feat: FreshnessGuard — wire the last two surfaces (supply note + DisruptionBanner)",
+      "url": "/"
+    },
+    {
+      "hash": "da54dad06d634d479c582ce4b2438a3217201f40",
+      "shortHash": "da54dad",
+      "date": "2026-07-13T08:43:10.000Z",
+      "category": "feature",
+      "title": "FreshnessGuard — editorial surfaces now self-flag when stale",
+      "rawSubject": "feat: FreshnessGuard — editorial surfaces now self-flag when stale",
+      "url": "/"
+    },
+    {
+      "hash": "88c9d90a6ebcc8cccc3845d5062649021fe25420",
+      "shortHash": "88c9d90",
+      "date": "2026-07-11T16:29:25.000Z",
+      "category": "analysis",
+      "title": "Publish Part II — 'Hormuz Is Not Reopened … a Second Diesel Shock Emerges'",
+      "rawSubject": "analysis: publish Part II — 'Hormuz Is Not Reopened … a Second Diesel Shock Emerges'",
+      "url": "/analysis"
+    },
+    {
+      "hash": "cb1eac06101671e252e984d6788fe6fff03533eb",
+      "shortHash": "cb1eac0",
+      "date": "2026-07-10T15:35:55.000Z",
+      "category": "analysis",
+      "title": "Publish 'The Second Shock Is Not the First' + dashboard banner",
+      "rawSubject": "analysis: publish 'The Second Shock Is Not the First' + dashboard banner",
+      "url": "/analysis"
+    },
+    {
+      "hash": "7232136b007a404c7de14a4ebd4362a731677058",
+      "shortHash": "7232136",
+      "date": "2026-07-08T08:31:41.000Z",
+      "category": "newsletter",
+      "title": "2026-07-08",
+      "rawSubject": "chore: newsletter sent 2026-07-08",
+      "url": "/briefings"
+    },
+    {
+      "hash": "556491dc6ef1cf91864d7846af1829d5c43a5c6e",
+      "shortHash": "556491d",
+      "date": "2026-07-08T08:31:18.000Z",
+      "category": "newsletter",
+      "title": "AmericasOilWatch weekly — 8 Jul 2026 (US–Iran strikes)",
+      "rawSubject": "newsletter: AmericasOilWatch weekly — 8 Jul 2026 (US–Iran strikes)",
+      "url": "/briefings"
+    },
+    {
+      "hash": "33d5daa1f8bb50b9de53ad8fa83c8087d3f34270",
+      "shortHash": "33d5daa",
+      "date": "2026-07-08T08:19:35.000Z",
+      "category": "analysis",
+      "title": "Port Attrition Trap / Diesel Hidden Stress / Crisis Moving Downstream to Americas",
+      "rawSubject": "analysis: port Attrition Trap / Diesel Hidden Stress / Crisis Moving Downstream to Americas",
+      "url": "/analysis"
+    },
+    {
+      "hash": "5b7bf057481e4476b601a7c9f3a5ef0e83bacb86",
+      "shortHash": "5b7bf05",
+      "date": "2026-07-07T16:22:22.000Z",
+      "category": "analysis",
+      "title": "'Hormuz as a Toll Road' — the strikes are enforcement",
+      "rawSubject": "analysis: 'Hormuz as a Toll Road' — the strikes are enforcement",
+      "url": "/analysis"
+    },
+    {
+      "hash": "c0a618da84ec8c2ca2add8cc811f9ba5c01ef9c8",
+      "shortHash": "c0a618d",
+      "date": "2026-07-06T12:11:55.000Z",
+      "category": "analysis",
+      "title": "'A Record Crack Spread Is Not a Record Profit' + crack-panel caveat",
+      "rawSubject": "analysis: 'A Record Crack Spread Is Not a Record Profit' + crack-panel caveat",
+      "url": "/analysis"
+    },
+    {
+      "hash": "5129ad7d91e902c92343559604ebaec8e6746ff8",
+      "shortHash": "5129ad7",
+      "date": "2026-07-04T08:47:57.000Z",
+      "category": "analysis",
+      "title": "'A low oil price is not safety' (two-speed reopening) + refresh red banner to lead with it",
+      "rawSubject": "analysis: 'A low oil price is not safety' (two-speed reopening) + refresh red banner to lead with it",
+      "url": "/analysis"
+    },
+    {
+      "hash": "b46e5d81b84374df308681da34d860e42f2e66d8",
+      "shortHash": "b46e5d8",
+      "date": "2026-07-03T08:20:14.000Z",
+      "category": "newsletter",
+      "title": "2026-07-03",
+      "rawSubject": "chore: newsletter sent 2026-07-03",
+      "url": "/briefings"
+    },
+    {
+      "hash": "c81ba88092f064614465dbe2fedb45907fb2f771",
+      "shortHash": "c81ba88",
+      "date": "2026-07-01T08:31:15.000Z",
+      "category": "newsletter",
+      "title": "2026-07-01",
+      "rawSubject": "chore: newsletter sent 2026-07-01",
+      "url": "/briefings"
+    },
+    {
+      "hash": "00b4ea31fd3d8257a4087bb209308716f48c74c0",
+      "shortHash": "00b4ea3",
+      "date": "2026-07-01T08:30:52.000Z",
+      "category": "newsletter",
+      "title": "Americas weekly briefing — 2 July 2026",
+      "rawSubject": "newsletter: Americas weekly briefing — 2 July 2026",
+      "url": "/briefings"
+    },
+    {
+      "hash": "cac5eddfca2a493506489443c441d885e97a8966",
+      "shortHash": "cac5edd",
+      "date": "2026-06-26T12:34:53.000Z",
+      "category": "feature",
+      "title": "Ship 'The Oil Crisis Is Moving Downstream' flagship",
+      "rawSubject": "feat(research): ship 'The Oil Crisis Is Moving Downstream' flagship",
+      "url": "/"
+    },
+    {
+      "hash": "5dfebb7304b7ad9f604b45652cf144ce47073d94",
+      "shortHash": "5dfebb7",
+      "date": "2026-06-24T10:08:54.000Z",
+      "category": "feature",
+      "title": "Add hover permalink (#) affordance per event",
+      "rawSubject": "feat(hormuz-timeline): add hover permalink (#) affordance per event",
+      "url": "/"
+    },
+    {
+      "hash": "357e457fe82e49862ddadec59f83b529f7daf703",
+      "shortHash": "357e457",
+      "date": "2026-06-24T09:56:41.000Z",
+      "category": "feature",
+      "title": "Replicate sourced 2026 Hormuz crisis timeline to Americas",
+      "rawSubject": "feat(hormuz-timeline): replicate sourced 2026 Hormuz crisis timeline to Americas",
+      "url": "/"
+    },
+    {
+      "hash": "57ee21598854092a4aaf4f468c0dd18077565856",
+      "shortHash": "57ee215",
+      "date": "2026-06-24T09:32:26.000Z",
+      "category": "newsletter",
+      "title": "2026-06-24",
+      "rawSubject": "chore: newsletter sent 2026-06-24",
+      "url": "/briefings"
+    },
+    {
+      "hash": "0612d445762bf0597ba50dec46a3a06a62f953c8",
+      "shortHash": "0612d44",
+      "date": "2026-06-24T09:32:01.000Z",
+      "category": "newsletter",
+      "title": "Send Americas weekly briefing 2026-06-24",
+      "rawSubject": "newsletter: send Americas weekly briefing 2026-06-24",
+      "url": "/briefings"
+    },
+    {
+      "hash": "0930dbc4872657c03d45eeafcb04d02e095fee57",
+      "shortHash": "0930dbc",
+      "date": "2026-06-21T15:32:42.000Z",
+      "category": "feature",
+      "title": "Pressure-test the Turkey oil-dollar cascade thesis (+Americas SPR/exporter's-paradox tail)",
+      "rawSubject": "feat(analysis): pressure-test the Turkey oil-dollar cascade thesis (+Americas SPR/exporter's-paradox tail)",
+      "url": "/"
+    },
+    {
+      "hash": "f844af31642630e41847945966027337e7608e5d",
+      "shortHash": "f844af3",
+      "date": "2026-06-21T14:31:38.000Z",
+      "category": "feature",
+      "title": "Red alert — Iran declares Strait of Hormuz closed (US disputes); banner+article+spot-physical",
+      "rawSubject": "feat(hormuz): red alert — Iran declares Strait of Hormuz closed (US disputes); banner+article+spot-physical",
+      "url": "/"
+    },
+    {
+      "hash": "45c9371e0358f4b09ef6aedbf3ada43a3ba7f5dd",
+      "shortHash": "45c9371",
+      "date": "2026-06-19T08:33:48.000Z",
+      "category": "feature",
+      "title": "Reframe to \"under strain\" after Switzerland-talks delay + Lebanon escalation",
+      "rawSubject": "feat(mou): reframe to \"under strain\" after Switzerland-talks delay + Lebanon escalation",
+      "url": "/"
+    },
+    {
+      "hash": "6b134cd9fa5fa99003fef220215be1dd91863a02",
+      "shortHash": "6b134cd",
+      "date": "2026-06-18T09:24:40.000Z",
+      "category": "feature",
+      "title": "Link Last Prompt as the individual-scale companion",
+      "rawSubject": "feat(research): link Last Prompt as the individual-scale companion",
+      "url": "/"
+    },
+    {
+      "hash": "5313a8f57bc39e28c7928b5537b01132ad505861",
+      "shortHash": "5313a8f",
+      "date": "2026-06-17T09:23:08.000Z",
+      "category": "feature",
+      "title": "Feature strategic reports on the Research hub",
+      "rawSubject": "feat: feature strategic reports on the Research hub",
+      "url": "/"
+    },
+    {
+      "hash": "7d511ba07e02022c392309061551a323849f169b",
+      "shortHash": "7d511ba",
+      "date": "2026-06-17T07:18:48.000Z",
+      "category": "newsletter",
+      "title": "2026-06-17",
+      "rawSubject": "chore: newsletter sent 2026-06-17",
+      "url": "/briefings"
+    },
+    {
+      "hash": "18d8387ba18c120638453f96d0c994107aa4bff2",
+      "shortHash": "18d8387",
+      "date": "2026-06-17T07:18:24.000Z",
+      "category": "newsletter",
+      "title": "Americas weekly briefing 17 June 2026 (send)",
+      "rawSubject": "newsletter: Americas weekly briefing 17 June 2026 (send)",
+      "url": "/briefings"
+    },
+    {
+      "hash": "84056a45069250a41ee6d387f90408625083c5d7",
+      "shortHash": "84056a4",
+      "date": "2026-06-16T13:48:35.000Z",
+      "category": "feature",
+      "title": "Add Research hub tab + homepage callout",
+      "rawSubject": "feat: add Research hub tab + homepage callout",
+      "url": "/"
+    },
+    {
+      "hash": "d8e23b8b1fb53ab9ef26d6aaa7174638c94db4e6",
+      "shortHash": "d8e23b8",
+      "date": "2026-06-12T09:03:23.000Z",
+      "category": "feature",
+      "title": "Hormuz Inventory Runway — /runway interactive page + cross-posted analysis",
+      "rawSubject": "feat: Hormuz Inventory Runway — /runway interactive page + cross-posted analysis",
+      "url": "/"
+    },
+    {
+      "hash": "9bd37b7973f47b687d02c8a35a0344829c3f65b4",
+      "shortHash": "9bd37b7",
+      "date": "2026-06-10T08:17:26.000Z",
+      "category": "feature",
+      "title": "Make chokepoint risk badges dynamic from live PortWatch transit",
+      "rawSubject": "feat(supply): make chokepoint risk badges dynamic from live PortWatch transit",
+      "url": "/supply"
+    },
+    {
+      "hash": "cf95e9b88c5d9ffbccd572856d8379a066256e9c",
+      "shortHash": "cf95e9b",
+      "date": "2026-06-10T08:01:03.000Z",
+      "category": "feature",
+      "title": "Panama Canal Watch panel (AmericasOilWatch)",
+      "rawSubject": "feat(supply): Panama Canal Watch panel (AmericasOilWatch)",
+      "url": "/supply"
+    },
+    {
+      "hash": "56d2c9c0f2608cdbf9ad697ca5d66fd70737c4b5",
+      "shortHash": "56d2c9c",
+      "date": "2026-06-10T07:37:59.000Z",
+      "category": "feature",
+      "title": "Move newsletter sign-up above the PADD 5 box + make it prominent",
+      "rawSubject": "feat(home): move newsletter sign-up above the PADD 5 box + make it prominent",
+      "url": "/"
+    },
+    {
+      "hash": "5fee0cf18863263cae03770bea999bc46afbe16b",
+      "shortHash": "5fee0cf",
+      "date": "2026-06-10T07:14:58.000Z",
+      "category": "newsletter",
+      "title": "2026-06-10",
+      "rawSubject": "chore: newsletter sent 2026-06-10",
+      "url": "/briefings"
+    },
+    {
+      "hash": "3a36f9035db81bf3b4b79d6935d6aba14012c879",
+      "shortHash": "3a36f90",
+      "date": "2026-06-10T07:14:35.000Z",
+      "category": "newsletter",
+      "title": "Americas weekly briefing 10 June 2026 (send)",
+      "rawSubject": "newsletter: Americas weekly briefing 10 June 2026 (send)",
+      "url": "/briefings"
+    },
+    {
+      "hash": "150d0cf0facd76f38308cb56832150413daf6107",
+      "shortHash": "150d0cf",
+      "date": "2026-06-09T14:52:54.000Z",
+      "category": "feature",
+      "title": "Oil Route Stress Score + AIS-confidence flags on chokepoint panel",
+      "rawSubject": "feat(supply): Oil Route Stress Score + AIS-confidence flags on chokepoint panel",
+      "url": "/supply"
+    },
+    {
+      "hash": "30f66faffaa6f9ebab6fa67c25ef619206d89476",
+      "shortHash": "30f66fa",
+      "date": "2026-06-09T13:58:08.000Z",
+      "category": "feature",
+      "title": "Capacity-weight the Chokepoint Transit Monitor (DWT, not ship count)",
+      "rawSubject": "feat(supply): capacity-weight the Chokepoint Transit Monitor (DWT, not ship count)",
+      "url": "/supply"
+    },
+    {
+      "hash": "22df75c99ac7414a34359059253e1d20be5af84c",
+      "shortHash": "22df75c",
+      "date": "2026-06-09T13:45:30.000Z",
+      "category": "feature",
+      "title": "Tailor Port Oil-Flow roster per site (+ keep global hubs)",
+      "rawSubject": "feat(supply): tailor Port Oil-Flow roster per site (+ keep global hubs)",
+      "url": "/supply"
+    },
+    {
+      "hash": "40ed69907caaf2a41b860f4960f4a88772d56eaa",
+      "shortHash": "40ed699",
+      "date": "2026-06-09T13:29:43.000Z",
+      "category": "feature",
+      "title": "Port Oil-Flow Monitor from IMF PortWatch Daily_Ports_Data",
+      "rawSubject": "feat(supply): Port Oil-Flow Monitor from IMF PortWatch Daily_Ports_Data",
+      "url": "/supply"
+    },
+    {
+      "hash": "baa8606ccbf0a7b7879aa39a763c2654668048b2",
+      "shortHash": "baa8606",
+      "date": "2026-06-09T12:57:15.000Z",
+      "category": "feature",
+      "title": "Chokepoint Transit Monitor from IMF PortWatch",
+      "rawSubject": "feat(supply): Chokepoint Transit Monitor from IMF PortWatch",
+      "url": "/supply"
+    },
+    {
+      "hash": "34d8a97d85d0330960e9652926115db18a16c24c",
+      "shortHash": "34d8a97",
+      "date": "2026-06-09T12:24:05.000Z",
+      "category": "analysis",
+      "title": "From Hormuz to Hunger, six weeks on — mechanism validated, scenarios not",
+      "rawSubject": "analysis: From Hormuz to Hunger, six weeks on — mechanism validated, scenarios not",
+      "url": "/analysis"
+    },
+    {
+      "hash": "930794fbf5814f1d8d10eb776b5ae7aba4335c97",
+      "shortHash": "930794f",
+      "date": "2026-06-09T08:37:15.000Z",
+      "category": "feature",
+      "title": "Add Vulnerability Tiering as the third tool",
+      "rawSubject": "feat(doom-loop): add Vulnerability Tiering as the third tool",
+      "url": "/"
+    },
+    {
+      "hash": "506c119dd2e1907617853cb5909c9d163a39b79c",
+      "shortHash": "506c119",
+      "date": "2026-06-08T14:37:41.000Z",
+      "category": "feature",
+      "title": "Add /doom-loop page with Fragility Monitor + Doom Loop Engine",
+      "rawSubject": "feat(doom-loop): add /doom-loop page with Fragility Monitor + Doom Loop Engine",
+      "url": "/"
+    },
+    {
+      "hash": "cc9429a81f6c0208c08e91e4fa9e2778881de533",
+      "shortHash": "cc9429a",
+      "date": "2026-06-05T14:35:56.000Z",
+      "category": "feature",
+      "title": "West Coast fuel squeeze isn't where the headlines say",
+      "rawSubject": "feat(insights): West Coast fuel squeeze isn't where the headlines say",
+      "url": "/"
+    },
+    {
+      "hash": "6085d9953f6453112fff7137961b2a1629a3976c",
+      "shortHash": "6085d99",
+      "date": "2026-06-05T09:33:25.000Z",
+      "category": "feature",
+      "title": "West Coast (PADD 5) fuel watch — regional tightness vs 5-yr seasonal band",
+      "rawSubject": "feat(stocks): West Coast (PADD 5) fuel watch — regional tightness vs 5-yr seasonal band",
+      "url": "/"
+    },
+    {
+      "hash": "c1daffd1f58ef42491b0b801b7505ff642f1c300",
+      "shortHash": "c1daffd",
+      "date": "2026-06-03T13:42:40.000Z",
+      "category": "feature",
+      "title": "Article + BreadcrumbList JSON-LD on analysis, insights & briefings",
+      "rawSubject": "feat(seo): Article + BreadcrumbList JSON-LD on analysis, insights & briefings",
+      "url": "/"
+    },
+    {
+      "hash": "b2e045cf6cb0005464a6c1b2997c875191f2f411",
+      "shortHash": "b2e045c",
+      "date": "2026-06-03T07:20:04.000Z",
+      "category": "newsletter",
+      "title": "2026-06-03",
+      "rawSubject": "chore: newsletter sent 2026-06-03",
+      "url": "/briefings"
+    },
+    {
+      "hash": "9abb654193095784046e3a559e5a57a7ff723ff4",
+      "shortHash": "9abb654",
+      "date": "2026-06-03T07:19:41.000Z",
+      "category": "newsletter",
+      "title": "3 June AmericasOilWatch weekly briefing",
+      "rawSubject": "newsletter: 3 June AmericasOilWatch weekly briefing",
+      "url": "/briefings"
+    },
+    {
+      "hash": "2259c857ddcbe1d82e256ebd2e8df89326c5fa38",
+      "shortHash": "2259c85",
+      "date": "2026-05-29T14:52:32.000Z",
+      "category": "analysis",
+      "title": "From Hormuz to Bundibugyo — second case for the Compound Cascade Framework",
+      "rawSubject": "analysis: From Hormuz to Bundibugyo — second case for the Compound Cascade Framework",
+      "url": "/analysis"
+    },
+    {
+      "hash": "bc3171ba8b769b6b353238dcfb23d22b2298e372",
+      "shortHash": "bc3171b",
+      "date": "2026-05-29T11:11:31.000Z",
+      "category": "feature",
+      "title": "GA4 with Consent Mode v2 + cookie banner",
+      "rawSubject": "feat(analytics): GA4 with Consent Mode v2 + cookie banner",
+      "url": "/"
+    },
+    {
+      "hash": "b7766745038943db7b97d1a627111d41b7f5407e",
+      "shortHash": "b776674",
+      "date": "2026-05-27T09:07:22.000Z",
+      "category": "feature",
+      "title": "/fertilizer page — Hormuz-to-Hunger operational tracker",
+      "rawSubject": "feat(fertilizer): /fertilizer page — Hormuz-to-Hunger operational tracker",
+      "url": "/"
+    },
+    {
+      "hash": "cb7d9c3b5bcf753042a20fbd8b7661ec0e710005",
+      "shortHash": "cb7d9c3",
+      "date": "2026-05-27T08:53:31.000Z",
+      "category": "report",
+      "title": "Ungate H2H + Fall of UK downloads + add voluntary newsletter CTA",
+      "rawSubject": "chore(reports): ungate H2H + Fall of UK downloads + add voluntary newsletter CTA",
+      "url": "/reports"
+    },
+    {
+      "hash": "3f567dbad9bc483677762f36d76f5082d4b0a63b",
+      "shortHash": "3f567db",
+      "date": "2026-05-27T08:22:07.000Z",
+      "category": "newsletter",
+      "title": "2026-05-27",
+      "rawSubject": "chore: newsletter sent 2026-05-27",
+      "url": "/briefings"
+    },
+    {
+      "hash": "c0544aa3dd14e060d4c0ebb5e161c0e229f3f08a",
+      "shortHash": "c0544aa",
+      "date": "2026-05-27T08:21:43.000Z",
+      "category": "newsletter",
+      "title": "27 May AmericasOilWatch weekly briefing",
+      "rawSubject": "newsletter: 27 May AmericasOilWatch weekly briefing",
+      "url": "/briefings"
+    },
+    {
+      "hash": "23af128f7e4524b00749cbc156e5dd72573bc163",
+      "shortHash": "23af128",
+      "date": "2026-05-24T07:49:25.000Z",
+      "category": "analysis",
+      "title": "Cross-post Beyond the Strait — Why Iran's Next Target Set Matters More Than Hormuz",
+      "rawSubject": "analysis: cross-post Beyond the Strait — Why Iran's Next Target Set Matters More Than Hormuz",
+      "url": "/analysis"
+    },
+    {
+      "hash": "4a042751693841dd163cc51836990db324fbeada",
+      "shortHash": "4a04275",
+      "date": "2026-05-20T09:37:13.000Z",
+      "category": "newsletter",
+      "title": "2026-05-20",
+      "rawSubject": "chore: newsletter sent 2026-05-20",
+      "url": "/briefings"
+    },
+    {
+      "hash": "cdc03bfdff8ba8226185bedefa52bdcf33d7f7e6",
+      "shortHash": "cdc03bf",
+      "date": "2026-05-20T09:36:45.000Z",
+      "category": "newsletter",
+      "title": "20 May AmericasOilWatch weekly briefing",
+      "rawSubject": "newsletter: 20 May AmericasOilWatch weekly briefing",
+      "url": "/briefings"
+    },
+    {
+      "hash": "025962c5f420470f5dbef1b8fc0b81e4df33b7d4",
+      "shortHash": "025962c",
+      "date": "2026-05-18T13:14:53.000Z",
+      "category": "analysis",
+      "title": "Stand up markdown article system + cross-post Doom Loops",
+      "rawSubject": "analysis: stand up markdown article system + cross-post Doom Loops",
+      "url": "/analysis"
+    },
+    {
+      "hash": "07a793e73338797179fbe1e8f6f067417d6b2385",
+      "shortHash": "07a793e",
+      "date": "2026-05-14T13:30:38.000Z",
+      "category": "feature",
+      "title": "Chokepoints overview map + MARAD-can't-downgrade fix",
+      "rawSubject": "feat(supply): chokepoints overview map + MARAD-can't-downgrade fix",
+      "url": "/supply"
+    }
+  ],
+  "siteBaseUrl": "https://americasoilwatch.com"
+}

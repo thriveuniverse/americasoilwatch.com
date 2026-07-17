@@ -10,7 +10,7 @@ import ReserveGauge from '@/components/ReserveGauge';
 import SubscribeCta from '@/components/SubscribeCta';
 import RefineryHealthPanel from '@/components/RefineryHealthPanel';
 import Padd5Watch from '@/components/Padd5Watch';
-import DisruptionBanner from '@/components/DisruptionBanner';
+import GlobalDisruptionStatus from '@/components/GlobalDisruptionStatus';
 import FreshnessGuard from '@/components/FreshnessGuard';
 
 export const revalidate = 3600;
@@ -113,14 +113,41 @@ export default async function HomePage() {
       </div>
 
       {/* Disruption alert */}
-      <DisruptionBanner
-        lastUpdated="2026-07-16"
-        tone="alert"
-        headline="Iran arms a second chokepoint: Houthis told to ready a Red Sea closure if the US hits Iran's power grid"
-        body="Reuters reports (citing three sources) that Iran has told Yemen's Houthis to stand ready to close the Red Sea at Bab el-Mandeb if the US strikes Iranian power infrastructure — the group has reportedly deployed missiles and drones and is awaiting the order, with IRGC officers in Yemen holding the trigger. With Hormuz already throttled to 4–12 transits a day (JMIC: SEVERE), a Red Sea closure would sever the Middle East's two main export routes at once — and Saudi Arabia now ships around 70% of its exports through the Red Sea port of Yanbu. The threat is conditional and unconfirmed by Tehran or the Houthis, and no order has been given. It caps a day in which US strikes reached Tehran for the first time and disabled a blockade-running tanker near Kharg Island, with Iran striking back at Bahrain, Kuwait and Jordan. Brent is holding around $85."
-        linkLabel="The second shock, explained →"
-        linkHref="/analysis/the-second-shock-is-not-the-first"
-      />
+      <GlobalDisruptionStatus site="americas" lastUpdated="2026-07-17" />
+
+      {/* Flagship analysis — From Hormuz to the Checkout */}
+      <a
+        href="/analysis/from-hormuz-to-the-checkout"
+        className="block rounded-lg border border-amber-600/50 bg-amber-950/20 px-4 py-3.5 hover:border-amber-500 hover:bg-amber-950/30 transition group"
+      >
+        <span className="text-[10px] font-mono font-semibold tracking-widest text-amber-400 uppercase">
+          New &middot; Flagship Analysis
+        </span>
+        <span className="mt-0.5 block text-base font-bold text-white leading-snug">
+          From Hormuz to the Checkout &mdash; the Fertiliser Shock Hiding Inside the Energy Crisis{' '}
+          <span className="text-amber-300 group-hover:text-white">&rarr;</span>
+        </span>
+        <span className="mt-1 block text-xs text-gray-400 leading-relaxed">
+          Sulphur trapped behind Hormuz, a Russian diesel ban and Chinese export controls are moving upstream into fertiliser — and Mexico could transmit the shock straight into US produce, feed and meat prices. The crisis migrates from the oil price to the checkout.
+        </span>
+      </a>
+
+      {/* Commentary — Europe Is About to Sanction Itself */}
+      <a
+        href="/analysis/europe-is-about-to-sanction-itself"
+        className="block rounded-lg border border-sky-600/50 bg-sky-950/20 px-4 py-3.5 hover:border-sky-500 hover:bg-sky-950/30 transition group"
+      >
+        <span className="text-[10px] font-mono font-semibold tracking-widest text-sky-400 uppercase">
+          New &middot; Commentary
+        </span>
+        <span className="mt-0.5 block text-base font-bold text-white leading-snug">
+          Europe Is About to Sanction Itself{' '}
+          <span className="text-sky-300 group-hover:text-white">&rarr;</span>
+        </span>
+        <span className="mt-1 block text-xs text-gray-400 leading-relaxed">
+          Brussels wants to cripple Russia&rsquo;s Arctic LNG fleet before Europe has secured the gas to replace it &mdash; disabling part of the delivery system before working out how to replace what it delivers. Sanctions theatre at the expense of European industry, consumers and food production.
+        </span>
+      </a>
 
       {/* Flagship analysis — bold feature banner */}
       <a
@@ -337,7 +364,7 @@ export default async function HomePage() {
             Brent holds above $85 as Trump drops the 20% Hormuz toll but tightens a full Iran-only blockade — Iran strikes two UAE tankers in the &lsquo;safe&rsquo; southern lane, threatens a second chokepoint at Bab el-Mandeb, and $100 is in view if the strait&apos;s last buffer is hit
           </p>
           <p className="text-xs text-gray-400 leading-relaxed">
-            The escalation hardened into Tuesday: Brent has jumped above $85 — a four-week high, after a near-10% single-session surge, its biggest daily gain since 2020 — with WTI around $80, after President Trump floated — then, a day later, dropped — a 20% US &lsquo;reimbursement fee&rsquo; on all Hormuz cargo, replacing it with a push for Gulf trade and investment deals while tightening a full blockade on Iran-linked shipping. The strait&apos;s status is openly contested: both Washington and Tehran have claimed the right to police it, and the IMO Council has ruled that transit may not be tolled. What actually moved tells the story: tanker traffic has fallen to a two-month low — transits down to just 4–12 a day against a ~138 norm (JMIC), with LNG carriers absent and more ships crossing dark. The violence is now hitting commercial tonnage directly — Iran struck two UAE tankers, al-Bahiya and Mombasa, with cruise missiles in Omani waters, killing one crew member and wounding eight. And a second front has opened: Yemen&apos;s Houthis fired on Saudi Arabia&apos;s Abha airport (intercepted), breaking the March 2022 truce — no Saudi oil was hit, but Saudi spare capacity is the buffer holding the price, and it is now in play alongside the strait. If energy infrastructure is targeted more broadly, $100 oil is back in view (Saul Kavonic, MST Marquee); the IEA has warned the flare-up risks derailing the rebuild of depleted global inventories — the same thin buffers this site has tracked all along.
+            The escalation hardened into Tuesday: Brent has jumped above $85 — a four-week high, after a near-10% single-session surge, its biggest daily gain since 2020 — with WTI around $80, after President Trump floated — then, a day later, dropped — a 20% US &lsquo;reimbursement fee&rsquo; on all Hormuz cargo, replacing it with a push for Gulf trade and investment deals while tightening a full blockade on Iran-linked shipping. The strait&apos;s status is openly contested: both Washington and Tehran have claimed the right to police it, and the IMO Council has ruled that transit may not be tolled. What actually moved tells the story: tanker traffic has fallen to a two-month low — transits down to just 4–13 a day against a ~138 norm (JMIC), with LNG carriers absent and more ships crossing dark. The violence is now hitting commercial tonnage directly — Iran struck two UAE tankers, al-Bahiya and Mombasa, with cruise missiles in Omani waters, killing one crew member and wounding eight. And a second front has opened: Yemen&apos;s Houthis fired on Saudi Arabia&apos;s Abha airport (intercepted), breaking the March 2022 truce — no Saudi oil was hit, but Saudi spare capacity is the buffer holding the price, and it is now in play alongside the strait. If energy infrastructure is targeted more broadly, $100 oil is back in view (Saul Kavonic, MST Marquee); the IEA has warned the flare-up risks derailing the rebuild of depleted global inventories — the same thin buffers this site has tracked all along.
           </p>
           <p className="text-xs text-gray-500 leading-relaxed">
             <span className="text-oil-300 font-medium">Americas angle:</span>{' '}
