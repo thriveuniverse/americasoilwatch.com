@@ -113,7 +113,7 @@ export default async function HomePage() {
       </div>
 
       {/* Disruption alert */}
-      <GlobalDisruptionStatus site="americas" lastUpdated="2026-07-17" />
+      <GlobalDisruptionStatus site="americas" lastUpdated="2026-07-18" />
 
       {/* Flagship analysis — From Hormuz to the Checkout */}
       <a
