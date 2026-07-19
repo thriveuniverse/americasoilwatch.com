@@ -1,15 +1,31 @@
 {
-  "lastUpdated": "2026-07-18T18:38:08.837Z",
+  "lastUpdated": "2026-07-19T08:31:00.853Z",
   "summary": null,
-  "count": 68,
+  "count": 67,
   "articles": [
     {
-      "title": "U.S. Scientists Tap Seawater to Break China's Rare Earth Monopoly",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Scientists-Tap-Seawater-to-Break-Chinas-Rare-Earth-Monopoly.html",
-      "date": "2026-07-18T17:00:00.000Z",
+      "title": "Europe's Heatwave Is Becoming an Energy Crisis",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Becoming-an-Energy-Crisis.html",
+      "date": "2026-07-18T23:00:00.000Z",
       "source": "OilPrice.com",
-      "description": "Competition for critical minerals used in the energy, manufacturing, and tech sectors is heating up to be a major geopolitical flashpoint around the world. The supply chains for essential ingredients for clean energy manufacturing like lithium, cobalt, magnesium, and nickel, are ",
+      "description": "The intense early summer heatwave in Europe is warming the biggest rivers and drying up their water levels, disrupting energy deliveries, power generation, and key supply chain routes. The heatwaves in Europe started as early as June, with record-breaking temperatures for weeks o",
       "category": "Geopolitics"
+    },
+    {
+      "title": "What Is a Microgrid? How They Work and Why They're Suddenly Everywhere",
+      "link": "https://oilprice.com/Energy/Energy-General/What-Is-a-Microgrid-How-They-Work-and-Why-Theyre-Suddenly-Everywhere.html",
+      "date": "2026-07-18T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "When Hurricane Maria flattened Puerto Rico's power grid in 2017, one building in the mountain town of Adjuntas never went dark. Casa Pueblo, a local environmental group, had already wired its headquarters with solar panels and batteries. That system kept the lights on while the r",
+      "category": "General"
+    },
+    {
+      "title": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Unveils-New-Pipeline-to-Cut-Reliance-on-US-Oil-Routes.html",
+      "date": "2026-07-18T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "A new oil pipeline could connect eastern and western Canada as the oil-rich country seeks to become more self-reliant and reduce its energy dependence on the United States. However, not everyone is in support of the project, which is at odds with Canada’s climate targets. Alberta",
+      "category": "Supply Routes"
     },
     {
       "title": "Forgotten Shale Gas Play Reemerges as Oil Hot Spot",
@@ -18,14 +34,6 @@
       "source": "Rigzone",
       "description": "<p>On the edge of the Canadian Rocky Mountains, companies including Obsidian Energy Ltd. and Yangarra Resources Corp. are breathing new life into a long-dormant...",
       "category": "Production"
-    },
-    {
-      "title": "Bangladesh's $12.65 Billion Nuclear Bet Faces Its Biggest Test Yet",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Bangladeshs-1265-Billion-Nuclear-Bet-Faces-Its-Biggest-Test-Yet.html",
-      "date": "2026-07-17T23:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The world is turning toward nuclear power as a solution to the increasingly dire energy trilemma – the tricky issue of sourcing energy that is simultaneously affordable, sustainable, and secure. As the artificial intelligence boom pushes energy demand into the stratosphere in ric",
-      "category": "Geopolitics"
     },
     {
       "title": "Oil Jumps on Fears of Wider Iran War",
@@ -162,14 +170,6 @@
       "source": "OilPrice.com",
       "description": "Iran has instructed Yemen’s Houthis to prepare to disrupt the Red Sea oil route if the United States attacks Iranian power infrastructure. Missiles and drones have reportedly been deployed near the Bab el-Mandeb Strait, with Houthi forces awaiting an order (reportedly from the IR",
       "category": "Geopolitics"
-    },
-    {
-      "title": "China to Hike Retail Gasoline and Diesel Prices as Oil Jumps 12% in a Week",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-to-Hike-Retail-Gasoline-and-Diesel-Prices-as-Oil-Jumps-12-in-a-Week.html",
-      "date": "2026-07-17T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Following the surge in international crude oil prices in the past week, China will raise the domestic retail prices of gasoline and diesel, effective July 18, the state economic planning commission said on Friday. The National Development and Reform Commission, which regularly ad",
-      "category": "Prices"
     },
     {
       "title": "The Middle East to lead global methanol capacity additions by 2030",
@@ -538,14 +538,6 @@
       "source": "Rigzone",
       "description": "<p>TotalEnergies SE said Thursday it had divested its European portfolio of distributed solar power, giving up a total capacity of about 170 megawatts (MW) main...",
       "category": "General"
-    },
-    {
-      "title": "Birol Urges EU to Reconsider Arctic Drilling Moratorium",
-      "link": "https://www.rigzone.com/news/birol_urges_eu_to_reconsider_arctic_drilling_moratorium-11-jul-2026-184113-article/?rss=true",
-      "date": "2026-07-11T12:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>International Energy Agency Executive Director Fatih Birol pressed the European Union to revisit its moratorium on drilling for oil and gas in the Arctic, ch...",
-      "category": "Policy"
     }
   ]
 }
