@@ -1,8 +1,88 @@
 {
-  "lastUpdated": "2026-07-20T14:37:03.740Z",
+  "lastUpdated": "2026-07-20T19:17:44.148Z",
   "summary": null,
-  "count": 73,
+  "count": 75,
   "articles": [
+    {
+      "title": "The U.S. Needs 5000 Miles of New High-Voltage Lines Annually. It Only Built 392",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/The-US-Needs-5000-Miles-of-New-High-Voltage-Lines-Annually-It-Only-Built-392.html",
+      "date": "2026-07-20T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "There is an old Yiddish expression that translates literally as “stop beating the teapot” which we would freely translate as, “We’ve heard this before, so why don’t you just stop?” Well, as new numbers come out and our great leaders keep coming up with new solutions to whatever t",
+      "category": "General"
+    },
+    {
+      "title": "Russia's Financial Crisis Casts a Shadow Over Central Asia's Nuclear Future",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Russias-Financial-Crisis-Casts-a-Shadow-Over-Central-Asias-Nuclear-Future.html",
+      "date": "2026-07-20T18:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Kazakhstan and Uzbekistan may soon have to rethink their plans to develop nuclear energy. Rosatom, the Russian nuclear entity that has agreements to build nuclear plants in both Central Asian nations, is experiencing major financial difficulties. Alexei Likhachev, Rosatom’s boss,",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "New Zealand Oil Explorers Rush to Secure Offshore Permits Before Election",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/New-Zealand-Oil-Explorers-Rush-to-Secure-Offshore-Permits-Before-Election.html",
+      "date": "2026-07-20T17:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Small oil and gas companies are vying to secure exploration permits offshore New Zealand in the coming months before a potential reinstatement of the drilling ban in the country. Last year, New Zealand reopened for oil and gas exploration, ready to receive applications for explor",
+      "category": "Production"
+    },
+    {
+      "title": "Nigeria Targets Record 3 Million Bpd Oil Output by 2030",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Nigeria-Targets-Record-3-Million-Bpd-Oil-Output-by-2030.html",
+      "date": "2026-07-20T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Nigeria is set to ramp up crude oil production to 3 million barrels per day by 2030, according to the country’s upstream regulator, which says reforms aimed at accelerating investment and reducing project delays are beginning to reverse years of declining output. The target would",
+      "category": "Production"
+    },
+    {
+      "title": "Houthis Declare Naval Blockade on Saudi Arabia as Red Sea Crisis Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Declare-Naval-Blockade-on-Saudi-Arabia-as-Red-Sea-Crisis-Deepens.html",
+      "date": "2026-07-20T16:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Yemen’s Iran-aligned Houthis declared an immediate naval blockade on Saudi Arabia on Monday, Reuters reported, bringing the U.S.-Iran war officially to the southern entrance of the Red Sea and threatening an export route used by Riyadh to bypass disruptions in the Strait of Hormu",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "New UK Prime Minister Set to Back North Sea Oil and Gas Projects",
+      "link": "https://oilprice.com/Energy/Energy-General/New-UK-Prime-Minister-Set-to-Back-North-Sea-Oil-and-Gas-Projects.html",
+      "date": "2026-07-20T16:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Incoming prime minister Andy Burnham is set to announce new drilling for oil and gas in the North Sea within days of taking office as part of a policy blitz, according to reports. Burnham’s team has asked the civil service to draw up plans to approve drilling projects at the Jack",
+      "category": "Policy"
+    },
+    {
+      "title": "Drone Strike Halts Exports at Strategic Black Sea Oil Terminal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Halts-Exports-at-Strategic-Black-Sea-Oil-Terminal.html",
+      "date": "2026-07-20T15:25:00.000Z",
+      "source": "OilPrice.com",
+      "description": "A drone struck a tanker loading crude oil at the Caspian Pipeline Consortium’s (CPC) Black Sea export terminal on Monday, according to regional media reports, forcing the suspension of exports for the second time in less than 24 hours. The CPC said the tanker NELSA was loading at",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "U.S.-Iran Conflict Enters Dangerous New Phase With Fresh Missile Exchanges",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/US-Iran-Conflict-Enters-Dangerous-New-Phase-With-Fresh-Missile-Exchanges.html",
+      "date": "2026-07-20T15:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Air raid sirens blared in Bahrain and other Gulf states as the struggle for control of the Strait of Hormuz continued after US forces conducted a ninth day of air strikes on targets around Iran. Tensions increased over the weekend in the Gulf after the deaths of three US soldiers",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "EIA Edges Up USA Consumption Forecasts",
+      "link": "https://www.rigzone.com/news/eia_edges_up_usa_consumption_forecasts-20-jul-2026-184169-article/?rss=true",
+      "date": "2026-07-20T14:45:24.000Z",
+      "source": "Rigzone",
+      "description": "<p>The U.S. Energy Information Administration (EIA) edged up its U.S. total energy consumption projections for 2026 and 2027 in its latest short term energy out...",
+      "category": "Policy"
+    },
+    {
+      "title": "First Nations to Invest in LNG Canada",
+      "link": "https://www.rigzone.com/news/first_nations_to_invest_in_lng_canada-20-jul-2026-184168-article/?rss=true",
+      "date": "2026-07-20T14:44:29.000Z",
+      "source": "Rigzone",
+      "description": "<p>The Shell PLC-led LNG Canada joint venture said it had signed an agreement allowing five First Nations neighboring the project in British Columbia to invest ...",
+      "category": "General"
+    },
     {
       "title": "U.S. Gasoline Prices Climb Back Above $4 Per Gallon",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Climb-Back-Above-4-Per-Gallon.html",
@@ -148,52 +228,12 @@
       "category": "Geopolitics"
     },
     {
-      "title": "LNG Shipments Through Strait of Hormuz Grind to a Halt as Conflict Escalates",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Shipments-Through-Strait-of-Hormuz-Grind-to-a-Halt-as-Conflict-Escalates.html",
-      "date": "2026-07-20T07:10:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Exports of liquefied natural gas via the Strait of Hormuz appear to have ground to a halt over the past three days, data from tanker-tracking firms have suggested, while oil tanker traffic has shrunk considerably, Reuters reported today. ING analysts, meanwhile, wrote in a note t",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Gulf Oil Exports Briefly Recovered to Pre-War Levels Before Latest Escalation",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Oil-Exports-Briefly-Recovered-to-Pre-War-Levels-Before-Latest-Escalation.html",
-      "date": "2026-07-20T05:47:37.000Z",
-      "source": "OilPrice.com",
-      "description": "Crude oil and condensate exports from the Persian Gulf rose to pre-war levels in the first half of July, data from Kpler and Vortexa shows, as cited by Reuters, reaching between 12 and 13.6 million barrels daily. The recovery is unlikely to last, however, as traffic via the Strai",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Did Scientists Just Solve The Biggest Mystery Holding Back Solid-State Batteries",
-      "link": "https://oilprice.com/Energy/Energy-General/Did-Scientists-Just-Solve-The-Biggest-Mystery-Holding-Back-Solid-State-Batteries.html",
-      "date": "2026-07-19T23:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Scientists now know why solid-state batteries have repeatedly failed. Two separate studies have identified the physical processes responsible for the short circuits that have delayed commercialization for years, turning one of the industry’s biggest unknowns into a defined engine",
-      "category": "Refinery"
-    },
-    {
-      "title": "Europe Was Supposed to Run Out of Jet Fuel by June. It Didn’t",
-      "link": "https://oilprice.com/Energy/Energy-General/Europe-Was-Supposed-to-Run-Out-of-Jet-Fuel-by-June-It-Didnt.html",
-      "date": "2026-07-19T21:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Early warnings surrounding the Strait of Hormuz suggested that European airports and fuel markets could face physical shortages by the beginning of summer. Those shortages largely failed to materialise, revealing both the adaptability of global energy markets and their persistent",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Amundi Says Oil, Gas Crucial to EU Clean Energy Transition",
       "link": "https://www.rigzone.com/news/amundi_says_oil_gas_crucial_to_eu_clean_energy_transition-19-jul-2026-184154-article/?rss=true",
       "date": "2026-07-19T12:00:00.000Z",
       "source": "Rigzone",
       "description": "<p>Amundi SA wants the European Union to free asset managers to add oil and gas exposures to a new fund category intended to support the transition to a lower-c...",
       "category": "General"
-    },
-    {
-      "title": "Europe's Heatwave Is Becoming an Energy Crisis",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Becoming-an-Energy-Crisis.html",
-      "date": "2026-07-18T23:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The intense early summer heatwave in Europe is warming the biggest rivers and drying up their water levels, disrupting energy deliveries, power generation, and key supply chain routes. The heatwaves in Europe started as early as June, with record-breaking temperatures for weeks o",
-      "category": "Geopolitics"
     },
     {
       "title": "Forgotten Shale Gas Play Reemerges as Oil Hot Spot",
@@ -210,30 +250,6 @@
       "source": "Rigzone",
       "description": "<p>Oil surged on growing fears the US and Iran could return to full war, threatening flows through the Strait of Hormuz.</p> <p>Global benchmark Brent rose r...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Colombia's New Government Prepares Fossil Fuel Comeback",
-      "link": "https://oilprice.com/Energy/Energy-General/Colombias-New-Government-Prepares-Fossil-Fuel-Comeback.html",
-      "date": "2026-07-17T20:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "On 21st June, conservative, Trump-endorsed presidential candidate Abelardo de la Espriella won the election by just 1 per cent over Iván Cepeda, who was expected to take over the Socialist Party leadership from current President Gustavo Petro. He will be sworn in as president on ",
-      "category": "Policy"
-    },
-    {
-      "title": "India Proposes Stricter Vehicle Emission Rules To Cut Oil Consumption",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Proposes-Stricter-Vehicle-Emission-Rules-To-Cut-Oil-Consumption.html",
-      "date": "2026-07-17T18:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Indian government has proposed stricter fuel efficiency regulations for passenger vehicles under the Corporate Average Fuel Efficiency (CAFE)-III norms, with the new fuel standards set to take effect on April 1, 2027. Released by the Ministry of Power for public consultation,",
-      "category": "Policy"
-    },
-    {
-      "title": "New Jersey Bets Big on Small Nuclear Reactors",
-      "link": "https://oilprice.com/Energy/Energy-General/New-Jersey-Bets-Big-on-Small-Nuclear-Reactors.html",
-      "date": "2026-07-17T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The newest frontier for the global nuclear renaissance is none other than New Jersey. This month, the state officially enacted a law launching a competitive procurement process to review and select a minimum of 1,100 megawatts (MW) of nuclear power. That power is set to come from",
-      "category": "Refinery"
     },
     {
       "title": "Chevron, Cheniere Reps Join DOE SEAB Board",
