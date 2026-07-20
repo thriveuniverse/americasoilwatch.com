@@ -1,23 +1,87 @@
 {
-  "lastUpdated": "2026-07-19T18:39:40.425Z",
+  "lastUpdated": "2026-07-20T09:31:47.433Z",
   "summary": null,
-  "count": 68,
+  "count": 70,
   "articles": [
     {
-      "title": "Energy Storage Key To Avoiding The Next Energy Crisis",
-      "link": "https://oilprice.com/Energy/Energy-General/Energy-Storage-Key-To-Avoiding-The-Next-Energy-Crisis.html",
-      "date": "2026-07-19T15:00:00.000Z",
+      "title": "Oil Prices Reach Highest Levels in More Than a Month",
+      "link": "https://www.rigzone.com/news/oil_prices_reach_highest_levels_in_more_than_a_month-20-jul-2026-184162-article/?rss=true",
+      "date": "2026-07-20T09:13:35.000Z",
+      "source": "Rigzone",
+      "description": "<p>Brent crude and West Texas Intermediate (WTI) oil prices reached their highest levels in more than a month recently, Naeem Aslam, CIO at Zaye Capital Markets...",
+      "category": "Prices"
+    },
+    {
+      "title": "Petronas Bags New Contract to Supply LNG to Shizuoka Gas",
+      "link": "https://www.rigzone.com/news/petronas_bags_new_contract_to_supply_lng_to_shizuoka_gas-20-jul-2026-184161-article/?rss=true",
+      "date": "2026-07-20T09:06:26.000Z",
+      "source": "Rigzone",
+      "description": "<p>Petroliam Nasional Bhd (Petronas) has signed a new agreement to supply about 0.84 million metric tons of liquefied natural gas (LNG) to Shizuoka Gas Co Ltd.<...",
+      "category": "General"
+    },
+    {
+      "title": "China’s Fuel Oil Exports Hit 2026 High as Shipping Demand Rebounds",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Fuel-Oil-Exports-Hit-2026-High-as-Shipping-Demand-Rebounds.html",
+      "date": "2026-07-20T08:20:00.000Z",
       "source": "OilPrice.com",
-      "description": "Europe is working hard to increase the share of renewables in the continental energy mix. European Union nations have been working to add wind and solar capacity as quickly as possible against the backdrop of oil price shocks and supply chain volatility, and have made considerabl",
+      "description": "China exported 577,000 barrels daily of fuel oil last month, which was the most since the start of the year and an 18% increase from June 2025, Reuters reported today, citing official customs data. At the same time, overall refined products exports declined, as exports of gasolin",
       "category": "Supply Routes"
     },
     {
-      "title": "Hormuz Closure Exposes Africa's Energy Dependence on Iran and China",
-      "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Closure-Exposes-Africas-Energy-Dependence-on-Iran-and-China.html",
-      "date": "2026-07-19T15:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The ongoing restrictions on fuel trade, following the closure of the Strait of Hormuz, have led to widespread energy shortages in several parts of the world, demonstrating the vulnerabilities in many countries' energy security. As states look to develop alternative, regional supp",
+      "title": "ConocoPhillips to acquire 42% stake in bp’s Kirkuk venture",
+      "link": "https://www.offshore-technology.com/news/conocophillips-to-acquire-stake-bps-kirkuk/",
+      "date": "2026-07-20T08:11:44.000Z",
+      "source": "Offshore Technology",
+      "description": "ConocoPhillips has reached an agreement with BP to acquire a 42% stake in BP Energy Company of Kirkuk Limited (BP ECKL) to join the ongoing redevelopment of major oil fields in the Kirkuk region in northern Iraq.",
+      "category": "General"
+    },
+    {
+      "title": "US Strikes after Troops Killed as Iran Quits Deal",
+      "link": "https://www.rigzone.com/news/us_strikes_after_troops_killed_as_iran_quits_deal-20-jul-2026-184160-article/?rss=true",
+      "date": "2026-07-20T07:59:47.000Z",
+      "source": "Rigzone",
+      "description": "<p>The US and Iran engaged in a quickening series of tit-for-tat attacks, with the American military conducting a wave of strikes on the Islamic Republic follow...",
       "category": "Geopolitics"
+    },
+    {
+      "title": "LNG Shipments Through Strait of Hormuz Grind to a Halt as Conflict Escalates",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Shipments-Through-Strait-of-Hormuz-Grind-to-a-Halt-as-Conflict-Escalates.html",
+      "date": "2026-07-20T07:10:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Exports of liquefied natural gas via the Strait of Hormuz appear to have ground to a halt over the past three days, data from tanker-tracking firms have suggested, while oil tanker traffic has shrunk considerably, Reuters reported today. ING analysts, meanwhile, wrote in a note t",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Gulf Oil Exports Briefly Recovered to Pre-War Levels Before Latest Escalation",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Oil-Exports-Briefly-Recovered-to-Pre-War-Levels-Before-Latest-Escalation.html",
+      "date": "2026-07-20T05:47:37.000Z",
+      "source": "OilPrice.com",
+      "description": "Crude oil and condensate exports from the Persian Gulf rose to pre-war levels in the first half of July, data from Kpler and Vortexa shows, as cited by Reuters, reaching between 12 and 13.6 million barrels daily. The recovery is unlikely to last, however, as traffic via the Strai",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Did Scientists Just Solve The Biggest Mystery Holding Back Solid-State Batteries",
+      "link": "https://oilprice.com/Energy/Energy-General/Did-Scientists-Just-Solve-The-Biggest-Mystery-Holding-Back-Solid-State-Batteries.html",
+      "date": "2026-07-19T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Scientists now know why solid-state batteries have repeatedly failed. Two separate studies have identified the physical processes responsible for the short circuits that have delayed commercialization for years, turning one of the industry’s biggest unknowns into a defined engine",
+      "category": "Refinery"
+    },
+    {
+      "title": "Europe Was Supposed to Run Out of Jet Fuel by June. It Didn’t",
+      "link": "https://oilprice.com/Energy/Energy-General/Europe-Was-Supposed-to-Run-Out-of-Jet-Fuel-by-June-It-Didnt.html",
+      "date": "2026-07-19T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Early warnings surrounding the Strait of Hormuz suggested that European airports and fuel markets could face physical shortages by the beginning of summer. Those shortages largely failed to materialise, revealing both the adaptability of global energy markets and their persistent",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "What Are Mineral Rights? The Complete Guide to Owning, Leasing and Selling Them",
+      "link": "https://oilprice.com/Energy/Energy-General/What-Are-Mineral-Rights-The-Complete-Guide-to-Owning-Leasing-and-Selling-Them.html",
+      "date": "2026-07-19T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Millions of Americans own oil and gas mineral rights and have no real idea what that means. Some inherited a folder of yellowed documents from a grandparent's estate. Some bought a piece of land and assumed everything under it came with the deed. Some get a small check in the mai",
+      "category": "Production"
     },
     {
       "title": "Amundi Says Oil, Gas Crucial to EU Clean Energy Transition",
@@ -146,38 +210,6 @@
       "source": "Offshore Technology",
       "description": "ADES Holding has secured two offshore drilling contracts totalling around $229.1m for projects located in Nigeria and the UK North Sea.",
       "category": "Production"
-    },
-    {
-      "title": "U.S. Expands Iran Strikes as Tehran Retaliates Across the Gulf",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/US-Expands-Iran-Strikes-as-Tehran-Retaliates-Across-the-Gulf.html",
-      "date": "2026-07-17T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "US forces stepped up attacks on Iranian sites, reportedly striking key bridges, railways, and an airport, prompting retaliatory action by Tehran, even while the White House said talks between the warring sides were still under way and that diplomacy remained a viable option. At 9",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Geopolitical Risk Premium Returns as Crude Posts Biggest Weekly Gain in Months",
-      "link": "https://oilprice.com/Energy/Energy-General/Geopolitical-Risk-Premium-Returns-as-Crude-Posts-Biggest-Weekly-Gain-in-Months.html",
-      "date": "2026-07-17T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "September WTI crude oil posted its strongest weekly gain in months, rallying over 11% as traders rapidly rebuilt a geopolitical risk premium into the market. After opening the week near $72.50, prices climbed above $80 before easing slightly into Thursday's close. The move marked",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Baghdad Bets on Syria and Turkey Pipelines to Secure Oil Exports",
-      "link": "https://oilprice.com/Energy/Energy-General/Baghdad-Bets-on-Syria-and-Turkey-Pipelines-to-Secure-Oil-Exports.html",
-      "date": "2026-07-17T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Politics, Geopolitics & Conflict Baghdad is assembling a westward export system capable of carrying southern Iraqi crude to the Mediterranean through Syria or Turkey. Iraq has brought Chevron, U.S. investment firm Capital TI, and Qatar’s UCC into technical and financial studies f",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Iran Expands Oil Chokepoint Threat as Houthis Eye Red Sea Shipping",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-Expands-Oil-Chokepoint-Threat-as-Houthis-Eye-Red-Sea-Shipping.html",
-      "date": "2026-07-17T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Iran has instructed Yemen’s Houthis to prepare to disrupt the Red Sea oil route if the United States attacks Iranian power infrastructure. Missiles and drones have reportedly been deployed near the Bab el-Mandeb Strait, with Houthi forces awaiting an order (reportedly from the IR",
-      "category": "Geopolitics"
     },
     {
       "title": "The Middle East to lead global methanol capacity additions by 2030",
@@ -356,14 +388,6 @@
       "category": "Policy"
     },
     {
-      "title": "Shell moves ahead with tender for Dragon offshore gas project",
-      "link": "https://www.offshore-technology.com/news/shell-tender-dragon-offshore-gas-project/",
-      "date": "2026-07-15T14:34:08.000Z",
-      "source": "Offshore Technology",
-      "description": "Shell is advancing preparations for drilling at the Dragon offshore gas field in eastern Venezuela, with tendering now underway for drilling services.",
-      "category": "Policy"
-    },
-    {
       "title": "Russia Oil Sanctions Threat Could Complicate USA-India Talks",
       "link": "https://www.rigzone.com/news/russia_oil_sanctions_threat_could_complicate_usaindia_talks-15-jul-2026-184138-article/?rss=true",
       "date": "2026-07-15T14:28:49.000Z",
@@ -538,14 +562,6 @@
       "source": "Rigzone",
       "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 13, 2026, 2:00 PM GMT+1: Article ...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "TotalEnergies Sells Small-Scale Solar Assets in Europe",
-      "link": "https://www.rigzone.com/news/totalenergies_sells_smallscale_solar_assets_in_europe-12-jul-2026-184112-article/?rss=true",
-      "date": "2026-07-12T11:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>TotalEnergies SE said Thursday it had divested its European portfolio of distributed solar power, giving up a total capacity of about 170 megawatts (MW) main...",
-      "category": "General"
     }
   ]
 }
