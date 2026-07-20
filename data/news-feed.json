@@ -1,8 +1,112 @@
 {
-  "lastUpdated": "2026-07-20T09:31:47.433Z",
+  "lastUpdated": "2026-07-20T14:37:03.740Z",
   "summary": null,
-  "count": 70,
+  "count": 73,
   "articles": [
+    {
+      "title": "U.S. Gasoline Prices Climb Back Above $4 Per Gallon",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Climb-Back-Above-4-Per-Gallon.html",
+      "date": "2026-07-20T14:15:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The national average price of gasoline in the United States topped $4 per gallon once again on Monday following the crude oil price rally of the past week amid the renewed hostilities in the Middle East and the fresh de facto closure of the Strait of Hormuz. As of July 20, the na",
+      "category": "Prices"
+    },
+    {
+      "title": "Houthis to Impose Maritime Blockade on Saudi Arabia",
+      "link": "https://www.rigzone.com/news/houthis_to_impose_maritime_blockade_on_saudi_arabia-20-jul-2026-184166-article/?rss=true",
+      "date": "2026-07-20T14:06:33.000Z",
+      "source": "Rigzone",
+      "description": "<p>The Houthis, an Iran-backed Yemeni group, said they would impose a maritime blockade on Saudi Arabia, putting at risk the flow of millions of barrels that th...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Brent Briefly Breaks $90 After Fresh Iran War Escalation",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Brent-Briefly-Breaks-90-After-Fresh-Iran-War-Escalation.html",
+      "date": "2026-07-20T13:20:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Brent Crude prices briefly hit $90 per barrel in Asian trade on Monday as the Middle East conflict continued to escalate with fresh U.S. strikes on Iran and Tehran targeting American bases in the region and vessels in the Strait of Hormuz. Both Brent Crude and the U.S. benchmark,",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Europe Faces Diesel Crunch as Inventories Head Toward Multi-Year Lows",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Faces-Diesel-Crunch-as-Inventories-Head-Toward-Multi-Year-Lows.html",
+      "date": "2026-07-20T13:15:00.000Z",
+      "source": "OilPrice.com",
+      "description": "European diesel markets are set to further tighten as multiple supply disruptions have combined to drag inventories to multi-year lows, analysts at Morgan Stanley say. “The picture is genuinely tight,” Morgan Stanley’s wrote in a note on Sunday carried by Bloomberg. “Our supply/d",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Jade Gas signs non-binding deal for Red Lake phase one funding",
+      "link": "https://www.offshore-technology.com/news/jade-gas-deal-red-lake-funding/",
+      "date": "2026-07-20T12:31:34.000Z",
+      "source": "Offshore Technology",
+      "description": "Jade Gas has signed a non-binding agreement to secure an estimated $771m in funding for Phase 1 development at the Red Lake CBM project in Mongolia.",
+      "category": "General"
+    },
+    {
+      "title": "India’s Crude Oil Import Bill Soars 60% as Iran War Drives Prices Higher",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Import-Bill-Soars-60-as-Iran-War-Drives-Prices-Higher.html",
+      "date": "2026-07-20T12:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "India paid 60% more for crude oil imports in the April-June quarter compared to the same period last year, as the surge in oil prices couldn’t offset slightly lower import volumes. The value of India’s crude oil imports jumped in the first quarter of India’s 2026/2027 fiscal year",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "USA LNG Growth Exceeding All Expectations, Yergin Says",
+      "link": "https://www.rigzone.com/news/usa_lng_growth_exceeding_all_expectations_yergin_says-20-jul-2026-184164-article/?rss=true",
+      "date": "2026-07-20T11:39:57.000Z",
+      "source": "Rigzone",
+      "description": "<p>The profound growth of U.S. LNG is exceeding all expectations.</p> <p>That’s what Daniel Yergin, Vice Chairman of S&P Global, said in a statement sent to ...",
+      "category": "General"
+    },
+    {
+      "title": "East Coast Cluster: the world’s first CCGT+CCS is advancing",
+      "link": "https://www.offshore-technology.com/analysis/east-coast-cluster-the-worlds-first-ccgtccs-is-advancing/",
+      "date": "2026-07-20T10:59:53.000Z",
+      "source": "Offshore Technology",
+      "description": "Construction is advancing on the East Coast Cluster as the UK's flagship carbon capture power project moves from planning to 2028 delivery.",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "China’s LNG Buying Spree Tightens Global Gas Market",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Buying-Spree-Tightens-Global-Gas-Market.html",
+      "date": "2026-07-20T10:45:00.000Z",
+      "source": "OilPrice.com",
+      "description": "China raised its liquefied natural gas imports for a second month in a row in June as the world’s top LNG buyer prepares for peak summer power demand. Chinese imports of LNG jumped by 8.3% from a year earlier to 5.68 million tons in June, according to official customs data releas",
+      "category": "Policy"
+    },
+    {
+      "title": "Aker BP Posts Record Cash Flow on Higher Oil Prices",
+      "link": "https://www.rigzone.com/news/aker_bp_posts_record_cash_flow_on_higher_oil_prices-20-jul-2026-184163-article/?rss=true",
+      "date": "2026-07-20T10:30:35.000Z",
+      "source": "Rigzone",
+      "description": "<p>Aker BP ASA has registered its highest-ever cash flow from operations at $3.12 billion as oil and gas prices surged sequentially and year-on-year in the seco...",
+      "category": "Prices"
+    },
+    {
+      "title": "Oil prices dip as Iran cites possibility of talks with US",
+      "link": "https://www.offshore-technology.com/news/oil-prices-dip-iran-cites-talks-with-us/",
+      "date": "2026-07-20T09:51:34.000Z",
+      "source": "Offshore Technology",
+      "description": "Oil prices fell on 20 July, Monday, after Iran’s foreign ministry indicated that negotiations with the US could continue, citing national interests, reported Reuters.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "PDO signs six-year EPC framework with Petrojet-ENPPI",
+      "link": "https://www.offshore-technology.com/news/pdo-six-year-epc-framework-petrojet-enppi/",
+      "date": "2026-07-20T09:40:29.000Z",
+      "source": "Offshore Technology",
+      "description": "Petroleum Development Oman (PDO) has signed a six-year engineering, procurement and construction (EPC) framework agreement with the Petrojet-ENPPI Consortium.",
+      "category": "General"
+    },
+    {
+      "title": "Tankers Fear Hormuz Transit as Iran Stops Vessels",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Tankers-Fear-Hormuz-Transits-as-Iran-Stops-Vessels.html",
+      "date": "2026-07-20T09:35:00.000Z",
+      "source": "OilPrice.com",
+      "description": "An empty Malta-flagged, Greece-managed oil products tanker halted at anchor in the Strait of Hormuz near Oman early on Monday as vessel owners and operators grow increasingly wary of attempting to transit the Strait in either direction following the re-escalation of hostilities. ",
+      "category": "Geopolitics"
+    },
     {
       "title": "Oil Prices Reach Highest Levels in More Than a Month",
       "link": "https://www.rigzone.com/news/oil_prices_reach_highest_levels_in_more_than_a_month-20-jul-2026-184162-article/?rss=true",
@@ -76,14 +180,6 @@
       "category": "Geopolitics"
     },
     {
-      "title": "What Are Mineral Rights? The Complete Guide to Owning, Leasing and Selling Them",
-      "link": "https://oilprice.com/Energy/Energy-General/What-Are-Mineral-Rights-The-Complete-Guide-to-Owning-Leasing-and-Selling-Them.html",
-      "date": "2026-07-19T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Millions of Americans own oil and gas mineral rights and have no real idea what that means. Some inherited a folder of yellowed documents from a grandparent's estate. Some bought a piece of land and assumed everything under it came with the deed. Some get a small check in the mai",
-      "category": "Production"
-    },
-    {
       "title": "Amundi Says Oil, Gas Crucial to EU Clean Energy Transition",
       "link": "https://www.rigzone.com/news/amundi_says_oil_gas_crucial_to_eu_clean_energy_transition-19-jul-2026-184154-article/?rss=true",
       "date": "2026-07-19T12:00:00.000Z",
@@ -140,46 +236,6 @@
       "category": "Refinery"
     },
     {
-      "title": "BP, ConocoPhillips Partner In Iraq’s Giant Oilfield",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-ConocoPhillips-Partner-In-Iraqs-Giant-Oilfield.html",
-      "date": "2026-07-17T17:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "ConocoPhillips (NYSE:COP) agreed to acquire a 42% stake in BP Plc’s (NYSE:BP) development subsidiary covering four major oilfields in the Kirkuk region of northern Iraq, with the partnership aiming to rehabilitate and optimize production at a cost of ~$25 billion. The deal brings",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "US Oil Drilling Picks Up As Brent Gains 4%",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drilling-Picks-Up-As-Brent-Gains-4.html",
-      "date": "2026-07-17T17:27:07.000Z",
-      "source": "OilPrice.com",
-      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 588, up 44 from this same time last year. The number of active oil rigs rose by 7, ",
-      "category": "Prices"
-    },
-    {
-      "title": "Jeff Currie: Illusion of Oil Abundance Is Gone",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Jeff-Currie-Illusion-of-Oil-Abundance-Is-Gone.html",
-      "date": "2026-07-17T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Carlyle Group Chief Strategy Officer, Jeff Currie, has declared that the global oil market's \"illusion of abundance\" has vanished, warning that the market has rapidly transitioned from a standard supply deficit into a structural energy shortage. According to the former head of co",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Oil Markets Ignore Mounting Risks at Their Own Peril",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Ignore-Mounting-Risks-at-Their-Own-Peril.html",
-      "date": "2026-07-17T16:19:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Escalating U.S.-Iran hostilities, attacks on critical infrastructure, and near-halted Hormuz tanker traffic are fueling expectations of higher oil prices. Friday, July 17, 2026 US forces striking civilian infrastructure in Iran, Tehran attacking a Kuwaiti power and desalination p",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Trump-Backed Trade Corridor Moves Closer to Reality in Armenia",
-      "link": "https://oilprice.com/Geopolitics/Asia/Trump-Backed-Trade-Corridor-Moves-Closer-to-Reality-in-Armenia.html",
-      "date": "2026-07-17T15:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Armenian government approved a bill on July 16 to formalize the country’s role in the development of the Trump Route for International Peace and Prosperity, or TRIPP, which is envisioned as a key node in the emerging Middle Corridor trade network. The bill affirms the develop",
-      "category": "Supply Routes"
-    },
-    {
       "title": "Chevron, Cheniere Reps Join DOE SEAB Board",
       "link": "https://www.rigzone.com/news/chevron_cheniere_reps_join_doe_seab_board-17-jul-2026-184158-article/?rss=true",
       "date": "2026-07-17T14:38:32.000Z",
@@ -188,11 +244,11 @@
       "category": "Policy"
     },
     {
-      "title": "BP and Conoco Partner in One of Iraq's Oldest Oilfields",
-      "link": "https://www.rigzone.com/news/bp_and_conoco_partner_in_one_of_iraqs_oldest_oilfields-17-jul-2026-184157-article/?rss=true",
+      "title": "ConocoPhillips Joins USA Firms Vowing $60B for Iraqi Deals",
+      "link": "https://www.rigzone.com/news/conocophillips_joins_usa_firms_vowing_60b_for_iraqi_deals-17-jul-2026-184157-article/?rss=true",
       "date": "2026-07-17T14:26:30.000Z",
       "source": "Rigzone",
-      "description": "<p>BP Plc said ConocoPhillips will acquire 42% of its stake in a venture that’s redeveloping Iraq’s giant Kirkuk oil fields, a major revival target for the OPEC...",
+      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 17, 2026, 7:52 PM GMT+1: Article ...",
       "category": "General"
     },
     {
@@ -292,14 +348,6 @@
       "category": "General"
     },
     {
-      "title": "CB&I wins EnQuest contract extension for Kittiwake duty holder role",
-      "link": "https://www.offshore-technology.com/news/cbi-enquest-contract-extension-kittiwake/",
-      "date": "2026-07-16T13:53:17.000Z",
-      "source": "Offshore Technology",
-      "description": "CB&I’s Asset Solutions business has been awarded a contract extension by EnQuest to continue as duty holder for the Kittiwake platform in the UK North Sea, carrying responsibilities through to cessation of production and the asset’s decommissioning.",
-      "category": "Geopolitics"
-    },
-    {
       "title": "TotalEnergies Sees Strong Oil Trading",
       "link": "https://www.rigzone.com/news/totalenergies_sees_strong_oil_trading-16-jul-2026-184147-article/?rss=true",
       "date": "2026-07-16T13:50:01.000Z",
@@ -324,27 +372,11 @@
       "category": "Supply Routes"
     },
     {
-      "title": "Oil prices fall but remain near one-month highs amid Gulf tensions",
-      "link": "https://www.offshore-technology.com/news/oil-eases-one-month-highs-gulf-tensions/",
-      "date": "2026-07-16T10:00:32.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil prices edged lower on 16 July, Thursday, as market participants assessed growing tensions between the US and Iran, and the potential impact on oil shipments through the Strait of Hormuz.",
-      "category": "Geopolitics"
-    },
-    {
       "title": "USA Crude Oil Stocks Drop Almost 2MM Barrels WoW",
       "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_almost_2mm_barrels_wow-16-jul-2026-184143-article/?rss=true",
       "date": "2026-07-16T09:42:48.000Z",
       "source": "Rigzone",
       "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), dropped by 1.7 million barrels from the week ending July 3 t...",
-      "category": "Production"
-    },
-    {
-      "title": "Delfin issues LNTP to Siemens Energy for FLNG2 vessel",
-      "link": "https://www.offshore-technology.com/news/delfin-issues-lntp-siemens-energy-flng2-vessel/",
-      "date": "2026-07-16T09:38:51.000Z",
-      "source": "Offshore Technology",
-      "description": "Delfin Midstream has given a Limited Notice to Proceed (LNTP) to Siemens Energy for the purchase of several major components for its second floating liquefied natural gas (LNG) production vessel, known as FLNG2.",
       "category": "Production"
     },
     {
@@ -362,14 +394,6 @@
       "source": "Rigzone",
       "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 16, 2026, 4:06 PM GMT+1: Article ...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Halliburton wins unconventional gas project contract from Aramco",
-      "link": "https://www.offshore-technology.com/news/halliburton-contract-unconventional-gas-project-aramco/",
-      "date": "2026-07-16T08:02:34.000Z",
-      "source": "Offshore Technology",
-      "description": "Halliburton has secured a multi-year contract from Aramco to provide integrated stimulation and completion services for unconventional gas development in Saudi Arabia.",
-      "category": "General"
     },
     {
       "title": "Oil Settles Higher",
