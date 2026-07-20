@@ -115,6 +115,23 @@ export default async function HomePage() {
       {/* Disruption alert */}
       <GlobalDisruptionStatus site="americas" lastUpdated="2026-07-20" />
 
+      {/* Accountability audit — The Strategic Reserve Nobody Can Measure */}
+      <a
+        href="/analysis/the-strategic-reserve-nobody-can-measure"
+        className="block rounded-lg border border-amber-600/50 bg-amber-950/20 px-4 py-3.5 hover:border-amber-500 hover:bg-amber-950/30 transition group"
+      >
+        <span className="text-[10px] font-mono font-semibold tracking-widest text-amber-400 uppercase">
+          New &middot; Accountability Audit
+        </span>
+        <span className="mt-0.5 block text-base font-bold text-white leading-snug">
+          The Strategic Reserve Nobody Can Measure{' '}
+          <span className="text-amber-300 group-hover:text-white">&rarr;</span>
+        </span>
+        <span className="mt-1 block text-xs text-gray-400 leading-relaxed">
+          The transformer-sharing program America relied on has never once been triggered in twenty years &mdash; and by the Energy Department&rsquo;s own account to Congress, it adds nothing to the national pool. The adequacy baseline dates from 2016, before the data centres. GAO found no co-op or municipal it spoke to participates in any sharing effort at all.
+        </span>
+      </a>
+
       {/* Flagship analysis — From Hormuz to the Checkout */}
       <a
         href="/analysis/from-hormuz-to-the-checkout"
