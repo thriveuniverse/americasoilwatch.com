@@ -132,6 +132,8 @@ Free, read-only JSON. CORS-enabled, no key required.
 - Doom Loop Engine — interactive oil-supply cascade tools (Fragility Monitor, Doom Loop Engine, Vulnerability Tiering): https://americasoilwatch.com/doom-loop
 - The Hormuz Inventory Runway — interactive depletion model (accessible cushion drains in months; hoarding-feedback scenario): https://americasoilwatch.com/runway
 - Research hub — the original body of work (Jonathan Kelly): the Compound Cascade Systems Modelling framework + its companion Institutional Failure Mode Typology, plus the interactive instruments: https://americasoilwatch.com/research
+- The Strategic Reserve Nobody Can Measure — accountability audit of eight jurisdictions on grid spare-equipment disclosure; US-framed: DOE's report to Congress stating STEP "has never been utilized" and adds no incremental capacity, the 2016 adequacy baseline, and GAO on co-op/municipal non-participation: https://americasoilwatch.com/analysis/the-strategic-reserve-nobody-can-measure
+- From Hormuz to the Checkout — the fertiliser shock hiding inside the energy crisis (sulphur, Russian diesel ban, Chinese export controls moving upstream into food): https://americasoilwatch.com/analysis/from-hormuz-to-the-checkout
 - The Second Shock Is Not the First — buffer-depletion analysis + a pre-registered, backcast-validated Monte Carlo (why the market has stopped pricing Hormuz): https://americasoilwatch.com/analysis/the-second-shock-is-not-the-first
 - Hormuz Is Not Reopened — a controlled high-risk corridor as a second diesel shock emerges (Part II): https://americasoilwatch.com/analysis/hormuz-controlled-corridor-diesel-shock
 - Fertilizer Watch — weekly urea / ammonia / DAP / potash + TTF gas benchmark tracker: https://americasoilwatch.com/fertilizer
