@@ -59,7 +59,7 @@ const REGION_LABELS: Record<string, string> = {
 };
 
 export default async function HomePage() {
-  const whereWeStandAsOf = '2026-07-16'; // single source of truth: the Updated label + the FreshnessGuard below
+  const whereWeStandAsOf = '2026-07-21'; // single source of truth: the Updated label + the FreshnessGuard below
   const wti          = loadJSON<any>('wti.json');
   const brent        = loadJSON<any>('brent.json');
   const usStocks     = loadJSON<any>('us-stocks.json');
@@ -376,6 +376,15 @@ export default async function HomePage() {
         </div>
         <FreshnessGuard lastUpdated={whereWeStandAsOf} maxAgeDays={4} label="This summary" className="mx-5 mt-3" />
         <div className="px-5 py-4 space-y-2">
+            {/* Update — Tue 21 Jul: ceasefire collapse #2 + Houthi Saudi-port embargo */}
+            <div className="rounded border border-red-700/40 bg-red-950/20 px-4 py-3">
+              <p className="text-[10px] font-mono font-semibold tracking-widest text-red-400/80 uppercase">
+                Update &mdash; Tue 21 Jul 2026
+              </p>
+              <p className="mt-1.5 text-xs text-gray-300 leading-relaxed">
+                The interim <strong className="text-gray-200">17 June truce has broken down</strong> and US strikes have run a <strong className="text-gray-200">tenth consecutive night</strong>. The Red Sea threat has turned concrete: Yemen&rsquo;s Houthis emailed shipowners declaring an <strong className="text-gray-200">embargo on all ships calling at Saudi ports</strong> (Bloomberg), directly threatening <strong className="text-gray-200">Yanbu</strong> &mdash; the bypass Saudi Arabia has used while Hormuz runs at a near-halt (about four commodity crossings Monday, most dark). Brent touched <strong className="text-gray-200">$91.42</strong> Monday, its highest since 11 June, before easing to about <strong className="text-gray-200">$89</strong> on hopes of a fresh ceasefire &mdash; a retreat on diplomacy, not restored supply. European low-sulphur gasoil hit a <strong className="text-gray-200">record premium near $60/bbl</strong> over Brent.
+              </p>
+            </div>
             {/* Update — Thu 16 Jul: two-front escalation (Tehran strikes + tanker; Russian refining ~40% offline) */}
             <div className="rounded border border-red-700/40 bg-red-950/20 px-4 py-3">
               <p className="text-[10px] font-mono font-semibold tracking-widest text-red-400/80 uppercase">
