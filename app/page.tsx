@@ -113,7 +113,7 @@ export default async function HomePage() {
       </div>
 
       {/* Disruption alert */}
-      <GlobalDisruptionStatus site="americas" lastUpdated="2026-07-20" />
+      <GlobalDisruptionStatus site="americas" lastUpdated="2026-07-21" />
 
       {/* Accountability audit — The Strategic Reserve Nobody Can Measure */}
       <a
