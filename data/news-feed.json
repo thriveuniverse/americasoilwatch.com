@@ -1,8 +1,96 @@
 {
-  "lastUpdated": "2026-07-22T08:41:22.152Z",
+  "lastUpdated": "2026-07-22T14:34:08.190Z",
   "summary": null,
   "count": 25,
   "articles": [
+    {
+      "title": "Europe Heads Into Winter With Its Weakest Gas Cushion In 15 Years",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Heads-Into-Winter-With-Its-Weakest-Gas-Cushion-In-15-Years.html",
+      "date": "2026-07-22T14:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Europe is unlikely to refill its natural gas storage facilities to even 80% before winter, Equinor CEO Anders Opedal said on Wednesday, Reuters reported, raising the prospect that the continent will enter the heating season with its smallest supply buffer in years. European gas s",
+      "category": "General"
+    },
+    {
+      "title": "Eni Côte d’Ivoire selects Saipem for $260m offshore drilling project",
+      "link": "https://www.offshore-technology.com/news/eni-saipem-offshore-drilling-project/",
+      "date": "2026-07-22T14:11:40.000Z",
+      "source": "Offshore Technology",
+      "description": "Italian oilfield services company Saipem has secured a new offshore drilling contract valued at around $260m from Eni Côte d’Ivoire.",
+      "category": "Production"
+    },
+    {
+      "title": "The Hormuz Crisis Is Driving a Geopolitical Shift Across Asia",
+      "link": "https://oilprice.com/Geopolitics/Asia/The-Hormuz-Crisis-Is-Driving-a-Geopolitical-Shift-Across-Asia.html",
+      "date": "2026-07-22T14:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "For years, policymakers in Washington have viewed Asia primarily through the lens of Taiwan, the South China Sea, and China's military rise. Russia's full-scale invasion of Ukraine has only reinforced that perspective, cementing Europe and East Asia as the principal arenas of geo",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Iran War Escalation Threatens Global Fuel Supply Recovery",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Escalation-Threatens-Global-Fuel-Supply-Recovery.html",
+      "date": "2026-07-22T13:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Asian refiners that had bet on a flood of crude supply from the Middle East in August are now faced with potential delays in deliveries amid the re-escalation of hostilities, which could thwart their plans to ramp up crude processing rates in the coming weeks, analysts have told ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Pakistan Scrambles for Oil Alternatives as Hormuz, Red Sea Risks Mount",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Scrambles-for-Oil-Alternatives-as-Hormuz-Red-Sea-Risks-Mount.html",
+      "date": "2026-07-22T12:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Pakistan’s refiners are inquiring traders about potential crude oil supply from the U.S., Nigeria, Singapore, and central Asia, amid the escalating crisis in the Middle East that threatens supply from both the Strait of Hormuz and the Red Sea. Following a meeting with the federal",
+      "category": "Refinery"
+    },
+    {
+      "title": "Oil Jumps Nearly 4% as Houthis Threaten Red Sea Blockade",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Nearly-4-as-Houthis-Threaten-Red-Sea-Blockade.html",
+      "date": "2026-07-22T11:10:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Oil prices jumped by nearly 4% early on Wednesday as concerns about crude supply from the Middle East intensify with threats to shipping at both chokepoints in the region, the Strait of Hormuz and the Bab el-Mandeb Strait. Brent Crude prices jumped by 3.75% to trade at $94.42, fo",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "GE Vernova wins order for six gas turbines to aid Hawaiian grid stability",
+      "link": "https://www.offshore-technology.com/news/ge-vernova-wins-order-for-six-gas-turbines-to-aid-hawaiian-grid-stability/",
+      "date": "2026-07-22T10:52:09.000Z",
+      "source": "Offshore Technology",
+      "description": "GE Vernova has secured a contract with Hawaiian Electric to supply six LM6000VELOX aeroderivative turbine packages for the Waiau Power Plant in O‘ahu.",
+      "category": "Refinery"
+    },
+    {
+      "title": "Japan’s Power Prices Soar to 3.5-Year High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Power-Prices-Soar-to-35-Year-High.html",
+      "date": "2026-07-22T10:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Japan’s day-ahead spot electricity prices surged on Wednesday to the highest level in three and a half years as soaring fuel costs, heat waves, and a weakening Japanese currency have combined to push power prices higher this summer. Data from the Japan Electric Power Exchange sho",
+      "category": "Prices"
+    },
+    {
+      "title": "Fluor selected for FEED of GPIC’s aromatics project in Bahrain",
+      "link": "https://www.offshore-technology.com/news/fluor-feed-gpics-aromatics-project-bahrain/",
+      "date": "2026-07-22T10:05:59.000Z",
+      "source": "Offshore Technology",
+      "description": "Gulf Petrochemical Industries Company (GPIC) has appointed Fluor to oversee the front-end engineering and design (FEED) for a planned aromatics facility in Bahrain.",
+      "category": "Refinery"
+    },
+    {
+      "title": "TGS and Ghana Petroleum Commission sign Keta Basin seismic deal",
+      "link": "https://www.offshore-technology.com/news/tgs-ghana-petroleum-commission-seismic-deal/",
+      "date": "2026-07-22T09:43:41.000Z",
+      "source": "Offshore Technology",
+      "description": "Energy data and intelligence provider TGS has signed an agreement with the Petroleum Commission, Ghana, to deliver a new offshore 2D-cubed seismic project in the Keta Basin, situated off the Ghanaian coast.",
+      "category": "General"
+    },
+    {
+      "title": "Equinor Profit Soars 93% as Oil and Gas Price Spike Fuels Windfall",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Profit-Soars-93-as-Oil-and-Gas-Price-Spike-Fuels-Windfall.html",
+      "date": "2026-07-22T09:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Equinor (EQNR:NYSE) saw a 93% jump in its second-quarter profit from a year earlier as oil and gas prices soared during the Middle East crisis and delivered windfall earnings to the biggest energy firms. The Norwegian major on Wednesday reported an adjusted operating income after",
+      "category": "Prices"
+    },
     {
       "title": "China's Oil Output Hits Record High",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Output-Hits-Record-High.html",
@@ -76,62 +164,6 @@
       "category": "General"
     },
     {
-      "title": "Norway's Oil Output Beats Forecasts as Hormuz Traffic Stays Near Crisis Lows",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-as-Hormuz-Traffic-Stays-Near-Crisis-Lows.html",
-      "date": "2026-07-21T20:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Norway's crude oil production beat official forecasts in June as offshore fields returned from seasonal maintenance, delivering a stronger-than-expected increase in supply at a time when global markets remain focused on disruptions to Middle Eastern exports. According to prelimin",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Kazakhstan Suspends Major Oil Exports as Black Sea Risks Escalate",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Kazakhstan-Suspends-Major-Oil-Exports-as-Black-Sea-Risks-Escalate.html",
-      "date": "2026-07-21T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Following a drone attack on the Caspian Pipeline Consortium (CPC) terminal along the Black Sea Coast, Kazakhstan has newly confirmed a halt to crude transfers there. \"Kazakhstan is set to stop piping crude to a port on Russia’s Black Sea coast after a spate of attacks on tankers ",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "India Pulls Back From Iraqi Oil as Hormuz Turns Too Dangerous",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Pulls-Back-From-Iraqi-Oil-as-Hormuz-Turns-Too-Dangerous.html",
-      "date": "2026-07-21T18:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India's biggest state refiners are no longer willing to gamble on the Strait of Hormuz. Indian Oil Corp. and Mangalore Refinery & Petrochemicals have suspended crude loadings from Iraq after a string of attacks on commercial tankers turned the world's most important oil chokepoin",
-      "category": "Refinery"
-    },
-    {
-      "title": "Inside Washington’s Quiet Bid to Break China’s Grip on Iraq",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Inside-Washingtons-Quiet-Bid-to-Break-Chinas-Grip-on-Iraq.html",
-      "date": "2026-07-21T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "It is true that U.S. foreign policy under President Donald Trump now operates from the starting point of three core geographical spheres, dominated by a major power in each, as delineated in the ‘2025 National Security Strategy’. Asia is one, with China holding the primary role t",
-      "category": "Policy"
-    },
-    {
-      "title": "U.S. Says China Has Slashed Iranian Oil Purchases by 40%",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Says-China-Has-Slashed-Iranian-Oil-Purchases-by-40.html",
-      "date": "2026-07-21T17:45:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The United States says its campaign to choke off Iran's oil revenue may finally be showing results where it matters most: China. Treasury Secretary Scott Bessent said Tuesday that Chinese purchases of Iranian crude have fallen sharply after Washington expanded sanctions on the co",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Why Kyrgyz Citizens Are Turning Against China's Growing Footprint",
-      "link": "https://oilprice.com/Geopolitics/International/Why-Kyrgyz-Citizens-Are-Turning-Against-Chinas-Growing-Footprint.html",
-      "date": "2026-07-21T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "China's expanding role in Kyrgyzstan has become increasingly hard to ignore. During the first half of 2026, Kyrgyzstan issued some 61,000 work visas, according to the Foreign Ministry's Consular Department, with about 60 percent going to Chinese citizens. That influx of Chinese w",
-      "category": "Policy"
-    },
-    {
-      "title": "Houthi Threats Ignite New Oil Price Surge",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Houthi-Threats-Ignite-New-Oil-Price-Surge.html",
-      "date": "2026-07-21T15:53:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Houthi attacks are expanding the Middle East conflict into the Red Sea, forcing tankers to reroute and pushing Brent above $91 amid growing fears of prolonged supply disruptions. Aramco Floods the Red Sea With Crude Ahead of Houthi Escalation - Perhaps foreshadowing an escalation",
-      "category": "Geopolitics"
-    },
-    {
       "title": "ADNOC approves $6.2bn Umm Shaif gas cap development",
       "link": "https://www.offshore-technology.com/news/adnoc-umm-shaif-gas-cap-development/",
       "date": "2026-07-21T12:45:27.000Z",
@@ -170,38 +202,6 @@
       "source": "Offshore Technology",
       "description": "Magnolia Oil & Gas has agreed to acquire WildFire Energy, an oil and gas producer in East Texas’s Eagle Ford Shale, in a transaction valued at approximately $4.06bn, including outstanding debt.",
       "category": "Production"
-    },
-    {
-      "title": "Jade Gas signs non-binding deal for Red Lake phase one funding",
-      "link": "https://www.offshore-technology.com/news/jade-gas-deal-red-lake-funding/",
-      "date": "2026-07-20T12:31:34.000Z",
-      "source": "Offshore Technology",
-      "description": "Jade Gas has signed a non-binding agreement to secure an estimated $771m in funding for Phase 1 development at the Red Lake CBM project in Mongolia.",
-      "category": "General"
-    },
-    {
-      "title": "East Coast Cluster: the world’s first CCGT+CCS is advancing",
-      "link": "https://www.offshore-technology.com/analysis/east-coast-cluster-the-worlds-first-ccgtccs-is-advancing/",
-      "date": "2026-07-20T10:59:53.000Z",
-      "source": "Offshore Technology",
-      "description": "Construction is advancing on the East Coast Cluster as the UK's flagship carbon capture power project moves from planning to 2028 delivery.",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Oil prices dip as Iran cites possibility of talks with US",
-      "link": "https://www.offshore-technology.com/news/oil-prices-dip-iran-cites-talks-with-us/",
-      "date": "2026-07-20T09:51:34.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil prices fell on 20 July, Monday, after Iran’s foreign ministry indicated that negotiations with the US could continue, citing national interests, reported Reuters.",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "PDO signs six-year EPC framework with Petrojet-ENPPI",
-      "link": "https://www.offshore-technology.com/news/pdo-six-year-epc-framework-petrojet-enppi/",
-      "date": "2026-07-20T09:40:29.000Z",
-      "source": "Offshore Technology",
-      "description": "Petroleum Development Oman (PDO) has signed a six-year engineering, procurement and construction (EPC) framework agreement with the Petrojet-ENPPI Consortium.",
-      "category": "General"
     }
   ]
 }
