@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-07-22T14:31:18.296Z",
-  "weekEnding": "2026-07-10",
-  "crudeMb": 409665,
-  "crudeMbChange": -1692,
-  "gasolineMb": 210529,
-  "gasolineMbChange": -1533,
-  "distillateMb": 108175,
-  "distillateMbChange": 4556,
-  "sprMb": 316504,
-  "productionKbpd": 13861,
+  "lastUpdated": "2026-07-22T18:47:52.316Z",
+  "weekEnding": "2026-07-17",
+  "crudeMb": 411675,
+  "crudeMbChange": 2010,
+  "gasolineMb": 211294,
+  "gasolineMbChange": 765,
+  "distillateMb": 109570,
+  "distillateMbChange": 1395,
+  "sprMb": 311447,
+  "productionKbpd": 13798,
   "dataSource": "US Energy Information Administration (EIA)"
 }

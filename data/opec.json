@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-22T14:33:58.182Z",
+  "lastUpdated": "2026-07-22T18:48:24.130Z",
   "latestDataPeriod": "2026-03",
   "dataSource": "U.S. Energy Information Administration — International data, product 53 (Total petroleum and other liquids), activity 1 (Production)",
   "quotaSource": "OPEC+ Declaration of Cooperation (JMMC schedule as of late 2024 — updated periodically as cartel adjusts)",
   "publicationLag": "EIA international data is published with a ~3-month lag. Data through 2026-03 does not yet reflect the Hormuz war period.",
   "totals": {
-    "opecKbpd": 23449,
-    "opecNonExemptKbpd": 16576,
+    "opecKbpd": 24890,
+    "opecNonExemptKbpd": 18017,
     "nonOpecKbpd": 14972,
     "nonOpecNonExemptKbpd": 14972,
-    "combinedKbpd": 38420,
+    "combinedKbpd": 39862,
     "opecQuotaKbpd": 21058,
     "nonOpecQuotaKbpd": 12439,
     "combinedQuotaKbpd": 33497,
-    "opecComplianceKbpd": -4482,
+    "opecComplianceKbpd": -3041,
     "nonOpecComplianceKbpd": 2533
   },
   "members": [
@@ -1265,10 +1265,155 @@
       "name": "Algeria",
       "group": "OPEC",
       "quotaKbpd": 908,
-      "latestKbpd": null,
-      "latestPeriod": null,
-      "history": [],
-      "vsQuota": null
+      "latestKbpd": 1441.078137099,
+      "latestPeriod": "2026-03",
+      "history": [
+        {
+          "period": "2023-04",
+          "kbpd": 1481.1813369326
+        },
+        {
+          "period": "2023-05",
+          "kbpd": 1451.1862600112
+        },
+        {
+          "period": "2023-06",
+          "kbpd": 1421.2071122044
+        },
+        {
+          "period": "2023-07",
+          "kbpd": 1431.2001878293
+        },
+        {
+          "period": "2023-08",
+          "kbpd": 1411.1993638674
+        },
+        {
+          "period": "2023-09",
+          "kbpd": 1421.204899
+        },
+        {
+          "period": "2023-10",
+          "kbpd": 1431.18575118
+        },
+        {
+          "period": "2023-11",
+          "kbpd": 1431.2006400347
+        },
+        {
+          "period": "2023-12",
+          "kbpd": 1421.21992886
+        },
+        {
+          "period": "2024-01",
+          "kbpd": 1391.187605238
+        },
+        {
+          "period": "2024-02",
+          "kbpd": 1381.225509333
+        },
+        {
+          "period": "2024-03",
+          "kbpd": 1381.203120455
+        },
+        {
+          "period": "2024-04",
+          "kbpd": 1381.206067596
+        },
+        {
+          "period": "2024-05",
+          "kbpd": 1371.155780735
+        },
+        {
+          "period": "2024-06",
+          "kbpd": 1371.155337631
+        },
+        {
+          "period": "2024-07",
+          "kbpd": 1381.145326543
+        },
+        {
+          "period": "2024-08",
+          "kbpd": 1381.136256413
+        },
+        {
+          "period": "2024-09",
+          "kbpd": 1381.153838804
+        },
+        {
+          "period": "2024-10",
+          "kbpd": 1381.150917243
+        },
+        {
+          "period": "2024-11",
+          "kbpd": 1376.154545639
+        },
+        {
+          "period": "2024-12",
+          "kbpd": 1391.162117677
+        },
+        {
+          "period": "2025-01",
+          "kbpd": 1381.123966457
+        },
+        {
+          "period": "2025-02",
+          "kbpd": 1391.126822
+        },
+        {
+          "period": "2025-03",
+          "kbpd": 1381.117632779
+        },
+        {
+          "period": "2025-04",
+          "kbpd": 1386.127487674
+        },
+        {
+          "period": "2025-05",
+          "kbpd": 1391.127463783
+        },
+        {
+          "period": "2025-06",
+          "kbpd": 1391.156046986
+        },
+        {
+          "period": "2025-07",
+          "kbpd": 1401.149391797
+        },
+        {
+          "period": "2025-08",
+          "kbpd": 1411.135454844
+        },
+        {
+          "period": "2025-09",
+          "kbpd": 1421.150967761
+        },
+        {
+          "period": "2025-10",
+          "kbpd": 1411.137868769
+        },
+        {
+          "period": "2025-11",
+          "kbpd": 1441.139836394
+        },
+        {
+          "period": "2025-12",
+          "kbpd": 1441.157761852
+        },
+        {
+          "period": "2026-01",
+          "kbpd": 1431.089017386
+        },
+        {
+          "period": "2026-02",
+          "kbpd": 1451.107517743
+        },
+        {
+          "period": "2026-03",
+          "kbpd": 1441.078137099
+        }
+      ],
+      "vsQuota": 533
     },
     {
       "code": "COG",
