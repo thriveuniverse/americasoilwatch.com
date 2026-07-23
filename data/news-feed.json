@@ -1,8 +1,56 @@
 {
-  "lastUpdated": "2026-07-23T14:38:43.868Z",
+  "lastUpdated": "2026-07-23T18:50:19.434Z",
   "summary": null,
-  "count": 84,
+  "count": 85,
   "articles": [
+    {
+      "title": "Ukraine’s Drone War Is Choking Kazakhstan’s Oil Exports",
+      "link": "https://oilprice.com/Energy/Energy-General/Ukraines-Drone-War-Is-Choking-Kazakhstans-Oil-Exports.html",
+      "date": "2026-07-23T18:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Kazakhstan should, in theory, be one of the major beneficiaries of Russia’s growing isolation from global energy markets. Its crude is unsanctioned and European refiners need alternatives to Russian barrels. Yet instead of gaining a clear geopolitical advantage, Kazakhstan has fo",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Hybrid Hydropower Could Unlock Europe’s Next Renewable Energy Boom",
+      "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/Hybrid-Hydropower-Could-Unlock-Europes-Next-Renewable-Energy-Boom.html",
+      "date": "2026-07-23T17:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "There is major potential to develop hybrid renewable energy projects on existing hydropower sites, according to a new report by the think tank Ember Energy. We often think of renewable energy projects as standalone operations rather than resources that can be combined to produce ",
+      "category": "General"
+    },
+    {
+      "title": "India Targets Five Small Modular Reactors by 2033",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Targets-Five-Small-Modular-Reactors-by-2033.html",
+      "date": "2026-07-23T15:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "India expects to build domestically five small modular reactors (SMRs) by 2033, India’s Atomic Energy Minister, Jitendra Singh, has said. The five SMRs would be part of India’s push to accelerate nuclear power capacity installations over the next two decades, the minister told la",
+      "category": "General"
+    },
+    {
+      "title": "Brent Tops $100 as Houthi Attacks Push Oil Rally Into Triple Digits",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Brent-Tops-100-as-Houthi-Attacks-Push-Oil-Rally-Into-Triple-Digits.html",
+      "date": "2026-07-23T15:17:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Brent crude has broken back above $100 a barrel for the first time in nearly two months as escalating attacks on commercial shipping in the Red Sea deepen concerns that the Middle East supply crisis is spreading beyond the Strait of Hormuz. As of mid-morning Thursday, front-month",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Magnolia to Buy WildFire in $4B Deal",
+      "link": "https://www.rigzone.com/news/magnolia_to_buy_wildfire_in_4b_deal-23-jul-2026-184201-article/?rss=true",
+      "date": "2026-07-23T15:00:49.000Z",
+      "source": "Rigzone",
+      "description": "<p>Magnolia Oil & Gas Corporation announced, in a statement posted on its website, that it has entered into a definitive purchase agreement to acquire WildFire ...",
+      "category": "General"
+    },
+    {
+      "title": "Greece Exposes the Limits of Europe's Russia Energy Sanctions",
+      "link": "https://oilprice.com/Energy/Energy-General/Greece-Exposes-the-Limits-of-Europes-Russia-Energy-Sanctions.html",
+      "date": "2026-07-23T15:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The last EU agreement about the latest sanctions package against Russia is being presented by Brussels as another demonstration of European unity and determination to sustain economic pressure on the Kremlin. Since February 2022, sanctions have been one of the EU's principal stra",
+      "category": "Geopolitics"
+    },
     {
       "title": "Eni Starts Producing Gas Power at Kazakhstan Hybrid Project",
       "link": "https://www.rigzone.com/news/eni_starts_producing_gas_power_at_kazakhstan_hybrid_project-23-jul-2026-184200-article/?rss=true",
@@ -185,46 +233,6 @@
       "date": "2026-07-23T06:30:00.000Z",
       "source": "OilPrice.com",
       "description": "At least two tankers have turned away from the Bab el-Mandeb Strait after Yemen’s Houthis said they have struck two Saudi tankers in the chokepoint in the latest Middle East war escalation, saying they had violated the naval blockade that the Yemeni forces declared earlier this w",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Brent Breaks $96 as U.S. Strikes Iran for 12th Consecutive Night",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Nears-96-as-US-Strikes-Iran-for-12th-Consecutive-Night.html",
-      "date": "2026-07-23T02:26:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The latest oil price rally showed no sign of stopping in early Asian trading on Thursday, with both benchmarks climbing to their highest levels in more than six weeks as the U.S. and Iran continued to exchange strikes. At the time of writing, WTI crude was trading at $88.25 per b",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Global Refiners Are Cutting Out Oil Traders To Buy Venezuelan Crude Directly",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Global-Refiners-Are-Cutting-Out-Oil-Traders-To-Buy-Venezuelan-Crude-Directly.html",
-      "date": "2026-07-23T00:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Commodity traders are having the rug pulled out from under one of their biggest paydays yet as refiners start bypassing oil and traders and buying Venezuelan crude directly, according to Reuters. Refiners and major oil-producing firms are rapidly gaining market share in Venezuela",
-      "category": "Refinery"
-    },
-    {
-      "title": "New Pipelines Set To Ease Permian Natural Gas Glut",
-      "link": "https://oilprice.com/Energy/Natural-Gas/New-Pipelines-Set-To-Ease-Permian-Natural-Gas-Glut.html",
-      "date": "2026-07-22T23:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The regional price of natural gas produced in the Permian, the top U.S. oil basin, was negative for most of the first half of the year. Rising associated gas output from oil-targeting wells has had nowhere to go. Producers had to either flare the gas, within allowed limits, or pa",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Equinor CEO: Europe May Miss Winter Gas Storage Goal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-CEO-Europe-May-Miss-Winter-Gas-Storage-Goal.html",
-      "date": "2026-07-22T22:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Europe's effort to rebuild natural gas inventories before winter suffered another setback on Wednesday after Equinor CEO Anders Opedal warned the region may struggle to reach its 80% storage target, highlighting intensifying competition for global LNG supplies. Speaking after Equ",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Houthi Red Sea Blockade Could Shatter Hopes for Lower Oil Prices",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Houthi-Red-Sea-Blockade-Could-Shatter-Hopes-for-Lower-Oil-Prices.html",
-      "date": "2026-07-22T22:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Renewed Houthi blockade of Saudi Red Sea ports threatens up to 4 million bpd of redirected Saudi crude exports, adding fresh supply risks as the Strait of Hormuz remains effectively disrupted The latest reignition of hostilities between the United States and Iran led to a spike i",
       "category": "Geopolitics"
     },
     {

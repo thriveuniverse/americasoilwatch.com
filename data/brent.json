@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-23T14:38:22.851Z",
-  "priceUsd": 86.94,
-  "priceEur": 76.43,
-  "eurUsd": 1.1375,
-  "changeUsd": -7.31,
-  "changePct": -7.76,
+  "lastUpdated": "2026-07-23T18:50:00.069Z",
+  "priceUsd": 100.65,
+  "priceEur": 88.46,
+  "eurUsd": 1.1378,
+  "changeUsd": 6.4,
+  "changePct": 6.79,
   "dataSource": "Yahoo Finance (BZ=F)"
 }
