@@ -1,8 +1,120 @@
 {
-  "lastUpdated": "2026-07-23T18:50:19.434Z",
+  "lastUpdated": "2026-07-24T08:39:17.841Z",
   "summary": null,
-  "count": 85,
+  "count": 81,
   "articles": [
+    {
+      "title": "OEUK Hails 'Constructive Meeting' with New Energy Sec",
+      "link": "https://www.rigzone.com/news/oeuk_hails_constructive_meeting_with_new_energy_sec-24-jul-2026-184205-article/?rss=true",
+      "date": "2026-07-24T08:37:52.000Z",
+      "source": "Rigzone",
+      "description": "<p>In a statement sent to Rigzone on Thursday, industry body Offshore Energies UK (OEUK) announced that its CEO, David Whitehouse, had a “constructive meeting” ...",
+      "category": "Production"
+    },
+    {
+      "title": "China Snaps Up Russian Oil as Mideast Risks Mount",
+      "link": "https://www.rigzone.com/news/china_snaps_up_russian_oil_as_mideast_risks_mount-24-jul-2026-184204-article/?rss=true",
+      "date": "2026-07-24T07:50:07.000Z",
+      "source": "Rigzone",
+      "description": "<p>Chinese buyers are snapping up Russia's flagship ESPO crude weeks earlier than usual, as heightened risks to Middle East oil flows prompt refiners to secure ...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Global LNG Giants Target Cambodia as New Energy Market",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-LNG-Giants-Target-Cambodia-as-New-Energy-Market.html",
+      "date": "2026-07-24T07:45:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Some of the world’s biggest heavyweights in liquefied natural gas exports are interested in adding Cambodia to their client list as the Southeast Asian nation build sits first LNG-fueled power station. The United States, Australia, Canada, and some Southeast Asian countries are a",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "TotalEnergies reports $5.4bn net income in Q2 2026",
+      "link": "https://www.offshore-technology.com/news/totalenergies-5-4bn-net-income-q2-2026/",
+      "date": "2026-07-24T07:22:14.000Z",
+      "source": "Offshore Technology",
+      "description": "TotalEnergies reported a net income of $5.4bn in the second quarter of 2026 (Q2 2026), a 100% increase from $2.7bn in the same period of the previous year.",
+      "category": "General"
+    },
+    {
+      "title": "Trump Threatens Iran After Houthi Tanker Attacks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Threatens-Iran-After-Houthi-Tanker-Attacks.html",
+      "date": "2026-07-24T06:45:00.000Z",
+      "source": "OilPrice.com",
+      "description": "President Trump has threatened to “punish” Iran for the Yemeni Houthis’ recent attacks on tankers in the Bab el-Mandeb Strait, saying, “If they do this again, the U.S. will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishm",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Oil Tops $100 as Supply Crisis Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tops-100-as-Supply-Crisis-Deepens.html",
+      "date": "2026-07-24T05:40:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Crude oil prices were on course for a sizable weekly gain today, as the Strait of Hormuz remains almost entirely paralysed and the Yemeni Houthis target tankers in the Bab el-Mandeb Strait in the Red Sea. To make matters worse, Kazakhstan has suspended oil flows via the Caspian P",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Lithium Prices Sink To Five-Month Lows Amid Oversupply Jitters",
+      "link": "https://oilprice.com/Metals/Commodities/Lithium-Prices-Sink-To-Five-Month-Lows-Amid-Oversupply-Jitters.html",
+      "date": "2026-07-24T00:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Lithium prices have sunk to a five-month low as the return of previously idled mine capacity triggered fears of a massive market oversupply. Lithium prices on the Guangzhou Futures Exchange (GFEX), the most active lithium carbonate contract, fell to 136,800 yuan ($20,210) per ton",
+      "category": "Prices"
+    },
+    {
+      "title": "Trump Administration Eyes Offshore Nuclear to Power AI Boom",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trump-Administration-Eyes-Offshore-Nuclear-to-Power-AI-Boom.html",
+      "date": "2026-07-23T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Trump administration is studying the deployment of offshore nuclear power generation, with the Marine Minerals Administration and the Nuclear Regulatory Commission agreeing this week to coordinate on any future developments. The announcement comes amid surging electricity dem",
+      "category": "Policy"
+    },
+    {
+      "title": "OPEC+ Set to Raise Output Again—Even as Members Can't Pump It",
+      "link": "https://oilprice.com/Energy/Crude-Oil/OPEC-Set-to-Raise-Output-AgainEven-as-Members-Cant-Pump-It.html",
+      "date": "2026-07-23T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "OPEC+ is expected to approve another production target increase when eight key producers meet on August 2, extending a months-long campaign to unwind voluntary supply cuts that have existed largely on paper since the Iran war upended Gulf exports. Reuters reported Thursday that S",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "The AI Paradox Reshaping Clean Energy Research",
+      "link": "https://oilprice.com/Energy/Energy-General/The-AI-Paradox-Reshaping-Clean-Energy-Research.html",
+      "date": "2026-07-23T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Artificial intelligence is a double-edged sword for the energy sector. The rapid buildout of data centers to support widespread integration of large language models in virtually every economic sector imaginable, from our energy grids to your electric toothbrush – yes, really – is",
+      "category": "General"
+    },
+    {
+      "title": "Matador Buys Permian Assets for $1.3B",
+      "link": "https://www.rigzone.com/news/matador_buys_permian_assets_for_13b-23-jul-2026-184202-article/?rss=true",
+      "date": "2026-07-23T21:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Matador Resources Co. agreed to buy Permian Basin assets from EnCap Investments LP for about $1.3 billion in cash, as US shale producers continue to expand t...",
+      "category": "Production"
+    },
+    {
+      "title": "Oil Surges Above $100",
+      "link": "https://www.rigzone.com/news/oil_surges_above_100-23-jul-2026-184203-article/?rss=true",
+      "date": "2026-07-23T20:12:59.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil surged past $100 a barrel for the first time in two months after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Insurers Flock to Oil Projects Outside the Middle East",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Insurers-Flock-to-Oil-Projects-Outside-the-Middle-East.html",
+      "date": "2026-07-23T20:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Global insurers had just shaken off the ESG push from earlier this decade when the Middle East conflict upended oil and gas upstream project coverage. The world’s lowest-cost oil and gas producing region became a war zone at the end of February, with war-risk premiums and oil and",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Commodities Beat Tech This Decade, and Wall Street Still Won't Buy In",
+      "link": "https://oilprice.com/Energy/Energy-General/Commodities-Beat-Tech-This-Decade-and-Wall-Street-Still-Wont-Buy-In.html",
+      "date": "2026-07-23T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The best performing asset class of this decade is also the most under owned. Since October 2020, when we first called for a decades-long super-cycle in commodities, the broad commodity indices like the S&P GSCI are up 200 per cent; gold 140 per cent. This year commodities are up ",
+      "category": "General"
+    },
     {
       "title": "Ukraine’s Drone War Is Choking Kazakhstan’s Oil Exports",
       "link": "https://oilprice.com/Energy/Energy-General/Ukraines-Drone-War-Is-Choking-Kazakhstans-Oil-Exports.html",
@@ -76,22 +188,6 @@
       "category": "Policy"
     },
     {
-      "title": "U.S. and Ukraine Sign Landmark Drone Cooperation Agreement",
-      "link": "https://oilprice.com/Geopolitics/Europe/US-and-Ukraine-Sign-Landmark-Drone-Cooperation-Agreement.html",
-      "date": "2026-07-23T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Ukraine and the United States have signed a bilateral statement of intent that lays the groundwork for an unprecedented defense partnership, allowing Ukrainian combat drones to be exported to the United States for military testing, according to two sources familiar with the agree",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "LNG Importers Seek Lower Qatar and UAE Prices as War Upends Deals",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Importers-Seek-Lower-Qatar-and-UAE-Prices-as-War-Upends-Deals.html",
-      "date": "2026-07-23T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The war in the Middle East has diminished the negotiating power that key regional LNG exporters Qatar and the United Arab Emirates (UAE) have enjoyed for years. Importers of LNG from Europe to Asia plan to negotiate better terms in future long-term deals and ask for lower prices ",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Equinor Makes New Oil Discovery Near Johan Castberg",
       "link": "https://www.rigzone.com/news/equinor_makes_new_oil_discovery_near_johan_castberg-23-jul-2026-184198-article/?rss=true",
       "date": "2026-07-23T13:25:19.000Z",
@@ -108,28 +204,12 @@
       "category": "Geopolitics"
     },
     {
-      "title": "U.S. Refinery Utilization Hits 96.2% as Fuel Markets Tighten Worldwide",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Refinery-Utilization-Hits-962-as-Fuel-Markets-Tighten-Worldwide.html",
-      "date": "2026-07-23T12:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "U.S. refinery utilization has been near-capacity for weeks, with American fuel exports jumping to record high levels amid tight global fuel markets in the wake of the Iran war and the closure of the Strait of Hormuz. The average refinery capacity utilization across the United Sta",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Repsol Sees Surge in Profit",
       "link": "https://www.rigzone.com/news/repsol_sees_surge_in_profit-23-jul-2026-184197-article/?rss=true",
       "date": "2026-07-23T12:19:31.000Z",
       "source": "Rigzone",
       "description": "<p>Repsol SA on Wednesday reported EUR 1.27 billion ($1.45 billion) in net income and EUR 1.84 billion in adjusted net income for the second quarter (Q2), respe...",
       "category": "General"
-    },
-    {
-      "title": "Chinese Tankers Push Through Bab el-Mandeb Despite Houthi Blockade Threats",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Tankers-Push-Through-Bab-el-Mandeb-Despite-Houthi-Blockade-Threats.html",
-      "date": "2026-07-23T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Two China-owned and operated tankers loaded with Saudi crude continued on Thursday to travel in the Red Sea toward the Bab el-Mandeb Strait despite the overnight Houthi attacks on Saudi vessels, ship-tracking data monitored by Bloomberg showed. The Cosco Shipping-operated tankers",
-      "category": "Geopolitics"
     },
     {
       "title": "Oil Rockets Towards $100",
@@ -156,28 +236,12 @@
       "category": "General"
     },
     {
-      "title": "TotalEnergies Profit Soars 68% as Oil Price Surge Lifts Earnings",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Profit-Soars-68-as-Oil-Price-Surge-Lifts-Earnings.html",
-      "date": "2026-07-23T09:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "TotalEnergies’ (TTE:NYSE) adjusted net income jumped by 68% from a year earlier to $6 billion for the second quarter of 2026 as the jump in oil prices and refining margins boosted earnings and cash flows. The French supermajor on Thursday reported an adjusted net income of $6 bil",
-      "category": "Prices"
-    },
-    {
       "title": "Burnham Picks Energy Team",
       "link": "https://www.rigzone.com/news/burnham_picks_energy_team-23-jul-2026-184194-article/?rss=true",
       "date": "2026-07-23T09:13:01.000Z",
       "source": "Rigzone",
       "description": "<p>UK Prime Minister Andy Burnham, who was elected Leader of the Labour Party on July 16 and became UK Prime Minister on July 20, replacing Keir Starmer, has se...",
       "category": "General"
-    },
-    {
-      "title": "Oil Prices Climb Toward $100 as Red Sea Risks Rise",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Climb-Toward-100-as-Red-Sea-Risks-Rise.html",
-      "date": "2026-07-23T09:02:43.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil prices rose for the fifth consecutive day early on Thursday, topping $98 per barrel to the highest level in nearly two months, as Houthi attacks on tankers on the Red Sea route intensified concerns about supply from the Middle East. Early on Thursday in Europe, Brent Crude pr",
-      "category": "Geopolitics"
     },
     {
       "title": "Equinor net income soars 267% to $4.84bn in Q2 2026",
@@ -188,28 +252,12 @@
       "category": "General"
     },
     {
-      "title": "EU Concedes to Greek LNG Demand in Russian Sanctions Row",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Concedes-to-Greek-LNG-Demand-in-Russian-Sanctions-Row.html",
-      "date": "2026-07-23T08:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The European Union will exempt Greek Dynagas from the latest sanctions package for Russia after pressure from the Greek government, which said the package would harm the country’s economy. The package, set to be voted on today, includes a ban on LNG shipments to third countries a",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Houthis Claim Oil Tanker Attacks in Red Sea",
       "link": "https://www.rigzone.com/news/houthis_claim_oil_tanker_attacks_in_red_sea-23-jul-2026-184193-article/?rss=true",
       "date": "2026-07-23T07:48:58.000Z",
       "source": "Rigzone",
       "description": "<p>The Houthis, a militant group in Yemen who have been threatening to open another front in the Iran war, said they had targeted two oil tankers in the Red Sea...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "India’s Solar Manufacturing Push Backfires as Panel Factories Shut Down",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Solar-Manufacturing-Push-Backfires-as-Panel-Factories-Shut-Down.html",
-      "date": "2026-07-23T07:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India ran into an obstacle in its ambitions to boost solar generation as local factories began to shut down because of component shortages, Reuters reported today, citing unnamed industry sources. The shortages are the result of new legislation seeking to reduce India’s dependenc",
-      "category": "Policy"
     },
     {
       "title": "EC launches detailed investigation into Saipem and Subsea 7 merger",
@@ -226,14 +274,6 @@
       "source": "Offshore Technology",
       "description": "Vallourec has secured a contract from Allseas to supply carbon steel seamless line pipes and thermal insulation coating for the Atapu 2 offshore oil development in Brazil.",
       "category": "General"
-    },
-    {
-      "title": "Two Saudi Oil Tankers Targeted as Houthi Blockade Disrupts Red Sea Shipping",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Two-Saudi-Oil-Tankers-Targeted-as-Houthi-Blockade-Disrupts-Red-Sea-Shipping.html",
-      "date": "2026-07-23T06:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "At least two tankers have turned away from the Bab el-Mandeb Strait after Yemen’s Houthis said they have struck two Saudi tankers in the chokepoint in the latest Middle East war escalation, saying they had violated the naval blockade that the Yemeni forces declared earlier this w",
-      "category": "Geopolitics"
     },
     {
       "title": "Oil Extends Rally on Iran Tensions",
@@ -346,14 +386,6 @@
       "source": "Rigzone",
       "description": "<p>Crude oil futures continued to rise today, Samer Hasn, Senior Market Analyst at XS.com, highlighted in a market analysis sent to Rigzone on Wednesday, pointi...",
       "category": "Prices"
-    },
-    {
-      "title": "Fluor selected for FEED of GPIC’s aromatics project in Bahrain",
-      "link": "https://www.offshore-technology.com/news/fluor-feed-gpics-aromatics-project-bahrain/",
-      "date": "2026-07-22T10:05:59.000Z",
-      "source": "Offshore Technology",
-      "description": "Gulf Petrochemical Industries Company (GPIC) has appointed Fluor to oversee the front-end engineering and design (FEED) for a planned aromatics facility in Bahrain.",
-      "category": "Refinery"
     },
     {
       "title": "Iberdrola to Buy Caruna for $5.7B",
@@ -617,70 +649,6 @@
       "date": "2026-07-17T06:54:05.000Z",
       "source": "Rigzone",
       "description": "<p>In a market update sent to Rigzone late Thursday, Rystad Energy revealed that it has revised its U.S.-Iran scenario framework “following a renewed deteriorat...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Oil Ends Lower but Holds Weekly Gains",
-      "link": "https://www.rigzone.com/news/oil_ends_lower_but_holds_weekly_gains-16-jul-2026-184149-article/?rss=true",
-      "date": "2026-07-16T20:04:11.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil dipped, though remains higher for the week, as traders balanced profit-taking with concerns about disruptions to Middle East flows.<br /> <br /> Global...",
-      "category": "General"
-    },
-    {
-      "title": "SLB, Liberty Agree to Form Data Center Alliance",
-      "link": "https://www.rigzone.com/news/slb_liberty_agree_to_form_data_center_alliance-16-jul-2026-184148-article/?rss=true",
-      "date": "2026-07-16T15:00:13.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a joint statement posted on their respective websites, SLB and Liberty Energy Inc announced an agreement to form a strategic alliance “that will deliver m...",
-      "category": "General"
-    },
-    {
-      "title": "TotalEnergies Sees Strong Oil Trading",
-      "link": "https://www.rigzone.com/news/totalenergies_sees_strong_oil_trading-16-jul-2026-184147-article/?rss=true",
-      "date": "2026-07-16T13:50:01.000Z",
-      "source": "Rigzone",
-      "description": "<p>TotalEnergies SE reported another quarter of bumper oil trading after the Iran war upended crude markets, but warned of underperformance in its gas business....",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Ukraine Hit 2 Large Russia-Linked Oil Tankers in Black Sea",
-      "link": "https://www.rigzone.com/news/ukraine_hit_2_large_russialinked_oil_tankers_in_black_sea-16-jul-2026-184146-article/?rss=true",
-      "date": "2026-07-16T13:39:48.000Z",
-      "source": "Rigzone",
-      "description": "<p>Ukrainian naval drones hit two large Russia-linked oil tankers in the Black Sea as Moscow and Kyiv expand the scope of their mutual maritime strikes.</p> ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Analysts Examine Hormuz Crossings",
-      "link": "https://www.rigzone.com/news/analysts_examine_hormuz_crossings-16-jul-2026-184145-article/?rss=true",
-      "date": "2026-07-16T11:34:36.000Z",
-      "source": "Rigzone",
-      "description": "<p>What is ship traffic through the Strait of Hormuz like currently? What type of ships are getting through and what type of ships aren’t? And is the petrochemi...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "USA Crude Oil Stocks Drop Almost 2MM Barrels WoW",
-      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_almost_2mm_barrels_wow-16-jul-2026-184143-article/?rss=true",
-      "date": "2026-07-16T09:42:48.000Z",
-      "source": "Rigzone",
-      "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), dropped by 1.7 million barrels from the week ending July 3 t...",
-      "category": "Production"
-    },
-    {
-      "title": "India Bars Seafarers from Hormuz Voyages",
-      "link": "https://www.rigzone.com/news/india_bars_seafarers_from_hormuz_voyages-16-jul-2026-184142-article/?rss=true",
-      "date": "2026-07-16T08:29:52.000Z",
-      "source": "Rigzone",
-      "description": "<p>India has directed ship owners, ship managers and recruitment agencies to stop deploying the country’s seafarers on vessels going through the Strait of Hormu...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "USA-Iran Skirmishes Worsen as Hormuz Traffic Dwindles",
-      "link": "https://www.rigzone.com/news/usairan_skirmishes_worsen_as_hormuz_traffic_dwindles-16-jul-2026-184141-article/?rss=true",
-      "date": "2026-07-16T08:24:15.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 16, 2026, 4:06 PM GMT+1: Article ...",
       "category": "Geopolitics"
     }
   ]
