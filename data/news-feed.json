@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-07-24T19:05:24.959Z",
+  "lastUpdated": "2026-07-25T08:20:34.205Z",
   "summary": null,
-  "count": 87,
+  "count": 81,
   "articles": [
+    {
+      "title": "The Strait of Hormuz Closure Is Already Hitting Supermarket Prices",
+      "link": "https://oilprice.com/Finance/the-Economy/The-Strait-of-Hormuz-Closure-Is-Already-Hitting-Supermarket-Prices.html",
+      "date": "2026-07-24T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Crop prices just hit a three-year high, indicating major downstream pain soon to come at the supermarket. There are two major factors leading to high crop prices and a potential global food crisis: heat waves and intensifying conflict in the Black Sea threatening to disrupt globa",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Brent Pulls Back From $100",
+      "link": "https://www.rigzone.com/news/brent_pulls_back_from_100-24-jul-2026-184215-article/?rss=true",
+      "date": "2026-07-24T20:29:29.000Z",
+      "source": "Rigzone",
+      "description": "<p>Brent crude prices retreated from $100 a barrel as oil was still managing to traverse Middle East trade routes despite the recent escalation in hostilities a...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "SLB Sees Growth Broadening Beyond Mideast",
+      "link": "https://www.rigzone.com/news/slb_sees_growth_broadening_beyond_mideast-24-jul-2026-184209-article/?rss=true",
+      "date": "2026-07-24T20:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>SLB, the world’s biggest oil field services provider, said it will take time for full production capacity to return to the Middle East and will require a dur...",
+      "category": "Production"
+    },
     {
       "title": "The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck",
       "link": "https://oilprice.com/Energy/Crude-Oil/The-Red-Sea-Is-Becoming-Saudi-Arabias-Biggest-Oil-Bottleneck.html",
@@ -161,14 +185,6 @@
       "date": "2026-07-24T11:30:00.000Z",
       "source": "OilPrice.com",
       "description": "At least one oil tanker carrying Saudi crude oil has transited the Bab al-Mandeb Strait with its transponder switched off as risks to vessels in the Red Sea spiked this week after the Houthis announced a blockade on Saudi shipments and targeted vessels offshore Yemen. The Merbabu",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "WTI Explodes Higher as Middle East Shipping Risks Multiply",
-      "link": "https://oilprice.com/Energy/Energy-General/WTI-Explodes-Higher-as-Middle-East-Shipping-Risks-Multiply.html",
-      "date": "2026-07-24T11:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "September WTI crude oil futures were trading at $92.31 late Thursday, up $10.54 or 12.89% for the week. The contract posted a weekly low at $79.58 before climbing to a weekly high at $92.31. This was not a normal risk-premium rally. WTI started the week with the Strait of Hormuz ",
       "category": "Supply Routes"
     },
     {
@@ -634,70 +650,6 @@
       "source": "Rigzone",
       "description": "<p>On the edge of the Canadian Rocky Mountains, companies including Obsidian Energy Ltd. and Yangarra Resources Corp. are breathing new life into a long-dormant...",
       "category": "Production"
-    },
-    {
-      "title": "Oil Jumps on Fears of Wider Iran War",
-      "link": "https://www.rigzone.com/news/oil_jumps_on_fears_of_wider_iran_war-17-jul-2026-184159-article/?rss=true",
-      "date": "2026-07-17T20:53:45.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil surged on growing fears the US and Iran could return to full war, threatening flows through the Strait of Hormuz.</p> <p>Global benchmark Brent rose r...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Chevron, Cheniere Reps Join DOE SEAB Board",
-      "link": "https://www.rigzone.com/news/chevron_cheniere_reps_join_doe_seab_board-17-jul-2026-184158-article/?rss=true",
-      "date": "2026-07-17T14:38:32.000Z",
-      "source": "Rigzone",
-      "description": "<p>The U.S. Department of Energy (DOE) announced newly appointed members of the Secretary of Energy Advisory Board (SEAB) in a statement posted on its website r...",
-      "category": "Policy"
-    },
-    {
-      "title": "ConocoPhillips Joins USA Firms Vowing $60B for Iraqi Deals",
-      "link": "https://www.rigzone.com/news/conocophillips_joins_usa_firms_vowing_60b_for_iraqi_deals-17-jul-2026-184157-article/?rss=true",
-      "date": "2026-07-17T14:26:30.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 17, 2026, 7:52 PM GMT+1: Article ...",
-      "category": "General"
-    },
-    {
-      "title": "Zelenskyy Picks Energy CEO for Premier",
-      "link": "https://www.rigzone.com/news/zelenskyy_picks_energy_ceo_for_premier-17-jul-2026-184156-article/?rss=true",
-      "date": "2026-07-17T14:17:04.000Z",
-      "source": "Rigzone",
-      "description": "<p>President Volodymyr Zelenskyy named the head of a state-run energy company as Ukraine’s next prime minister, underscoring his focus on preparing for the comi...",
-      "category": "Policy"
-    },
-    {
-      "title": "EIA Pushes 2026 USA Oil Output Forecast Closer to 14MM Bpd",
-      "link": "https://www.rigzone.com/news/eia_pushes_2026_usa_oil_output_forecast_closer_to_14mm_bpd-17-jul-2026-184153-article/?rss=true",
-      "date": "2026-07-17T11:31:53.000Z",
-      "source": "Rigzone",
-      "description": "<p>The U.S. Energy Information Administration (EIA) raised its U.S. crude oil production forecast for 2026 in its latest short term energy outlook (STEO), which...",
-      "category": "Policy"
-    },
-    {
-      "title": "Iran-Linked Tankers U-Turn, Zig-Zag",
-      "link": "https://www.rigzone.com/news/iranlinked_tankers_uturn_zigzag-17-jul-2026-184152-article/?rss=true",
-      "date": "2026-07-17T07:08:22.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 17, 2026, 12:08 PM GMT+1: Article...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Burnham to Back North Sea Oil",
-      "link": "https://www.rigzone.com/news/burnham_to_back_north_sea_oil-17-jul-2026-184151-article/?rss=true",
-      "date": "2026-07-17T07:01:21.000Z",
-      "source": "Rigzone",
-      "description": "<p>Within days of taking office incoming Prime Minister Andy Burnham is preparing to announce new drilling for oil and gas in the North Sea as well as taking pu...",
-      "category": "Policy"
-    },
-    {
-      "title": "Rystad Outlines 4 Potential USA-Iran Scenarios",
-      "link": "https://www.rigzone.com/news/rystad_outlines_4_potential_usairan_scenarios-17-jul-2026-184150-article/?rss=true",
-      "date": "2026-07-17T06:54:05.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a market update sent to Rigzone late Thursday, Rystad Energy revealed that it has revised its U.S.-Iran scenario framework “following a renewed deteriorat...",
-      "category": "Geopolitics"
     }
   ]
 }
