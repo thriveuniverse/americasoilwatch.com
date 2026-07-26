@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-07-25T18:40:50.102Z",
+  "lastUpdated": "2026-07-26T08:37:47.645Z",
   "summary": null,
-  "count": 82,
+  "count": 81,
   "articles": [
+    {
+      "title": "Can an AI Black Box Be Trusted to Run a Nuclear Reactor?",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Can-an-AI-Black-Box-Be-Trusted-to-Run-a-Nuclear-Reactor.html",
+      "date": "2026-07-25T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "China has unveiled a daring new plan to integrate artificial intelligence throughout the nuclear energy life cycle. This week, at the World Artificial Intelligence Conference (WAIC) in Shanghai, researchers at the Chinese Academy of Sciences (CAS) revealed a new plan for safely i",
+      "category": "General"
+    },
+    {
+      "title": "The Carbon Capture Boom Is Starting to Crack",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Carbon-Capture-Boom-Is-Starting-to-Crack.html",
+      "date": "2026-07-25T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Carbon capture and storage (CCS) technology grew in popularity during the Covid-19 pandemic as several governments and private companies pledged to support a green transition. The use of CCS was expected to help decarbonise hard-to-abate industries until a long-term transition to",
+      "category": "General"
+    },
     {
       "title": "UCLA Scientists Turn Plastic Waste Into Pure Hydrogen Fuel",
       "link": "https://oilprice.com/Energy/Energy-General/UCLA-Scientists-Turn-Plastic-Waste-Into-Pure-Hydrogen-Fuel.html",
@@ -148,28 +164,12 @@
       "category": "General"
     },
     {
-      "title": "No Breakthrough as Top U.S. and Russian Diplomats Meet Over Ukraine",
-      "link": "https://oilprice.com/Geopolitics/Europe/No-Breakthrough-as-Top-US-and-Russian-Diplomats-Meet-Over-Ukraine.html",
-      "date": "2026-07-24T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The top US and Russian diplomats met in a new push to find an end to Moscow's more-than-four-year-old war on Ukraine, but both sides signaled no new breakthroughs or cause for optimism. The July 23 meeting between US Secretary of State Marco Rubio and Russian Foreign Minister Ser",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Santos Narrows 2026 Production Forecast",
       "link": "https://www.rigzone.com/news/santos_narrows_2026_production_forecast-24-jul-2026-184212-article/?rss=true",
       "date": "2026-07-24T13:50:12.000Z",
       "source": "Rigzone",
       "description": "<p>Santos Ltd has narrowed its output guidance for the year from 101-111 million barrels of oil equivalent (MMboe) to 99-105 MMboe, despite ramp-up at the Baros...",
       "category": "Production"
-    },
-    {
-      "title": "Pakistan Transporters Threaten Nationwide Strike Over Fuel Price Hikes",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Transporters-Threaten-Nationwide-Strike-Over-Fuel-Price-Hikes.html",
-      "date": "2026-07-24T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Pakistan’s alliance of goods transporters has warned it could launch a nationwide strike over soaring fuel costs in another economic pressure that the South Asian country is feeling from the Middle East crisis. “Transporters across Pakistan should remain prepared; a nationwide st",
-      "category": "Geopolitics"
     },
     {
       "title": "Oil futures dip but surge for week amid attacks on shipping routes",
@@ -650,14 +650,6 @@
       "source": "Rigzone",
       "description": "<p>Amundi SA wants the European Union to free asset managers to add oil and gas exposures to a new fund category intended to support the transition to a lower-c...",
       "category": "General"
-    },
-    {
-      "title": "Forgotten Shale Gas Play Reemerges as Oil Hot Spot",
-      "link": "https://www.rigzone.com/news/forgotten_shale_gas_play_reemerges_as_oil_hot_spot-18-jul-2026-184155-article/?rss=true",
-      "date": "2026-07-18T12:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>On the edge of the Canadian Rocky Mountains, companies including Obsidian Energy Ltd. and Yangarra Resources Corp. are breathing new life into a long-dormant...",
-      "category": "Production"
     }
   ]
 }
