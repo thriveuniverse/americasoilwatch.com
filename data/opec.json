@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T15:19:56.362Z",
+  "lastUpdated": "2026-07-27T19:03:00.924Z",
   "latestDataPeriod": "2026-03",
   "dataSource": "U.S. Energy Information Administration — International data, product 53 (Total petroleum and other liquids), activity 1 (Production)",
   "quotaSource": "OPEC+ Declaration of Cooperation (JMMC schedule as of late 2024 — updated periodically as cartel adjusts)",
@@ -7,14 +7,14 @@
   "totals": {
     "opecKbpd": 24890,
     "opecNonExemptKbpd": 18017,
-    "nonOpecKbpd": 14972,
-    "nonOpecNonExemptKbpd": 14972,
-    "combinedKbpd": 39862,
+    "nonOpecKbpd": 13004,
+    "nonOpecNonExemptKbpd": 13004,
+    "combinedKbpd": 37894,
     "opecQuotaKbpd": 21058,
     "nonOpecQuotaKbpd": 12439,
     "combinedQuotaKbpd": 33497,
     "opecComplianceKbpd": -3041,
-    "nonOpecComplianceKbpd": 2533
+    "nonOpecComplianceKbpd": 565
   },
   "members": [
     {
@@ -1885,155 +1885,10 @@
       "name": "Kazakhstan",
       "group": "Non-OPEC",
       "quotaKbpd": 1468,
-      "latestKbpd": 1967.717794201684,
-      "latestPeriod": "2026-03",
-      "history": [
-        {
-          "period": "2023-04",
-          "kbpd": 2007.934702090251
-        },
-        {
-          "period": "2023-05",
-          "kbpd": 1917.4269497180037
-        },
-        {
-          "period": "2023-06",
-          "kbpd": 1982.1002773520254
-        },
-        {
-          "period": "2023-07",
-          "kbpd": 1856.405356740121
-        },
-        {
-          "period": "2023-08",
-          "kbpd": 1803.7191913094532
-        },
-        {
-          "period": "2023-09",
-          "kbpd": 1889.77160414359
-        },
-        {
-          "period": "2023-10",
-          "kbpd": 2013.1859624334286
-        },
-        {
-          "period": "2023-11",
-          "kbpd": 1965.5543593922416
-        },
-        {
-          "period": "2023-12",
-          "kbpd": 2000.4264596352903
-        },
-        {
-          "period": "2024-01",
-          "kbpd": 1998.7206121146437
-        },
-        {
-          "period": "2024-02",
-          "kbpd": 1991.1447745337255
-        },
-        {
-          "period": "2024-03",
-          "kbpd": 1997.642913755353
-        },
-        {
-          "period": "2024-04",
-          "kbpd": 1936.440441078116
-        },
-        {
-          "period": "2024-05",
-          "kbpd": 1842.5607655688048
-        },
-        {
-          "period": "2024-06",
-          "kbpd": 1910.9800948181164
-        },
-        {
-          "period": "2024-07",
-          "kbpd": 1936.8425527993531
-        },
-        {
-          "period": "2024-08",
-          "kbpd": 1821.4272705096114
-        },
-        {
-          "period": "2024-09",
-          "kbpd": 1958.4427465847832
-        },
-        {
-          "period": "2024-10",
-          "kbpd": 1714.2443987308973
-        },
-        {
-          "period": "2024-11",
-          "kbpd": 1877.9427839572609
-        },
-        {
-          "period": "2024-12",
-          "kbpd": 1857.4936191270306
-        },
-        {
-          "period": "2025-01",
-          "kbpd": 1980.9953482282328
-        },
-        {
-          "period": "2025-02",
-          "kbpd": 2235.0106294013735
-        },
-        {
-          "period": "2025-03",
-          "kbpd": 2274.808445879417
-        },
-        {
-          "period": "2025-04",
-          "kbpd": 2182.3525776671418
-        },
-        {
-          "period": "2025-05",
-          "kbpd": 2124.184266430473
-        },
-        {
-          "period": "2025-06",
-          "kbpd": 2248.9105223101806
-        },
-        {
-          "period": "2025-07",
-          "kbpd": 2185.7107289912374
-        },
-        {
-          "period": "2025-08",
-          "kbpd": 2250.3156464042117
-        },
-        {
-          "period": "2025-09",
-          "kbpd": 2178.6080762923284
-        },
-        {
-          "period": "2025-10",
-          "kbpd": 2050.605020020136
-        },
-        {
-          "period": "2025-11",
-          "kbpd": 2131.947000055719
-        },
-        {
-          "period": "2025-12",
-          "kbpd": 1964.0594715013563
-        },
-        {
-          "period": "2026-01",
-          "kbpd": 1383.0091876720317
-        },
-        {
-          "period": "2026-02",
-          "kbpd": 1911.6159336440348
-        },
-        {
-          "period": "2026-03",
-          "kbpd": 1967.717794201684
-        }
-      ],
-      "vsQuota": 500
+      "latestKbpd": null,
+      "latestPeriod": null,
+      "history": [],
+      "vsQuota": null
     },
     {
       "code": "OMN",
