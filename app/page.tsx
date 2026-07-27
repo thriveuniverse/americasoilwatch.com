@@ -115,6 +115,23 @@ export default async function HomePage() {
       {/* Disruption alert */}
       <GlobalDisruptionStatus site="americas" lastUpdated="2026-07-27" />
 
+      {/* Analysis — Oil Falls 6%, Inflation Fears Ease, but the Fuel Market Is Still Tight */}
+      <a
+        href="/analysis/oil-down-fuel-market-still-tight"
+        className="block rounded-lg border border-amber-600/50 bg-amber-950/20 px-4 py-3.5 hover:border-amber-500 hover:bg-amber-950/30 transition group"
+      >
+        <span className="text-[10px] font-mono font-semibold tracking-widest text-amber-400 uppercase">
+          New &middot; US Fuel &amp; Inflation
+        </span>
+        <span className="mt-0.5 block text-base font-bold text-white leading-snug">
+          Oil Falls 6%, Inflation Fears Ease &mdash; but the Fuel Market Is Still Tight{' '}
+          <span className="text-amber-300 group-hover:text-white">&rarr;</span>
+        </span>
+        <span className="mt-1 block text-xs text-gray-400 leading-relaxed">
+          Monday&rsquo;s oil sell-off is real relief for US inflation risk and, eventually, drivers. But it did not rebuild the fuel cushion: gasoline and distillate stocks rose week-on-week yet stayed 7% and 10% below normal, with refineries already at 96.1% of operable capacity. The barrel fell; the buffer is still thin.
+        </span>
+      </a>
+
       {/* Russia–Ukraine analysis — Russia Is Importing Fuel While Exporting Crude */}
       <a
         href="/analysis/russia-importing-fuel-exporting-crude"
