@@ -139,6 +139,7 @@ Free, read-only JSON. CORS-enabled, no key required.
 - Fertilizer Watch — weekly urea / ammonia / DAP / potash + TTF gas benchmark tracker: https://americasoilwatch.com/fertilizer
 - Insights archive:    https://americasoilwatch.com/insights
 - The War Reaches the Route Built to Bypass Hormuz — Saudi Arabia spent decades building a way to move oil without Hormuz (the pipeline west to Yanbu on the Red Sea); this weekend Houthi strikes on Jizan and Yanbu brought the war to that route, exposing Hormuz and its Red Sea alternative to the same conflict — correlated-corridor risk, where the independence a backup depends on is breaking down: https://americasoilwatch.com/analysis/the-route-built-to-bypass-hormuz
+- Oil Is Pricing a Pause. Shipping Is Waiting for Proof. — the futures screen and the shipping data diverge: Brent fell almost 6% on a US–Iran pause while Hormuz still ran fewer than ten ships a day and Bab el-Mandeb hit a multi-month low. The market is pricing that the trade can improvise around the disruption (manageability), not that the barrels have returned; the earliest measurable test is directional shipping — empty tankers returning to the Gulf: https://americasoilwatch.com/analysis/oil-is-pricing-a-pause
 - Methodology:         https://americasoilwatch.com/methodology
 
 ## Data sources

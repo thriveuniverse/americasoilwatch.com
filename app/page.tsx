@@ -115,6 +115,23 @@ export default async function HomePage() {
       {/* Disruption alert */}
       <GlobalDisruptionStatus site="americas" lastUpdated="2026-07-27" />
 
+      {/* Flagship analysis — Oil Is Pricing a Pause. Shipping Is Waiting for Proof. */}
+      <a
+        href="/analysis/oil-is-pricing-a-pause"
+        className="block rounded-lg border border-amber-600/50 bg-amber-950/20 px-4 py-3.5 hover:border-amber-500 hover:bg-amber-950/30 transition group"
+      >
+        <span className="text-[10px] font-mono font-semibold tracking-widest text-amber-400 uppercase">
+          New &middot; Flagship Analysis
+        </span>
+        <span className="mt-0.5 block text-base font-bold text-white leading-snug">
+          Oil Is Pricing a Pause. Shipping Is Waiting for Proof.{' '}
+          <span className="text-amber-300 group-hover:text-white">&rarr;</span>
+        </span>
+        <span className="mt-1 block text-xs text-gray-400 leading-relaxed">
+          Brent fell almost 6% on hope of a US&ndash;Iran pause &mdash; but Hormuz still ran fewer than ten ships a day and Red Sea traffic hit a multi-month low. The market is pricing manageability, not peace; the earliest real test is whether empty tankers start returning to the Gulf.
+        </span>
+      </a>
+
       {/* Flagship analysis — The War Reaches the Route Built to Bypass Hormuz */}
       <a
         href="/analysis/the-route-built-to-bypass-hormuz"
