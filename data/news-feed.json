@@ -1,8 +1,144 @@
 {
-  "lastUpdated": "2026-07-28T08:48:42.065Z",
+  "lastUpdated": "2026-07-28T14:47:01.020Z",
   "summary": null,
-  "count": 83,
+  "count": 90,
   "articles": [
+    {
+      "title": "Senators Announce Deal on New Russia, Iran Sanctions Bill",
+      "link": "https://www.rigzone.com/news/senators_announce_deal_on_new_russia_iran_sanctions_bill-28-jul-2026-184234-article/?rss=true",
+      "date": "2026-07-28T14:41:09.000Z",
+      "source": "Rigzone",
+      "description": "<p>A bipartisan group of senators announced a deal Tuesday on long-awaited legislation to allow President Donald Trump to impose more restrictions on major buye...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Tata Power Targets 2032 for India's First Private Nuclear Plant",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Tata-Power-Targets-2032-for-Indias-First-Private-Nuclear-Plant.html",
+      "date": "2026-07-28T14:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Tata Power, one of India’s biggest integrated power utilities, plans to build its first nuclear power plant by 2032 as the country opens the civil nuclear sector to private companies, CEO Praveer Sinha told Bloomberg Television in an interview on Tuesday. “What we can expect is t",
+      "category": "Refinery"
+    },
+    {
+      "title": "States Oppose FERC Plan to Widen Blanket Gas Pipeline Permitting",
+      "link": "https://www.rigzone.com/news/states_oppose_ferc_plan_to_widen_blanket_gas_pipeline_permitting-28-jul-2026-184233-article/?rss=true",
+      "date": "2026-07-28T14:15:05.000Z",
+      "source": "Rigzone",
+      "description": "<p>Over a dozen states and the District of Columbia have protested a proposed \"rulemaking\" by the Federal Energy Regulatory Commission (FERC) to broaden the kin...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Britain Backs Ukraine With New Electronic Warfare Cooperation",
+      "link": "https://oilprice.com/Geopolitics/Europe/Britain-Backs-Ukraine-With-New-Electronic-Warfare-Cooperation.html",
+      "date": "2026-07-28T14:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "President Volodymyr Zelensky met British Prime Minister Andy Burnham on July 27 as he kicked off a key week of talks with officials around the world to bolster Ukraine's defenses amid a rising civilian death toll from Russian air strikes back home. Zelensky became the first forei",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Economists Cut India’s GDP Growth Forecast on Oil Price Shock",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Economists-Cut-Indias-GDP-Growth-Forecast-on-Oil-Price-Shock.html",
+      "date": "2026-07-28T13:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The spike in oil prices and slowing private investments have been weighing on India’s economic growth, which is now seen at 6.6% in the fiscal year to March 2027, a full percentage-point drop from the 7.7% GDP growth in the prior fiscal year, a Reuters poll of economists showed o",
+      "category": "Prices"
+    },
+    {
+      "title": "TotalEnergies, Eni reach agreement to develop Cyprus’ Cronos gas field",
+      "link": "https://www.offshore-technology.com/news/totalenergies-eni-cronos-gas-field/",
+      "date": "2026-07-28T13:11:32.000Z",
+      "source": "Offshore Technology",
+      "description": "TotalEnergies and Eni have jointly approved the development of the Cronos gas field in Cyprus offshore Block 6, following a FID.",
+      "category": "General"
+    },
+    {
+      "title": "Baker Hughes Posts Nearly 50 Percent YoY Increase in Orders",
+      "link": "https://www.rigzone.com/news/baker_hughes_posts_nearly_50_percent_yoy_increase_in_orders-28-jul-2026-184232-article/?rss=true",
+      "date": "2026-07-28T12:39:35.000Z",
+      "source": "Rigzone",
+      "description": "<p>Baker Hughes has reported $10.5 billion in orders for the second quarter (Q2), up 49 percent from the same three-month period last year and 29 percent agains...",
+      "category": "General"
+    },
+    {
+      "title": "Escalating Protests in Libya Threaten Oil and Gas Supply",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Escalating-Protests-in-Libya-Threaten-Oil-and-Gas-Supply.html",
+      "date": "2026-07-28T12:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The anti-government protests in Libya over power cuts and high electricity bills over the past few days escalated on Tuesday, with protesters entering the Mellitah Oil and Gas complex and threatening to halt gas and fuel supplies for both the domestic and international markets. L",
+      "category": "Prices"
+    },
+    {
+      "title": "Red Sea Tanker Traffic Hits Multi-Month Low as Houthi Threat Holds",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Tanker-Traffic-Hits-Multi-Month-Low-as-Houthi-Threat-Holds.html",
+      "date": "2026-07-28T11:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "More than half a dozen empty supertankers are currently en route to Egypt’s Sidi Kerir port to pick up Saudi crude as the world’s top crude oil exporter is re-routing – again – its export tactics to avoid the new threat for the Middle East’s chokepoints, the Bab el-Mandeb in the ",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Oil Market Rapidly Strips Out Iran War Premium",
+      "link": "https://www.rigzone.com/news/oil_market_rapidly_strips_out_iran_war_premium-28-jul-2026-184231-article/?rss=true",
+      "date": "2026-07-28T10:50:26.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil prices dropped yesterday and today as the market rapidly stripped out its Iran war premium, Petros Pantzari, Chief Dealer at Monaxa, said in a statement ...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Barossa Ships First Condensate Cargo to South Korea",
+      "link": "https://www.rigzone.com/news/barossa_ships_first_condensate_cargo_to_south_korea-28-jul-2026-184230-article/?rss=true",
+      "date": "2026-07-28T10:36:23.000Z",
+      "source": "Rigzone",
+      "description": "<p>Santos Ltd said Monday it had dispatched the first sales cargo of condensate produced from the Barossa gas project in Australia's Northern Territory to a Sou...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Iran Races to Fortify Its Most Vital Oil Terminal as U.S. Threats Persist",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Races-to-Fortify-Its-Most-Vital-Oil-Terminal-as-US-Threats-Persist.html",
+      "date": "2026-07-28T10:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Iran looks to accelerate infrastructure projects at its main oil export terminal at Kharg Island, amid on-and-off threats by U.S. President Donald Trump to either bomb or seize the island. The Islamic Republic is speeding up the completion of development and infrastructure projec",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Tributes Pour in for Sir Ian Wood",
+      "link": "https://www.rigzone.com/news/tributes_pour_in_for_sir_ian_wood-28-jul-2026-184229-article/?rss=true",
+      "date": "2026-07-28T09:58:42.000Z",
+      "source": "Rigzone",
+      "description": "<p>Tributes have poured in for Sir Ian Wood following news that the Aberdeen-based businessman has passed away.</p> <p>David Whitehouse, Chief Executive of i...",
+      "category": "Policy"
+    },
+    {
+      "title": "Skadden, Arps, Slate, Meagher & Flom tops oil and gas M&A legal advisory by value in H1 2026",
+      "link": "https://www.offshore-technology.com/news/oil-gas-ma-legal-advisory-value-h1-2026/",
+      "date": "2026-07-28T09:36:16.000Z",
+      "source": "Offshore Technology",
+      "description": "Skadden, Arps, Slate, Meagher & Flom and Latham & Watkins emerged as the leading legal advisers for oil and gas sector mergers and acquisitions (M&A) during the first half of 2026 (H1 2026).",
+      "category": "General"
+    },
+    {
+      "title": "Cyprus Launches First Gas Project with Eni and TotalEnergies Backing",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Cyprus-Launches-First-Gas-Project-with-Eni-and-TotalEnergies-Backing.html",
+      "date": "2026-07-28T09:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Eni and TotalEnergies have taken the final investment decision to develop the Cronos gas field in deep waters offshore Cyprus, in the Mediterranean country’s first hydrocarbon development expected to bring first gas to market in 2028. The Cronos project, operated by Eni with a 50",
+      "category": "Prices"
+    },
+    {
+      "title": "Saipem wins $911m Eni contracts for Ivory Coast and Italian projects",
+      "link": "https://www.offshore-technology.com/news/saipem-wins-911m-eni-contracts/",
+      "date": "2026-07-28T09:09:58.000Z",
+      "source": "Offshore Technology",
+      "description": "Italian oilfield services company Saipem has secured contracts from Eni and its affiliates for two projects, one offshore in Ivory Coast and one at a biorefinery in Italy, with a combined value of approximately €800m ($911m).",
+      "category": "Refinery"
+    },
+    {
+      "title": "Eni Greenlights Cyprus' First Hydrocarbon Project",
+      "link": "https://www.rigzone.com/news/eni_greenlights_cyprus_first_hydrocarbon_project-28-jul-2026-184228-article/?rss=true",
+      "date": "2026-07-28T09:05:26.000Z",
+      "source": "Rigzone",
+      "description": "<p>Eni SpA has made a final investment decision to develop the Cronos deepwater gas field, which it said is the Mediterranean island country's \"inaugural hydroc...",
+      "category": "General"
+    },
     {
       "title": "Japan Backs Overseas Oil Pipelines to Reduce Hormuz Dependence",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Backs-Overseas-Oil-Pipelines-to-Reduce-Hormuz-Dependence.html",
@@ -98,62 +234,6 @@
       "source": "Rigzone",
       "description": "<p>Expand Energy Corp. agreed to buy gas marketer Twin Eagle Holdings NA LLC from private equity firm Five Point Infrastructure for $1.25 billion, moving the la...",
       "category": "Prices"
-    },
-    {
-      "title": "What If the Most Valuable Part of an EV Isn't the Car?",
-      "link": "https://oilprice.com/Energy/Energy-General/What-If-the-Most-Valuable-Part-of-an-EV-Isnt-the-Car.html",
-      "date": "2026-07-27T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Rapid depreciation in China's electric vehicle market is often portrayed as evidence that EVs are becoming disposable consumer electronics. Yet the opposite may prove true. While the vehicle loses value, the battery increasingly becomes a long-lived energy asset with multiple com",
-      "category": "Prices"
-    },
-    {
-      "title": "The Trade Routes Iran Cannot Afford to Lose",
-      "link": "https://oilprice.com/Geopolitics/Asia/The-Trade-Routes-Iran-Cannot-Afford-to-Lose.html",
-      "date": "2026-07-27T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The future of relations between Central Asian republics (Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan) and Iran under a government now dominated by the Islamic Revolutionary Guard Corps (IRGC) is likely to feature pragmatic economic and transit cooperation amid he",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "A Skeptical Look at Elon Musk's AI Utopia",
-      "link": "https://oilprice.com/Energy/Energy-General/A-Skeptical-Look-at-Elon-Musks-AI-Utopia.html",
-      "date": "2026-07-27T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Our tech overlords tell us that artificial intelligence will soon create a world of abundance while solving our major problems such as climate change. Just so you know who I'm talking about, I have previously defined our tech overlords as \"a grab bag of technology companies, tech",
-      "category": "General"
-    },
-    {
-      "title": "Kazakhstan Restarts CPC Oil Exports After Week-Long Black Sea Shutdown",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Restarts-CPC-Oil-Exports-After-Week-Long-Black-Sea-Shutdown.html",
-      "date": "2026-07-27T17:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Kazakhstan resumed crude exports through the Caspian Pipeline Consortium (CPC) on Monday after the operator reopened its Black Sea marine terminal and resumed accepting crude from producers following a week-long suspension triggered by drone attacks, Kazakhstan’s Astana Times rep",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Nvidia's $250 Billion OpenAI Guarantee Puts AI Capex Concerns Back in Focus",
-      "link": "https://oilprice.com/Energy/Energy-General/Nvidias-250-Billion-OpenAI-Guarantee-Puts-AI-Capex-Concerns-Back-in-Focus.html",
-      "date": "2026-07-27T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Nvidia is in early talks to provide up to $250 billion in financing guarantees to help OpenAI lease computing capacity from a planned $500 billion, 10-gigawatt data center facility in Ohio, according to Bloomberg, citing people familiar with the matter. The proposed deal highligh",
-      "category": "Refinery"
-    },
-    {
-      "title": "China to Resell First US LNG Cargo in a Year Instead of Importing It",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-to-Resell-First-US-LNG-Cargo-in-a-Year-Instead-of-Importing-It.html",
-      "date": "2026-07-27T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Chinese buyers that received the first U.S. LNG cargo in over a year plan to resell it on another market to profit from higher prices elsewhere and avoid paying a 25% tariff, sources familiar with the plans told Bloomberg on Monday. The Yangpu port in south China earlier this mon",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Leaked UK Grid Report Warns Net Zero Push Raises Blackout Risks",
-      "link": "https://oilprice.com/Energy/Energy-General/Leaked-UK-Grid-Report-Warns-Net-Zero-Push-Raises-Blackout-Risks.html",
-      "date": "2026-07-27T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The UK’s net zero push risks leaving the country with higher electricity bills and more susceptible to blackouts, according to a leaked report commissioned by the national grid system. The report, produced by energy consultancy firm Cornwall Insight for the National Energy System",
-      "category": "Geopolitics"
     },
     {
       "title": "Halliburton Bags Spate of Middle East Contracts in July",
@@ -324,14 +404,6 @@
       "category": "Production"
     },
     {
-      "title": "Oil futures dip but surge for week amid attacks on shipping routes",
-      "link": "https://www.offshore-technology.com/news/oil-futures-dip-amid-attacks-shipping-routes/",
-      "date": "2026-07-24T13:15:44.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil futures fell sharply on 24 July, Friday, but both Brent and WTI remained set for their largest weekly gains since May.",
-      "category": "Supply Routes"
-    },
-    {
       "title": "Overseas Buyers In Hot Pursuit of USA Crude",
       "link": "https://www.rigzone.com/news/overseas_buyers_in_hot_pursuit_of_usa_crude-24-jul-2026-184210-article/?rss=true",
       "date": "2026-07-24T13:09:47.000Z",
@@ -354,22 +426,6 @@
       "source": "Rigzone",
       "description": "<p>In a market update sent to Rigzone late Thursday, Rystad Energy mapped four potential U.S.-Iran conflict scenarios to assess their impact on oil prices.</p> ...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Matador Resources to acquire Paloma Permian for $1.3bn",
-      "link": "https://www.offshore-technology.com/news/matador-resources-acquire-paloma-permian/",
-      "date": "2026-07-24T10:03:23.000Z",
-      "source": "Offshore Technology",
-      "description": "Matador Resources has entered a definitive agreement to acquire Paloma Permian from EnCap Investments in a deal valued at $1.27bn.",
-      "category": "General"
-    },
-    {
-      "title": "Searah begins work on Indonesia floating gas plant for North Hub",
-      "link": "https://www.offshore-technology.com/news/searah-work-indonesia-floating-gas-plant-north-hub/",
-      "date": "2026-07-24T09:48:14.000Z",
-      "source": "Offshore Technology",
-      "description": "Searah, a joint venture between Eni and Petronas, has commenced development of a floating gas processing facility as part of its $11.8bn North Hub project in Indonesia.",
-      "category": "Refinery"
     },
     {
       "title": "Aphrodite Group Secures MOU for Sale of Cypriot Gas to Egypt",
