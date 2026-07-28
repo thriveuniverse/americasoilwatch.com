@@ -1,8 +1,104 @@
 {
-  "lastUpdated": "2026-07-27T19:03:11.539Z",
+  "lastUpdated": "2026-07-28T08:48:42.065Z",
   "summary": null,
-  "count": 90,
+  "count": 83,
   "articles": [
+    {
+      "title": "Japan Backs Overseas Oil Pipelines to Reduce Hormuz Dependence",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Backs-Overseas-Oil-Pipelines-to-Reduce-Hormuz-Dependence.html",
+      "date": "2026-07-28T08:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Japan is planning to join the rush to diversify oil export routes away from the Strait of Hormuz by investing in pipeline projects abroad, notably in the Middle East. Citing a document produced by the country’s economy ministry, Bloomberg reported the investment will be made thro",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Oil Tankers Reroute to Egypt amid Houthi Threat",
+      "link": "https://www.rigzone.com/news/oil_tankers_reroute_to_egypt_amid_houthi_threat-28-jul-2026-184227-article/?rss=true",
+      "date": "2026-07-28T07:48:21.000Z",
+      "source": "Rigzone",
+      "description": "<p>Empty supertankers are heading to Egypt's Mediterranean port of Sidi Kerir to collect Saudi crude as observable traffic at the kingdom's key Red Sea export h...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Expand Energy signs agreement to buy Twin Eagle for $1.25bn",
+      "link": "https://www.offshore-technology.com/news/expand-energy-to-buy-twin-eagle-1-25bn/",
+      "date": "2026-07-28T07:35:02.000Z",
+      "source": "Offshore Technology",
+      "description": "US-based natural gas producer Expand Energy has signed a definitive agreement to purchase Twin Eagle from Five Point Infrastructure in a transaction valued at $1.25bn.",
+      "category": "General"
+    },
+    {
+      "title": "Australia Eyes New Oil Refinery to Reduce Reliance on Imported Fuels",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Eyes-New-Oil-Refinery-to-Reduce-Reliance-on-Imported-Fuels.html",
+      "date": "2026-07-28T07:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Australia’s government has launched a feasibility study for an oil refinery that, if approved, would be the first such facility to be built in the country in six decades. According to Prime Minister Anthony Albanese, a new refinery would strengthen Australia’s self-sufficiency in",
+      "category": "Refinery"
+    },
+    {
+      "title": "Saudi Arabia Weighs Higher Asia Crude Prices as Red Sea Shipping Costs Rise",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Weighs-Higher-Asia-Crude-Prices-as-Red-Sea-Shipping-Costs-Rise.html",
+      "date": "2026-07-28T06:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Saudi Arabia may raise the price of the crude it ships to Asia via the Suez Canal, Reuters has reported, to reflect higher shipping costs due to the Houthi maritime blockade in the Red Sea. The price hike could reach $5 per barrel of crude. Citing unnamed sources, the publication",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Oil Prices Extend Losses as U.S.-Iran Calm Holds for Another Night",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Extend-Losses-as-US-Iran-Calm-Holds-for-Another-Night.html",
+      "date": "2026-07-28T03:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Oil prices continued to trend lower in early Asian trade on Tuesday as a fourth night passed without any attacks from either Iran or the United States. At the time of writing, WTI crude was trading at $80.98 per barrel, down 1.97% on the session, while Brent crude had slipped to ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "The Next Fort Knox? Why the Army is Going All-In On Rare Earths",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Next-Fort-Knox-Why-the-Army-is-Going-All-In-On-Rare-Earths.html",
+      "date": "2026-07-28T00:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "In 1937, the Army guarded the first shipments of a critical resource, U.S. gold, as it was transferred into Fort Knox. Nearly 90 years later, Washington faces a similar situation with a very different resource. The Army picked REalloys (NASDAQ: ALOY) to build a facility to proces",
+      "category": "Refinery"
+    },
+    {
+      "title": "$100 Oil Puts Big Tech’s $725 Billion AI Bet at Risk",
+      "link": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Big-Techs-725-Billion-AI-Bet-at-Risk.html",
+      "date": "2026-07-27T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Crude oil prices are retreating after Brent hit $100 again last week as the United States and Iran took a break from hostilities over the weekend. Yet with the outcome of the war still highly uncertain, the outlook for stock markets has dimmed. Add to that Big Tech’s AI spending ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Jet Fuel Spike Blows a Hole in Airline Profit Forecasts",
+      "link": "https://oilprice.com/Energy/Energy-General/Jet-Fuel-Spike-Blows-a-Hole-in-Airline-Profit-Forecasts.html",
+      "date": "2026-07-27T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The fresh spike in jet fuel prices in July upended the profit guidance of U.S. airlines, whose management teams had to readjust earnings estimates for the year just days ahead of reporting second-quarter results. The re-escalation in the Middle East earlier this month resulted in",
+      "category": "Prices"
+    },
+    {
+      "title": "The U.S. Is Walking Into Iran’s Escalation Trap",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/The-US-Is-Walking-Into-Irans-Escalation-Trap.html",
+      "date": "2026-07-27T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "“I feel like a jackass caught in a Texas hailstorm -- I can’t run, I can’t hide and I can’t make it stop.” U.S. President Lyndon B. Johnson’s desperate comment to aide, Bill Moyers, came after a massive and sustained aerial bombing campaign in North Vietnam -- codenamed ‘Operatio",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Brent Tumbles Nearly 9% on Diplomacy",
+      "link": "https://www.rigzone.com/news/brent_tumbles_nearly_9_on_diplomacy-27-jul-2026-184226-article/?rss=true",
+      "date": "2026-07-27T20:20:21.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil sank by the most in over three months as the US paused daily strikes against Iran and tankers sailed to load at a recently disrupted Kazakh export termin...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Expand Energy to Buy Twin Eagle for $1.25B",
+      "link": "https://www.rigzone.com/news/expand_energy_to_buy_twin_eagle_for_125b-27-jul-2026-184223-article/?rss=true",
+      "date": "2026-07-27T20:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Expand Energy Corp. agreed to buy gas marketer Twin Eagle Holdings NA LLC from private equity firm Five Point Infrastructure for $1.25 billion, moving the la...",
+      "category": "Prices"
+    },
     {
       "title": "What If the Most Valuable Part of an EV Isn't the Car?",
       "link": "https://oilprice.com/Energy/Energy-General/What-If-the-Most-Valuable-Part-of-an-EV-Isnt-the-Car.html",
@@ -60,27 +156,11 @@
       "category": "Geopolitics"
     },
     {
-      "title": "TotalEnergies to Appeal Court Order to Adapt Business to Climate Goals",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-to-Appeal-Court-Order-to-Adapt-Business-to-Climate-Goals.html",
-      "date": "2026-07-27T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "TotalEnergies will appeal a landmark decision of the Paris Judicial Court from last month, which ordered the French supermajor to align its business to climate change goals as it held it responsible for climate change. In a statement on Monday, TotalEnergies said that it had deci",
-      "category": "General"
-    },
-    {
       "title": "Halliburton Bags Spate of Middle East Contracts in July",
       "link": "https://www.rigzone.com/news/halliburton_bags_spate_of_middle_east_contracts_in_july-27-jul-2026-184225-article/?rss=true",
       "date": "2026-07-27T15:05:21.000Z",
       "source": "Rigzone",
       "description": "<p>Halliburton announced a spate of contract awards in the Middle East this month.</p> <p>On July 22, the company said Kuwait Oil Company (KOC) had awarded H...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Pentagon Suppliers Warn U.S. Won't Have Magnet Capacity By 2027",
-      "link": "https://oilprice.com/Metals/Commodities/Pentagon-Suppliers-Warn-US-Wont-Have-Magnet-Capacity-By-2027.html",
-      "date": "2026-07-27T15:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Trump administration is weighing whether to extend access to some Chinese rare earth materials beyond the January 1, 2027 cutoff after U.S. producers acknowledged they cannot build sufficient domestic processing and magnet capacity before the deadline, Reuters reported on Mon",
       "category": "Geopolitics"
     },
     {
@@ -108,43 +188,11 @@
       "category": "Prices"
     },
     {
-      "title": "Indian Refinery MRPL Bars Crude Suppliers From Hormuz, Red Sea Routes",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refinery-MRPL-Bars-Crude-Suppliers-From-Hormuz-Red-Sea-Routes.html",
-      "date": "2026-07-27T14:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India’s Mangalore Refinery and Petrochemicals Ltd. (MRPL) has become the first Indian refinery to tell crude suppliers to avoid both the Strait of Hormuz and the Red Sea, inserting the restriction into a spot tender for up to 1 million barrels of crude. The tender seeks cargoes f",
-      "category": "Refinery"
-    },
-    {
-      "title": "Temporary Calm in Iran Conflict Masks Risk of Broader Middle East War",
-      "link": "https://oilprice.com/Energy/Energy-General/Temporary-Calm-in-Iran-Conflict-Masks-Risk-of-Broader-Middle-East-War.html",
-      "date": "2026-07-27T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Tehran said it had halted retaliatory attacks against US allies in the Middle East as Washington refrained from attacking Iran for the second night in a row. A top military official in Tehran, meanwhile, threatened to widen Iran’s attacks across the region, suggesting that Iran-a",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Russia Says Fuel Crisis Is Easing as Refineries Restart",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Says-Fuel-Crisis-Is-Easing-as-Refineries-Restart.html",
-      "date": "2026-07-27T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The fuel crisis in Russia has started to ease in recent days as some refineries have restarted operations, Russia’s Deputy Prime Minister Alexander Novak said on Sunday. “The situation is gradually stabilizing, a number of oil refineries became operational again. The balance is b",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Santos completes first Barossa condensate cargo sale and loading",
       "link": "https://www.offshore-technology.com/news/santos-first-barossa-condensate-cargo/",
       "date": "2026-07-27T13:14:55.000Z",
       "source": "Offshore Technology",
       "description": "Santos has confirmed the sale and export of the first condensate cargo from the Barossa gas project in the Timor Sea.",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Houthi Threats Force Saudi Crude Tanker Onto Suez Route To Asia",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthi-Threats-Force-Saudi-Crude-Tanker-Onto-Suez-Route-To-Asia.html",
-      "date": "2026-07-27T12:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Houthi threats to shipping in the Red Sea and its chokepoint, the Bab el-Mandeb Strait, have forced at least one oil tanker carrying Saudi crude to Asia to choose the much longer route through the Suez Canal, the Mediterranean, and around Africa. The supertanker Olympic Luck,",
       "category": "Supply Routes"
     },
     {
@@ -164,28 +212,12 @@
       "category": "Policy"
     },
     {
-      "title": "Gasoline in Australia Jumps to Highest Level Since March",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Gasoline-in-Australia-Jumps-to-Highest-Level-Since-March.html",
-      "date": "2026-07-27T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Fuel prices in Australia hit last week the highest level since March as the hostilities in the Middle East drove international crude oil prices to the highest in two months. Australia’s nationwide gasoline prices hit in the week ending July 26 the highest since the end of March, ",
-      "category": "Prices"
-    },
-    {
       "title": "Woodside's Browse Gas Project Declared State Priority",
       "link": "https://www.rigzone.com/news/woodsides_browse_gas_project_declared_state_priority-27-jul-2026-184219-article/?rss=true",
       "date": "2026-07-27T11:20:37.000Z",
       "source": "Rigzone",
       "description": "<p>The Western Australian government has granted the Browse to North West Shelf Project a State Significant Project status, operator Woodside Energy Group Ltd s...",
       "category": "General"
-    },
-    {
-      "title": "Irish Energy Distributor Agrees to $7.7 Billion Takeover by KKR-Led Consortium",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Irish-Energy-Distributor-Agrees-to-77-Billion-Takeover-by-KKR-Led-Consortium.html",
-      "date": "2026-07-27T10:45:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Irish energy distributor DCC Energy has agreed to be taken over by a consortium led by private equity heavyweight KKR and Energy Capital Partners. The deal values the company at close to $7.7 billion and is about $1 billion higher than KKR’s original offer, which was made in June",
-      "category": "Production"
     },
     {
       "title": "Goldman Sachs leads oil and gas M&A advisory by value in H1 2026",
@@ -362,14 +394,6 @@
       "source": "Rigzone",
       "description": "<p>Chinese buyers are snapping up Russia's flagship ESPO crude weeks earlier than usual, as heightened risks to Middle East oil flows prompt refiners to secure ...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "TotalEnergies reports $5.4bn net income in Q2 2026",
-      "link": "https://www.offshore-technology.com/news/totalenergies-5-4bn-net-income-q2-2026/",
-      "date": "2026-07-24T07:22:14.000Z",
-      "source": "Offshore Technology",
-      "description": "TotalEnergies reported a net income of $5.4bn in the second quarter of 2026 (Q2 2026), a 100% increase from $2.7bn in the same period of the previous year.",
-      "category": "General"
     },
     {
       "title": "Matador Buys Permian Assets for $1.3B",
@@ -642,86 +666,6 @@
       "source": "Rigzone",
       "description": "<p>BMW Group and Toyota Motor Europe have begun a six-month pilot deployment of Repsol SA's Nexa 95 renewable gasoline to test the scalability of renewable fuel...",
       "category": "General"
-    },
-    {
-      "title": "Brent Nears $90 on Conflict Risks",
-      "link": "https://www.rigzone.com/news/brent_nears_90_on_conflict_risks-20-jul-2026-184170-article/?rss=true",
-      "date": "2026-07-20T20:30:55.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil edged up in a fraught session as traders grappled with a barrage of headlines that suggest a worsening of the Middle East conflict, as well as attempts t...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Black Sea Oil Terminal Halted Again After Tanker Hit",
-      "link": "https://www.rigzone.com/news/black_sea_oil_terminal_halted_again_after_tanker_hit-20-jul-2026-184167-article/?rss=true",
-      "date": "2026-07-20T20:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>A key Kazakh oil-export terminal on the Black Sea again halted loadings following a drone strike, threatening supplies that have become increasingly importan...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "EIA Edges Up USA Consumption Forecasts",
-      "link": "https://www.rigzone.com/news/eia_edges_up_usa_consumption_forecasts-20-jul-2026-184169-article/?rss=true",
-      "date": "2026-07-20T14:45:24.000Z",
-      "source": "Rigzone",
-      "description": "<p>The U.S. Energy Information Administration (EIA) edged up its U.S. total energy consumption projections for 2026 and 2027 in its latest short term energy out...",
-      "category": "Policy"
-    },
-    {
-      "title": "First Nations to Invest in LNG Canada",
-      "link": "https://www.rigzone.com/news/first_nations_to_invest_in_lng_canada-20-jul-2026-184168-article/?rss=true",
-      "date": "2026-07-20T14:44:29.000Z",
-      "source": "Rigzone",
-      "description": "<p>The Shell PLC-led LNG Canada joint venture said it had signed an agreement allowing five First Nations neighboring the project in British Columbia to invest ...",
-      "category": "General"
-    },
-    {
-      "title": "Saudi Led Coalition Vows to Protect Ships from Houthis",
-      "link": "https://www.rigzone.com/news/saudi_led_coalition_vows_to_protect_ships_from_houthis-20-jul-2026-184166-article/?rss=true",
-      "date": "2026-07-20T14:06:33.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 20, 2026, 10:58 PM GMT+1: Article...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "USA LNG Growth Exceeding All Expectations, Yergin Says",
-      "link": "https://www.rigzone.com/news/usa_lng_growth_exceeding_all_expectations_yergin_says-20-jul-2026-184164-article/?rss=true",
-      "date": "2026-07-20T11:39:57.000Z",
-      "source": "Rigzone",
-      "description": "<p>The profound growth of U.S. LNG is exceeding all expectations.</p> <p>That’s what Daniel Yergin, Vice Chairman of S&P Global, said in a statement sent to ...",
-      "category": "General"
-    },
-    {
-      "title": "Aker BP Posts Record Cash Flow on Higher Oil Prices",
-      "link": "https://www.rigzone.com/news/aker_bp_posts_record_cash_flow_on_higher_oil_prices-20-jul-2026-184163-article/?rss=true",
-      "date": "2026-07-20T10:30:35.000Z",
-      "source": "Rigzone",
-      "description": "<p>Aker BP ASA has registered its highest-ever cash flow from operations at $3.12 billion as oil and gas prices surged sequentially and year-on-year in the seco...",
-      "category": "Prices"
-    },
-    {
-      "title": "Oil Prices Reach Highest Levels in More Than a Month",
-      "link": "https://www.rigzone.com/news/oil_prices_reach_highest_levels_in_more_than_a_month-20-jul-2026-184162-article/?rss=true",
-      "date": "2026-07-20T09:13:35.000Z",
-      "source": "Rigzone",
-      "description": "<p>Brent crude and West Texas Intermediate (WTI) oil prices reached their highest levels in more than a month recently, Naeem Aslam, CIO at Zaye Capital Markets...",
-      "category": "Prices"
-    },
-    {
-      "title": "Petronas Bags New Contract to Supply LNG to Shizuoka Gas",
-      "link": "https://www.rigzone.com/news/petronas_bags_new_contract_to_supply_lng_to_shizuoka_gas-20-jul-2026-184161-article/?rss=true",
-      "date": "2026-07-20T09:06:26.000Z",
-      "source": "Rigzone",
-      "description": "<p>Petroliam Nasional Bhd (Petronas) has signed a new agreement to supply about 0.84 million metric tons of liquefied natural gas (LNG) to Shizuoka Gas Co Ltd.<...",
-      "category": "General"
-    },
-    {
-      "title": "US Strikes after Troops Killed as Iran Quits Deal",
-      "link": "https://www.rigzone.com/news/us_strikes_after_troops_killed_as_iran_quits_deal-20-jul-2026-184160-article/?rss=true",
-      "date": "2026-07-20T07:59:47.000Z",
-      "source": "Rigzone",
-      "description": "<p>The US and Iran engaged in a quickening series of tit-for-tat attacks, with the American military conducting a wave of strikes on the Islamic Republic follow...",
-      "category": "Geopolitics"
     }
   ]
 }
