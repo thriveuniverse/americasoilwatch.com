@@ -1,44 +1,44 @@
 {
-  "asOf": "2026-07-22",
-  "lastUpdated": "2026-07-22T07:00:00Z",
+  "asOf": "2026-07-29",
+  "lastUpdated": "2026-07-29T07:00:00Z",
   "readings": [
     {
       "product": "Urea",
       "benchmark": "Egypt FOB (granular)",
       "level": "~$450–475/t",
-      "wow": "w/w sharply higher — Hormuz re-escalation reverses July trough",
-      "source": "CBOT Urea Granular FOB Egypt Aug-26 futures indicated ~$475/t as of 21–22 Jul per CME Group / TradingView / Investing.com search snippets (direct page reads returned 403; physical spot paywalled at Profercy/QCIntel/ICIS). Physical spot likely brackets somewhat below the futures level. Consistent with the renewed Hormuz supply-risk premium — US strikes on Iran entering day 10, Qatari LNG disruption, Hormuz tanker traffic at a standstill — reversing the post-7-Jul Egypt ad valorem duty supply release. Physical spot unconfirmed; subscription-grade assessments required for confirmed level."
+      "wow": "w/w broadly stable — consolidating recovery from mid-July trough",
+      "source": "CBOT Urea Granular FOB Egypt Aug-26 futures indicated ~$475/t as of week of 29 Jul per TradingView/search snippets (direct page reads paywalled/403; physical spot paywalled at Profercy/QCIntel/ICIS). Middle East FOB futures traded a $395–445/t range during Jun 24–Jul 24 per Investing.com snippet (Egypt FOB benchmarks differently). Recovery from mid-July ~$385–400 trough appears to be consolidating rather than extending. Hormuz war premium continuing to underpin above pre-crisis baseline. Subscription-grade assessments required for confirmed physical level."
     },
     {
       "product": "Ammonia",
       "benchmark": "Tampa CFR contract",
       "level": "~$800/t",
-      "wow": "holding — July contract confirmed; August not yet settled",
-      "source": "July Yara–Mosaic Tampa CFR contract confirmed at ~$800/t (up $25/t from June's $775/t) — held from prior week. No confirmed August settlement as of 22 Jul; QCIntel and Profercy headlines suggest a subsequent price move after a delayed settlement but no public figure confirmed. Trammo NW Europe CFR traded ~$680/mt in this period — not the Tampa benchmark. Monthly benchmark — paywalled for confirmed assessment."
+      "wow": "holding — July contract confirmed; August settlement pending",
+      "source": "July Yara–Mosaic Tampa CFR contract confirmed at ~$800/t (up $25/t from June's $775/t) — held from prior week. August settlement not yet confirmed as of 29 Jul; QCIntel and Profercy paywalled for confirmed figure. Monthly benchmark — subscription-only for confirmed assessment."
     },
     {
       "product": "DAP",
       "benchmark": "NOLA FOB barge (August futures)",
       "level": "$755–760/st",
       "wow": "w/w broadly stable",
-      "source": "CBOT DAP FOB NOLA Aug-26 futures indicated ~$757.50/st as of ~22 Jul per Investing.com search snippet (direct page returned 403) — consistent with prior week's indication. Physical barge spot (Green Markets / DTN) remains paywalled. China phosphate export restrictions through August continue to support prices. Indicative — not a confirmed physical assessment."
+      "source": "No fresh confirmed citation for week of 29 Jul — holding prior indication (~$755–760/st). CBOT DAP FOB NOLA June 2026 front was indicated ~$785/st; August futures broadly in the $755–760 range per prior-week snippets (direct page returned 403). Physical barge spot (Green Markets / DTN) remains paywalled. China phosphate export restrictions through August continue to support prices. Indicative — not a confirmed physical assessment."
     },
     {
       "product": "Potash (MOP)",
       "benchmark": "Brazil CFR granular",
       "level": "$405–415/t",
       "wow": "stable to firm",
-      "source": "No fresh public citations for week of 22 Jul — holding prior indications (~$405–415/t CFR). World Bank Pink Sheet March 2026 data: $380.6/t; general market trend ~$400/t per public price-watch sources; Brazil CFR typically carries a premium. Not exchange-traded; subscription-only for confirmed level."
+      "source": "No fresh public citations for week of 29 Jul — holding prior indications (~$405–415/t CFR). World Bank Pink Sheet March 2026 data: $380.6/t; general market trend ~$400/t per public price-watch sources; Brazil CFR typically carries a premium. Not exchange-traded; subscription-only for confirmed level."
     },
     {
       "product": "TTF natgas",
       "benchmark": "Front-month — European ammonia cost driver",
       "level": "€57–60/MWh",
-      "wow": "w/w sharply higher — extending Hormuz-driven rally to 4-month highs",
-      "source": "Front-month closed ~€59.39/MWh on 21 Jul (per tradingeconomics.com search snippets; direct page returned 403), with intraday highs of ~€60.5 — a 4-month high. Up ~13% from the €51–53 range of 15 Jul. Driven by a tenth consecutive day of US airstrikes on Iran, retaliatory Iranian attacks on neighbouring states, and Strait of Hormuz tanker traffic at a near-standstill, sustaining an acute LNG supply-risk premium. EU storage refill continues to lag year-ago levels, amplifying the premium."
+      "wow": "w/w easing — retreating from 4-month highs, settling into 57–58/MWh range",
+      "source": "Front-month at ~€57.55/MWh on 28 Jul (per tradingeconomics.com/commodity/eu-natural-gas search snippet; direct page returned 403), up 1.52% on the day — easing back from the ~€59.39 four-month high of 21 Jul. ICE TTF had been 58.91 EUR/MWh as of 17 Jul. EU storage at 54.2% full vs 65% a year ago per search snippets. Ongoing Hormuz disruption (Qatari tanker attack 7 Jul, Hormuz transits collapsed) continues to underpin elevated levels. Still within existing €57–60/MWh range; week-on-week direction has shifted from sharply rising to easing."
     }
   ],
-  "editorialReading": "The hemisphere picture this week is dominated by the return of the full Hormuz risk premium. TTF front-month gas surged to a four-month high near €59.40/MWh on 21 July as the US extended airstrikes on Iran into a tenth consecutive day, retaliatory attacks spread to neighbouring states, and Strait of Hormuz tanker traffic stalled — reigniting the global supply-risk premium that had briefly moderated. The corresponding urea reversal is sharp: CBOT FOB Egypt Aug-26 futures indicate a recovery toward ~$450–475/t, up from the ~$385–400 trough of mid-July, as the renewed war premium overwhelms Egypt's ad valorem duty release. The July Tampa ammonia contract holds at ~$800/t (up $25/t on June's $775/t), and DAP holds near $755–760/st on the CME NOLA curve. Brazil continues buying potash at $405–415/t CFR ahead of the Safrinha, broadly unchanged. The softer urea that had offered some nitrogen-cost relief to Brazil and Mexico in mid-July is now partially unwinding. The structural advantage of US domestic production (CF Industries Donaldsonville, the Tampa benchmark) remains intact, but import-dependent Central American and Andean markets face a renewed squeeze as the Hormuz premium re-inflates global nitrogen prices into the second-half planting season.",
-  "watchNext": "Whether urea consolidates in the ~$450–475/t range or extends the bounce toward earlier highs; whether August Tampa ammonia settles above July's ~$800/t — the Western-Hemisphere benchmark for nitrogen input economics. Watch the CME DAP / urea curve for the US buy-side signal, Brazilian potash CFR into the Safrinha, and TTF gas as the global nitrogen cost floor. The squeeze on hemisphere food security runs less through US farmer prices than through import-dependent neighbours' access to affordable nitrogen. Sourcing note: real-time Argus / Green Markets assessments are subscription-only and the free World Bank Pink Sheet lags ~a month — these are publicly-cited indications.",
+  "editorialReading": "The hemisphere's fertilizer picture is stabilising this week after the Hormuz-driven spike, with prices consolidating rather than extending their gains. TTF front-month eased to ~€57.55/MWh on 28 July from last week's four-month high of ~€59.39 — a modest retreat that leaves the global nitrogen cost floor still materially elevated above any pre-crisis baseline. Urea has consolidated its recovery near ~$450–475/t (Egypt FOB Aug-26 futures ~$475/t), as the Egypt ad valorem duty release continues to be outweighed by the Hormuz war premium; the mid-July trough of ~$385–400/t now looks to have been the floor for this leg. The July Tampa ammonia contract — the Western Hemisphere's nitrogen benchmark — is confirmed at ~$800/t (up $25/t on June's $775/t); August settlement remains pending and will set the cost reference for the second-half US application season. Brazil continues buying potash at ~$405–415/t CFR granular, broadly unchanged, as Safrinha crop preparation advances. DAP holds near $755–760/st on the CME NOLA curve, supported by China's phosphate export restrictions running through August. The structural exposure for import-dependent Central American and Andean markets remains acute: the brief mid-July nitrogen-cost relief window has largely closed, and the second-half planting season faces sustained elevated input costs with the Hormuz disruption unresolved.",
+  "watchNext": "Whether urea consolidates in the ~$450–475/t range or resumes its climb as the Hormuz premium resets market expectations; whether August Tampa ammonia settles above July's ~$800/t — the Western-Hemisphere benchmark for nitrogen input economics. Watch the CME DAP / urea curve for the US buy-side signal, Brazilian potash CFR into the Safrinha, and TTF gas as the global nitrogen cost floor. The squeeze on hemisphere food security runs less through US farmer prices than through import-dependent neighbours' access to affordable nitrogen. Sourcing note: real-time Argus / Green Markets assessments are subscription-only and the free World Bank Pink Sheet lags ~a month — these are publicly-cited indications.",
   "methodologyNote": "Weekly editorial refresh from World Bank Pink Sheet (monthly, free), Argus public citations, Reuters / Bloomberg quotes, IFA quarterly summaries, and USDA fertilizer outlook. Gold-standard real-time prices (CRU, Argus, ICIS, Profercy) are paywalled — ranges are aggregated from publicly-cited figures and CBOT futures snippets, not republished feeds. Editorial reading is our market interpretation."
 }
