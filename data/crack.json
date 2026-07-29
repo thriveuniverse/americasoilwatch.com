@@ -1,35 +1,15 @@
 {
-  "lastUpdated": "2026-07-29T14:36:31.261Z",
-  "latestDate": "2026-07-20",
-  "crackUsd": 70.68,
-  "crackChangeUsd": -0.53,
-  "crackVsYearAgoUsd": 43.76,
+  "lastUpdated": "2026-07-29T18:41:36.391Z",
+  "latestDate": "2026-07-27",
+  "crackUsd": 63.97,
+  "crackChangeUsd": 2.98,
+  "crackVsYearAgoUsd": 37.36,
   "components": {
-    "wtiUsd": 84.38,
-    "gasolineUsdGal": 3.479,
-    "ulsdUsdGal": 4.118
+    "wtiUsd": 84.25,
+    "gasolineUsdGal": 3.242,
+    "ulsdUsdGal": 4.103
   },
   "history": [
-    {
-      "date": "2026-01-27",
-      "crackUsd": 30.3
-    },
-    {
-      "date": "2026-01-28",
-      "crackUsd": 30.77
-    },
-    {
-      "date": "2026-01-29",
-      "crackUsd": 30.22
-    },
-    {
-      "date": "2026-01-30",
-      "crackUsd": 31.51
-    },
-    {
-      "date": "2026-02-02",
-      "crackUsd": 29.3
-    },
     {
       "date": "2026-02-03",
       "crackUsd": 30.75
@@ -488,7 +468,27 @@
     },
     {
       "date": "2026-07-20",
-      "crackUsd": 70.68
+      "crackUsd": 70.71
+    },
+    {
+      "date": "2026-07-21",
+      "crackUsd": 65.17
+    },
+    {
+      "date": "2026-07-22",
+      "crackUsd": 63.95
+    },
+    {
+      "date": "2026-07-23",
+      "crackUsd": 63.75
+    },
+    {
+      "date": "2026-07-24",
+      "crackUsd": 60.99
+    },
+    {
+      "date": "2026-07-27",
+      "crackUsd": 63.97
     }
   ],
   "formula": "3-2-1: (2×gasoline$/gal×42 + 1×ULSD$/gal×42 − 3×WTI$/bbl) ÷ 3",

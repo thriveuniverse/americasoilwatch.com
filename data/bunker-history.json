@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T14:36:57.661Z",
+  "lastUpdated": "2026-07-29T18:41:51.447Z",
   "entries": [
     {
       "date": "2026-04-19",
@@ -1619,18 +1619,18 @@
     },
     {
       "date": "2026-07-29",
-      "brentBasis": 90.02,
+      "brentBasis": 90.99,
       "rotterdam": {
-        "vlsfo": 595,
-        "mgo": 715
+        "vlsfo": 601,
+        "mgo": 721
       },
       "fujairah": {
-        "vlsfo": 610,
-        "mgo": 730
+        "vlsfo": 616,
+        "mgo": 736
       },
       "singapore": {
-        "vlsfo": 603,
-        "mgo": 725
+        "vlsfo": 609,
+        "mgo": 731
       }
     }
   ]
