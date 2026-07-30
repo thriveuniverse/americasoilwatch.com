@@ -75,4 +75,14 @@ America got a lower crude price on Monday. The barrel and the fuel buffer remain
 
 ---
 
+## Update — 30 July 2026: the official numbers were tighter
+
+The EIA report for the week ending 24 July, released after this piece was published, superseded the provisional figures above — in the direction this article warned about.
+
+Commercial crude fell **7.2 million barrels to 404.5 million** (the API had suggested −3.3 million; the analyst survey expected −1.3 million), staying about 6% below the five-year average. Gasoline was essentially flat at 211.3 million; distillate rose 1.1 million to 110.6 million, still roughly 10% below normal. Refinery utilisation climbed to **97.2%**, with crude inputs at 17.34 million b/d. The Strategic Petroleum Reserve fell another **3.8 million barrels to 307.7 million** — 95.1 million barrels (23.6%) below a year earlier.
+
+Commercial plus strategic stocks together fell about **11 million barrels in a single week**, from 723.1 million to 712.2 million. The rebuild described above did not continue; it reversed, with the refining system running even closer to its ceiling. The safety-margin argument is strengthened, not weakened, by the official print.
+
+---
+
 *AmericasOilWatch tracks US, Canadian and Latin American oil, fuel and supply-route risk. This piece is analysis, not a price forecast; confirmed facts are stated as confirmed and unverified reports are flagged as such.*
