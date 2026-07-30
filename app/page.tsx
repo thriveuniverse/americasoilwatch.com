@@ -113,7 +113,7 @@ export default async function HomePage() {
       </div>
 
       {/* Disruption alert */}
-      <GlobalDisruptionStatus site="americas" lastUpdated="2026-07-29" />
+      <GlobalDisruptionStatus site="americas" lastUpdated="2026-07-30" />
 
       {/* Analysis — Oil Falls 6%, Inflation Fears Ease, but the Fuel Market Is Still Tight */}
       <a
