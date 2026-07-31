@@ -1,8 +1,160 @@
 {
-  "lastUpdated": "2026-07-31T09:14:31.605Z",
+  "lastUpdated": "2026-07-31T14:43:23.997Z",
   "summary": null,
-  "count": 82,
+  "count": 89,
   "articles": [
+    {
+      "title": "USA Crude Oil Stocks Drop More Than 7MM Barrels WoW",
+      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_more_than_7mm_barrels_wow-31-jul-2026-184269-article/?rss=true",
+      "date": "2026-07-31T14:38:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), decreased by 7.2 million barrels from the week ending July 1...",
+      "category": "Production"
+    },
+    {
+      "title": "DOE, Private Partners Launch $100B Data Center Project in Kentucky",
+      "link": "https://www.rigzone.com/news/doe_private_partners_launch_100b_data_center_project_in_kentucky-31-jul-2026-184268-article/?rss=true",
+      "date": "2026-07-31T14:18:23.000Z",
+      "source": "Rigzone",
+      "description": "<p>The United States Department of Energy (DOE) and a coalition of energy, infrastructure and utility companies have announced a gas-powered data center campus ...",
+      "category": "Policy"
+    },
+    {
+      "title": "Global Coal Consumption Hits Record Even as Coal Power Declines",
+      "link": "https://oilprice.com/Energy/Coal/Global-Coal-Consumption-Hits-Record-Even-as-Coal-Power-Declines.html",
+      "date": "2026-07-31T14:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Global coal consumption reached another record in 2025, seemingly contradicting years of discussion about phasing out the world’s most carbon-intensive fossil fuel. But the headline number does not tell the whole story. The latest Statistical Review of World Energy shows that glo",
+      "category": "General"
+    },
+    {
+      "title": "Ukraine Says It Attacked Lukoil Refinery",
+      "link": "https://www.rigzone.com/news/ukraine_says_it_attacked_lukoil_refinery-31-jul-2026-184265-article/?rss=true",
+      "date": "2026-07-31T14:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 31, 2026, 2:52 PM GMT+1: Article ...",
+      "category": "Refinery"
+    },
+    {
+      "title": "ADNOC Unveils New Crude Pricing Mechanism",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Overhauls-Crude-Pricing-Methodology.html",
+      "date": "2026-07-31T13:45:00.000Z",
+      "source": "OilPrice.com",
+      "description": "ADNOC is changing the pricing formula used for its flagship crude grades. The oil giant said Friday it will move away from its ICE Futures Abu Dhabi-based pricing methodology, which prices crude off the Murban futures contract two months ahead of loading, and switch to a prompt-m",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Chevron reports net income of $12.1bn in Q2 2026",
+      "link": "https://www.offshore-technology.com/news/chevron-q2-2026-reports/",
+      "date": "2026-07-31T13:39:43.000Z",
+      "source": "Offshore Technology",
+      "description": "Chevron has reported a net income of $12.1bn for the Q2 of 2026, marking a 384% increase from $2.5bn in the same period of 2025.",
+      "category": "General"
+    },
+    {
+      "title": "Shell Sells Cyprus Gas Stake to MOL for $720 Million",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Sells-Cyprus-Gas-Stake-to-MOL-for-720-Million.html",
+      "date": "2026-07-31T13:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Shell has agreed to sell its wholly-owned subsidiary BG Cyprus Ltd to MOL Group of Hungary for $720 million, as the UK-based oil and gas supermajor targets to grow its LNG value chain. Shell on Friday announced the agreement with MOL Group for the sale of BG Cyprus, which holds a",
+      "category": "General"
+    },
+    {
+      "title": "Oil Prices Inch Higher as Iran Strikes U.S. Bases in Kuwait and Bahrain",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Inch-Higher-as-Iran-Strikes-US-Bases-in-Kuwait-and-Bahrain.html",
+      "date": "2026-07-31T12:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Iran on Friday claimed it launched attacks on U.S. military assets in Bahrain and Kuwait amid the latest re-escalation of hostilities in the region, which dashed the hopes from early this week that there could be a swift return to diplomacy. Iran’s army targeted the Ahmad al-Jabe",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Hormuz Uncertainty Keeps Oil Markets on Edge",
+      "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Uncertainty-Keeps-Oil-Markets-on-Edge.html",
+      "date": "2026-07-31T12:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "September WTI crude oil futures were trading at $84.12 late Thursday, down $6.35, or 7.02%, for the week. With Friday’s session still ahead, the weekly result is not final. But the week’s main story is clear: crude sold off hard when traders thought diplomacy could restore a work",
+      "category": "Prices"
+    },
+    {
+      "title": "The Drone Attack That Exposed Egypt’s Energy Defenses",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Drone-Attack-That-Exposed-Egypts-Energy-Defenses.html",
+      "date": "2026-07-31T12:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Politics, Geopolitics & Conflict A drone attack reached Egypt’s Mediterranean gas infrastructure for the first time in the war. At least two drones struck the US-owned Energos Winter floating storage and regasification unit and a second gas-processing vessel at Damietta port on W",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Libya's Fragile Peace Faces a New Threat",
+      "link": "https://oilprice.com/Energy/Energy-General/Libyas-Fragile-Peace-Faces-a-New-Threat.html",
+      "date": "2026-07-31T12:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The mutually beneficial corruption arrangement between the rival Haftar and Dbeibah camps that has kept Libya from returning to civil war could be undone by a third force usually left out of political calculations: the citizens of Libya. For nearly six years, Libya’s eastern and ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Six Saudi Oil Tankers Reroute Around Africa to Dodge Houthi Threat",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Six-Saudi-Oil-Tankers-Reroute-Around-Africa-to-Dodge-Houthi-Threat.html",
+      "date": "2026-07-31T11:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Half a dozen empty Saudi oil tankers have turned away in the Arabian Sea from the Red Sea chokepoint Bab el-Mandeb and headed south around Africa in the western direction, in highly unusual moves for tankers loading crude from the Middle East. All six tankers turned away from Bab",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Industry Groups Welcome SENRC Approval of License to Drill Act",
+      "link": "https://www.rigzone.com/news/industry_groups_welcome_senrc_approval_of_license_to_drill_act-31-jul-2026-184264-article/?rss=true",
+      "date": "2026-07-31T11:28:28.000Z",
+      "source": "Rigzone",
+      "description": "<p>The Independent Petroleum Association of America (IPAA) and Western Energy Alliance (WEA) welcomed the Senate Energy and Natural Resources Committee’s (SENRC...",
+      "category": "General"
+    },
+    {
+      "title": "Shell Divests Aphrodite Stake to Hungary's MOL",
+      "link": "https://www.rigzone.com/news/shell_divests_aphrodite_stake_to_hungarys_mol-31-jul-2026-184263-article/?rss=true",
+      "date": "2026-07-31T11:25:54.000Z",
+      "source": "Rigzone",
+      "description": "<p>Shell PLC signed an agreement to sell BG Cyprus Ltd to Hungary's MOL Group for $720 million, the companies said Friday.</p> <p>BG Cyprus, which Shell acqu...",
+      "category": "General"
+    },
+    {
+      "title": "Oil Down, Still on Track for 20 Pct Monthly Gain",
+      "link": "https://www.rigzone.com/news/oil_down_still_on_track_for_20_pct_monthly_gain-31-jul-2026-184262-article/?rss=true",
+      "date": "2026-07-31T10:13:51.000Z",
+      "source": "Rigzone",
+      "description": "<p>Both Brent and West Texas Intermediate (WTI) oil prices were down on Friday, but still on track for notable monthly gains, Naeem Aslam, CIO at Zaye Capital M...",
+      "category": "Prices"
+    },
+    {
+      "title": "Emera receives final approval for sale of New Mexico Gas",
+      "link": "https://www.offshore-technology.com/news/emera-final-approval-sale-new-mexico-gas/",
+      "date": "2026-07-31T10:11:51.000Z",
+      "source": "Offshore Technology",
+      "description": "Emera has secured final approval from the New Mexico Public Regulation Commission (NMPRC) to complete the sale of New Mexico Gas Company (NMGC) to Bernhard Capital Partners.",
+      "category": "Policy"
+    },
+    {
+      "title": "NYK targets MidOcean Energy stake via Mitsubishi SPV",
+      "link": "https://www.offshore-technology.com/news/nyk-targets-midocean-energy-stake/",
+      "date": "2026-07-31T10:04:39.000Z",
+      "source": "Offshore Technology",
+      "description": "Japanese shipping firm Nippon Yusen Kabushiki Kaisha (NYK) has announced plans to participate in an investment in MidOcean Energy, an EIG-backed liquefied natural gas (LNG) company based in the UK.",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "BP Launches Sale of North Sea Business",
+      "link": "https://www.rigzone.com/news/bp_launches_sale_of_north_sea_business-31-jul-2026-184261-article/?rss=true",
+      "date": "2026-07-31T09:59:22.000Z",
+      "source": "Rigzone",
+      "description": "<p>BP PLC said Friday it is marketing its operations on the United Kingdom side of the North Sea, including five production hubs, as part of a simplification dr...",
+      "category": "Prices"
+    },
+    {
+      "title": "ADNOC Buys Five Supertankers as Hormuz Crisis Tightens Shipping",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Buys-Five-Supertankers-as-Hormuz-Crisis-Tightens-Shipping.html",
+      "date": "2026-07-31T09:45:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Amid tightened vessel supply due to the Middle East crisis, Abu Dhabi’s national oil company ADNOC has paid about $590 million to buy five supertankers to better manage its crude deliveries, Reuters reported on Friday, quoting sources with knowledge of the deal. ADNOC has acquire",
+      "category": "Supply Routes"
+    },
     {
       "title": "BP Puts Its North Sea Oil Business Up for Sale",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Puts-Its-North-Sea-Oil-Business-Up-for-Sale.html",
@@ -68,22 +220,6 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Middle East Oil Shock Could Hand Upstream Sector a $495 Billion Windfall",
-      "link": "https://oilprice.com/Energy/Energy-General/Middle-East-Oil-Shock-Could-Hand-Upstream-Sector-a-495-Billion-Windfall.html",
-      "date": "2026-07-30T22:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Wood Mackenzie now estimates that the global upstream oil and gas sector could generate $495 billion in free cash flow in 2026 if crude averages $90 per barrel, more than doubling its previous forecast based on a $60 oil price assumption. The revision follows the sharp jump in cr",
-      "category": "Prices"
-    },
-    {
-      "title": "John Kerry: Europe's Energy Crisis Is a Bigger Threat Than Any Weapon",
-      "link": "https://oilprice.com/Energy/Energy-General/John-Kerry-Europes-Energy-Crisis-Is-a-Bigger-Threat-Than-Any-Weapon.html",
-      "date": "2026-07-30T21:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "A failure to fully acknowledge the extent of Europe’s energy insecurities could lead to national security vulnerabilities, according to former United States Secretary of State John Kerry. NATO’s summit in Ankara, Türkiye this month displayed a recommitment to cohesion and coopera",
-      "category": "General"
-    },
-    {
       "title": "Saudi Gulf Oil Loadings Still Subdued",
       "link": "https://www.rigzone.com/news/saudi_gulf_oil_loadings_still_subdued-30-jul-2026-184256-article/?rss=true",
       "date": "2026-07-30T21:00:00.000Z",
@@ -92,67 +228,11 @@
       "category": "Supply Routes"
     },
     {
-      "title": "War Sends Saudi Oil Output Down and Revenue Up",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/War-Sends-Saudi-Oil-Output-Down-and-Revenue-Up.html",
-      "date": "2026-07-30T20:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Saudi Arabia’s quarterly budget deficit shrank by nearly three-quarters in the second quarter, courtesy of the same war that hammered its oil industry and sent the economy into its steepest contraction since the pandemic. The Kingdom posted a 34.3-billion-riyal—or $9.1-billion—sh",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Oil Drops Amid Mixed Supply Signals",
       "link": "https://www.rigzone.com/news/oil_drops_amid_mixed_supply_signals-30-jul-2026-184259-article/?rss=true",
       "date": "2026-07-30T19:47:12.000Z",
       "source": "Rigzone",
       "description": "<p>Oil slid in thin summer trading as signs of increased flows through the Strait of Hormuz offset concerns over a fresh wave of hostilities from Iran to the Bl...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Gulf Oil Exports Struggle to Recover Despite Higher Hormuz Traffic",
-      "link": "https://oilprice.com/Energy/Energy-General/Gulf-Oil-Exports-Struggle-to-Recover-Despite-Higher-Hormuz-Traffic.html",
-      "date": "2026-07-30T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Shipping traffic through the Strait of Hormuz slightly increased as US-Iran negotiations remained ongoing in an effort to restore peace after the memorandum of understanding collapsed amid two weeks of tit-for-tat strikes, according to Pakistan's Foreign Ministry spokesperson Tah",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "China’s Trade With Central Asia Surges 6.5%",
-      "link": "https://oilprice.com/Geopolitics/Asia/Chinas-Trade-With-Central-Asia-Surges-65.html",
-      "date": "2026-07-30T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "China’s trade turnover with Kazakhstan and Uzbekistan, the largest economies in Central Asia, showed strong growth in the first half of 2026, as did trade with Tajikistan. Meanwhile, the numbers for Kyrgyzstan and Turkmenistan fell, according to the PRC’s General Administration o",
-      "category": "Policy"
-    },
-    {
-      "title": "Desperate for Fuel, Russia Looks to Kazakhstan for Refining Capacity",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Desperate-for-Fuel-Russia-Looks-to-Kazakhstan-for-Refining-Capacity.html",
-      "date": "2026-07-30T17:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Russia is running short of undamaged oil refinery capacity, and it’s looking to Kazakhstan for help. Kazakhstan said Thursday that it is in talks with Moscow to process Russian oil at Kazakh refineries, sell some of the resulting fuel domestically, and send a portion back across ",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Record U.S. Refinery Runs Fail to Ease Global Fuel Crunch",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Record-US-Refinery-Runs-Fail-to-Ease-Global-Fuel-Crunch.html",
-      "date": "2026-07-30T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "U.S. refineries are producing the most gasoline and diesel since before the pandemic lockdowns, refining margins are running at record highs, but the world is still short on fuels. And it would take a while—and maybe a peace deal in the Middle East—before the situation changes. F",
-      "category": "Refinery"
-    },
-    {
-      "title": "U.S. GDP Growth Slows to 1.5% in Second Quarter, Missing Forecasts",
-      "link": "https://oilprice.com/Finance/the-Economy/US-GDP-Growth-Slows-to-15-in-Second-Quarter-Missing-Forecasts.html",
-      "date": "2026-07-30T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The US economy grew at a far weaker than expected pace in the second quarter despite a pickup in consumer spending and solid business investment. According to the BEA, GDP (inflation adjusted) rose just 1.5% in the period, according to the first estimate issued Thursday by the Bu",
-      "category": "General"
-    },
-    {
-      "title": "Russia Extends Diesel and Gasoline Export Bans Into 2027",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Extends-Diesel-and-Gasoline-Export-Bans-Into-2027.html",
-      "date": "2026-07-30T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Russia has extended restrictions on gasoline and diesel exports through January 31, 2027, just five days after saying the diesel ban would disappear once its domestic fuel market recovered. Recovery, it seems, has been rescheduled. Moscow first banned diesel exports from July 8 t",
       "category": "Geopolitics"
     },
     {
@@ -332,14 +412,6 @@
       "category": "General"
     },
     {
-      "title": "Eni Q2 2026 net profit increases to $2.65bn",
-      "link": "https://www.offshore-technology.com/news/eni-q2-2026-net-profit-increases/",
-      "date": "2026-07-29T12:53:09.000Z",
-      "source": "Offshore Technology",
-      "description": "Eni reported a sharp increase in the Q2 2026 results, with adjusted net profit attributable to shareholders rising to $2.65bn, up 106% from €1.13bn in Q2 2025.",
-      "category": "General"
-    },
-    {
       "title": "Oil, Gas Sector is Cash Rich, Capital Cautious",
       "link": "https://www.rigzone.com/news/oil_gas_sector_is_cash_rich_capital_cautious-29-jul-2026-184241-article/?rss=true",
       "date": "2026-07-29T11:47:01.000Z",
@@ -348,28 +420,12 @@
       "category": "Production"
     },
     {
-      "title": "Cyber espionage in mining: how big is the threat?",
-      "link": "https://www.offshore-technology.com/news/cyber-espionage-in-mining-podcast/",
-      "date": "2026-07-29T10:55:48.000Z",
-      "source": "Offshore Technology",
-      "description": "The newest episode of Energy Technology considers how state-sponsored attackers are using cyber espionage to access sensitive mining data.",
-      "category": "General"
-    },
-    {
       "title": "New Zealand Grants 1st Exploration Permit since Ardern-Era Ban",
       "link": "https://www.rigzone.com/news/new_zealand_grants_1st_exploration_permit_since_ardernera_ban-29-jul-2026-184240-article/?rss=true",
       "date": "2026-07-29T10:18:52.000Z",
       "source": "Rigzone",
       "description": "<p>Australia's EnZed Energy Pty Ltd has won the first oil and gas exploration license issued in New Zealand after the government last year reversed a 2018 ban.<...",
       "category": "Production"
-    },
-    {
-      "title": "FERC clears Cheniere to introduce gas into Corpus Christi LNG Train 7",
-      "link": "https://www.offshore-technology.com/news/ferc-clears-cheniere-introduce-gas-corpus-christi/",
-      "date": "2026-07-29T10:18:07.000Z",
-      "source": "Offshore Technology",
-      "description": "Cheniere Energy has received approval from the US Federal Energy Regulatory Commission (FERC) to begin introducing natural gas into Train 7 at its Corpus Christi LNG export facility located in south Texas, reported Reuters.",
-      "category": "Refinery"
     },
     {
       "title": "Why Is Oil Rebounding?",
