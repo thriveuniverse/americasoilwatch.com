@@ -10,7 +10,7 @@ import ReserveGauge from '@/components/ReserveGauge';
 import SubscribeCta from '@/components/SubscribeCta';
 import RefineryHealthPanel from '@/components/RefineryHealthPanel';
 import Padd5Watch from '@/components/Padd5Watch';
-import GlobalDisruptionStatus from '@/components/GlobalDisruptionStatus';
+import { GlobalDisruptionStatusCompact } from '@/components/GlobalDisruptionStatus';
 import FreshnessGuard from '@/components/FreshnessGuard';
 
 export const revalidate = 3600;
@@ -113,7 +113,7 @@ export default async function HomePage() {
       </div>
 
       {/* Disruption alert */}
-      <GlobalDisruptionStatus site="americas" lastUpdated="2026-07-31" />
+      <GlobalDisruptionStatusCompact site="americas" lastUpdated="2026-07-31" />
 
       {/* Analysis — Oil Falls 6%, Inflation Fears Ease, but the Fuel Market Is Still Tight */}
       <a

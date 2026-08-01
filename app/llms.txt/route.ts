@@ -127,6 +127,7 @@ Free, read-only JSON. CORS-enabled, no key required.
 
 - Dashboard:           https://americasoilwatch.com
 - Fuel prices:         https://americasoilwatch.com/prices
+- Global Disruption Status — the live status board tracking the compound energy, shipping and food-security disruption (Hormuz, Red Sea, refining, diesel, LNG, fertiliser, food), every entry sourced and dated: https://americasoilwatch.com/global-disruption-status
 - Global supply routes — live chokepoint transit + port oil-flow monitors (incl. Houston/Corpus exports), a Panama Canal Watch, and an Oil Route Stress score (IMF PortWatch): https://americasoilwatch.com/supply
 - Strait of Hormuz crisis timeline — a sourced, filterable chronology of the 2026 Hormuz crisis (military/diplomatic/shipping/market events, outbreak to renewed escalation): https://americasoilwatch.com/hormuz-timeline
 - Doom Loop Engine — interactive oil-supply cascade tools (Fragility Monitor, Doom Loop Engine, Vulnerability Tiering): https://americasoilwatch.com/doom-loop
