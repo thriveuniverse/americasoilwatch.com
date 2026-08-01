@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-07-31T19:00:09.642Z",
+  "lastUpdated": "2026-08-01T08:32:50.232Z",
   "summary": null,
-  "count": 90,
+  "count": 82,
   "articles": [
+    {
+      "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
+      "link": "https://oilprice.com/Energy/Energy-General/VC-Money-Floods-Into-US-Nuclear-Startups-as-AI-Power-Demand-Explodes.html",
+      "date": "2026-07-31T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Venture capitalists are taking a major interest in nuclear energy start ups. Funding is surging for both nuclear fusion and fission firms as the technology becomes an increasingly essential part of a feasible pathway toward sustainable energy security in the face of the artificia",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Brent Caps Strongest Month Since March",
+      "link": "https://www.rigzone.com/news/brent_caps_strongest_month_since_march-31-jul-2026-184273-article/?rss=true",
+      "date": "2026-07-31T21:03:58.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil posted its biggest monthly gain since March as traders grappled with simmering global conflicts and threats to supply from the Persian Gulf to the Black ...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Abqaiq Is a Warning That Oil Markets May Be Misreading",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Abqaiq-Is-a-Warning-That-Oil-Markets-May-Be-Misreading.html",
+      "date": "2026-07-31T20:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "While the dust is settling and facts emerge, it is clear that the latest attack on Saudi Aramco's Abqaiq oil-processing complex is rapidly becoming one of the most consequential energy developments of 2026. The event should not be assessed on the basis that it has immediately rem",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Exxon, Chevron Steer Blowout Profits into Debt Reduction",
+      "link": "https://www.rigzone.com/news/exxon_chevron_steer_blowout_profits_into_debt_reduction-31-jul-2026-184271-article/?rss=true",
+      "date": "2026-07-31T20:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>ExxonMobil Holdings Corp. and Chevron Corp. plowed blowout profits into debt reduction rather than huge buyback increases in a sign of Big Oil’s caution abou...",
+      "category": "General"
+    },
     {
       "title": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
       "link": "https://oilprice.com/Energy/Energy-General/Why-Trumps-Trade-Threat-Puts-Spains-Energy-Security-on-the-Line.html",
@@ -145,22 +177,6 @@
       "date": "2026-07-31T12:30:00.000Z",
       "source": "OilPrice.com",
       "description": "Iran on Friday claimed it launched attacks on U.S. military assets in Bahrain and Kuwait amid the latest re-escalation of hostilities in the region, which dashed the hopes from early this week that there could be a swift return to diplomacy. Iran’s army targeted the Ahmad al-Jabe",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Hormuz Uncertainty Keeps Oil Markets on Edge",
-      "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Uncertainty-Keeps-Oil-Markets-on-Edge.html",
-      "date": "2026-07-31T12:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "September WTI crude oil futures were trading at $84.12 late Thursday, down $6.35, or 7.02%, for the week. With Friday’s session still ahead, the weekly result is not final. But the week’s main story is clear: crude sold off hard when traders thought diplomacy could restore a work",
-      "category": "Prices"
-    },
-    {
-      "title": "The Drone Attack That Exposed Egypt’s Energy Defenses",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Drone-Attack-That-Exposed-Egypts-Energy-Defenses.html",
-      "date": "2026-07-31T12:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Politics, Geopolitics & Conflict A drone attack reached Egypt’s Mediterranean gas infrastructure for the first time in the war. At least two drones struck the US-owned Energos Winter floating storage and regasification unit and a second gas-processing vessel at Damietta port on W",
       "category": "Geopolitics"
     },
     {
@@ -641,86 +657,6 @@
       "date": "2026-07-25T12:00:01.000Z",
       "source": "Rigzone",
       "description": "<p>Spiking energy prices, more US tariffs and mushrooming spending on artificial intelligence are reawakening investors’ inflation fears.</p> <p>A week that ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Brent Pulls Back From $100",
-      "link": "https://www.rigzone.com/news/brent_pulls_back_from_100-24-jul-2026-184215-article/?rss=true",
-      "date": "2026-07-24T20:29:29.000Z",
-      "source": "Rigzone",
-      "description": "<p>Brent crude prices retreated from $100 a barrel as oil was still managing to traverse Middle East trade routes despite the recent escalation in hostilities a...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "SLB Climbs Most in 6 Months",
-      "link": "https://www.rigzone.com/news/slb_climbs_most_in_6_months-24-jul-2026-184209-article/?rss=true",
-      "date": "2026-07-24T20:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>SLB, the world’s biggest oil field services provider, rose the most in more than six months after the company said it expects constructive oil and gas invest...",
-      "category": "General"
-    },
-    {
-      "title": "USA Crude Oil Stocks Rise Week on Week",
-      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_rise_week_on_week-24-jul-2026-184213-article/?rss=true",
-      "date": "2026-07-24T14:28:33.000Z",
-      "source": "Rigzone",
-      "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), increased by 2.0 million barrels from the week ending July 1...",
-      "category": "Production"
-    },
-    {
-      "title": "Santos Narrows 2026 Production Forecast",
-      "link": "https://www.rigzone.com/news/santos_narrows_2026_production_forecast-24-jul-2026-184212-article/?rss=true",
-      "date": "2026-07-24T13:50:12.000Z",
-      "source": "Rigzone",
-      "description": "<p>Santos Ltd has narrowed its output guidance for the year from 101-111 million barrels of oil equivalent (MMboe) to 99-105 MMboe, despite ramp-up at the Baros...",
-      "category": "Production"
-    },
-    {
-      "title": "Overseas Buyers In Hot Pursuit of USA Crude",
-      "link": "https://www.rigzone.com/news/overseas_buyers_in_hot_pursuit_of_usa_crude-24-jul-2026-184210-article/?rss=true",
-      "date": "2026-07-24T13:09:47.000Z",
-      "source": "Rigzone",
-      "description": "<p>US crude is drawing overseas interest from Asian and European refiners as supply concerns spread from the Middle East to the Black Sea.</p> <p>Attacks on ...",
-      "category": "Refinery"
-    },
-    {
-      "title": "Novatek Posts Higher H1 Revenue",
-      "link": "https://www.rigzone.com/news/novatek_posts_higher_h1_revenue-24-jul-2026-184208-article/?rss=true",
-      "date": "2026-07-24T12:08:47.000Z",
-      "source": "Rigzone",
-      "description": "<p>PAO Novatek on Thursday reported RUB 836.34 billion ($10.71 billion) in revenue for the first half (H1) of 2026, up four percent from the first six months of...",
-      "category": "General"
-    },
-    {
-      "title": "Analysts Map 4 Potential USA-Iran Conflict Scenarios",
-      "link": "https://www.rigzone.com/news/analysts_map_4_potential_usairan_conflict_scenarios-24-jul-2026-184207-article/?rss=true",
-      "date": "2026-07-24T10:39:02.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a market update sent to Rigzone late Thursday, Rystad Energy mapped four potential U.S.-Iran conflict scenarios to assess their impact on oil prices.</p> ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Aphrodite Group Secures MOU for Sale of Cypriot Gas to Egypt",
-      "link": "https://www.rigzone.com/news/aphrodite_group_secures_mou_for_sale_of_cypriot_gas_to_egypt-24-jul-2026-184206-article/?rss=true",
-      "date": "2026-07-24T09:38:47.000Z",
-      "source": "Rigzone",
-      "description": "<p>The Chevron Corp-led Aphrodite consortium, Cyprus Hydrocarbons Co and Egyptian Natural Gas Holding Co (EGAS) have signed a memorandum of understanding (MoU) ...",
-      "category": "General"
-    },
-    {
-      "title": "OEUK Hails 'Constructive Meeting' with New Energy Sec",
-      "link": "https://www.rigzone.com/news/oeuk_hails_constructive_meeting_with_new_energy_sec-24-jul-2026-184205-article/?rss=true",
-      "date": "2026-07-24T08:37:52.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a statement sent to Rigzone on Thursday, industry body Offshore Energies UK (OEUK) announced that its CEO, David Whitehouse, had a “constructive meeting” ...",
-      "category": "Production"
-    },
-    {
-      "title": "China Snaps Up Russian Oil as Mideast Risks Mount",
-      "link": "https://www.rigzone.com/news/china_snaps_up_russian_oil_as_mideast_risks_mount-24-jul-2026-184204-article/?rss=true",
-      "date": "2026-07-24T07:50:07.000Z",
-      "source": "Rigzone",
-      "description": "<p>Chinese buyers are snapping up Russia's flagship ESPO crude weeks earlier than usual, as heightened risks to Middle East oil flows prompt refiners to secure ...",
       "category": "Geopolitics"
     }
   ]
