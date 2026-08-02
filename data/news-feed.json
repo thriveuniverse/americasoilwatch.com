@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2026-08-01T18:41:58.078Z",
+  "lastUpdated": "2026-08-02T08:35:05.783Z",
   "summary": null,
-  "count": 83,
+  "count": 82,
   "articles": [
+    {
+      "title": "Record Vaca Muerta Output Fails to Lift Argentina’s Wider Economy",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Record-Vaca-Muerta-Output-Fails-to-Lift-Argentinas-Wider-Economy.html",
+      "date": "2026-08-01T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Argentina’s Vaca Muerta is booming as the key shale province outside the United States has seen record oil and near-record natural gas production in recent months. Vaca Muerta’s fortunes, however, appear to be confined so far to the area in which the shale patch is located, the p",
+      "category": "Production"
+    },
+    {
+      "title": "AI’s Electricity Demand Is Not the Real Problem. Its Inflexibility Is",
+      "link": "https://oilprice.com/Energy/Energy-General/AIs-Electricity-Demand-Is-Not-the-Real-Problem-Its-Inflexibility-Is.html",
+      "date": "2026-08-01T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The electricity demand created by artificial intelligence is usually presented as a simple supply problem. AI requires increasingly large data centers, those facilities consume enormous amounts of electricity, and utilities must somehow build enough power plants to serve them. Th",
+      "category": "Refinery"
+    },
+    {
+      "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
+      "link": "https://oilprice.com/Energy/Energy-General/Surinames-26-Billion-Oil-Bet-Is-Finally-Paying-Off.html",
+      "date": "2026-08-01T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Middle East turmoil, centered on the U.S. war with Iran, is playing havoc with world energy markets. An ongoing dispute over access to the Strait of Hormuz, through which a fifth of world oil and natural gas supply is shipped, is causing prices to surge. This is a boon for South ",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "The Controversial Space Mirrors Designed to Boost Solar Power",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Controversial-Space-Mirrors-Designed-to-Boost-Solar-Power.html",
+      "date": "2026-08-01T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "In line with greater funding for renewable energy and cleantech in recent years, several companies have sought to use innovative technologies and techniques to enhance clean energy production. Tech and energy startups from around the world have raised funds to test out a wide ran",
+      "category": "Production"
+    },
     {
       "title": "Finland's Sand Battery Cuts Emissions 70% Without a Single Rare Earth",
       "link": "https://oilprice.com/Energy/Energy-General/Finlands-Sand-Battery-Cuts-Emissions-70-Without-a-Single-Rare-Earth.html",
@@ -116,28 +148,12 @@
       "category": "Geopolitics"
     },
     {
-      "title": "China's Solar Capacity Set to Overtake Coal This Quarter",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Solar-Capacity-Set-to-Overtake-Coal-This-Quarter.html",
-      "date": "2026-07-31T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "China will have more installed solar power capacity than coal-fired generation capacity as early as this quarter, Chinese authorities have said. As of the end of June, solar power capacity stood at 1,274 gigawatts (GW), just below the total coal-fired installed capacity of 1,275 ",
-      "category": "General"
-    },
-    {
       "title": "Chevron Posts Record Profit",
       "link": "https://www.rigzone.com/news/chevron_posts_record_profit-31-jul-2026-184266-article/?rss=true",
       "date": "2026-07-31T15:10:57.000Z",
       "source": "Rigzone",
       "description": "<p>Chevron Corp. posted record second-quarter results that outperformed expectations as prices for crude, gasoline and diesel surged amid war-driven supply disr...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "ADNOC Makes One of the Biggest Changes to Middle East Crude Pricing in Years",
-      "link": "https://oilprice.com/Energy/Oil-Prices/ADNOC-Makes-One-of-the-Biggest-Changes-to-Middle-East-Crude-Pricing-in-Years.html",
-      "date": "2026-07-31T14:52:16.000Z",
-      "source": "OilPrice.com",
-      "description": "The Abu Dhabi National Oil Company (ADNOC) is making one of the most significant changes to Middle Eastern crude pricing in years, announcing that all of its Abu Dhabi crude grades will move to a prompt-month pricing methodology based on the Platts Dubai benchmark from November 1",
-      "category": "General"
     },
     {
       "title": "USA Crude Oil Stocks Drop More Than 7MM Barrels WoW",
@@ -148,28 +164,12 @@
       "category": "Production"
     },
     {
-      "title": "ADNOC Unveils New Crude Pricing Mechanism",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Overhauls-Crude-Pricing-Methodology.html",
-      "date": "2026-07-31T14:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "ADNOC is changing the pricing formula used for its flagship crude grades. The oil giant said Friday it will move away from its ICE Futures Abu Dhabi-based pricing methodology, which prices crude off the Murban futures contract two months ahead of loading, and switch to a prompt-m",
-      "category": "Supply Routes"
-    },
-    {
       "title": "DOE, Private Partners Launch $100B Data Center Project in Kentucky",
       "link": "https://www.rigzone.com/news/doe_private_partners_launch_100b_data_center_project_in_kentucky-31-jul-2026-184268-article/?rss=true",
       "date": "2026-07-31T14:18:23.000Z",
       "source": "Rigzone",
       "description": "<p>The United States Department of Energy (DOE) and a coalition of energy, infrastructure and utility companies have announced a gas-powered data center campus ...",
       "category": "Policy"
-    },
-    {
-      "title": "Global Coal Consumption Hits Record Even as Coal Power Declines",
-      "link": "https://oilprice.com/Energy/Coal/Global-Coal-Consumption-Hits-Record-Even-as-Coal-Power-Declines.html",
-      "date": "2026-07-31T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Global coal consumption reached another record in 2025, seemingly contradicting years of discussion about phasing out the world’s most carbon-intensive fossil fuel. But the headline number does not tell the whole story. The latest Statistical Review of World Energy shows that glo",
-      "category": "General"
     },
     {
       "title": "Ukraine Says It Attacked Lukoil Refinery",
@@ -658,14 +658,6 @@
       "source": "Rigzone",
       "description": "<p>Eni SpA said Thursday it had signed an agreement to acquire OIL! Tankstellen GmbH from Prax Group.</p> <p>The transaction will give Enilive, Eni's mobilit...",
       "category": "General"
-    },
-    {
-      "title": "Global Inflation Angst Is Back",
-      "link": "https://www.rigzone.com/news/global_inflation_angst_is_back-25-jul-2026-184211-article/?rss=true",
-      "date": "2026-07-25T12:00:01.000Z",
-      "source": "Rigzone",
-      "description": "<p>Spiking energy prices, more US tariffs and mushrooming spending on artificial intelligence are reawakening investors’ inflation fears.</p> <p>A week that ...",
-      "category": "Geopolitics"
     }
   ]
 }
