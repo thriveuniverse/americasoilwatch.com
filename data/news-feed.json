@@ -1,8 +1,80 @@
 {
-  "lastUpdated": "2026-08-02T18:42:30.248Z",
+  "lastUpdated": "2026-08-03T10:03:38.877Z",
   "summary": null,
   "count": 83,
   "articles": [
+    {
+      "title": "BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Completes-Sale-of-German-Refinery-as-Portfolio-Overhaul-Accelerates.html",
+      "date": "2026-08-03T09:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "BP has completed the sale of its refinery in Gelsenkirchen, Germany, to Klesch Group, as the UK supermajor continues to streamline its business and high-grade its portfolio under CEO Meg O’Neill. The transaction, whose sum was not disclosed, is part of BP’s continued focus on dis",
+      "category": "Refinery"
+    },
+    {
+      "title": "Kuwait Oil Production Surges as OPEC+ Completes Output Cut Reversal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Oil-Production-Surges-as-OPEC-Completes-Output-Cut-Reversal.html",
+      "date": "2026-08-03T08:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Kuwait produced 1.971 million barrels of crude oil daily in July, Reuters has reported, citing unnamed sources. That was up from 1.65 million barrels daily in June, the report noted, which in turn was up from just 580,000 barrels daily in May. The report supports earlier coverage",
+      "category": "Production"
+    },
+    {
+      "title": "Shell to sell BG Cyprus and Aphrodite gas stake to MOL Group",
+      "link": "https://www.offshore-technology.com/news/shell-aphrodite-gas-stake-mol-group/",
+      "date": "2026-08-03T08:28:45.000Z",
+      "source": "Offshore Technology",
+      "description": "Shell has agreed to sell its wholly-owned subsidiary BG Cyprus and its Aphrodite gas field stake to MOL Group for up to $720m.",
+      "category": "General"
+    },
+    {
+      "title": "Trump Announces Fresh Iran Talks after Strike Uturn",
+      "link": "https://www.rigzone.com/news/trump_announces_fresh_iran_talks_after_strike_uturn-03-aug-2026-184274-article/?rss=true",
+      "date": "2026-08-03T08:18:46.000Z",
+      "source": "Rigzone",
+      "description": "<p>President Donald Trump said new Iran talks would begin Monday afternoon after he called off a planned attack on Iran partially in response to pleas from US a...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "India Moves to Rescue Renewable Energy Projects Stalled by Grid Shortages",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Moves-to-Rescue-Renewable-Energy-Projects-Stalled-by-Grid-Shortages.html",
+      "date": "2026-08-03T07:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The Indian government will consider waiving transmission charges for solar and wind energy developers facing delays in the commissioning of their projects due to transmission line shortages. According to a Reuters report citing the country’s power regulator, the relief will only ",
+      "category": "General"
+    },
+    {
+      "title": "Greek LNG Ship Safely Clears Hormuz After Maritime Incident",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Greek-LNG-Ship-Safely-Clears-Hormuz-After-Maritime-Incident.html",
+      "date": "2026-08-03T06:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "A Greek-owned liquefied natural gas carrier was involved in an “incident” in the Strait of Hormuz at the end of last week while exiting the waterway, the owner company said in a statement, as quoted by Reuters. The vessel is stable, and the crew is safe, Gas Log said, without spe",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
+      "date": "2026-08-03T03:05:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Oil prices fell sharply in early Asian trade on Monday after President Trump called off another round of military strikes on Iran, raising hopes that a diplomatic route to reopening the Strait of Hormuz and averting a broader regional conflict could be found. At the time of writi",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
+      "date": "2026-08-02T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "When Iran shut down the Strait of Hormuz, Saudi Arabia quickly redirected its oil flows to the Red Sea. Now, that route has become dangerous because of the Houthi blockade, so Saudi is rerouting to Egypt—and two LNG tankers in the Egyptian port of Damietta just got struck by dron",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "China's Car Market Stalls Even as Global Demand Keeps Growing",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Car-Market-Stalls-Even-as-Global-Demand-Keeps-Growing.html",
+      "date": "2026-08-02T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "China’s domestic car sales have fallen significantly this year; however, sales of Chinese cars have risen substantially in some international markets, such as Mexico, demonstrating the growing global demand for Chinese-made vehicles. This demand growth has been driven by the laun",
+      "category": "Prices"
+    },
     {
       "title": "Tidal Energy Could Cover 57% of US Electricity Demand, NREL Study Finds",
       "link": "https://oilprice.com/Energy/Energy-General/Tidal-Energy-Could-Cover-57-of-US-Electricity-Demand-NREL-Study-Finds.html",
@@ -84,27 +156,11 @@
       "category": "Prices"
     },
     {
-      "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
-      "link": "https://oilprice.com/Energy/Energy-General/VC-Money-Floods-Into-US-Nuclear-Startups-as-AI-Power-Demand-Explodes.html",
-      "date": "2026-07-31T22:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Venture capitalists are taking a major interest in nuclear energy start ups. Funding is surging for both nuclear fusion and fission firms as the technology becomes an increasingly essential part of a feasible pathway toward sustainable energy security in the face of the artificia",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Brent Caps Strongest Month Since March",
       "link": "https://www.rigzone.com/news/brent_caps_strongest_month_since_march-31-jul-2026-184273-article/?rss=true",
       "date": "2026-07-31T21:03:58.000Z",
       "source": "Rigzone",
       "description": "<p>Oil posted its biggest monthly gain since March as traders grappled with simmering global conflicts and threats to supply from the Persian Gulf to the Black ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Abqaiq Is a Warning That Oil Markets May Be Misreading",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Abqaiq-Is-a-Warning-That-Oil-Markets-May-Be-Misreading.html",
-      "date": "2026-07-31T20:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "While the dust is settling and facts emerge, it is clear that the latest attack on Saudi Aramco's Abqaiq oil-processing complex is rapidly becoming one of the most consequential energy developments of 2026. The event should not be assessed on the basis that it has immediately rem",
       "category": "Geopolitics"
     },
     {
@@ -114,46 +170,6 @@
       "source": "Rigzone",
       "description": "<p>ExxonMobil Holdings Corp. and Chevron Corp. plowed blowout profits into debt reduction rather than huge buyback increases in a sign of Big Oil’s caution abou...",
       "category": "General"
-    },
-    {
-      "title": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Trumps-Trade-Threat-Puts-Spains-Energy-Security-on-the-Line.html",
-      "date": "2026-07-31T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Donald Trump’s July 8 order to halt trade with Spain has yet to become an energy embargo, but Madrid can no longer dismiss it as political theatre. It was the second such threat since March 2026, this time delivered directly to Treasury Secretary Scott Bessent after Spain refused",
-      "category": "General"
-    },
-    {
-      "title": "Exxon and Chevron’s $26.5 Billion Quarter Draws Trump’s Ire",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-and-Chevrons-265-Billion-Quarter-Draws-Trumps-Ire.html",
-      "date": "2026-07-31T18:05:13.000Z",
-      "source": "OilPrice.com",
-      "description": "ExxonMobil and Chevron made a combined $26.5 billion in the second quarter after producing more oil, refining more fuel, and selling all of it into a market scrambled by war. Washington is investigating why gasoline costs so much. Chevron reported record net income of $12.2 billi",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "What Kyrgyzstan Wants From the UN Security Council",
-      "link": "https://oilprice.com/Geopolitics/Asia/What-Kyrgyzstan-Wants-From-the-UN-Security-Council.html",
-      "date": "2026-07-31T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Kyrgyzstan’s election to a two-year term on the United Nations Security Council came after a diligent campaign to gain support for its candidacy. It means a Central Asian state will have a seat on the UN’s most powerful body for the second time since the collapse of the Soviet Un",
-      "category": "General"
-    },
-    {
-      "title": "US Oil Drillers Turn Cautious as WTI Holds Near $85 per Barrel",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Turn-Cautious-as-WTI-Holds-Near-85-per-Barrel.html",
-      "date": "2026-07-31T17:20:31.000Z",
-      "source": "OilPrice.com",
-      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 588, up 48 from this same time last year. The number of active oil rigs rose by 1, ",
-      "category": "Prices"
-    },
-    {
-      "title": "Ukraine Strikes Lukoil's Volgograd Refinery as Drone Attacks Resume",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Strikes-Lukoils-Volgograd-Refinery-as-Drone-Attacks-Resume.html",
-      "date": "2026-07-31T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Ukraine has struck one of Russia’s biggest refineries, Lukoil’s Volgograd processing facility, the Ukrainian forces said on Friday as they resumed attacks on Russian refining capacity. The Volgograd refinery, which has the capacity to process 300,000 barrels per day (bpd) of crud",
-      "category": "Geopolitics"
     },
     {
       "title": "Chevron Posts Record Profit",
@@ -385,14 +401,6 @@
       "date": "2026-07-30T07:41:23.000Z",
       "source": "Offshore Technology",
       "description": "Woodside Energy has reported an operating revenue of $4.18bn in the second quarter of 2026 (Q2 2026), marking a 28% increase from $3.27bn in Q2 2025.",
-      "category": "General"
-    },
-    {
-      "title": "Biopower’s next decade hinges on what it displaces, not what it builds",
-      "link": "https://www.offshore-technology.com/analysis/biopower-market-displace-fuel-2/",
-      "date": "2026-07-30T07:00:00.000Z",
-      "source": "Offshore Technology",
-      "description": "Global biopower capacity is still rising, but new construction is slowing and capital is becoming more selective.",
       "category": "General"
     },
     {
@@ -658,14 +666,6 @@
       "source": "Rigzone",
       "description": "<p>The US paused an almost two-week run of strikes against Iran for a second night while the Islamic Republic signaled it was refraining from any retaliatory at...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Eni to Acquire Prax Stations in 4 Countries",
-      "link": "https://www.rigzone.com/news/eni_to_acquire_prax_stations_in_4_countries-26-jul-2026-184214-article/?rss=true",
-      "date": "2026-07-26T11:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Eni SpA said Thursday it had signed an agreement to acquire OIL! Tankstellen GmbH from Prax Group.</p> <p>The transaction will give Enilive, Eni's mobilit...",
-      "category": "General"
     }
   ]
 }
