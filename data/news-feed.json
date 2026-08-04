@@ -1,8 +1,112 @@
 {
-  "lastUpdated": "2026-08-03T19:11:15.481Z",
+  "lastUpdated": "2026-08-04T08:51:20.457Z",
   "summary": null,
-  "count": 91,
+  "count": 83,
   "articles": [
+    {
+      "title": "CEO Plays Down Impact of Attacks on Aramco",
+      "link": "https://www.rigzone.com/news/ceo_plays_down_impact_of_attacks_on_aramco-04-aug-2026-184285-article/?rss=true",
+      "date": "2026-08-04T08:16:05.000Z",
+      "source": "Rigzone",
+      "description": "<p>Saudi Aramco said attacks on its assets last month have had no material impact on its operations, and the company is working to expand its oil export capacit...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Germany’s Energy Demand Falls as High Prices Hit Oil Consumption",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germanys-Energy-Demand-Falls-as-High-Prices-Hit-Oil-Consumption.html",
+      "date": "2026-08-04T08:15:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Germany’s energy demand dropped by 1.9% over the first half of the year on surging oil and gas prices, according to preliminary data released by the Working Group on Energy Balances (AGEB), an association of German economic and energy organizations. Oil product consumption in the",
+      "category": "Prices"
+    },
+    {
+      "title": "San Mateo Midstream closes $752m acquisition of Cardinal Midstream",
+      "link": "https://www.offshore-technology.com/news/san-mateo-752m-acquisition-cardinal-midstream/",
+      "date": "2026-08-04T07:33:39.000Z",
+      "source": "Offshore Technology",
+      "description": "San Mateo Midstream, a joint venture between Matador Resources and Five Point Infrastructure, has completed the previously announced $752m purchase of the operating subsidiaries of US-based Cardinal Midstream Partners.",
+      "category": "General"
+    },
+    {
+      "title": "Tanker Traffic Remains Subdued Despite Trump’s Talk of Peace",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-Remains-Subdued-Despite-Trumps-Talk-of-Peace.html",
+      "date": "2026-08-04T06:45:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Tanker crossings in the Strait of Hormuz and Bab el-Mandeb remained subdued at the start of this week despite reports about potential renewal of peace talks based on statements made by President Donald Trump. A dozen tankers crossed the Bab el-Mandeb Strait on Monday, Kpler data ",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Venezuela’s Oil Exports Fall Even as U.S. Shipments Hit Seven-Year High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Venezuelas-Oil-Exports-Fall-Even-as-US-Shipments-Hit-Seven-Year-High.html",
+      "date": "2026-08-04T05:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Venezuela exported 1.16 million barrels of crude oil daily last month, a slight decline from June’s 1.2 million barrels daily, on lower withdrawals from storage, Reuters has reported, noting that exports to the United States during that month increased. July exports to Venezuela’",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "How Namibia Pulled Ahead In Africa’s Hottest Offshore Oil Basin",
+      "link": "https://oilprice.com/Energy/Energy-General/How-Namibia-Pulled-Ahead-In-Africas-Hottest-Offshore-Oil-Basin.html",
+      "date": "2026-08-04T00:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Namibia is rapidly emerging as Africa’s next major oil producer while neighboring South Africa, which controls roughly two-thirds of the same Orange Basin petroleum province, remains years behind in developing essentially the same petroleum system. The Orange Basin, an offshore d",
+      "category": "General"
+    },
+    {
+      "title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
+      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
+      "date": "2026-08-03T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The world is running short on fuels—the warning was first issued by some analysts who were watching the physical market rather than futures charts. Now, Big Oil is joining the chorus of warnings, with Shell, Exxon and Chevron all saying that prices at the pump are set to stay hig",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/Harold-Hamm-Bets-Bigger-on-Argentinas-Vaca-Muerta-Shale-Boom.html",
+      "date": "2026-08-03T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Continental Resources, the company founded by shale billionaire Harold Hamm, looks to expand in Vaca Muerta as international companies vie to develop Argentina’s proven prolific shale patch. Continental is set to bid in this year’s bid round for acreage in Vaca Muerta in the bigg",
+      "category": "Production"
+    },
+    {
+      "title": "How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race",
+      "link": "https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html",
+      "date": "2026-08-03T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "China is winning the race for global clean energy dominance. Beijing has outspent every other country on Earth for years now, and controls critical global clean energy supply chains. Over the same time period, the United States has taken a major step back from clean energy object",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Russia Is Running Out of Soldiers, Oil, and Time",
+      "link": "https://oilprice.com/Energy/Energy-General/Russia-Is-Running-Out-of-Soldiers-Oil-and-Time.html",
+      "date": "2026-08-03T20:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Over 1,600 days into Russian President Vladimir Putin’s 10-day special military operation and the situation for the Kremlin continues to deteriorate. Since Moscow ordered its troops illegally into Ukraine on 24 February 2022, more than 450,000 of them have been killed, with anoth",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Cuba Suffers 4th Nationwide Blackout in Less Than a Month",
+      "link": "https://www.rigzone.com/news/cuba_suffers_4th_nationwide_blackout_in_less_than_a_month-03-aug-2026-184280-article/?rss=true",
+      "date": "2026-08-03T20:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Cuba was hit by its fourth island-wide blackout in less than a month, as US energy restrictions and decrepit infrastructure continue to hammer the Caribbean ...",
+      "category": "General"
+    },
+    {
+      "title": "Crude Sinks as Tensions Ease",
+      "link": "https://www.rigzone.com/news/crude_sinks_as_tensions_ease-03-aug-2026-184284-article/?rss=true",
+      "date": "2026-08-03T19:36:16.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil fell after both the US and Iran signaled that discussions to restore shipping through the Strait of Hormuz are ongoing, raising hopes for a pickup in sup...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Ukraine’s Drone Campaign Drives Russian Oil Refining to 24-Year Low",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraines-Drone-Campaign-Drives-Russian-Oil-Refining-to-24-Year-Low.html",
+      "date": "2026-08-03T19:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Russian crude processing fell to its lowest level in more than two decades in July after Ukraine expanded its drone campaign from refineries to tankers, pipelines and export infrastructure, according to The Moscow Times, citing Bloomberg analysis. Russian refineries processed an ",
+      "category": "Geopolitics"
+    },
     {
       "title": "Big Oil Companies Report Record Profits Amid High Oil Prices",
       "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Companies-Report-Record-Profits-Amid-High-Oil-Prices.html",
@@ -60,28 +164,12 @@
       "category": "General"
     },
     {
-      "title": "Trump's Iran Reversal Sends European Gas Prices Tumbling",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Iran-Reversal-Sends-European-Gas-Prices-Tumbling.html",
-      "date": "2026-08-03T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "European natural gas prices plunged at opening on Monday after U.S. President Donald Trump said he had called off a planned attack on Iranian energy sites and talks on a deal would begin this week. Europe’s benchmark natural gas prices, the Dutch TTF Natural Gas Futures, sank by ",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Pembina Posts Higher Profit",
       "link": "https://www.rigzone.com/news/pembina_posts_higher_profit-03-aug-2026-184282-article/?rss=true",
       "date": "2026-08-03T15:24:39.000Z",
       "source": "Rigzone",
       "description": "<p>Pembina Pipeline Corp has reported CAD 512 million ($364.61 million) in net income and CAD 415 million in net income adjusted for nonrecurring items for the ...",
       "category": "Supply Routes"
-    },
-    {
-      "title": "Seven Months After Maduro's Fall, Big Oil Still Won't Commit To Venezuela",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Seven-Months-After-Maduros-Fall-Big-Oil-Still-Wont-Commit-To-Venezuela.html",
-      "date": "2026-08-03T15:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Venezuela's long-awaited oil revival has been slower than many in Washington anticipated, according to the Wall Street Journal. Seven months after Nicolás Maduro's removal, negotiations between the interim government and major U.S. energy companies remain bogged down, with no lan",
-      "category": "General"
     },
     {
       "title": "Q3 Is Set for Extreme Volatility, Oil Analysts Warn",
@@ -100,30 +188,6 @@
       "category": "Policy"
     },
     {
-      "title": "Dark Tanker Transits Surge at Bab el-Mandeb as Houthi Threat Persists",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dark-Tanker-Transits-Surge-at-Bab-el-Mandeb-as-Houthi-Threat-Persists.html",
-      "date": "2026-08-03T14:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Houthi threat to shipments of Saudi crude oil from the Red Sea hasn’t abated and more tankers laden with Saudi oil appeared to have made the transit through the Bab el-Mandeb chokepoint in dark mode. Two tankers that had loaded Saudi crude at the Red Sea port of Yanbu have li",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "How the Iran War Will Determine Britain's Economic Growth",
-      "link": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Will-Determine-Britains-Economic-Growth.html",
-      "date": "2026-08-03T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Iran war could “halt growth” in the UK economy as the success of Andy Burnham and John Healey’s economic management largely hinges on President Trump’s decision-making, a City firm has warned. Big Four consultancy EY has said that the UK economy could perform better than firs",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Indian Oil Subsidiary CPCL Plans 280,000 Bpd Manali Refinery",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Oil-Subsidiary-CPCL-Plans-280000-Bpd-Manali-Refinery.html",
-      "date": "2026-08-03T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Indian refiner Chennai Petroleum Corporation Limited plans to boost the crude oil refining capacity at its Manali refinery by a third to 280,000 barrels per day (bpd), the refiner said in its 2025/2026 report. Chennai Petroleum Corporation Limited (CPCL) is a subsidiary of the co",
-      "category": "Refinery"
-    },
-    {
       "title": "Oil prices fall as Trump seeks Iran nuclear deal",
       "link": "https://www.offshore-technology.com/news/oil-prices-fall-trump-iran-nuclear-deal/",
       "date": "2026-08-03T13:10:35.000Z",
@@ -132,28 +196,12 @@
       "category": "Geopolitics"
     },
     {
-      "title": "Australian Regulator Wants Tougher Pollution Rules for Darwin LNG Plants",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australian-Regulator-Wants-Tougher-Pollution-Rules-for-Darwin-LNG-Plants.html",
-      "date": "2026-08-03T12:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Two of Australia's biggest LNG projects led by Santos and Inpex could face stricter environmental and pollution reporting rules after the Northern Territory Environment Protection Authority (NT EPA) recommended 23 ways to address a previous under-reporting of emissions. The regio",
-      "category": "Refinery"
-    },
-    {
       "title": "BP Completes Sale of German Refinery to Klesch",
       "link": "https://www.rigzone.com/news/bp_completes_sale_of_german_refinery_to_klesch-03-aug-2026-184278-article/?rss=true",
       "date": "2026-08-03T11:34:23.000Z",
       "source": "Rigzone",
       "description": "<p>BP PLC said Monday it had concluded the transfer of its refinery and associated assets in Gelsenkirchen, Germany to Klesch Group.</p> <p>\"The transaction ...",
       "category": "Refinery"
-    },
-    {
-      "title": "Shell Sells European Onshore Renewables Portfolio to TotalEnergies",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Sells-European-Onshore-Renewables-Portfolio-to-TotalEnergies.html",
-      "date": "2026-08-03T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Shell has signed an agreement to sell its European onshore renewables portfolio to French peer TotalEnergies, the UK-based supermajor said on Monday as it prioritizes capital allocation into high-value businesses. The portfolio included in the transaction comprises 0.5 gigawatts ",
-      "category": "General"
     },
     {
       "title": "OPEC+ 7 Decide to Boost Production Quota",
@@ -178,14 +226,6 @@
       "source": "Offshore Technology",
       "description": "BHEL has secured its largest-ever contract to supply eight gas turbine generator packages for Dangote’s refinery and petrochemicals complex in Nigeria.",
       "category": "Refinery"
-    },
-    {
-      "title": "India’s Imports of Russian Crude Hit New High in July",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Imports-of-Russian-Crude-Hit-New-High-in-July.html",
-      "date": "2026-08-03T10:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India keeps buying a lot of Russian oil, with July imports hitting a new all-time high and accounting for more than half of total Indian crude oil imports. India’s crude oil imports from Russia rose to 2.8 million barrels per day (bpd) in July, up from the previous high of 2.7 mi",
-      "category": "Geopolitics"
     },
     {
       "title": "TotalEnergies to Acquire Shell's Onshore RE Assets in Europe",
@@ -218,14 +258,6 @@
       "source": "Offshore Technology",
       "description": "The Indian Union Cabinet has approved the Samudra Manthan, with a total allocated budget of Rs840.84bn ($8.83bn).",
       "category": "General"
-    },
-    {
-      "title": "BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Completes-Sale-of-German-Refinery-as-Portfolio-Overhaul-Accelerates.html",
-      "date": "2026-08-03T09:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "BP has completed the sale of its refinery in Gelsenkirchen, Germany, to Klesch Group, as the UK supermajor continues to streamline its business and high-grade its portfolio under CEO Meg O’Neill. The transaction, whose sum was not disclosed, is part of BP’s continued focus on dis",
-      "category": "Refinery"
     },
     {
       "title": "Shell to sell BG Cyprus and Aphrodite gas stake to MOL Group",
@@ -362,14 +394,6 @@
       "source": "Rigzone",
       "description": "<p>BP PLC said Friday it is marketing its operations on the United Kingdom side of the North Sea, including five production hubs, as part of a simplification dr...",
       "category": "Prices"
-    },
-    {
-      "title": "Shell’s Q2 2026 revenue soars by 45% to $94.7bn",
-      "link": "https://www.offshore-technology.com/news/shells-q2-2026-revenue-94-7bn/",
-      "date": "2026-07-31T08:17:16.000Z",
-      "source": "Offshore Technology",
-      "description": "Shell has reported a revenue of $94.7bn for the second quarter of 2026 (Q2 2026), a 45% increase from $65.4bn in the same period of the previous year.",
-      "category": "General"
     },
     {
       "title": "Saudis Propose to Lead Maritime Security Alliance",
@@ -642,94 +666,6 @@
       "source": "Rigzone",
       "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 29, 2026, 8:24 AM GMT: Article up...",
       "category": "Supply Routes"
-    },
-    {
-      "title": "Brent Tumbles Nearly 9% on Diplomacy",
-      "link": "https://www.rigzone.com/news/brent_tumbles_nearly_9_on_diplomacy-27-jul-2026-184226-article/?rss=true",
-      "date": "2026-07-27T20:20:21.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil sank by the most in over three months as the US paused daily strikes against Iran and tankers sailed to load at a recently disrupted Kazakh export termin...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Expand Energy to Buy Twin Eagle for $1.25B",
-      "link": "https://www.rigzone.com/news/expand_energy_to_buy_twin_eagle_for_125b-27-jul-2026-184223-article/?rss=true",
-      "date": "2026-07-27T20:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Expand Energy Corp. agreed to buy gas marketer Twin Eagle Holdings NA LLC from private equity firm Five Point Infrastructure for $1.25 billion, moving the la...",
-      "category": "Prices"
-    },
-    {
-      "title": "Halliburton Bags Spate of Middle East Contracts in July",
-      "link": "https://www.rigzone.com/news/halliburton_bags_spate_of_middle_east_contracts_in_july-27-jul-2026-184225-article/?rss=true",
-      "date": "2026-07-27T15:05:21.000Z",
-      "source": "Rigzone",
-      "description": "<p>Halliburton announced a spate of contract awards in the Middle East this month.</p> <p>On July 22, the company said Kuwait Oil Company (KOC) had awarded H...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Brookfield to Acquire Blackstone BESS Portfolio in North America",
-      "link": "https://www.rigzone.com/news/brookfield_to_acquire_blackstone_bess_portfolio_in_north_america-27-jul-2026-184224-article/?rss=true",
-      "date": "2026-07-27T14:59:13.000Z",
-      "source": "Rigzone",
-      "description": "<p>Brookfield Corp has signed an agreement to acquire Aypa Power LLC from United States investor Blackstone Inc, which the Canadian investor said would give it ...",
-      "category": "General"
-    },
-    {
-      "title": "CPC Oil Terminal Resumes Kazakh Crude Exports",
-      "link": "https://www.rigzone.com/news/cpc_oil_terminal_resumes_kazakh_crude_exports-27-jul-2026-184222-article/?rss=true",
-      "date": "2026-07-27T14:32:46.000Z",
-      "source": "Rigzone",
-      "description": "<p>The main terminal for exporting Kazakhstan’s oil resumed loadings after drone attacks on vessels caused an output cut last week, a step that may help to ease...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Oil Price Action Telling a Nuanced Story, JPM Says",
-      "link": "https://www.rigzone.com/news/oil_price_action_telling_a_nuanced_story_jpm_says-27-jul-2026-184221-article/?rss=true",
-      "date": "2026-07-27T12:05:40.000Z",
-      "source": "Rigzone",
-      "description": "<p>In a report sent to Rigzone late last week by Natasha Kaneva, J.P. Morgan’s Head of Global Commodities Strategy, J.P. Morgan analysts, including Kaneva, outl...",
-      "category": "Prices"
-    },
-    {
-      "title": "US DOE Seeks Innovations on Pipeline Efficiency, By-Product Conversion",
-      "link": "https://www.rigzone.com/news/us_doe_seeks_innovations_on_pipeline_efficiency_byproduct_conversion-27-jul-2026-184220-article/?rss=true",
-      "date": "2026-07-27T11:48:43.000Z",
-      "source": "Rigzone",
-      "description": "<p>The United States Department of Energy (DOE) has launched a funding opportunity of up to $65.5 million for research, development and deployment projects that...",
-      "category": "Policy"
-    },
-    {
-      "title": "Woodside's Browse Gas Project Declared State Priority",
-      "link": "https://www.rigzone.com/news/woodsides_browse_gas_project_declared_state_priority-27-jul-2026-184219-article/?rss=true",
-      "date": "2026-07-27T11:20:37.000Z",
-      "source": "Rigzone",
-      "description": "<p>The Western Australian government has granted the Browse to North West Shelf Project a State Significant Project status, operator Woodside Energy Group Ltd s...",
-      "category": "General"
-    },
-    {
-      "title": "Brent, WTI Oil Prices Both Down Over 5 Percent",
-      "link": "https://www.rigzone.com/news/brent_wti_oil_prices_both_down_over_5_percent-27-jul-2026-184218-article/?rss=true",
-      "date": "2026-07-27T09:35:14.000Z",
-      "source": "Rigzone",
-      "description": "<p>Brent crude and West Texas Intermediate (WTI) oil prices were dropping more than five percent each, Naeem Aslam, CIO at Zaye Capital Markets, highlighted in ...",
-      "category": "Prices"
-    },
-    {
-      "title": "Kuwait Agrees $16B Pipeline Leaseback with Blackstone, Brookfield, KKR",
-      "link": "https://www.rigzone.com/news/kuwait_agrees_16b_pipeline_leaseback_with_blackstone_brookfield_kkr-27-jul-2026-184217-article/?rss=true",
-      "date": "2026-07-27T08:56:21.000Z",
-      "source": "Rigzone",
-      "description": "<p>State-owned Kuwait Petroleum Corp (KPC) has signed a record $16-billion partnership agreement allowing three major North American investors to own minority s...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Lull in Fighting as Iran Holds Hormuz Talks with Oman",
-      "link": "https://www.rigzone.com/news/lull_in_fighting_as_iran_holds_hormuz_talks_with_oman-27-jul-2026-184216-article/?rss=true",
-      "date": "2026-07-27T07:10:13.000Z",
-      "source": "Rigzone",
-      "description": "<p>The US paused an almost two-week run of strikes against Iran for a second night while the Islamic Republic signaled it was refraining from any retaliatory at...",
-      "category": "Geopolitics"
     }
   ]
 }
