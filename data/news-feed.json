@@ -1,14 +1,158 @@
 {
-  "lastUpdated": "2026-08-04T08:51:20.457Z",
+  "lastUpdated": "2026-08-04T14:46:25.596Z",
   "summary": null,
-  "count": 83,
+  "count": 91,
   "articles": [
     {
-      "title": "CEO Plays Down Impact of Attacks on Aramco",
-      "link": "https://www.rigzone.com/news/ceo_plays_down_impact_of_attacks_on_aramco-04-aug-2026-184285-article/?rss=true",
-      "date": "2026-08-04T08:16:05.000Z",
+      "title": "Qatar, Bessent Signal Progress on Short Term USA-Iran Deal",
+      "link": "https://www.rigzone.com/news/qatar_bessent_signal_progress_on_short_term_usairan_deal-04-aug-2026-184293-article/?rss=true",
+      "date": "2026-08-04T14:41:02.000Z",
       "source": "Rigzone",
-      "description": "<p>Saudi Aramco said attacks on its assets last month have had no material impact on its operations, and the company is working to expand its oil export capacit...",
+      "description": "<p>The prospect of a deal between the US and Iran appeared to be gaining traction on Tuesday, after Qatar said a proposal had been drafted and American Treasury...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Aramco Profit Jumps 33 Pct",
+      "link": "https://www.rigzone.com/news/aramco_profit_jumps_33_pct-04-aug-2026-184292-article/?rss=true",
+      "date": "2026-08-04T14:33:22.000Z",
+      "source": "Rigzone",
+      "description": "<p>Saudi Aramco reported a 33% increase in second-quarter profit as it benefited from a war-driven surge in oil prices, while keeping exports flowing through a ...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "India's HPCL Snaps Up Nigerian Crude To Dodge The Hormuz Bottleneck",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-HPCL-Snaps-Up-Nigerian-Crude-To-Dodge-The-Hormuz-Bottleneck.html",
+      "date": "2026-08-04T14:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Indian state-owned refiner Hindustan Petroleum Corporation Limited (HPCL) has bought 2 million barrels of crude from Nigeria, trading sources told Reuters on Tuesday, as India looks to offset the loss of supply from the Middle East with deliveries from producers farther away. HPC",
+      "category": "Refinery"
+    },
+    {
+      "title": "BP Retreats Further From Green Energy With Archaea Sale",
+      "link": "https://oilprice.com/Energy/Energy-General/BP-Retreats-Further-From-Green-Energy-With-Archaea-Sale.html",
+      "date": "2026-08-04T14:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "BP has announced that it will offload its US biogas business just days after confirming its exit from the North Sea, as the firm looks to shift its focus back to core oil and gas products. The London-listed oil giant has previously told investors it planned to market assets acros",
+      "category": "Prices"
+    },
+    {
+      "title": "Hormuz Tanker Traffic Stalls at Two-Month Low as Attacks Escalate",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Stalls-at-Two-Month-Low-as-Attacks-Escalate.html",
+      "date": "2026-08-04T13:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Traffic at the Strait of Hormuz remains at the lowest in more than two months as security concerns have intensified with recent attacks on ships and persistent threats to shipping in the region. After a brief respite between the middle of June and early July, when traffic at Horm",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Aramco Plans to Boost Oil Export Capacity",
+      "link": "https://www.rigzone.com/news/aramco_plans_to_boost_oil_export_capacity-04-aug-2026-184285-article/?rss=true",
+      "date": "2026-08-04T13:11:38.000Z",
+      "source": "Rigzone",
+      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) August, 4 2026, 1:09 PM GMT: Article u...",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "L&T-led consortium secures offshore project contract from ADNOC",
+      "link": "https://www.offshore-technology.com/news/lt-led-adnoc-offshore-project/",
+      "date": "2026-08-04T13:10:29.000Z",
+      "source": "Offshore Technology",
+      "description": "LTEH Offshore has secured a contract from ADNOC Offshore for the development of multiple offshore facilities in the Middle East.",
+      "category": "General"
+    },
+    {
+      "title": "Williams to Acquire Momentum Midstream for $5.5B",
+      "link": "https://www.rigzone.com/news/williams_to_acquire_momentum_midstream_for_55b-04-aug-2026-184291-article/?rss=true",
+      "date": "2026-08-04T12:54:16.000Z",
+      "source": "Rigzone",
+      "description": "<p>EnCap Flatrock Midstream LP has signed an agreement to sell M6 Midstream LLC (Momentum Midstream) to The Williams Companies Inc for up to $5.5 billion.</p> ...",
+      "category": "General"
+    },
+    {
+      "title": "Pakistan Partners with Canadian Firm to Boost Domestic Heavy Crude Output",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Partners-with-Canadian-Firm-to-Boost-Domestic-Heavy-Crude-Output.html",
+      "date": "2026-08-04T12:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Pakistan's national Oil and Gas Development Company Limited (OGDC) has signed an agreement with a Canadian firm to deploy advanced technology to boost production from heavy crude oilfields, the largest Pakistani exploration and production firm has said. Under the agreement with C",
+      "category": "Production"
+    },
+    {
+      "title": "Crescent Energy Bumps Up Production Forecast",
+      "link": "https://www.rigzone.com/news/crescent_energy_bumps_up_production_forecast-04-aug-2026-184290-article/?rss=true",
+      "date": "2026-08-04T12:10:10.000Z",
+      "source": "Rigzone",
+      "description": "<p>Crescent Energy Co now expects its full-year production to range from 327,000 barrels of oil equivalent a day (boed) to 335,000 boed, of which 40-42 percent ...",
+      "category": "Production"
+    },
+    {
+      "title": "India Expands Oil Storage Sites After Shock Supply Disruption",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Expands-Oil-Storage-Sites-After-Shock-Supply-Disruption.html",
+      "date": "2026-08-04T11:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "India’s state-owned Oil and Natural Gas Corporation (ONGC), the top explorer in the country, will build a new storage site at Mangaluru to hold about 13 million barrels of oil as the world’s third-largest crude oil importer looks to boost its resilience to supply shocks. In the w",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "USA Gas Prices Could Hit Record This Week",
+      "link": "https://www.rigzone.com/news/usa_gas_prices_could_hit_record_this_week-04-aug-2026-184289-article/?rss=true",
+      "date": "2026-08-04T11:17:59.000Z",
+      "source": "Rigzone",
+      "description": "<p>U.S. gasoline prices could hit a calendar record this week, even with the oil price pulling back, GasBuddy noted in a blog posted on its website on Monday.</...",
+      "category": "Prices"
+    },
+    {
+      "title": "Sempra Delays Completion of Mexican LNG Project",
+      "link": "https://www.rigzone.com/news/sempra_delays_completion_of_mexican_lng_project-04-aug-2026-184288-article/?rss=true",
+      "date": "2026-08-04T11:08:01.000Z",
+      "source": "Rigzone",
+      "description": "<p>Sempra said it has extended the \"commissioning process\" for the ECA LNG project in Ensenada, Mexico, which already shipped its first cargo last month.</p> ...",
+      "category": "Refinery"
+    },
+    {
+      "title": "BP Raises Dividend Rate",
+      "link": "https://www.rigzone.com/news/bp_raises_dividend_rate-04-aug-2026-184287-article/?rss=true",
+      "date": "2026-08-04T10:45:32.000Z",
+      "source": "Rigzone",
+      "description": "<p>BP PLC on Tuesday announced a four percent increase to 8.66 cents in its quarterly dividend per share, as higher oil prices continued to offset lower upstrea...",
+      "category": "Prices"
+    },
+    {
+      "title": "BP Earnings Surge to $5.7 Billion on Oil Price and Refining Boom",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Earnings-Surge-to-57-Billion-on-Oil-Price-and-Refining-Boom.html",
+      "date": "2026-08-04T10:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "BP more than doubled its profit for the second quarter from a year earlier on the back of higher oil and gas prices and stronger refining margins driven by the shock supply disruption in the Middle East. BP on Tuesday reported an underlying replacement cost (RC) profit, the close",
+      "category": "Prices"
+    },
+    {
+      "title": "Petrobras identifies new gas deposit at Sandia-1 well in Colombia",
+      "link": "https://www.offshore-technology.com/news/petrobras-gas-deposit-sandia-1-well-colombia/",
+      "date": "2026-08-04T09:52:52.000Z",
+      "source": "Offshore Technology",
+      "description": "Brazilian state-controlled energy company Petrobras has identified a new natural gas deposit at the Sandia-1 exploratory well in deep waters off the coast of Colombia.",
+      "category": "General"
+    },
+    {
+      "title": "Williams to buy Momentum Midstream in deal worth up to $5.5bn",
+      "link": "https://www.offshore-technology.com/news/williams-to-buy-momentum-midstream-5-5bn/",
+      "date": "2026-08-04T09:47:16.000Z",
+      "source": "Offshore Technology",
+      "description": "US-based natural gas company Williams has agreed to purchase Momentum Midstream (M6 Midstream) from EnCap Flatrock Midstream in a deal worth up to $5.5bn.",
+      "category": "General"
+    },
+    {
+      "title": "Analysts Warn Outlook Remains Highly Fragile",
+      "link": "https://www.rigzone.com/news/analysts_warn_outlook_remains_highly_fragile-04-aug-2026-184286-article/?rss=true",
+      "date": "2026-08-04T09:34:31.000Z",
+      "source": "Rigzone",
+      "description": "<p>In a report sent to Rigzone by the Fitch Group on Monday, analysts at BMI, a unit of Fitch Solutions, outlined that they continue to believe a broader diplom...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Saudi Aramco’s Adjusted Profit Jumps 33% as Oil Prices Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
+      "date": "2026-08-04T09:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Saudi Aramco saw its adjusted net income jump by 33% for the second quarter from a year earlier as high oil prices and the oil giant’s ability to re-route most crude exports more than offset the constrained flows at the Strait of Hormuz. The state giant Aramco on Tuesday reported",
       "category": "Supply Routes"
     },
     {
@@ -97,62 +241,6 @@
       "date": "2026-08-03T19:36:16.000Z",
       "source": "Rigzone",
       "description": "<p>Oil fell after both the US and Iran signaled that discussions to restore shipping through the Strait of Hormuz are ongoing, raising hopes for a pickup in sup...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Ukraine’s Drone Campaign Drives Russian Oil Refining to 24-Year Low",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraines-Drone-Campaign-Drives-Russian-Oil-Refining-to-24-Year-Low.html",
-      "date": "2026-08-03T19:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Russian crude processing fell to its lowest level in more than two decades in July after Ukraine expanded its drone campaign from refineries to tankers, pipelines and export infrastructure, according to The Moscow Times, citing Bloomberg analysis. Russian refineries processed an ",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Big Oil Companies Report Record Profits Amid High Oil Prices",
-      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Companies-Report-Record-Profits-Amid-High-Oil-Prices.html",
-      "date": "2026-08-03T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "We are still in the early innings of the earnings season, with roughly a third of S&P 500 companies having returned their second quarter scorecards. And, it’s shaping up to be yet another bumper earnings season: according to FactSet data, 86% of those companies have exceeded Wall",
-      "category": "Prices"
-    },
-    {
-      "title": "Ukrainian Drone Attacks Push Russia's Largest Online Retailer Abroad",
-      "link": "https://oilprice.com/Geopolitics/Europe/Ukrainian-Drone-Attacks-Push-Russias-Largest-Online-Retailer-Abroad.html",
-      "date": "2026-08-03T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Desperate to blunt the threat posed by Ukrainian drone attacks, the operator of Wildberries, Russia’s leading e-commerce platform, is looking to lease warehouse space in neighboring Kazakhstan. In response to a series of recent Ukrainian drone strikes across Russia that have dest",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Trump Orders Oil Companies to Cut Gas Prices, Targets Chevron CEO",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Orders-Oil-Companies-to-Cut-Gas-Prices-Targets-Chevron-CEO.html",
-      "date": "2026-08-03T17:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "President Donald Trump demanded that U.S. oil companies immediately lower gasoline prices on Monday after crude futures plunged following his decision to suspend another planned military strike on Iran. In a Truth Social post, Trump instructed producers to “get your consumer (ret",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Why Have China and Russia Just Stepped Out Of The Shadows In The U.S.-Iran War?",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Why-Have-China-and-Russia-Just-Stepped-Out-Of-The-Shadows-In-The-US-Iran-War.html",
-      "date": "2026-08-03T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "As with all wars, particularly in the world’s main oil and gas repository of the Middle East, the U.S./Israel-Iran conflict has long threatened to widen out to include other interested parties aside from the main protagonists. The involvement of Washington’s and Tel Aviv’s allies",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Georgia’s Kulevi Refinery Replaces Russian Crude With Kazakh, Libyan Oil",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Georgias-Kulevi-Refinery-Replaces-Russian-Crude-With-Kazakh-Libyan-Oil.html",
-      "date": "2026-08-03T16:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Georgia’s only oil refinery has begun replacing Russian crude with supplies from Kazakhstan and Libya as owner Black Sea Petroleum races to avoid European Union sanctions that will go into effect in January. The Kulevi refinery received and processed Kazakh crude in July and will",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Why the U.S. Can't Easily Exit the Iran Conflict",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Why-the-US-Cant-Easily-Exit-the-Iran-Conflict.html",
-      "date": "2026-08-03T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "A monkey trap offers a reward such as food that, when grasped, makes the hand too large to withdraw from the hole in the trap giving access to that food. Unless the monkey lets go, the animal is stuck. Now, the obvious choice when danger arrives is to simply let go and run. But, ",
       "category": "Geopolitics"
     },
     {
@@ -340,14 +428,6 @@
       "category": "Refinery"
     },
     {
-      "title": "Chevron reports net income of $12.1bn in Q2 2026",
-      "link": "https://www.offshore-technology.com/news/chevron-q2-2026-reports/",
-      "date": "2026-07-31T13:39:43.000Z",
-      "source": "Offshore Technology",
-      "description": "Chevron has reported a net income of $12.1bn for the Q2 of 2026, marking a 384% increase from $2.5bn in the same period of 2025.",
-      "category": "General"
-    },
-    {
       "title": "Industry Groups Welcome SENRC Approval of License to Drill Act",
       "link": "https://www.rigzone.com/news/industry_groups_welcome_senrc_approval_of_license_to_drill_act-31-jul-2026-184264-article/?rss=true",
       "date": "2026-07-31T11:28:28.000Z",
@@ -370,22 +450,6 @@
       "source": "Rigzone",
       "description": "<p>Both Brent and West Texas Intermediate (WTI) oil prices were down on Friday, but still on track for notable monthly gains, Naeem Aslam, CIO at Zaye Capital M...",
       "category": "Prices"
-    },
-    {
-      "title": "Emera receives final approval for sale of New Mexico Gas",
-      "link": "https://www.offshore-technology.com/news/emera-final-approval-sale-new-mexico-gas/",
-      "date": "2026-07-31T10:11:51.000Z",
-      "source": "Offshore Technology",
-      "description": "Emera has secured final approval from the New Mexico Public Regulation Commission (NMPRC) to complete the sale of New Mexico Gas Company (NMGC) to Bernhard Capital Partners.",
-      "category": "Policy"
-    },
-    {
-      "title": "NYK targets MidOcean Energy stake via Mitsubishi SPV",
-      "link": "https://www.offshore-technology.com/news/nyk-targets-midocean-energy-stake/",
-      "date": "2026-07-31T10:04:39.000Z",
-      "source": "Offshore Technology",
-      "description": "Japanese shipping firm Nippon Yusen Kabushiki Kaisha (NYK) has announced plans to participate in an investment in MidOcean Energy, an EIG-backed liquefied natural gas (LNG) company based in the UK.",
-      "category": "Supply Routes"
     },
     {
       "title": "BP Launches Sale of North Sea Business",
