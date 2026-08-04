@@ -115,6 +115,23 @@ export default async function HomePage() {
       {/* Disruption alert */}
       <GlobalDisruptionStatusCompact site="americas" lastUpdated="2026-08-04" />
 
+      {/* Cross-site analysis — The War Is Spending Its Buffers */}
+      <a
+        href="/analysis/the-war-is-spending-its-buffers"
+        className="block rounded-lg border border-amber-600/50 bg-amber-950/20 px-4 py-3.5 hover:border-amber-500 hover:bg-amber-950/30 transition group"
+      >
+        <span className="text-[10px] font-mono font-semibold tracking-widest text-amber-400 uppercase">
+          New &middot; Cross-Site Analysis
+        </span>
+        <span className="mt-0.5 block text-base font-bold text-white leading-snug">
+          The War Is Spending Its Buffers. All of Them at Once.{' '}
+          <span className="text-amber-300 group-hover:text-white">&rarr;</span>
+        </span>
+        <span className="mt-1 block text-xs text-gray-400 leading-relaxed">
+          Reuters reports the US has used &lsquo;virtually all&rsquo; of its long-range ATACMS and PrSM missiles in five months of war, with ~65% of Patriot and &ge;38% of THAAD interceptors expended. The arsenal is the latest entry in the ledger this war has been writing since February &mdash; safe detours, fuel stocks, river depth, and now the shield over Gulf oil itself. Every buffer is a stockpile, and they are all being spent at once.
+        </span>
+      </a>
+
       {/* Analysis — Oil Falls 6%, Inflation Fears Ease, but the Fuel Market Is Still Tight */}
       <a
         href="/analysis/oil-down-fuel-market-still-tight"
