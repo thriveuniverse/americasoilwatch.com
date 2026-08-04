@@ -6,6 +6,7 @@
 
 import fs from 'fs';
 import path from 'path';
+import matter from 'gray-matter';
 
 export const revalidate = 3600;
 
@@ -64,6 +65,36 @@ function padd5Line(p: Padd5File, key: string, label: string): string {
   const word = SEASON_WORD[d.status] ?? d.status;
   const avg = d.vsAvgPct != null ? ` (${d.vsAvgPct >= 0 ? '+' : ''}${d.vsAvgPct}% vs 5-yr avg)` : '';
   return `- ${label}: ${(d.current / 1000).toFixed(1)} million barrels — ${word}${avg}`;
+}
+
+
+// Auto-generated article index: reads every analysis article's frontmatter at
+// request time (revalidated hourly), so this list can never go stale when a
+// new piece publishes. Curated "Key pages" above remain hand-written.
+function articlesIndex(): string {
+  const dir = path.join(process.cwd(), 'content', 'analysis');
+  if (!fs.existsSync(dir)) return '(no articles found)';
+  const items = fs
+    .readdirSync(dir)
+    .filter((f) => f.endsWith('.md'))
+    .map((f) => {
+      try {
+        const { data } = matter(fs.readFileSync(path.join(dir, f), 'utf-8'));
+        return {
+          slug: f.replace(/\.md$/, ''),
+          title: String(data.title ?? f),
+          date: String(data.date ?? ''),
+          excerpt: String(data.excerpt ?? '').replace(/\s+/g, ' ').trim(),
+        };
+      } catch {
+        return null;
+      }
+    })
+    .filter((a): a is { slug: string; title: string; date: string; excerpt: string } => a !== null)
+    .sort((a, b) => b.date.localeCompare(a.date));
+  return items
+    .map((a) => `- ${a.date} · ${a.title} — ${a.excerpt} https://americasoilwatch.com/analysis/${a.slug}`)
+    .join('\n');
 }
 
 export async function GET() {
@@ -146,6 +177,10 @@ Free, read-only JSON. CORS-enabled, no key required.
 - The Chokepoints Are Becoming Tollbooths — within four weeks Washington (20% Hormuz fee, withdrawn), an Omani joint-management scheme (refused by Tehran) and the Houthis (fees on Bab el-Mandeb, under consideration) all proposed charging for passage through the same two waterways. The analytical point: a toll differs from extortion because it needs an authority and a rule about who is exempt — and the reported Chinese exemption makes it a claim to jurisdiction, splitting shipping into those exempt, those who pay and those who sail round Africa. Includes the Danish Sound Dues (c.1429–1857) as a historical, not legal, precedent: https://americasoilwatch.com/analysis/chokepoints-becoming-tollbooths
 - Hormuz, Bab el-Mandeb, Suez: The Oil Market Is Running Out of Safe Detours — the cascade chain, dated link by link: each escape route inherits the load, then the threat, of the one before (Hormuz → Yanbu → Bab el-Mandeb → Suez/SUMED, where Sidi Kerir loadings surged and a drone struck Damietta, unattributed). The mechanism: traffic paints the target economically — every workaround concentrates more consequence onto fewer surviving corridors, so each subsequent disruption does disproportionately more damage (convexity). Includes the remaining-detours ledger (Cape +3 weeks; NSR seasonal and Russian; ADNOC's storage-outside-the-trap): https://americasoilwatch.com/analysis/running-out-of-safe-detours
 - Methodology:         https://americasoilwatch.com/methodology
+
+## All analysis articles (auto-generated from article frontmatter; newest first)
+
+${articlesIndex()}
 
 ## Data sources
 
