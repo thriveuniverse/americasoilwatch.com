@@ -1,8 +1,112 @@
 {
-  "lastUpdated": "2026-08-04T19:21:20.012Z",
+  "lastUpdated": "2026-08-05T08:48:42.171Z",
   "summary": null,
-  "count": 91,
+  "count": 83,
   "articles": [
+    {
+      "title": "China’s Power Demand Hits Records as Heatwave Grips Key Regions",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Power-Demand-Hits-Records-as-Heatwave-Grips-Key-Regions.html",
+      "date": "2026-08-05T08:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Electricity demand in much of China hit a record this week due to scorching summer temperatures, driving grid loads to all-time highs, the State Grid Corporation of China said today, as cited by Reuters. On Monday and Tuesday, the company said, electricity loads reached a record ",
+      "category": "General"
+    },
+    {
+      "title": "Saudis Hold Talks with Houthis",
+      "link": "https://www.rigzone.com/news/saudis_hold_talks_with_houthis-05-aug-2026-184296-article/?rss=true",
+      "date": "2026-08-05T08:21:09.000Z",
+      "source": "Rigzone",
+      "description": "<p>Saudi Arabia wants to contain a renewed conflict with Houthi militants through behind-the-scenes diplomacy, according to people familiar with the matter, in ...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "BP Q2 2026 profit surges 124% to $4.33bn",
+      "link": "https://www.offshore-technology.com/news/bp-q2-2026-profit-4-33bn/",
+      "date": "2026-08-05T07:52:51.000Z",
+      "source": "Offshore Technology",
+      "description": "BP has announced a profit of $4.33bn for the second quarter of 2026 (Q2 2026), marking a 124.35% increase from the $1.93bn recorded in the same quarter of the previous year.",
+      "category": "General"
+    },
+    {
+      "title": "China Eases Fuel Export Curbs as Global Supply Crunch Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Eases-Fuel-Export-Curbs-as-Global-Supply-Crunch-Deepens.html",
+      "date": "2026-08-05T07:15:00.000Z",
+      "source": "OilPrice.com",
+      "description": "China has partially lifted fuel export restrictions imposed earlier this year, allowing refiners to export 2.7 million tons of oil derivatives to destinations excluding Hong Kong and Macau, Reuters has reported, citing unnamed sources with knowledge of the matter. The temporary e",
+      "category": "Refinery"
+    },
+    {
+      "title": "Hormuz Tanker Traffic Remains Subdued Despite Reports of Peace Talks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Remains-Subdued-Despite-Reports-of-Peace-Talks.html",
+      "date": "2026-08-05T06:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Five tankers passed through the Strait of Hormuz yesterday, with three of them entering the waterway and two exiting, Reuters reported earlier today, citing data from Kpler that shows traffic in the chokepoint remains severely constrained despite a slew of reports on peace effort",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Middle East War Triggers New Global Refining Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html",
+      "date": "2026-08-05T00:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "For the second time this decade, a war has upended global oil markets and sent oil prices and refining margins to multi-year highs, benefitting the world’s biggest oil companies and top refiners. The war in Iran has tightened fuel supply as crude oil has struggled to move through",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "China, Turkey Relations Strained After EV Investment Fallout",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Turkey-Relations-Strained-After-EV-Investment-Fallout.html",
+      "date": "2026-08-04T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "China and Turkey spent years strengthening a strategic partnership built on trade, investment and access to European markets. The sudden collapse of a flagship $1 billion Chinese investment now threatens to slow one of Beijing’s most important economic relationships in the region",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "U.S. Hits New Obstacle on Critical Mineral Security Course",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Hits-New-Obstacle-on-Critical-Mineral-Security-Course.html",
+      "date": "2026-08-04T22:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The race for critical metals and minerals has been heating up since President Trump took office, pitting the U.S. against many of its international allies. Yet while the federal government spends billions to build a position in critical minerals and challenge China’s dominance, t",
+      "category": "General"
+    },
+    {
+      "title": "Fishlike Nanorobots Could Become America’s Answer to China’s Lithium Grip",
+      "link": "https://oilprice.com/Metals/Commodities/Fishlike-Nanorobots-Could-Become-Americas-Answer-to-Chinas-Lithium-Grip.html",
+      "date": "2026-08-04T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Lithium has become a hot-button geopolitical issue as the critical mineral has become omnipresent and all-important in the tech and energy sectors. Chances are very good that you have more than one device powered by a lithium-ion battery within arm’s reach at this very moment, an",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "US Crude Oil Inventories Build As Washington Talks Up Potential Peace Deal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-As-Washington-Talks-Up-Potential-Peace-Deal.html",
+      "date": "2026-08-04T20:44:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States rose by 2.69 million barrels in the week ending July 30, despite analyst expectations for a 2 million barrel draw. In the week prior, US crude oil inventories fell by 3.3 million barr",
+      "category": "Production"
+    },
+    {
+      "title": "Brent Settles At Three-Week Low",
+      "link": "https://www.rigzone.com/news/brent_settles_at_threeweek_low-04-aug-2026-184295-article/?rss=true",
+      "date": "2026-08-04T20:10:22.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil slid to the lowest in over three weeks as optimism grew that the US and Iran are moving closer to an agreement that would reopen the vital Strait of Horm...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "North America Adds Rigs for 3 Straight Weeks",
+      "link": "https://www.rigzone.com/news/north_america_adds_rigs_for_3_straight_weeks-04-aug-2026-184294-article/?rss=true",
+      "date": "2026-08-04T20:00:01.000Z",
+      "source": "Rigzone",
+      "description": "<p>North America added 16 rigs week on week, according to Baker Hughes’ latest North America rotary rig count, which was published on July 31.</p> <p>The tot...",
+      "category": "Production"
+    },
+    {
+      "title": "China's EV Boom Is Quietly Undermining Oil's Biggest Chokepoint",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-EV-Boom-Is-Quietly-Undermining-Oils-Biggest-Chokepoint.html",
+      "date": "2026-08-04T20:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The conventional view of the Hormuz crisis is that China has been caught in an energy trap. It is the world’s largest crude importer, the Gulf remains one of its most important sources of supply, and an estimated 45–50% of Chinese crude imports normally transit the Strait of Horm",
+      "category": "Supply Routes"
+    },
     {
       "title": "Pakistan Bets on Security and Trade as Ties with Iran Grow",
       "link": "https://oilprice.com/Geopolitics/Middle-East/Pakistan-Bets-on-Security-and-Trade-as-Ties-with-Iran-Grow.html",
@@ -52,22 +156,6 @@
       "category": "Prices"
     },
     {
-      "title": "Oil Extends Losses After US, Qatar Signal Progress on Iran Draft Deal",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Extends-Losses-After-US-Qatar-Signal-Progress-on-Iran-Draft-Deal.html",
-      "date": "2026-08-04T15:45:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Brent crude fell back to around $80 per barrel after renewed optimism over a potential US-Iran draft agreement eased geopolitical fears, even as President Trump criticized US refiners for high fuel profits. Trump Takes Aim at Big Oil’s War Profits - Runaway Q2 earnings of US oil ",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Pentagon Scraps $300 Million Lithium Tender for Defense Stockpile",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pentagon-Scraps-300-Million-Lithium-Tender-for-Defense-Stockpile.html",
-      "date": "2026-08-04T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The U.S. Department of Defense has canceled a tender to buy up to $300 million worth of lithium carbonate for the national strategic stockpile in another blow to the Administration looking to secure critical minerals for the defense and other strategic industries. DoD’s Defense L",
-      "category": "Policy"
-    },
-    {
       "title": "Qatar, Bessent Signal Progress on Short Term USA-Iran Deal",
       "link": "https://www.rigzone.com/news/qatar_bessent_signal_progress_on_short_term_usairan_deal-04-aug-2026-184293-article/?rss=true",
       "date": "2026-08-04T14:41:02.000Z",
@@ -82,30 +170,6 @@
       "source": "Rigzone",
       "description": "<p>Saudi Aramco reported a 33% increase in second-quarter profit as it benefited from a war-driven surge in oil prices, while keeping exports flowing through a ...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "India's HPCL Snaps Up Nigerian Crude To Dodge The Hormuz Bottleneck",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-HPCL-Snaps-Up-Nigerian-Crude-To-Dodge-The-Hormuz-Bottleneck.html",
-      "date": "2026-08-04T14:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Indian state-owned refiner Hindustan Petroleum Corporation Limited (HPCL) has bought 2 million barrels of crude from Nigeria, trading sources told Reuters on Tuesday, as India looks to offset the loss of supply from the Middle East with deliveries from producers farther away. HPC",
-      "category": "Refinery"
-    },
-    {
-      "title": "BP Retreats Further From Green Energy With Archaea Sale",
-      "link": "https://oilprice.com/Energy/Energy-General/BP-Retreats-Further-From-Green-Energy-With-Archaea-Sale.html",
-      "date": "2026-08-04T14:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "BP has announced that it will offload its US biogas business just days after confirming its exit from the North Sea, as the firm looks to shift its focus back to core oil and gas products. The London-listed oil giant has previously told investors it planned to market assets acros",
-      "category": "Prices"
-    },
-    {
-      "title": "Hormuz Tanker Traffic Stalls at Two-Month Low as Attacks Escalate",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Stalls-at-Two-Month-Low-as-Attacks-Escalate.html",
-      "date": "2026-08-04T13:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Traffic at the Strait of Hormuz remains at the lowest in more than two months as security concerns have intensified with recent attacks on ships and persistent threats to shipping in the region. After a brief respite between the middle of June and early July, when traffic at Horm",
-      "category": "Supply Routes"
     },
     {
       "title": "Aramco Plans to Boost Oil Export Capacity",
@@ -132,28 +196,12 @@
       "category": "General"
     },
     {
-      "title": "Pakistan Partners with Canadian Firm to Boost Domestic Heavy Crude Output",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Partners-with-Canadian-Firm-to-Boost-Domestic-Heavy-Crude-Output.html",
-      "date": "2026-08-04T12:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Pakistan's national Oil and Gas Development Company Limited (OGDC) has signed an agreement with a Canadian firm to deploy advanced technology to boost production from heavy crude oilfields, the largest Pakistani exploration and production firm has said. Under the agreement with C",
-      "category": "Production"
-    },
-    {
       "title": "Crescent Energy Bumps Up Production Forecast",
       "link": "https://www.rigzone.com/news/crescent_energy_bumps_up_production_forecast-04-aug-2026-184290-article/?rss=true",
       "date": "2026-08-04T12:10:10.000Z",
       "source": "Rigzone",
       "description": "<p>Crescent Energy Co now expects its full-year production to range from 327,000 barrels of oil equivalent a day (boed) to 335,000 boed, of which 40-42 percent ...",
       "category": "Production"
-    },
-    {
-      "title": "India Expands Oil Storage Sites After Shock Supply Disruption",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Expands-Oil-Storage-Sites-After-Shock-Supply-Disruption.html",
-      "date": "2026-08-04T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India’s state-owned Oil and Natural Gas Corporation (ONGC), the top explorer in the country, will build a new storage site at Mangaluru to hold about 13 million barrels of oil as the world’s third-largest crude oil importer looks to boost its resilience to supply shocks. In the w",
-      "category": "Supply Routes"
     },
     {
       "title": "USA Gas Prices Could Hit Record This Week",
@@ -180,14 +228,6 @@
       "category": "Prices"
     },
     {
-      "title": "BP Earnings Surge to $5.7 Billion on Oil Price and Refining Boom",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Earnings-Surge-to-57-Billion-on-Oil-Price-and-Refining-Boom.html",
-      "date": "2026-08-04T10:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "BP more than doubled its profit for the second quarter from a year earlier on the back of higher oil and gas prices and stronger refining margins driven by the shock supply disruption in the Middle East. BP on Tuesday reported an underlying replacement cost (RC) profit, the close",
-      "category": "Prices"
-    },
-    {
       "title": "Petrobras identifies new gas deposit at Sandia-1 well in Colombia",
       "link": "https://www.offshore-technology.com/news/petrobras-gas-deposit-sandia-1-well-colombia/",
       "date": "2026-08-04T09:52:52.000Z",
@@ -210,14 +250,6 @@
       "source": "Rigzone",
       "description": "<p>In a report sent to Rigzone by the Fitch Group on Monday, analysts at BMI, a unit of Fitch Solutions, outlined that they continue to believe a broader diplom...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Saudi Aramco’s Adjusted Profit Jumps 33% as Oil Prices Surge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
-      "date": "2026-08-04T09:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Saudi Aramco saw its adjusted net income jump by 33% for the second quarter from a year earlier as high oil prices and the oil giant’s ability to re-route most crude exports more than offset the constrained flows at the Strait of Hormuz. The state giant Aramco on Tuesday reported",
-      "category": "Supply Routes"
     },
     {
       "title": "San Mateo Midstream closes $752m acquisition of Cardinal Midstream",
@@ -345,14 +377,6 @@
       "date": "2026-08-03T10:10:49.000Z",
       "source": "Offshore Technology",
       "description": "The Indian Union Cabinet has approved the Samudra Manthan, with a total allocated budget of Rs840.84bn ($8.83bn).",
-      "category": "General"
-    },
-    {
-      "title": "Shell to sell BG Cyprus and Aphrodite gas stake to MOL Group",
-      "link": "https://www.offshore-technology.com/news/shell-aphrodite-gas-stake-mol-group/",
-      "date": "2026-08-03T08:28:45.000Z",
-      "source": "Offshore Technology",
-      "description": "Shell has agreed to sell its wholly-owned subsidiary BG Cyprus and its Aphrodite gas field stake to MOL Group for up to $720m.",
       "category": "General"
     },
     {
@@ -642,94 +666,6 @@
       "source": "Rigzone",
       "description": "<p>Abu Dhabi National Oil Co. is pushing on with liquefied natural gas exports from its Persian Gulf plant, even as renewed hostilities in the region force prod...",
       "category": "Refinery"
-    },
-    {
-      "title": "Australia to Study First New Oil Refinery Since 60s",
-      "link": "https://www.rigzone.com/news/australia_to_study_first_new_oil_refinery_since_60s-28-jul-2026-184235-article/?rss=true",
-      "date": "2026-07-28T21:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Australian federal and state governments and industrial company Perdaman Group will study the feasibility of a new oil refinery in a move to rebuild domestic...",
-      "category": "Refinery"
-    },
-    {
-      "title": "Oil Tumbles on Diplomatic Optimism",
-      "link": "https://www.rigzone.com/news/oil_tumbles_on_diplomatic_optimism-28-jul-2026-184237-article/?rss=true",
-      "date": "2026-07-28T20:08:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil notched its worst three-day stretch in more than six years as traders glommed onto growing signs of deescalation in the Middle East conflict, with both t...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "North America Enters Rig Addition Streak",
-      "link": "https://www.rigzone.com/news/north_america_enters_rig_addition_streak-28-jul-2026-184236-article/?rss=true",
-      "date": "2026-07-28T14:56:21.000Z",
-      "source": "Rigzone",
-      "description": "<p>North America added five rigs week on week, according to Baker Hughes’ latest North America rotary rig count, which was published on July 24.</p> <p>Altho...",
-      "category": "Production"
-    },
-    {
-      "title": "Russia, Iran Sanctions Bill Clears Key Hurdle in Senate",
-      "link": "https://www.rigzone.com/news/russia_iran_sanctions_bill_clears_key_hurdle_in_senate-28-jul-2026-184234-article/?rss=true",
-      "date": "2026-07-28T14:41:09.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 29, 2026, 2:00 AM GMT+1: Article ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "States Oppose FERC Plan to Widen Blanket Gas Pipeline Permitting",
-      "link": "https://www.rigzone.com/news/states_oppose_ferc_plan_to_widen_blanket_gas_pipeline_permitting-28-jul-2026-184233-article/?rss=true",
-      "date": "2026-07-28T14:15:05.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 29, 2026, 8:36 AM GMT: Article up...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Baker Hughes Posts Nearly 50 Percent YoY Increase in Orders",
-      "link": "https://www.rigzone.com/news/baker_hughes_posts_nearly_50_percent_yoy_increase_in_orders-28-jul-2026-184232-article/?rss=true",
-      "date": "2026-07-28T12:39:35.000Z",
-      "source": "Rigzone",
-      "description": "<p>Baker Hughes has reported $10.5 billion in orders for the second quarter (Q2), up 49 percent from the same three-month period last year and 29 percent agains...",
-      "category": "General"
-    },
-    {
-      "title": "Oil Market Rapidly Strips Out Iran War Premium",
-      "link": "https://www.rigzone.com/news/oil_market_rapidly_strips_out_iran_war_premium-28-jul-2026-184231-article/?rss=true",
-      "date": "2026-07-28T10:50:26.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil prices dropped yesterday and today as the market rapidly stripped out its Iran war premium, Petros Pantzari, Chief Dealer at Monaxa, said in a statement ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Barossa Ships First Condensate Cargo to South Korea",
-      "link": "https://www.rigzone.com/news/barossa_ships_first_condensate_cargo_to_south_korea-28-jul-2026-184230-article/?rss=true",
-      "date": "2026-07-28T10:36:23.000Z",
-      "source": "Rigzone",
-      "description": "<p>Santos Ltd said Monday it had dispatched the first sales cargo of condensate produced from the Barossa gas project in Australia's Northern Territory to a Sou...",
-      "category": "Supply Routes"
-    },
-    {
-      "title": "Tributes Pour in for Sir Ian Wood",
-      "link": "https://www.rigzone.com/news/tributes_pour_in_for_sir_ian_wood-28-jul-2026-184229-article/?rss=true",
-      "date": "2026-07-28T09:58:42.000Z",
-      "source": "Rigzone",
-      "description": "<p>Tributes have poured in for Sir Ian Wood following news that the Aberdeen-based businessman has passed away.</p> <p>David Whitehouse, Chief Executive of i...",
-      "category": "Policy"
-    },
-    {
-      "title": "Eni Greenlights Cyprus' First Hydrocarbon Project",
-      "link": "https://www.rigzone.com/news/eni_greenlights_cyprus_first_hydrocarbon_project-28-jul-2026-184228-article/?rss=true",
-      "date": "2026-07-28T09:05:26.000Z",
-      "source": "Rigzone",
-      "description": "<p>Eni SpA has made a final investment decision to develop the Cronos deepwater gas field, which it said is the Mediterranean island country's \"inaugural hydroc...",
-      "category": "General"
-    },
-    {
-      "title": "Oil Tankers Reroute to Egypt amid Houthi Threat",
-      "link": "https://www.rigzone.com/news/oil_tankers_reroute_to_egypt_amid_houthi_threat-28-jul-2026-184227-article/?rss=true",
-      "date": "2026-07-28T07:48:21.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 29, 2026, 8:24 AM GMT: Article up...",
-      "category": "Supply Routes"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-04T19:21:10.209Z",
+  "lastUpdated": "2026-08-05T08:48:33.077Z",
   "latestDataPeriod": "2026-03",
   "dataSource": "U.S. Energy Information Administration — International data, product 53 (Total petroleum and other liquids), activity 1 (Production)",
   "quotaSource": "OPEC+ Declaration of Cooperation (JMMC schedule as of late 2024 — updated periodically as cartel adjusts)",
   "publicationLag": "EIA international data is published with a ~3-month lag. Data through 2026-03 does not yet reflect the Hormuz war period.",
   "totals": {
-    "opecKbpd": 22474,
-    "opecNonExemptKbpd": 16700,
+    "opecKbpd": 24890,
+    "opecNonExemptKbpd": 18017,
     "nonOpecKbpd": 14972,
     "nonOpecNonExemptKbpd": 14972,
-    "combinedKbpd": 37446,
+    "combinedKbpd": 39862,
     "opecQuotaKbpd": 21058,
     "nonOpecQuotaKbpd": 12439,
     "combinedQuotaKbpd": 33497,
-    "opecComplianceKbpd": -4358,
+    "opecComplianceKbpd": -3041,
     "nonOpecComplianceKbpd": 2533
   },
   "members": [
@@ -643,10 +643,155 @@
       "name": "Kuwait",
       "group": "OPEC",
       "quotaKbpd": 2413,
-      "latestKbpd": null,
-      "latestPeriod": null,
-      "history": [],
-      "vsQuota": null
+      "latestKbpd": 1316.536803446,
+      "latestPeriod": "2026-03",
+      "history": [
+        {
+          "period": "2023-04",
+          "kbpd": 2937.4506427987
+        },
+        {
+          "period": "2023-05",
+          "kbpd": 2877.4358512826
+        },
+        {
+          "period": "2023-06",
+          "kbpd": 2877.3732003317
+        },
+        {
+          "period": "2023-07",
+          "kbpd": 2857.3940047948
+        },
+        {
+          "period": "2023-08",
+          "kbpd": 2847.3964804094
+        },
+        {
+          "period": "2023-09",
+          "kbpd": 2887.37985
+        },
+        {
+          "period": "2023-10",
+          "kbpd": 2827.437380079
+        },
+        {
+          "period": "2023-11",
+          "kbpd": 2859.3926461321
+        },
+        {
+          "period": "2023-12",
+          "kbpd": 2829.334692361
+        },
+        {
+          "period": "2024-01",
+          "kbpd": 2761.431809513
+        },
+        {
+          "period": "2024-02",
+          "kbpd": 2761.317925686
+        },
+        {
+          "period": "2024-03",
+          "kbpd": 2791.385193644
+        },
+        {
+          "period": "2024-04",
+          "kbpd": 2811.376338885
+        },
+        {
+          "period": "2024-05",
+          "kbpd": 2811.39813568
+        },
+        {
+          "period": "2024-06",
+          "kbpd": 2791.399516566
+        },
+        {
+          "period": "2024-07",
+          "kbpd": 2751.559531408
+        },
+        {
+          "period": "2024-08",
+          "kbpd": 2751.586777349
+        },
+        {
+          "period": "2024-09",
+          "kbpd": 2761.404187496
+        },
+        {
+          "period": "2024-10",
+          "kbpd": 2761.413292221
+        },
+        {
+          "period": "2024-11",
+          "kbpd": 2731.40198472
+        },
+        {
+          "period": "2024-12",
+          "kbpd": 2761.378387292
+        },
+        {
+          "period": "2025-01",
+          "kbpd": 2736.469172428
+        },
+        {
+          "period": "2025-02",
+          "kbpd": 2746.460202
+        },
+        {
+          "period": "2025-03",
+          "kbpd": 2766.489069041
+        },
+        {
+          "period": "2025-04",
+          "kbpd": 2776.458110879
+        },
+        {
+          "period": "2025-05",
+          "kbpd": 2806.458185929
+        },
+        {
+          "period": "2025-06",
+          "kbpd": 2816.368394674
+        },
+        {
+          "period": "2025-07",
+          "kbpd": 2796.389301278
+        },
+        {
+          "period": "2025-08",
+          "kbpd": 2766.433082815
+        },
+        {
+          "period": "2025-09",
+          "kbpd": 2866.384350547
+        },
+        {
+          "period": "2025-10",
+          "kbpd": 2816.425499713
+        },
+        {
+          "period": "2025-11",
+          "kbpd": 2856.419318615
+        },
+        {
+          "period": "2025-12",
+          "kbpd": 2906.363007594
+        },
+        {
+          "period": "2026-01",
+          "kbpd": 2881.501853742
+        },
+        {
+          "period": "2026-02",
+          "kbpd": 2881.442426817
+        },
+        {
+          "period": "2026-03",
+          "kbpd": 1316.536803446
+        }
+      ],
+      "vsQuota": -1096
     },
     {
       "code": "VEN",
@@ -654,9 +799,154 @@
       "group": "OPEC",
       "quotaKbpd": null,
       "exemptReason": "Exempt — sanctions / production capacity",
-      "latestKbpd": null,
-      "latestPeriod": null,
-      "history": [],
+      "latestKbpd": 1099.009359354,
+      "latestPeriod": "2026-03",
+      "history": [
+        {
+          "period": "2023-04",
+          "kbpd": 809.0946686382
+        },
+        {
+          "period": "2023-05",
+          "kbpd": 829.1325695679
+        },
+        {
+          "period": "2023-06",
+          "kbpd": 829.2931027591
+        },
+        {
+          "period": "2023-07",
+          "kbpd": 859.2397945999
+        },
+        {
+          "period": "2023-08",
+          "kbpd": 829.2334512278
+        },
+        {
+          "period": "2023-09",
+          "kbpd": 804.276065
+        },
+        {
+          "period": "2023-10",
+          "kbpd": 804.128652268
+        },
+        {
+          "period": "2023-11",
+          "kbpd": 819.2432759592
+        },
+        {
+          "period": "2023-12",
+          "kbpd": 829.391773367
+        },
+        {
+          "period": "2024-01",
+          "kbpd": 839.142925967
+        },
+        {
+          "period": "2024-02",
+          "kbpd": 874.434735331
+        },
+        {
+          "period": "2024-03",
+          "kbpd": 874.262371785
+        },
+        {
+          "period": "2024-04",
+          "kbpd": 889.28506071
+        },
+        {
+          "period": "2024-05",
+          "kbpd": 909.254289469
+        },
+        {
+          "period": "2024-06",
+          "kbpd": 899.250741551
+        },
+        {
+          "period": "2024-07",
+          "kbpd": 908.817282928
+        },
+        {
+          "period": "2024-08",
+          "kbpd": 928.747456634
+        },
+        {
+          "period": "2024-09",
+          "kbpd": 939.238740505
+        },
+        {
+          "period": "2024-10",
+          "kbpd": 949.215347687
+        },
+        {
+          "period": "2024-11",
+          "kbpd": 889.244400108
+        },
+        {
+          "period": "2024-12",
+          "kbpd": 929.305029107
+        },
+        {
+          "period": "2025-01",
+          "kbpd": 969.134548578
+        },
+        {
+          "period": "2025-02",
+          "kbpd": 979.157757
+        },
+        {
+          "period": "2025-03",
+          "kbpd": 989.083074363
+        },
+        {
+          "period": "2025-04",
+          "kbpd": 999.163165738
+        },
+        {
+          "period": "2025-05",
+          "kbpd": 1009.162971578
+        },
+        {
+          "period": "2025-06",
+          "kbpd": 1019.395269124
+        },
+        {
+          "period": "2025-07",
+          "kbpd": 1019.341181976
+        },
+        {
+          "period": "2025-08",
+          "kbpd": 1034.22791545
+        },
+        {
+          "period": "2025-09",
+          "kbpd": 1039.353989935
+        },
+        {
+          "period": "2025-10",
+          "kbpd": 1044.247533574
+        },
+        {
+          "period": "2025-11",
+          "kbpd": 1044.263524594
+        },
+        {
+          "period": "2025-12",
+          "kbpd": 994.409205954
+        },
+        {
+          "period": "2026-01",
+          "kbpd": 869.100279529
+        },
+        {
+          "period": "2026-02",
+          "kbpd": 1019.254876163
+        },
+        {
+          "period": "2026-03",
+          "kbpd": 1099.009359354
+        }
+      ],
       "vsQuota": null
     },
     {
