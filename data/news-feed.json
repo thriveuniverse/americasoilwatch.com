@@ -1,8 +1,136 @@
 {
-  "lastUpdated": "2026-08-06T08:50:33.842Z",
+  "lastUpdated": "2026-08-06T14:42:12.358Z",
   "summary": null,
-  "count": 85,
+  "count": 90,
   "articles": [
+    {
+      "title": "Aramco Flags 'Historical Supply Constraints'",
+      "link": "https://www.rigzone.com/news/aramco_flags_historical_supply_constraints-06-aug-2026-184315-article/?rss=true",
+      "date": "2026-08-06T14:34:20.000Z",
+      "source": "Rigzone",
+      "description": "<p>In its latest results statement, Aramco revealed that it achieved total hydrocarbon production of 9.5 million barrels of oil equivalent per day in the second...",
+      "category": "Production"
+    },
+    {
+      "title": "Angola Confirms New Offshore Oil and Gas Reserves With Katambi-2 Well",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Angola-Confirms-New-Offshore-Oil-and-Gas-Reserves-With-Katambi-2-Well.html",
+      "date": "2026-08-06T14:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Angola's state-owned oil firm Sonangol and its partner in an exploration block offshore Angola, ANPG, successfully drilled an appraisal well that showed good reservoir potential for both oil and gas production. Sonangol and ANGP announced on Thursday the successful completion of ",
+      "category": "Production"
+    },
+    {
+      "title": "Saudis Cut Key Oil Price Again",
+      "link": "https://www.rigzone.com/news/saudis_cut_key_oil_price_again-06-aug-2026-184313-article/?rss=true",
+      "date": "2026-08-06T14:17:39.000Z",
+      "source": "Rigzone",
+      "description": "<p>Saudi Arabia cut its main crude oil price as some Persian Gulf producers continue to send barrels through the <a href=\"https://www.bloomberg.com/news/article...",
+      "category": "Prices"
+    },
+    {
+      "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Added-More-Nuclear-Power-In-A-Decade-Than-The-Rest-Of-The-World-Combined.html",
+      "date": "2026-08-06T14:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Global nuclear power generation reached an all-time high in 2025, and China supplied all of the net growth. According to the latest Statistical Review of World Energy, nuclear plants generated 2,845 terawatt-hours worldwide last year, up 30 terawatt-hours, or 1.3%, from 2024. Chi",
+      "category": "Refinery"
+    },
+    {
+      "title": "Gulf Shipping Grinds to a Halt Following Houthi Missile Claim",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Shipping-Grinds-to-a-Halt-Following-Houthi-Missile-Claim.html",
+      "date": "2026-08-06T13:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Vessel traffic at the Strait of Hormuz and the Bab el-Mandeb Strait crumbled on Wednesday from the previous day amid a Houthi claim they have hit a Saudi oil tanker in the Red Sea and hopes that Oman and Iran could reach a deal on jointly managing Hormuz. On Wednesday, only two v",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Indian Refiners Continue West Africa Crude Buying Spree",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Continue-West-Africa-Crude-Buying-Spree.html",
+      "date": "2026-08-06T12:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "India’s state-run refiners continue their buying spree of crude from West Africa as the Middle East crisis has sapped supply and made deliveries uncertain. In one of the latest purchases via a tender, India’s state-owned refiner Hindustan Petroleum Corporation Limited (HPCL) has ",
+      "category": "Refinery"
+    },
+    {
+      "title": "How Did USA Upstream M&A Activity Look in 2Q 2026?",
+      "link": "https://www.rigzone.com/news/how_did_usa_upstream_ma_activity_look_in_2q_2026-06-aug-2026-184312-article/?rss=true",
+      "date": "2026-08-06T11:37:37.000Z",
+      "source": "Rigzone",
+      "description": "<p>In a statement sent to Rigzone by Enverus this week, the company’s subsidiary, Enverus Intelligence Research (EIR), announced that U.S. upstream merger and a...",
+      "category": "Production"
+    },
+    {
+      "title": "Nigeria Eyes $50 Billion From 22 Offshore Oil and Gas Projects",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Nigeria-Eyes-50-Billion-From-22-Offshore-Oil-and-Gas-Projects.html",
+      "date": "2026-08-06T11:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Nigeria expects to attract investments worth between $30 billion and $50 billion from 22 offshore oil and gas projects over the nest five years, the country’s Upstream Petroleum Regulatory Commission has said. “Beyond increasing production, these investments will create jobs, exp",
+      "category": "Production"
+    },
+    {
+      "title": "Lessons from the Iran war: China’s oil buffer and energy resilience, tested",
+      "link": "https://www.offshore-technology.com/news/lessons-from-the-iran-war-chinas-oil-buffer-and-energy-resilience-tested-2/",
+      "date": "2026-08-06T11:06:14.000Z",
+      "source": "Offshore Technology",
+      "description": "This episode analyses China's resilience against energy shocks, in light of global oil flow disruptions caused by the Iran war.",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Phillips 66 Profit Soars",
+      "link": "https://www.rigzone.com/news/phillips_66_profit_soars-06-aug-2026-184310-article/?rss=true",
+      "date": "2026-08-06T11:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Phillips 66 on Wednesday reported $3.85 billion in net income and $3.79 billion in net income adjusted for nonrecurring items for the second quarter (Q2).</p...",
+      "category": "General"
+    },
+    {
+      "title": "Europe's Gas Storage Hits Lowest Level Since 2011 as Winter Looms",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Storage-Hits-Lowest-Level-Since-2011-as-Winter-Looms.html",
+      "date": "2026-08-06T10:30:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Europe faces spiking natural gas prices this winter amid the lowest gas storage levels in more than a decade and tightening LNG markets amid the Middle East crisis. EU storage sites were only 57% full as of August 5, data from Gas Infrastructure Europe shows. That’s the lowest le",
+      "category": "Prices"
+    },
+    {
+      "title": "What Has Been the One Constant Through Hormuz Turmoil?",
+      "link": "https://www.rigzone.com/news/what_has_been_the_one_constant_through_hormuz_turmoil-06-aug-2026-184311-article/?rss=true",
+      "date": "2026-08-06T10:17:08.000Z",
+      "source": "Rigzone",
+      "description": "<p>The oil market story of 2026 remains “extraordinary”, analysis by the S&P Global Energy Crude Oil Markets team, which was sent to Rigzone this week, highligh...",
+      "category": "Prices"
+    },
+    {
+      "title": "Phillips 66 net profit rises 339% to $3.8bn in Q2 2026",
+      "link": "https://www.offshore-technology.com/news/phillips-66-q2-2026-results/",
+      "date": "2026-08-06T10:16:03.000Z",
+      "source": "Offshore Technology",
+      "description": "Phillips 66 reported net earnings of $3.8bn for Q2 2026, an increase of 339% from $877m in the same period of the previous year.",
+      "category": "General"
+    },
+    {
+      "title": "ECOnnect Energy to supply FLNG terminal for Bahamas project",
+      "link": "https://www.offshore-technology.com/news/econnect-floating-lng-terminal-bahamas/",
+      "date": "2026-08-06T09:40:09.000Z",
+      "source": "Offshore Technology",
+      "description": "ECOnnect Energy has agreed to supply a floating liquefied natural gas (LNG) import terminal to New Providence Gas (NPG) in the Bahamas.",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "How the UAE Has Kept Its Oil Flowing Through Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/How-the-UAE-Has-Kept-Its-Oil-Flowing-Through-Hormuz.html",
+      "date": "2026-08-06T09:40:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The United Arab Emirates has managed to boost its oil exports to pre-crisis levels as early as June, as it has kept pushing crude through the Strait of Hormuz and outside it. The UAE, which left OPEC on May 1, has found workarounds to the blockage at the Strait of Hormuz. It has ",
+      "category": "Supply Routes"
+    },
+    {
+      "title": "Gran Tierra to sell Colombia and Ecuador oil assets to Maurel & Prom",
+      "link": "https://www.offshore-technology.com/news/gran-tierra-maurel-prom-oil-assets-deal/",
+      "date": "2026-08-06T08:47:56.000Z",
+      "source": "Offshore Technology",
+      "description": "Gran Tierra Energy has agreed to sell all its oil and gas operations in Colombia and Ecuador to Établissements Maurel & Prom (M&P).",
+      "category": "General"
+    },
     {
       "title": "China’s Top Refiner Pivots to Russian Crude",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Top-Refiner-Pivots-to-Russian-Crude.html",
@@ -106,62 +234,6 @@
       "source": "Rigzone",
       "description": "<p>Oil fell for a third straight session on signs that the US and Iran are nearing a deal to reopen the Strait of Hormuz and restore millions of barrels of dail...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "Hormuz Crisis Is Rewriting the Global LPG Trade",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html",
-      "date": "2026-08-05T19:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "The Strait of Hormuz, the Middle East’s main choke point, is effectively closed as Iranian attacks on vessels continue, and the ripple effect is tearing through global supply chains. While crude oil and natural gas disruptions have grabbed headlines, liquefied petroleum gas (LPG)",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "China Accelerates Its Economic Push Across Central Asia",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Accelerates-Its-Economic-Push-Across-Central-Asia.html",
-      "date": "2026-08-05T18:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Uzbekistan, one of Central Asia’s economic drivers, is experiencing a significant expansion of Chinese economic influence. Bilateral trade during the first half of 2026 grew to $7.7 billion, according to official Uzbek government data, making China by far Uzbekistan’s largest tra",
-      "category": "General"
-    },
-    {
-      "title": "India Hopes To Take Over Operation Of Venezuelan Oil Fields From PDVSA",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Hopes-To-Take-Over-Operation-Of-Venezuelan-Oil-Fields-From-PDVSA.html",
-      "date": "2026-08-05T17:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India’s ONGC is poised to take over operation of two Venezuelan oil projects from state-owned PDVSA, which would give the Indian producer direct operational control over assets of the world’s largest proven crude oil reserves. Reuters exclusively reported Wednesday that ONGC expe",
-      "category": "Production"
-    },
-    {
-      "title": "Aramco's Record Profits Hide a Growing Cash Flow Crisis",
-      "link": "https://oilprice.com/Energy/Energy-General/Aramcos-Record-Profits-Hide-a-Growing-Cash-Flow-Crisis.html",
-      "date": "2026-08-05T17:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "While most media are focusing on the financial windfall due to the geopolitical turmoil (Iran war), Saudi Aramco's second-quarter 2026 results hide risks facing the Kingdom. The world’s largest oil producer’s adjusted net income has reached $33.4 billion, taking first-half adjust",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "BP’s New Boss Has a Message for Britain",
-      "link": "https://oilprice.com/Energy/Energy-General/BPs-New-Boss-Has-a-Message-for-Britain.html",
-      "date": "2026-08-05T16:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "In 2020, BP unveiled a “major, necessary step in support of our purpose to reimagine energy for people and our planet.” The new strategy – “performing while transforming” – would see the firm “significantly scale-up our low carbon energy business” as part of a commitment “to beco",
-      "category": "General"
-    },
-    {
-      "title": "Hormuz Draft Agreement Reportedly Awaits Khamenei Approval",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Draft-Agreement-Reportedly-Awaits-Khamenei-Approval.html",
-      "date": "2026-08-05T15:38:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Oil markets are awaiting a decision from Iran’s supreme leader after Iranian and Omani negotiators reportedly completed a draft agreement that could reopen the Strait of Hormuz, the main export route for Persian Gulf oil and LNG. Two regional officials briefed on the talks told t",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "India Weighs Gas Levy to Bankroll $42 Billion Fuel Reserve Plan",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Weighs-Gas-Levy-to-Bankroll-42-Billion-Fuel-Reserve-Plan.html",
-      "date": "2026-08-05T15:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Just a day after details emerged of India’s plans to expand strategic crude oil storage, new reports claim New Delhi is considering a new funding mechanism that would shift part of the cost of a far larger, $42-billion strategic fuel reserve program onto gas consumers. According ",
-      "category": "Production"
     },
     {
       "title": "Texas Oil Regulator, Uni Team Up for Inspector Training",
@@ -364,36 +436,12 @@
       "category": "Prices"
     },
     {
-      "title": "Petrobras identifies new gas deposit at Sandia-1 well in Colombia",
-      "link": "https://www.offshore-technology.com/news/petrobras-gas-deposit-sandia-1-well-colombia/",
-      "date": "2026-08-04T09:52:52.000Z",
-      "source": "Offshore Technology",
-      "description": "Brazilian state-controlled energy company Petrobras has identified a new natural gas deposit at the Sandia-1 exploratory well in deep waters off the coast of Colombia.",
-      "category": "General"
-    },
-    {
-      "title": "Williams to buy Momentum Midstream in deal worth up to $5.5bn",
-      "link": "https://www.offshore-technology.com/news/williams-to-buy-momentum-midstream-5-5bn/",
-      "date": "2026-08-04T09:47:16.000Z",
-      "source": "Offshore Technology",
-      "description": "US-based natural gas company Williams has agreed to purchase Momentum Midstream (M6 Midstream) from EnCap Flatrock Midstream in a deal worth up to $5.5bn.",
-      "category": "General"
-    },
-    {
       "title": "Analysts Warn Outlook Remains Highly Fragile",
       "link": "https://www.rigzone.com/news/analysts_warn_outlook_remains_highly_fragile-04-aug-2026-184286-article/?rss=true",
       "date": "2026-08-04T09:34:31.000Z",
       "source": "Rigzone",
       "description": "<p>In a report sent to Rigzone by the Fitch Group on Monday, analysts at BMI, a unit of Fitch Solutions, outlined that they continue to believe a broader diplom...",
       "category": "Geopolitics"
-    },
-    {
-      "title": "San Mateo Midstream closes $752m acquisition of Cardinal Midstream",
-      "link": "https://www.offshore-technology.com/news/san-mateo-752m-acquisition-cardinal-midstream/",
-      "date": "2026-08-04T07:33:39.000Z",
-      "source": "Offshore Technology",
-      "description": "San Mateo Midstream, a joint venture between Matador Resources and Five Point Infrastructure, has completed the previously announced $752m purchase of the operating subsidiaries of US-based Cardinal Midstream Partners.",
-      "category": "General"
     },
     {
       "title": "Cuba Suffers 4th Nationwide Blackout in Less Than a Month",
@@ -442,14 +490,6 @@
       "source": "Rigzone",
       "description": "<p>The American Petroleum Institute said it opposes new Senate biofuels legislation that would expand sales of higher-ethanol gasoline and give exemptions from ...",
       "category": "Policy"
-    },
-    {
-      "title": "Oil prices fall as Trump seeks Iran nuclear deal",
-      "link": "https://www.offshore-technology.com/news/oil-prices-fall-trump-iran-nuclear-deal/",
-      "date": "2026-08-03T13:10:35.000Z",
-      "source": "Offshore Technology",
-      "description": "Oil prices declined by more than $4 a barrel on 03 August after US President Donald Trump decided not to authorise a new attack on Iran.",
-      "category": "Geopolitics"
     },
     {
       "title": "BP Completes Sale of German Refinery to Klesch",
