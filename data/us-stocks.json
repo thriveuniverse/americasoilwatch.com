@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T14:41:22.767Z",
+  "lastUpdated": "2026-08-07T07:36:49.221Z",
   "weekEnding": "2026-07-31",
   "crudeMb": 406987,
   "crudeMbChange": 2479,
@@ -8,6 +8,6 @@
   "distillateMb": 107159,
   "distillateMbChange": -3473,
   "sprMb": 304809,
-  "productionKbpd": null,
+  "productionKbpd": 13804,
   "dataSource": "US Energy Information Administration (EIA)"
 }
