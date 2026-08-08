@@ -1,8 +1,64 @@
 {
-  "lastUpdated": "2026-08-07T18:30:40.878Z",
+  "lastUpdated": "2026-08-08T07:07:21.236Z",
   "summary": null,
-  "count": 90,
+  "count": 81,
   "articles": [
+    {
+      "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
+      "date": "2026-08-07T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Despite continued hostilities in the Middle East and an expansion of the war to the Red Sea, oil traders have remained largely bearish on the commodity, betting on a quick peace deal—and they might get a nasty shock. Earlier this week, Brent crude sank below $80 per barrel, and W",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "EU Locks In Plan To Triple Energy Storage Capacity By 2030",
+      "link": "https://oilprice.com/Energy/Energy-General/EU-Locks-In-Plan-To-Triple-Energy-Storage-Capacity-By-2030.html",
+      "date": "2026-08-07T23:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Europe desperately needs an energy storage revolution. As the region gets rocked by the third energy crisis in four years, the continent’s insufficient indigenous energy systems, and backups to those systems, has become abundantly and painfully clear. \"We swore we’d learn. We pro",
+      "category": "General"
+    },
+    {
+      "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+      "date": "2026-08-07T21:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Global energy grids are under unprecedented stress as energy flows become more complex with the addition of intermittent energy sources and the artificial intelligence boom drives demand to new heights. Managing variable inflows and outflows of electricity while also keeping up w",
+      "category": "General"
+    },
+    {
+      "title": "Oil Steadies as Hormuz Tensions Flare",
+      "link": "https://www.rigzone.com/news/oil_steadies_as_hormuz_tensions_flare-07-aug-2026-184329-article/?rss=true",
+      "date": "2026-08-07T20:14:42.000Z",
+      "source": "Rigzone",
+      "description": "<p>Oil steadied as tensions in the Middle East flared while traders monitored progress toward a deal between Iran and Oman to restore shipping through the Strai...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Energy Affordability Trumps Climate in US Midterm Races",
+      "link": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
+      "date": "2026-08-07T20:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "Elevated US gasoline and electricity prices are seeping into the upcoming midterm elections in November. Candidates are prioritizing consumer affordability over the environment, with Democrats linking gas price increases to President Trump’s foreign policy decisions. Meanwhile, a",
+      "category": "Policy"
+    },
+    {
+      "title": "Petrobras Profit Tops Estimates",
+      "link": "https://www.rigzone.com/news/petrobras_profit_tops_estimates-07-aug-2026-184325-article/?rss=true",
+      "date": "2026-08-07T20:00:00.000Z",
+      "source": "Rigzone",
+      "description": "<p>Brazilian oil producer Petrobras outperformed expectations after supply disruptions stemming from the US-Iran conflict lifted second-quarter prices for crude...",
+      "category": "Geopolitics"
+    },
+    {
+      "title": "Russia’s Labor Shortage Worsens as Central Asian Workers Stay Away",
+      "link": "https://oilprice.com/Energy/Energy-General/Russias-Labor-Shortage-Worsens-as-Central-Asian-Workers-Stay-Away.html",
+      "date": "2026-08-07T19:00:00.000Z",
+      "source": "OilPrice.com",
+      "description": "The bad economic news keeps coming for the Russian economy. An analysis of Russian government data by the business daily Vedomosti shows that the influx of Central Asian labor migrants to Russia fell by roughly 15 percent during the first half of 2026, deepening an already critic",
+      "category": "Geopolitics"
+    },
     {
       "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
@@ -124,14 +180,6 @@
       "category": "General"
     },
     {
-      "title": "India Remains Dependent on Imports for 90% of Oil Demand",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Remains-Dependent-on-Imports-for-90-of-Oil-Demand.html",
-      "date": "2026-08-07T12:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Despite a decline in dependence on primary energy imports, India remains highly dependent, at a massive 90%, on crude oil imports for its consumption, a new industry report has shown. India’s dependence on primary energy imports fell to 42% in the financial year 2025 from 47% in ",
-      "category": "Supply Routes"
-    },
-    {
       "title": "ConocoPhillips Announces Leadership Succession",
       "link": "https://www.rigzone.com/news/conocophillips_announces_leadership_succession-07-aug-2026-184321-article/?rss=true",
       "date": "2026-08-07T11:36:55.000Z",
@@ -140,44 +188,12 @@
       "category": "Supply Routes"
     },
     {
-      "title": "Oil Prices Tumble as Traders Price In a Strait of Hormuz Breakthrough",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Tumble-as-Traders-Price-In-a-Strait-of-Hormuz-Breakthrough.html",
-      "date": "2026-08-07T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "September WTI crude oil futures are trading at $78.08 early Friday, down $8.72, or 10.05%, for the week. The market opened at $80.10, traded as high as $82.33, and fell to $74.24. With Friday’s session still ahead, the weekly result is not final. But the message from the price ac",
-      "category": "Prices"
-    },
-    {
-      "title": "Gaza Ceasefire Unravels as Regional Pressure on Israel Grows",
-      "link": "https://oilprice.com/Energy/Energy-General/Gaza-Ceasefire-Unravels-as-Regional-Pressure-on-Israel-Grows.html",
-      "date": "2026-08-07T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Politics, Geopolitics & Conflict Eight Arab and Muslim countries have accused Israel of violating the Gaza ceasefire as Israeli strikes continue more than nine months after the U.S.-mediated “truce” took effect. Saudi Arabia, the UAE, Qatar, Egypt, Jordan, Turkey, Pakistan and In",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Iran Is Playing for Time as Midterms Loom for Trump",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Iran-Is-Playing-for-Time-as-Midterms-Loom-for-Trump.html",
-      "date": "2026-08-07T11:30:00.000Z",
-      "source": "OilPrice.com",
-      "description": "Iran and Oman appear close to an agreement on reopening the Strait of Hormuz, but the remaining issues are substantial. Tehran would control inbound traffic while Oman would oversee outbound shipping, and Iran is seeking sanctions relief in exchange for toll-free passage. Washing",
-      "category": "Geopolitics"
-    },
-    {
       "title": "Al Mazrui Invests in Petrofac",
       "link": "https://www.rigzone.com/news/al_mazrui_invests_in_petrofac-07-aug-2026-184320-article/?rss=true",
       "date": "2026-08-07T11:08:52.000Z",
       "source": "Rigzone",
       "description": "<p>Al-Mazrui International has completed an investment in Petrofac Ltd (Petrofac), a boost for the British energy engineering company following an insolvency pr...",
       "category": "General"
-    },
-    {
-      "title": "India's Crude Oil Output Falls for Third Straight Year",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Output-Falls-for-Third-Straight-Year.html",
-      "date": "2026-08-07T11:00:00.000Z",
-      "source": "OilPrice.com",
-      "description": "India’s crude oil production fell for the third consecutive financial year in 2025/2026, the government said as it launches a push to boost offshore oil and gas exploration. India’s crude output fell by 3% in the 2025/2026 fiscal year ended March 31, 2026, Oil and Natural Gas Min",
-      "category": "Production"
     },
     {
       "title": "DNO Plans to Pursue Genel Offer despite Rejection",
@@ -634,94 +650,6 @@
       "source": "Rigzone",
       "description": "<p>Abu Dhabi National Oil Co., the UAE’s state oil company, said it would change how it prices its crude oil grades, months after wild swings in the benchmark i...",
       "category": "Prices"
-    },
-    {
-      "title": "Brent Caps Strongest Month Since March",
-      "link": "https://www.rigzone.com/news/brent_caps_strongest_month_since_march-31-jul-2026-184273-article/?rss=true",
-      "date": "2026-07-31T21:03:58.000Z",
-      "source": "Rigzone",
-      "description": "<p>Oil posted its biggest monthly gain since March as traders grappled with simmering global conflicts and threats to supply from the Persian Gulf to the Black ...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "Exxon, Chevron Steer Blowout Profits into Debt Reduction",
-      "link": "https://www.rigzone.com/news/exxon_chevron_steer_blowout_profits_into_debt_reduction-31-jul-2026-184271-article/?rss=true",
-      "date": "2026-07-31T20:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 31, 2026, 6:43 PM GMT+1: Article ...",
-      "category": "General"
-    },
-    {
-      "title": "Chevron Posts Record Profit",
-      "link": "https://www.rigzone.com/news/chevron_posts_record_profit-31-jul-2026-184266-article/?rss=true",
-      "date": "2026-07-31T15:10:57.000Z",
-      "source": "Rigzone",
-      "description": "<p>Chevron Corp. posted record second-quarter results that outperformed expectations as prices for crude, gasoline and diesel surged amid war-driven supply disr...",
-      "category": "Geopolitics"
-    },
-    {
-      "title": "USA Crude Oil Stocks Drop More Than 7MM Barrels WoW",
-      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_more_than_7mm_barrels_wow-31-jul-2026-184269-article/?rss=true",
-      "date": "2026-07-31T14:38:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>U.S. commercial crude oil inventories, excluding those in the Strategic Petroleum Reserve (SPR), decreased by 7.2 million barrels from the week ending July 1...",
-      "category": "Production"
-    },
-    {
-      "title": "DOE, Private Partners Launch $100B Data Center Project in Kentucky",
-      "link": "https://www.rigzone.com/news/doe_private_partners_launch_100b_data_center_project_in_kentucky-31-jul-2026-184268-article/?rss=true",
-      "date": "2026-07-31T14:18:23.000Z",
-      "source": "Rigzone",
-      "description": "<p>The United States Department of Energy (DOE) and a coalition of energy, infrastructure and utility companies have announced a gas-powered data center campus ...",
-      "category": "Policy"
-    },
-    {
-      "title": "Ukraine Says It Attacked Lukoil Refinery",
-      "link": "https://www.rigzone.com/news/ukraine_says_it_attacked_lukoil_refinery-31-jul-2026-184265-article/?rss=true",
-      "date": "2026-07-31T14:00:00.000Z",
-      "source": "Rigzone",
-      "description": "<p style=\"background-color: #f5f5f5; font-weight: bold; font-size: 0.8em; padding: 3px 5px; margin-bottom: 5px;\">(Update) July 31, 2026, 2:52 PM GMT+1: Article ...",
-      "category": "Refinery"
-    },
-    {
-      "title": "Industry Groups Welcome SENRC Approval of License to Drill Act",
-      "link": "https://www.rigzone.com/news/industry_groups_welcome_senrc_approval_of_license_to_drill_act-31-jul-2026-184264-article/?rss=true",
-      "date": "2026-07-31T11:28:28.000Z",
-      "source": "Rigzone",
-      "description": "<p>The Independent Petroleum Association of America (IPAA) and Western Energy Alliance (WEA) welcomed the Senate Energy and Natural Resources Committee’s (SENRC...",
-      "category": "General"
-    },
-    {
-      "title": "Shell Divests Aphrodite Stake to Hungary's MOL",
-      "link": "https://www.rigzone.com/news/shell_divests_aphrodite_stake_to_hungarys_mol-31-jul-2026-184263-article/?rss=true",
-      "date": "2026-07-31T11:25:54.000Z",
-      "source": "Rigzone",
-      "description": "<p>Shell PLC signed an agreement to sell BG Cyprus Ltd to Hungary's MOL Group for $720 million, the companies said Friday.</p> <p>BG Cyprus, which Shell acqu...",
-      "category": "General"
-    },
-    {
-      "title": "Oil Down, Still on Track for 20 Pct Monthly Gain",
-      "link": "https://www.rigzone.com/news/oil_down_still_on_track_for_20_pct_monthly_gain-31-jul-2026-184262-article/?rss=true",
-      "date": "2026-07-31T10:13:51.000Z",
-      "source": "Rigzone",
-      "description": "<p>Both Brent and West Texas Intermediate (WTI) oil prices were down on Friday, but still on track for notable monthly gains, Naeem Aslam, CIO at Zaye Capital M...",
-      "category": "Prices"
-    },
-    {
-      "title": "BP Launches Sale of North Sea Business",
-      "link": "https://www.rigzone.com/news/bp_launches_sale_of_north_sea_business-31-jul-2026-184261-article/?rss=true",
-      "date": "2026-07-31T09:59:22.000Z",
-      "source": "Rigzone",
-      "description": "<p>BP PLC said Friday it is marketing its operations on the United Kingdom side of the North Sea, including five production hubs, as part of a simplification dr...",
-      "category": "Prices"
-    },
-    {
-      "title": "Saudis Propose to Lead Maritime Security Alliance",
-      "link": "https://www.rigzone.com/news/saudis_propose_to_lead_maritime_security_alliance-31-jul-2026-184260-article/?rss=true",
-      "date": "2026-07-31T07:37:00.000Z",
-      "source": "Rigzone",
-      "description": "<p>Saudi Arabia discussed with military representatives of 43 countries the formation of a multinational alliance charged with protecting maritime navigation, h...",
-      "category": "General"
     }
   ]
 }
